@@ -33640,5 +33640,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:44:55.881+08:00"
+  },
+  {
+    "name": "协成国际物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:05.880+08:00"
+  },
+  {
+    "name": "盈顺供应链管理(广东)有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:45:05.924+08:00"
   }
 ]
