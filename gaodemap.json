@@ -718,5 +718,23 @@
     "colorPixels": 158,
     "colorRatio": "3.99%",
     "timestamp": "2026-07-02T08:29:51.184+08:00"
+  },
+  {
+    "name": "北京今朝装饰(刘家窑总部)",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 72,
+    "colorRatio": "1.82%",
+    "timestamp": "2026-07-02T08:29:51.218+08:00"
+  },
+  {
+    "name": "北京拜特装饰工程有限公司",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T08:29:51.248+08:00"
   }
 ]
