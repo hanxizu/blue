@@ -79,5 +79,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:20:43.832+08:00"
+  },
+  {
+    "name": "机场航空货运站",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:20:43.905+08:00"
+  },
+  {
+    "name": "机场航空货运站",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:21:05.811+08:00"
   }
 ]
