@@ -20437,5 +20437,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:41:37.062+08:00"
+  },
+  {
+    "name": "顺丰速运(九润公寓店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:41:40.252+08:00"
+  },
+  {
+    "name": "日昱物流(九堡店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:40.295+08:00"
+  },
+  {
+    "name": "杭州轴承集团有限公司物流中心",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:43.149+08:00"
   }
 ]
