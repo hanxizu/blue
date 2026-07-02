@@ -37672,5 +37672,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:51:07.643+08:00"
+  },
+  {
+    "name": "交运租车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:51:10.238+08:00"
+  },
+  {
+    "name": "温州美星租车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:51:12.745+08:00"
+  },
+  {
+    "name": "温州-车引力租车-维和店",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:51:12.785+08:00"
+  },
+  {
+    "name": "优享租",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 101,
+    "colorRatio": "4.40%",
+    "timestamp": "2026-07-03T01:51:15.755+08:00"
+  },
+  {
+    "name": "哈啰租车(意创豪车租赁)",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:51:15.787+08:00"
+  },
+  {
+    "name": "Srcc·Club世爵豪车租赁",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 75,
+    "colorRatio": "3.27%",
+    "timestamp": "2026-07-03T01:51:15.818+08:00"
   }
 ]
