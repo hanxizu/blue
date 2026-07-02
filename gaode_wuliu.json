@@ -22399,5 +22399,41 @@
     "colorPixels": 100,
     "colorRatio": "3.84%",
     "timestamp": "2026-07-03T01:56:18.438+08:00"
+  },
+  {
+    "name": "顺丰速运(大智店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:56:21.373+08:00"
+  },
+  {
+    "name": "顺丰速运(融创广场融创店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:56:21.415+08:00"
+  },
+  {
+    "name": "顺丰速运(劳动街1附2店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:56:24.478+08:00"
+  },
+  {
+    "name": "武汉华中通信物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:24.522+08:00"
   }
 ]
