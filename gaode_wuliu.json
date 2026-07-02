@@ -754,5 +754,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:16:51.293+08:00"
+  },
+  {
+    "name": "中铁铁龙集装箱物流股份有限公司特种集装箱运输分公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:51.329+08:00"
+  },
+  {
+    "name": "北京多式联运有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:51.386+08:00"
+  },
+  {
+    "name": "顺丰速运(百环家园店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T00:16:51.424+08:00"
+  },
+  {
+    "name": "威腾国际货运(中国)有限公司北京分公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:51.458+08:00"
   }
 ]
