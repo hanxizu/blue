@@ -10465,5 +10465,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:38:36.839+08:00"
+  },
+  {
+    "name": "苏州晶铄租车专营店",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:38:42.944+08:00"
+  },
+  {
+    "name": "大有出行租电动车(留园路店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:38:42.978+08:00"
+  },
+  {
+    "name": "花来租车(姑苏区苏锦街道店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:38:45.545+08:00"
+  },
+  {
+    "name": "苏州运河租车一(姑苏区平江街道店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:38:51.279+08:00"
+  },
+  {
+    "name": "悦也租车苏州喜滴店",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:38:51.313+08:00"
+  },
+  {
+    "name": "苏州紫豪租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:38:54.049+08:00"
+  },
+  {
+    "name": "峚泽租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:38:56.934+08:00"
+  },
+  {
+    "name": "快驹租车(电瓶车)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T23:38:59.560+08:00"
+  },
+  {
+    "name": "滴滴出行|好德车熙金广场店",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T23:38:59.590+08:00"
+  },
+  {
+    "name": "橘子租车(电瓶车)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T23:39:02.355+08:00"
   }
 ]
