@@ -601,5 +601,77 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T22:54:43.148+08:00"
+  },
+  {
+    "name": "一嗨租车(珠市口地铁站便捷点)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:46.466+08:00"
+  },
+  {
+    "name": "京A大雄租车",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:46.575+08:00"
+  },
+  {
+    "name": "神州租车(传媒大学服务点)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:49.033+08:00"
+  },
+  {
+    "name": "神州租车(西坝河服务点)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:52.084+08:00"
+  },
+  {
+    "name": "速七租车",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T22:54:52.109+08:00"
+  },
+  {
+    "name": "北京恒通汽车租赁有限公司",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:52.133+08:00"
+  },
+  {
+    "name": "银建汽车租赁有限公司(广安门店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:54.991+08:00"
+  },
+  {
+    "name": "北京中达联合汽车租赁公司",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:55.020+08:00"
   }
 ]
