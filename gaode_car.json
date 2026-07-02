@@ -2743,5 +2743,59 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T23:03:44.018+08:00"
+  },
+  {
+    "name": "携程租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:49.166+08:00"
+  },
+  {
+    "name": "上海隐远汽车租赁有限公司(方舟行门店)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:49.190+08:00"
+  },
+  {
+    "name": "神州租车(沪闵路店)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:49.221+08:00"
+  },
+  {
+    "name": "上海斑马快行汽车租赁有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:51.841+08:00"
+  },
+  {
+    "name": "上海一路行汽车租赁有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:51.883+08:00"
+  },
+  {
+    "name": "乘光租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:54.657+08:00"
   }
 ]
