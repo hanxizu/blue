@@ -21544,5 +21544,23 @@
     "colorPixels": 494,
     "colorRatio": "13.45%",
     "timestamp": "2026-07-03T01:46:35.102+08:00"
+  },
+  {
+    "name": "顺丰速运(牧歌风禾苑店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:46:37.802+08:00"
+  },
+  {
+    "name": "浙江上药新欣物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:46:40.627+08:00"
   }
 ]
