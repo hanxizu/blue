@@ -29302,5 +29302,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:22:55.741+08:00"
+  },
+  {
+    "name": "顺康物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:22:58.798+08:00"
+  },
+  {
+    "name": "恒鑫冷链物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 121,
+    "colorRatio": "3.30%",
+    "timestamp": "2026-07-03T02:22:58.849+08:00"
+  },
+  {
+    "name": "正运冷链物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:23:01.821+08:00"
+  },
+  {
+    "name": "南方货运",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:23:01.916+08:00"
   }
 ]
