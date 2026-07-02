@@ -24478,5 +24478,122 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:02:29.300+08:00"
+  },
+  {
+    "name": "顺丰速运(龙湖春江彼岸店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:02:32.478+08:00"
+  },
+  {
+    "name": "菜鸟驿站(武汉112街坊59门附2号店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:02:32.523+08:00"
+  },
+  {
+    "name": "顺丰速运(王家湾店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:02:35.589+08:00"
+  },
+  {
+    "name": "顺丰速运(印象城店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 567,
+    "colorRatio": "15.44%",
+    "timestamp": "2026-07-03T02:02:35.632+08:00"
+  },
+  {
+    "name": "顺丰速运(宏图店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T02:02:38.129+08:00"
+  },
+  {
+    "name": "顺丰速运(肖家小路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:02:38.178+08:00"
+  },
+  {
+    "name": "安能物流(梅竹园小区店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:02:45.023+08:00"
+  },
+  {
+    "name": "齐川物流(广埠屯营业部)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:02:45.066+08:00"
+  },
+  {
+    "name": "大道物流(新溢洲路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:02:45.110+08:00"
+  },
+  {
+    "name": "顺丰速运(武理工马区西校园服务中心)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:02:49.069+08:00"
+  },
+  {
+    "name": "顺丰速运(半岛蓝湾店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:02:49.112+08:00"
+  },
+  {
+    "name": "武汉大康伟业仓储物流中心",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:02:51.818+08:00"
+  },
+  {
+    "name": "顺丰速运(金秋店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T02:02:51.877+08:00"
   }
 ]
