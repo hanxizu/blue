@@ -28528,5 +28528,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:19:54.687+08:00"
+  },
+  {
+    "name": "西安西秦快运有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:58.254+08:00"
+  },
+  {
+    "name": "融辉物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:58.298+08:00"
+  },
+  {
+    "name": "陕西泰鑫禄捷运输有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:58.341+08:00"
+  },
+  {
+    "name": "中铁现代物流交易中心",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 15,
+    "colorRatio": "0.41%",
+    "timestamp": "2026-07-03T02:19:58.384+08:00"
+  },
+  {
+    "name": "中储物流园b区4厅",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:20:01.612+08:00"
   }
 ]
