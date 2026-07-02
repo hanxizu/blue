@@ -38995,5 +38995,122 @@
     "colorPixels": 570,
     "colorRatio": "15.52%",
     "timestamp": "2026-07-03T03:10:45.512+08:00"
+  },
+  {
+    "name": "顺丰速运(尚东商业街店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 119,
+    "colorRatio": "3.24%",
+    "timestamp": "2026-07-03T03:10:45.583+08:00"
+  },
+  {
+    "name": "宇鑫物流(仙林店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:10:45.633+08:00"
+  },
+  {
+    "name": "盒马配送站",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:10:45.677+08:00"
+  },
+  {
+    "name": "顺丰速运(莲花嘉园店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:10:48.226+08:00"
+  },
+  {
+    "name": "中国石油昆仑物流有限公司苏皖分公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:10:48.312+08:00"
+  },
+  {
+    "name": "紫泉物流园区",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:10:48.361+08:00"
+  },
+  {
+    "name": "顺丰速运(恒飞路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:11:04.703+08:00"
+  },
+  {
+    "name": "深普网络",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:11:07.590+08:00"
+  },
+  {
+    "name": "江苏快源物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:11:07.633+08:00"
+  },
+  {
+    "name": "顺丰速运(保利西江月店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:11:10.384+08:00"
+  },
+  {
+    "name": "南京市栖霞区顺丰物流园",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:11:10.439+08:00"
+  },
+  {
+    "name": "吉力达物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:11:10.499+08:00"
+  },
+  {
+    "name": "顺丰速运(泰学路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:11:10.553+08:00"
   }
 ]
