@@ -790,5 +790,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T22:55:20.028+08:00"
+  },
+  {
+    "name": "三里屯SOHO送车点-豪车出行",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:55:22.929+08:00"
+  },
+  {
+    "name": "一嗨chi汽车共享新出行(华纺易城西区店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:55:25.514+08:00"
   }
 ]
