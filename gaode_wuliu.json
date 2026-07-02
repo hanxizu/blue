@@ -10132,5 +10132,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:59:05.745+08:00"
+  },
+  {
+    "name": "鑫晟国际525KAPTO",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:08.880+08:00"
+  },
+  {
+    "name": "广州韵航国际物流有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:08.923+08:00"
+  },
+  {
+    "name": "广州景盛国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:12.222+08:00"
+  },
+  {
+    "name": "华唯全球速递",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 118,
+    "colorRatio": "3.21%",
+    "timestamp": "2026-07-03T00:59:12.265+08:00"
+  },
+  {
+    "name": "广州市黑豹物流联运有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:15.509+08:00"
+  },
+  {
+    "name": "顺丰速运(桂花岗店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:59:17.977+08:00"
+  },
+  {
+    "name": "发财物流有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:18.071+08:00"
+  },
+  {
+    "name": "广州市顺雨贸易有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:59:18.150+08:00"
   }
 ]
