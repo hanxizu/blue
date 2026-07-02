@@ -13129,5 +13129,176 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T23:52:16.839+08:00"
+  },
+  {
+    "name": "陕西博惠森汽车租赁有限公司",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T23:52:16.877+08:00"
+  },
+  {
+    "name": "陕西顺仟汽车租赁",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:16.906+08:00"
+  },
+  {
+    "name": "陕西信元物业汽车租赁分公司",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:19.833+08:00"
+  },
+  {
+    "name": "枫桦租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:19.870+08:00"
+  },
+  {
+    "name": "西安星海出租汽车有限公司",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:22.905+08:00"
+  },
+  {
+    "name": "喜行约车北站店",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:25.791+08:00"
+  },
+  {
+    "name": "西安盛途网约车服务中心",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:25.828+08:00"
+  },
+  {
+    "name": "汽车租赁(陕西速通达汽车租赁)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:28.647+08:00"
+  },
+  {
+    "name": "中出行租车(西安北站店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:31.500+08:00"
+  },
+  {
+    "name": "小桔租车买车(西安友祥凤城五路店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:31.535+08:00"
+  },
+  {
+    "name": "军明租赁",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:52:34.209+08:00"
+  },
+  {
+    "name": "凯樾出行",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:52:37.336+08:00"
+  },
+  {
+    "name": "神州租车(钟楼店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:37.366+08:00"
+  },
+  {
+    "name": "锋伟租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:37.436+08:00"
+  },
+  {
+    "name": "神州租车(文景广场德美豪墅酒店自助点)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:40.437+08:00"
+  },
+  {
+    "name": "西安逸车汇汽车租赁有限公司",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:40.482+08:00"
+  },
+  {
+    "name": "绿色骑行电动车租赁(钟楼店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:40.520+08:00"
+  },
+  {
+    "name": "小嘿象电动车租车(小刀电动车)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:43.412+08:00"
+  },
+  {
+    "name": "哈啰租车(西安北站)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:52:43.446+08:00"
   }
 ]
