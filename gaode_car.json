@@ -38797,5 +38797,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:56:57.878+08:00"
+  },
+  {
+    "name": "哈啰租车(怡华商业广场取送点)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:01.056+08:00"
+  },
+  {
+    "name": "珠海公交柏顺绿动出租车有限公司",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:01.093+08:00"
+  },
+  {
+    "name": "哈啰租电动车(唐家湾站龙悦出行店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:01.124+08:00"
+  },
+  {
+    "name": "八戒出行(香洲区凤山街道店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:04.045+08:00"
+  },
+  {
+    "name": "旺缘租车(华发商都)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:04.082+08:00"
+  },
+  {
+    "name": "哈啰租车(龙悦租车珠海北站)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:06.721+08:00"
+  },
+  {
+    "name": "龙悦租车(香洲区拱北街道店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:09.981+08:00"
+  },
+  {
+    "name": "来富租车",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:57:10.019+08:00"
+  },
+  {
+    "name": "哈啰租车(珠海佳佳租车机场店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:12.435+08:00"
   }
 ]
