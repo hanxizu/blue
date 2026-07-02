@@ -17908,5 +17908,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:33:38.682+08:00"
+  },
+  {
+    "name": "安顺·大件物流托运",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:33:41.929+08:00"
+  },
+  {
+    "name": "浙江长利物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:41.980+08:00"
+  },
+  {
+    "name": "牛牛物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:45.229+08:00"
+  },
+  {
+    "name": "合肥托运部",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:45.282+08:00"
   }
 ]
