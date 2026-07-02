@@ -23614,5 +23614,59 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:59:37.919+08:00"
+  },
+  {
+    "name": "顺丰速运(唐家墩店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:59:37.965+08:00"
+  },
+  {
+    "name": "顺丰速运(保利城一期店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:59:38.008+08:00"
+  },
+  {
+    "name": "武汉航科物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:59:38.051+08:00"
+  },
+  {
+    "name": "顺丰速运(唐越商铺店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:59:41.502+08:00"
+  },
+  {
+    "name": "顺丰速运(宝丰二路32号店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:59:41.546+08:00"
+  },
+  {
+    "name": "顺丰速运(百花居4栋店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:59:44.393+08:00"
   }
 ]
