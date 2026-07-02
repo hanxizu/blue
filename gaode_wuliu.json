@@ -19483,5 +19483,68 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:38:09.465+08:00"
+  },
+  {
+    "name": "美团配送合作商服务中心(海上明月生活广场店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:38:15.567+08:00"
+  },
+  {
+    "name": "顺丰速运(尚铁大厦店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:38:15.613+08:00"
+  },
+  {
+    "name": "杭州高登物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:38:19.239+08:00"
+  },
+  {
+    "name": "顺丰速运(旺德商务大楼店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:38:19.283+08:00"
+  },
+  {
+    "name": "杭州策翔物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:38:19.325+08:00"
+  },
+  {
+    "name": "顺丰速运(滨江长河店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:38:19.368+08:00"
+  },
+  {
+    "name": "顺丰速运(南星水澄路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 7,
+    "colorRatio": "0.19%",
+    "timestamp": "2026-07-03T01:38:19.412+08:00"
   }
 ]
