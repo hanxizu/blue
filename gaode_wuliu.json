@@ -26683,5 +26683,32 @@
     "colorPixels": 102,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T02:13:44.815+08:00"
+  },
+  {
+    "name": "国内大件物流托运·道骐运输",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T02:13:48.262+08:00"
+  },
+  {
+    "name": "顺丰速运(白桦林居沁园店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 18,
+    "colorRatio": "0.49%",
+    "timestamp": "2026-07-03T02:13:48.306+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(西安1店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T02:13:51.168+08:00"
   }
 ]
