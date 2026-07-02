@@ -18799,5 +18799,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T12:22:58.489+08:00"
+  },
+  {
+    "name": "安美装饰-室内装修室内设计全屋定制",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T12:23:00.886+08:00"
+  },
+  {
+    "name": "创艺装饰集团(安徽总店)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T12:23:03.356+08:00"
+  },
+  {
+    "name": "徽极装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:23:06.207+08:00"
+  },
+  {
+    "name": "华然装饰肥西店",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-02T12:23:08.694+08:00"
   }
 ]
