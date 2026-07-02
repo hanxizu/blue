@@ -1969,5 +1969,68 @@
     "colorPixels": 102,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T00:20:48.412+08:00"
+  },
+  {
+    "name": "德邦集运金万城物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 130,
+    "colorRatio": "3.54%",
+    "timestamp": "2026-07-03T00:20:57.432+08:00"
+  },
+  {
+    "name": "北京大宏物流湖南全境长沙专线",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 69,
+    "colorRatio": "1.88%",
+    "timestamp": "2026-07-03T00:20:57.472+08:00"
+  },
+  {
+    "name": "京石田浩物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:00.961+08:00"
+  },
+  {
+    "name": "新发地汉龙货运服务中心",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:03.481+08:00"
+  },
+  {
+    "name": "鑫静旭物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:03.528+08:00"
+  },
+  {
+    "name": "三鑫物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:03.564+08:00"
+  },
+  {
+    "name": "北京日月行物流有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:03.604+08:00"
   }
 ]
