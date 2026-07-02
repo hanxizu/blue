@@ -18844,5 +18844,59 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-02T12:23:29.307+08:00"
+  },
+  {
+    "name": "新聚装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:23:32.063+08:00"
+  },
+  {
+    "name": "星巢装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:23:34.932+08:00"
+  },
+  {
+    "name": "金匠装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:23:38.212+08:00"
+  },
+  {
+    "name": "肥西欧派装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-02T12:23:38.266+08:00"
+  },
+  {
+    "name": "家庭维修装修",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:23:40.766+08:00"
+  },
+  {
+    "name": "合肥红国装饰材料有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:23:40.797+08:00"
   }
 ]
