@@ -32461,5 +32461,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:41:17.207+08:00"
+  },
+  {
+    "name": "夏浦物流(精英名都店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:41:17.254+08:00"
+  },
+  {
+    "name": "鑫洋国际物流(恒正大厦店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:41:17.296+08:00"
+  },
+  {
+    "name": "广东浮华国际物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:41:17.339+08:00"
+  },
+  {
+    "name": "敦壕国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 35,
+    "colorRatio": "0.95%",
+    "timestamp": "2026-07-03T02:41:17.412+08:00"
+  },
+  {
+    "name": "东莞明济物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:41:19.971+08:00"
+  },
+  {
+    "name": "天一汇通国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 86,
+    "colorRatio": "2.34%",
+    "timestamp": "2026-07-03T02:41:20.098+08:00"
   }
 ]
