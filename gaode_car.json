@@ -35305,5 +35305,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:39:06.588+08:00"
+  },
+  {
+    "name": "阳光出行网约车司机招募",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:12.441+08:00"
+  },
+  {
+    "name": "济南安心租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T01:39:14.933+08:00"
+  },
+  {
+    "name": "乐途租车(荷花路店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:15.003+08:00"
+  },
+  {
+    "name": "山东蜻蜓用车汽车租赁有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:20.528+08:00"
+  },
+  {
+    "name": "城满电租车(济南西站店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:20.564+08:00"
+  },
+  {
+    "name": "济南凯安汽车租赁",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:20.597+08:00"
   }
 ]
