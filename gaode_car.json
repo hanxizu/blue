@@ -32452,5 +32452,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:26:11.979+08:00"
+  },
+  {
+    "name": "哈啰小北租电动车(天明国际公寓)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:26:15.032+08:00"
+  },
+  {
+    "name": "一嗨租车漓江路便捷点",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:26:15.083+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(滴滴出行郑州东涛司机服务中心)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:26:17.615+08:00"
+  },
+  {
+    "name": "小北租车(汇宝大厦)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:26:20.622+08:00"
+  },
+  {
+    "name": "贝甲租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:26:20.659+08:00"
+  },
+  {
+    "name": "河南吉吉网约车服务中心",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:26:20.692+08:00"
+  },
+  {
+    "name": "神州租车(郑州火车站服务点)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:26:24.001+08:00"
+  },
+  {
+    "name": "戎马出行 租电车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:26:26.579+08:00"
+  },
+  {
+    "name": "享道租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:26:26.629+08:00"
   }
 ]
