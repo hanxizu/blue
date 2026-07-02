@@ -4498,5 +4498,14 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:32:39.998+08:00"
+  },
+  {
+    "name": "清风物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 99,
+    "colorRatio": "3.81%",
+    "timestamp": "2026-07-03T00:37:50.698+08:00"
   }
 ]
