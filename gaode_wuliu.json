@@ -19060,5 +19060,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:36:50.331+08:00"
+  },
+  {
+    "name": "顺丰速运(东港嘉苑三期店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:57.165+08:00"
+  },
+  {
+    "name": "浙商中拓集团物流科技有限公司(杭州总部)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:57.209+08:00"
+  },
+  {
+    "name": "顺丰速运(乐创城店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:37:00.890+08:00"
   }
 ]
