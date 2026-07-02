@@ -4327,5 +4327,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:10:42.908+08:00"
+  },
+  {
+    "name": "哈啰租车(通利华汽车)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:45.564+08:00"
+  },
+  {
+    "name": "麻花租车(深圳南山店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:48.181+08:00"
+  },
+  {
+    "name": "滴滴租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:48.211+08:00"
+  },
+  {
+    "name": "八方来租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:51.057+08:00"
   }
 ]
