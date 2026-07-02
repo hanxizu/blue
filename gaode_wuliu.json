@@ -21427,5 +21427,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:45:51.122+08:00"
+  },
+  {
+    "name": "顺丰速运(戈雅公寓店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:46:04.809+08:00"
+  },
+  {
+    "name": "杭州广湖供应链管理有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:46:08.589+08:00"
+  },
+  {
+    "name": "顺丰速运(祥大房工业区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:46:08.680+08:00"
   }
 ]
