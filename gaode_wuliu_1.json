@@ -4588,5 +4588,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T07:26:50.214+08:00"
+  },
+  {
+    "name": "上海大众运行物流股份有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T07:26:50.267+08:00"
+  },
+  {
+    "name": "上海宝娟货物运输代理有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:26:50.297+08:00"
+  },
+  {
+    "name": "顺丰速运(平吉营店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:26:50.324+08:00"
+  },
+  {
+    "name": "上海方炜国际物流有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T07:26:53.387+08:00"
   }
 ]
