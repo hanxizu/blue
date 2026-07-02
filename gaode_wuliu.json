@@ -26989,5 +26989,59 @@
     "colorPixels": 34,
     "colorRatio": "0.93%",
     "timestamp": "2026-07-03T02:15:17.561+08:00"
+  },
+  {
+    "name": "顺丰速运(旭景崇盛园店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:15:20.199+08:00"
+  },
+  {
+    "name": "顺丰速运(广联达快递服务中心)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:15:20.260+08:00"
+  },
+  {
+    "name": "陕西富达物流(明汇一部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:15:20.320+08:00"
+  },
+  {
+    "name": "云聚物流(丰产路巨坤营业部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:15:20.412+08:00"
+  },
+  {
+    "name": "明亨物流(巨坤二部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:15:24.279+08:00"
+  },
+  {
+    "name": "杨善北便民物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:24.347+08:00"
   }
 ]
