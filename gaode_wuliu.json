@@ -33658,5 +33658,59 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T02:45:05.924+08:00"
+  },
+  {
+    "name": "南丰货运(景观路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:45:09.129+08:00"
+  },
+  {
+    "name": "多邦物流(东莞分公司)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:45:09.199+08:00"
+  },
+  {
+    "name": "安能物流(企石商业街企石市场店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:12.378+08:00"
+  },
+  {
+    "name": "中纬物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:12.534+08:00"
+  },
+  {
+    "name": "信丰物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:12.646+08:00"
+  },
+  {
+    "name": "顺丰速运(美的东樾君汇店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:45:12.705+08:00"
   }
 ]
