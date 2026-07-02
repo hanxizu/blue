@@ -17854,5 +17854,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:14:46.860+08:00"
+  },
+  {
+    "name": "东莞市泽源新能源汽车租赁有限公司",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:14:52.977+08:00"
+  },
+  {
+    "name": "哈啰租车",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:14:55.549+08:00"
+  },
+  {
+    "name": "哈啰租车(东莞市高得科技有限公司)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:15:01.867+08:00"
+  },
+  {
+    "name": "哈啰租车(辉顺租车寮步店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:15:01.912+08:00"
+  },
+  {
+    "name": "顺好汽车租赁公司",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:15:07.625+08:00"
+  },
+  {
+    "name": "哈啰租车(众耀租车茶山秋源路泽景)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:15:07.677+08:00"
+  },
+  {
+    "name": "哈啰租车(辉顺租车茶南路店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:15:10.571+08:00"
   }
 ]
