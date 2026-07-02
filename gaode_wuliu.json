@@ -15838,5 +15838,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:21:51.805+08:00"
+  },
+  {
+    "name": "顺丰速运(优博广场店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:21:51.868+08:00"
+  },
+  {
+    "name": "成都捷链达物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:51.931+08:00"
+  },
+  {
+    "name": "顺丰速运(蜀都花园店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:21:51.986+08:00"
+  },
+  {
+    "name": "顺丰速运(汇源北路店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:21:52.038+08:00"
   }
 ]
