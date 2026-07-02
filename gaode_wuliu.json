@@ -682,5 +682,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:16:44.231+08:00"
+  },
+  {
+    "name": "顺丰速运(新坐标店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:16:44.267+08:00"
+  },
+  {
+    "name": "顺丰速运(潘家园店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:16:44.314+08:00"
+  },
+  {
+    "name": "顺丰速运(南三环中路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:16:44.358+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(万达广场营业部)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 167,
+    "colorRatio": "4.55%",
+    "timestamp": "2026-07-03T00:16:44.393+08:00"
   }
 ]
