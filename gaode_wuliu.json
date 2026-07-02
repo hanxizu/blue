@@ -38095,5 +38095,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:06:38.173+08:00"
+  },
+  {
+    "name": "顺丰速运(明发城市广场店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T03:06:48.029+08:00"
+  },
+  {
+    "name": "顺丰速运(花神店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:06:48.072+08:00"
+  },
+  {
+    "name": "江苏茂英城市物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:06:51.208+08:00"
+  },
+  {
+    "name": "顺丰速运(春江新城店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 43,
+    "colorRatio": "1.17%",
+    "timestamp": "2026-07-03T03:06:51.250+08:00"
   }
 ]
