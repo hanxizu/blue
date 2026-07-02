@@ -16144,5 +16144,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:22:55.164+08:00"
+  },
+  {
+    "name": "越海全球物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:22:57.747+08:00"
+  },
+  {
+    "name": "壹米滴答双流九江营业部",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:23:07.745+08:00"
   }
 ]
