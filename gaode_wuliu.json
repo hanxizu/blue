@@ -35530,5 +35530,32 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:58:27.080+08:00"
+  },
+  {
+    "name": "顺丰速运(鸡鸣山庄店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:58:30.177+08:00"
+  },
+  {
+    "name": "顺丰速运(台城路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:58:30.221+08:00"
+  },
+  {
+    "name": "顺丰速运(华海店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:58:54.575+08:00"
   }
 ]
