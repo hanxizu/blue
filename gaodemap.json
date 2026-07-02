@@ -7423,5 +7423,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T10:57:20.867+08:00"
+  },
+  {
+    "name": "沪佳装饰设计中心店(徐汇店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-02T10:57:23.524+08:00"
+  },
+  {
+    "name": "伽腾室内设计工程(上海)有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:57:23.553+08:00"
+  },
+  {
+    "name": "上海梵轩设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:57:26.054+08:00"
+  },
+  {
+    "name": "朗域装饰·三林实景体验中心",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:57:26.082+08:00"
   }
 ]
