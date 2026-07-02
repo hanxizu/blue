@@ -6253,5 +6253,23 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T10:52:40.653+08:00"
+  },
+  {
+    "name": "金与木建筑装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:52:43.136+08:00"
+  },
+  {
+    "name": "领御装饰设计(张江店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:52:43.158+08:00"
   }
 ]
