@@ -5281,5 +5281,77 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T23:15:44.129+08:00"
+  },
+  {
+    "name": "神秘车库·豪车租赁体验馆(越秀店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:46.702+08:00"
+  },
+  {
+    "name": "广东金枪鱼汽车租赁有限公司",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:46.730+08:00"
+  },
+  {
+    "name": "旺缘租车(广州滘口店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:15:49.903+08:00"
+  },
+  {
+    "name": "广州金路小汽车出租有限公司",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:52.308+08:00"
+  },
+  {
+    "name": "神州租车广州南站(东广场)服务点",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:52.338+08:00"
+  },
+  {
+    "name": "广州工商学院爱玛租车行",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:55.164+08:00"
+  },
+  {
+    "name": "广东中浩汽车租赁服务有限公司",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:55.189+08:00"
+  },
+  {
+    "name": "神州租车(天河智慧城地铁站服务点)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:55.213+08:00"
   }
 ]
