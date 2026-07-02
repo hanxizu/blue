@@ -29392,5 +29392,41 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:23:21.290+08:00"
+  },
+  {
+    "name": "陕西速通物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:23:23.711+08:00"
+  },
+  {
+    "name": "广立物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:23:23.765+08:00"
+  },
+  {
+    "name": "明亨物流(米秦路营业部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:23:23.830+08:00"
+  },
+  {
+    "name": "盛辉物流(米秦路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:23:23.896+08:00"
   }
 ]
