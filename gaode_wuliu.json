@@ -37060,5 +37060,59 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T03:03:07.400+08:00"
+  },
+  {
+    "name": "顺丰速运(南理工店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T03:03:07.446+08:00"
+  },
+  {
+    "name": "顺丰速运(兴隆大街店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:03:07.490+08:00"
+  },
+  {
+    "name": "顺丰速运(宏光路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:03:07.533+08:00"
+  },
+  {
+    "name": "京东物流(南京双麒站)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 134,
+    "colorRatio": "3.65%",
+    "timestamp": "2026-07-03T03:03:07.575+08:00"
+  },
+  {
+    "name": "铁路货运(中华门经营部)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:03:10.404+08:00"
+  },
+  {
+    "name": "南京长江国际航运中心",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:03:10.461+08:00"
   }
 ]
