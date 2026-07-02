@@ -2734,5 +2734,41 @@
     "colorPixels": 158,
     "colorRatio": "3.99%",
     "timestamp": "2026-07-02T09:13:24.722+08:00"
+  },
+  {
+    "name": "北京市西城区建筑工程公司装饰工程处",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:13:24.779+08:00"
+  },
+  {
+    "name": "北京中天信达装饰工程有限公司",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:13:24.827+08:00"
+  },
+  {
+    "name": "北京瑾铭装饰设计工程有限公司",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T09:13:24.878+08:00"
+  },
+  {
+    "name": "宜居装饰",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:13:30.754+08:00"
   }
 ]
