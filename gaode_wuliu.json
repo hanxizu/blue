@@ -24820,5 +24820,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:03:39.143+08:00"
+  },
+  {
+    "name": "顺丰速运(武大店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:03:49.220+08:00"
+  },
+  {
+    "name": "恒钢物流园",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:03:49.289+08:00"
+  },
+  {
+    "name": "顺丰速运(东方莱茵店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:03:52.482+08:00"
+  },
+  {
+    "name": "顺丰速运(硚口店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 581,
+    "colorRatio": "15.82%",
+    "timestamp": "2026-07-03T02:03:52.526+08:00"
+  },
+  {
+    "name": "老刘十堰客车快运",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:03:55.228+08:00"
   }
 ]
