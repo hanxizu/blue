@@ -11023,5 +11023,32 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:01:55.097+08:00"
+  },
+  {
+    "name": "fish国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:57.806+08:00"
+  },
+  {
+    "name": "捷道非洲物流(广园西空运营业部)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:02:00.530+08:00"
+  },
+  {
+    "name": "天龙物流(杉木栏路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:02:08.115+08:00"
   }
 ]
