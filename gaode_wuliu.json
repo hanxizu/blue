@@ -160,5 +160,23 @@
     "colorPixels": 123,
     "colorRatio": "4.73%",
     "timestamp": "2026-07-03T00:15:17.381+08:00"
+  },
+  {
+    "name": "安顺大件物流工具托运摩托车托运",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T00:15:20.210+08:00"
+  },
+  {
+    "name": "安顺大件物流摩托车托运",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T00:15:20.230+08:00"
   }
 ]
