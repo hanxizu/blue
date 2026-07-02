@@ -36610,5 +36610,32 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T03:01:31.997+08:00"
+  },
+  {
+    "name": "顺丰速运(金陵名人居小店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T03:01:35.146+08:00"
+  },
+  {
+    "name": "顺丰速运(御水湾店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:01:38.132+08:00"
+  },
+  {
+    "name": "南京中远海运物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 154,
+    "colorRatio": "4.19%",
+    "timestamp": "2026-07-03T03:01:38.175+08:00"
   }
 ]
