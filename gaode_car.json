@@ -8854,5 +8854,104 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T23:31:21.409+08:00"
+  },
+  {
+    "name": "众鑫租车(上城区彭埠街道店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:21.445+08:00"
+  },
+  {
+    "name": "神州租车(中天MCC自助点)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:21.475+08:00"
+  },
+  {
+    "name": "杭州曜影租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:27.044+08:00"
+  },
+  {
+    "name": "杭州佳腾汽车租赁服务有限公司",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:27.077+08:00"
+  },
+  {
+    "name": "哈啰租车(风采停车场)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:27.106+08:00"
+  },
+  {
+    "name": "小灵狗租车(杭州东站店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:29.612+08:00"
+  },
+  {
+    "name": "熬烧租车(钱江新城店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:31:32.202+08:00"
+  },
+  {
+    "name": "风火轮租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:32.237+08:00"
+  },
+  {
+    "name": "日尧租车(杭州店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:34.955+08:00"
+  },
+  {
+    "name": "逸风租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:31:37.628+08:00"
+  },
+  {
+    "name": "小旋风租车杭州东店",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:37.654+08:00"
   }
 ]
