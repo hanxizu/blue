@@ -33802,5 +33802,140 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T01:33:16.017+08:00"
+  },
+  {
+    "name": "小小鸟租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:18.986+08:00"
+  },
+  {
+    "name": "济南小宇租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:21.774+08:00"
+  },
+  {
+    "name": "多多行汽车租赁有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:21.813+08:00"
+  },
+  {
+    "name": "济南福泉汽车服务有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:21.840+08:00"
+  },
+  {
+    "name": "济南三和出租汽车有限公司(三联集团商务中心北)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:24.261+08:00"
+  },
+  {
+    "name": "宜达网约车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:24.293+08:00"
+  },
+  {
+    "name": "全程租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:33:24.329+08:00"
+  },
+  {
+    "name": "威雅租车(解放东路店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:27.534+08:00"
+  },
+  {
+    "name": "友良租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:33:27.570+08:00"
+  },
+  {
+    "name": "济南伍壹捌汽车租赁服务有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:27.623+08:00"
+  },
+  {
+    "name": "卓然豪车租赁(CBD店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:30.470+08:00"
+  },
+  {
+    "name": "济南擎天租车(祥泰城店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:30.510+08:00"
+  },
+  {
+    "name": "及信租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:33:30.547+08:00"
+  },
+  {
+    "name": "铭骑租车(高新未来城店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T01:33:33.634+08:00"
+  },
+  {
+    "name": "24小时自助租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:33.672+08:00"
   }
 ]
