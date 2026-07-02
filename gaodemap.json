@@ -14353,5 +14353,59 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T11:52:52.931+08:00"
+  },
+  {
+    "name": "天蚁装饰集团·老房改造·工装家装(包河店)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T11:52:55.770+08:00"
+  },
+  {
+    "name": "云构装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:52:58.538+08:00"
+  },
+  {
+    "name": "合肥昌佶全新二手家具市场",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T11:53:01.070+08:00"
+  },
+  {
+    "name": "合肥盛世和家装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:53:01.118+08:00"
+  },
+  {
+    "name": "安徽京斋装饰装修设计有限责任公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T11:53:03.786+08:00"
+  },
+  {
+    "name": "天蚁装饰集团·老房改造·工装家装(合肥店)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T11:53:03.811+08:00"
   }
 ]
