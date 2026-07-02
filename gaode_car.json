@@ -19240,5 +19240,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:21:37.433+08:00"
+  },
+  {
+    "name": "聚才租车-广州",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:40.197+08:00"
+  },
+  {
+    "name": "便捷地摊车出租驿站",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:45.896+08:00"
+  },
+  {
+    "name": "顺联租车(南海区狮山镇店)",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:45.960+08:00"
+  },
+  {
+    "name": "新能源汽车租售",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:46.020+08:00"
+  },
+  {
+    "name": "哈啰租车(广州南站店)",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:54.971+08:00"
+  },
+  {
+    "name": "佛山聚才租车(狮山西站店)",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:21:54.999+08:00"
+  },
+  {
+    "name": "哈啰租车(佛山-美盛广场停车场)",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:55.036+08:00"
   }
 ]
