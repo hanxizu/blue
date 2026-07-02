@@ -37393,5 +37393,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T03:04:11.316+08:00"
+  },
+  {
+    "name": "京东物流-南京鼓楼集配站",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:04:18.723+08:00"
+  },
+  {
+    "name": "奥尼斯储运部(奥尼斯仓库)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:04:18.766+08:00"
+  },
+  {
+    "name": "中逸国际物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:04:18.808+08:00"
+  },
+  {
+    "name": "百事物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:04:18.851+08:00"
+  },
+  {
+    "name": "北京康捷空国际货运代理有限公司南京分公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 23,
+    "colorRatio": "0.63%",
+    "timestamp": "2026-07-03T03:04:18.894+08:00"
   }
 ]
