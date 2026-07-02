@@ -26359,5 +26359,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:10:41.359+08:00"
+  },
+  {
+    "name": "中通快运(汉口北二号仓储中心店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:10:54.758+08:00"
+  },
+  {
+    "name": "顺丰速运(兰惠店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T02:10:57.958+08:00"
+  },
+  {
+    "name": "远大物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:58.011+08:00"
+  },
+  {
+    "name": "三元星发物流(黄陂区店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 73,
+    "colorRatio": "1.99%",
+    "timestamp": "2026-07-03T02:10:58.097+08:00"
   }
 ]
