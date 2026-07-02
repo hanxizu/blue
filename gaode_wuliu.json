@@ -32236,5 +32236,23 @@
     "colorPixels": 42,
     "colorRatio": "1.14%",
     "timestamp": "2026-07-03T02:40:28.525+08:00"
+  },
+  {
+    "name": "顺丰速运(艺展中心店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T02:40:34.615+08:00"
+  },
+  {
+    "name": "壹鹿有你国际物流(东莞)有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:40:34.658+08:00"
   }
 ]
