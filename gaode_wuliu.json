@@ -1258,5 +1258,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:18:07.611+08:00"
+  },
+  {
+    "name": "京东物流(北京丽泽营业部)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:18:11.160+08:00"
+  },
+  {
+    "name": "北京西站南托运厅",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:18:11.194+08:00"
+  },
+  {
+    "name": "中铁快运股份有限公司北京分公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:18:13.758+08:00"
   }
 ]
