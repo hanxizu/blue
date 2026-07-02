@@ -26593,5 +26593,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:12:08.120+08:00"
+  },
+  {
+    "name": "顺丰速运(珞喻店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:12:11.375+08:00"
+  },
+  {
+    "name": "菜鸟驿站(保利拉菲店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:12:11.426+08:00"
+  },
+  {
+    "name": "顺丰速运(鲁巷华乐苑店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:12:14.200+08:00"
+  },
+  {
+    "name": "日益闽锋钢材配送公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:12:14.254+08:00"
+  },
+  {
+    "name": "顺丰速运(光霞雾化店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:12:14.317+08:00"
   }
 ]
