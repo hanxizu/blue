@@ -36700,5 +36700,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:47:46.919+08:00"
+  },
+  {
+    "name": "美星汽车租赁有限公司",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:47:49.847+08:00"
+  },
+  {
+    "name": "车友豪车婚车租赁",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:47:52.547+08:00"
+  },
+  {
+    "name": "麦瑞婚车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:47:55.322+08:00"
+  },
+  {
+    "name": "良缘豪车婚车租赁",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T01:47:55.356+08:00"
   }
 ]
