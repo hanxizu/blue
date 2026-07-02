@@ -35782,5 +35782,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:42:02.579+08:00"
+  },
+  {
+    "name": "名鼎租车(福州机场3店)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:05.048+08:00"
+  },
+  {
+    "name": "易租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:08.104+08:00"
+  },
+  {
+    "name": "滴滴出行耐斯网约车服务门店(齐安路店)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:08.142+08:00"
+  },
+  {
+    "name": "福州光启智行汽车科技有限公司",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:10.601+08:00"
+  },
+  {
+    "name": "神州租车洋下新村自助点",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:13.873+08:00"
+  },
+  {
+    "name": "福州麦卡汽车租赁有限公司",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:13.928+08:00"
+  },
+  {
+    "name": "网约车汽车租售短租长租",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:42:16.863+08:00"
   }
 ]
