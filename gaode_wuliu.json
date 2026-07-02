@@ -2149,5 +2149,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:21:33.854+08:00"
+  },
+  {
+    "name": "盛海伟业物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 60,
+    "colorRatio": "1.63%",
+    "timestamp": "2026-07-03T00:21:37.007+08:00"
+  },
+  {
+    "name": "广隆昌物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:39.628+08:00"
+  },
+  {
+    "name": "顺丰速运(玲珑店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:21:39.672+08:00"
   }
 ]
