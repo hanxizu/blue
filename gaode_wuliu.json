@@ -37321,5 +37321,59 @@
     "colorPixels": 80,
     "colorRatio": "2.18%",
     "timestamp": "2026-07-03T03:03:55.290+08:00"
+  },
+  {
+    "name": "南京广鑫物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:04:02.268+08:00"
+  },
+  {
+    "name": "安能物流南京市区分拨中心",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 18,
+    "colorRatio": "0.49%",
+    "timestamp": "2026-07-03T03:04:02.338+08:00"
+  },
+  {
+    "name": "南京龙蟠物流有限责任公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:04:05.990+08:00"
+  },
+  {
+    "name": "江苏海星冷链物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:04:06.032+08:00"
+  },
+  {
+    "name": "菜鸟驿站(银河湾卓苑店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:04:06.075+08:00"
+  },
+  {
+    "name": "南京运满满总部",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:04:06.119+08:00"
   }
 ]
