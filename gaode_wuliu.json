@@ -18313,5 +18313,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:35:16.319+08:00"
+  },
+  {
+    "name": "顺丰速运(小营公园店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 119,
+    "colorRatio": "3.24%",
+    "timestamp": "2026-07-03T01:35:18.929+08:00"
+  },
+  {
+    "name": "立达物流(江城路辅路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:19.048+08:00"
+  },
+  {
+    "name": "杭州聚鑫物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:35:19.098+08:00"
+  },
+  {
+    "name": "顺丰速运(环宇商务中心店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:35:22.714+08:00"
+  },
+  {
+    "name": "顺丰速运(东方大厦C座店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 439,
+    "colorRatio": "11.96%",
+    "timestamp": "2026-07-03T01:35:22.785+08:00"
+  },
+  {
+    "name": "顺丰速运(绿地旭辉城店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:26.372+08:00"
+  },
+  {
+    "name": "顺丰速运(钱江府小区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:26.415+08:00"
+  },
+  {
+    "name": "顺丰速运(景芳店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:35:26.459+08:00"
+  },
+  {
+    "name": "传化公路港物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:26.529+08:00"
   }
 ]
