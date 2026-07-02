@@ -3859,5 +3859,77 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T07:25:49.190+08:00"
+  },
+  {
+    "name": "顺丰速运(复兴岛店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:25:49.258+08:00"
+  },
+  {
+    "name": "顺丰速运(昌鑫店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:25:49.286+08:00"
+  },
+  {
+    "name": "京东物流(上海北蔡集配站)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:49.311+08:00"
+  },
+  {
+    "name": "顺丰速运(昌鑫店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:25:51.995+08:00"
+  },
+  {
+    "name": "京东物流(上海北蔡集配站)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:52.027+08:00"
+  },
+  {
+    "name": "上海德驲国际物流(嘉定总店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:25:52.057+08:00"
+  },
+  {
+    "name": "上海烟草集团有限责任公司上海烟草储运公司物流运输部",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:52.087+08:00"
+  },
+  {
+    "name": "上海烟草集团有限责任公司上海烟草储运公司物流运输部",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:54.809+08:00"
   }
 ]
