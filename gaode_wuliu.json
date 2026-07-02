@@ -29824,5 +29824,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:25:11.148+08:00"
+  },
+  {
+    "name": "壹米滴答玉林汽配营业部",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:25:24.180+08:00"
+  },
+  {
+    "name": "西安久顺货运部",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:25:24.233+08:00"
+  },
+  {
+    "name": "陕西富达物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:25:27.329+08:00"
+  },
+  {
+    "name": "新城区西海物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:25:27.377+08:00"
   }
 ]
