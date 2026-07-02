@@ -10330,5 +10330,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T11:20:54.677+08:00"
+  },
+  {
+    "name": "顾家家居(红旗路红星店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-02T11:20:57.598+08:00"
+  },
+  {
+    "name": "老兵装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:21:00.413+08:00"
+  },
+  {
+    "name": "索菲亚衣柜橱柜全屋定制(河东红星家具店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-02T11:21:03.106+08:00"
+  },
+  {
+    "name": "凯宇装饰(京海公寓小区店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:21:03.135+08:00"
   }
 ]
