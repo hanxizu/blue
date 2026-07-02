@@ -41956,5 +41956,50 @@
     "colorPixels": 189,
     "colorRatio": "5.15%",
     "timestamp": "2026-07-03T03:26:14.586+08:00"
+  },
+  {
+    "name": "大鹏物流(河兴庄兴河物流商贸楼店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:26:18.254+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(桃花堤揽投部)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:26:18.317+08:00"
+  },
+  {
+    "name": "顺丰速运(福港园小区店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:26:18.373+08:00"
+  },
+  {
+    "name": "天津市港乐恒达大件运输吊装公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:26:18.434+08:00"
+  },
+  {
+    "name": "小太阳-DT市中心-空运仓",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:26:26.738+08:00"
   }
 ]
