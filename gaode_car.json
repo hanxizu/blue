@@ -3193,5 +3193,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:06:59.721+08:00"
+  },
+  {
+    "name": "深圳市鸿运汽车出租有限公司",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:07:02.772+08:00"
+  },
+  {
+    "name": "神秘车库豪车体验馆(深圳总部)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T23:07:05.606+08:00"
+  },
+  {
+    "name": "无虑租车-深圳北站店",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:07:08.289+08:00"
   }
 ]
