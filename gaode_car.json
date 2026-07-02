@@ -25999,5 +25999,122 @@
     "colorPixels": 306,
     "colorRatio": "13.33%",
     "timestamp": "2026-07-03T00:55:32.647+08:00"
+  },
+  {
+    "name": "坤达租车",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:55:32.688+08:00"
+  },
+  {
+    "name": "百优卡豪车租赁",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:55:32.720+08:00"
+  },
+  {
+    "name": "马达租车",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:55:35.682+08:00"
+  },
+  {
+    "name": "黑曼巴租车",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:38.173+08:00"
+  },
+  {
+    "name": "配件租赁",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:38.210+08:00"
+  },
+  {
+    "name": "文曲租车",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:55:40.833+08:00"
+  },
+  {
+    "name": "智灿租赁",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:40.864+08:00"
+  },
+  {
+    "name": "途强汽车租赁",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:40.897+08:00"
+  },
+  {
+    "name": "哈啰租车南长街店(寺前路店)",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:43.821+08:00"
+  },
+  {
+    "name": "神州租车(宜兴步行街自助点)",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:43.888+08:00"
+  },
+  {
+    "name": "汇鑫汽车租赁(中南路店)",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:47.091+08:00"
+  },
+  {
+    "name": "无锡玖宾汽车租赁有限公司",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:47.124+08:00"
+  },
+  {
+    "name": "无锡日通汽车租赁有限公司",
+    "city": "无锡市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:50.287+08:00"
   }
 ]
