@@ -835,5 +835,32 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T22:55:30.901+08:00"
+  },
+  {
+    "name": "神州租车(健德门服务点)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:55:34.075+08:00"
+  },
+  {
+    "name": "神州租车(垡头自助点)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:55:34.110+08:00"
+  },
+  {
+    "name": "神州租车(双合地铁站服务点)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:55:36.619+08:00"
   }
 ]
