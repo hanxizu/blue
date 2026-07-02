@@ -36565,5 +36565,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:45:26.902+08:00"
+  },
+  {
+    "name": "起点租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:45:32.813+08:00"
+  },
+  {
+    "name": "哈啰租车(福州农商银行大楼)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:45:32.884+08:00"
   }
 ]
