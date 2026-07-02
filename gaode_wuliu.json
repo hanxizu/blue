@@ -11293,5 +11293,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:02:57.799+08:00"
+  },
+  {
+    "name": "易达货运King Cargo",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:03:01.192+08:00"
+  },
+  {
+    "name": "欧翔国际物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 121,
+    "colorRatio": "3.30%",
+    "timestamp": "2026-07-03T01:03:01.264+08:00"
+  },
+  {
+    "name": "安利达物流(岗头大街店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:03.957+08:00"
+  },
+  {
+    "name": "赛捷物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:04.045+08:00"
+  },
+  {
+    "name": "广州威纳国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:03:14.431+08:00"
   }
 ]
