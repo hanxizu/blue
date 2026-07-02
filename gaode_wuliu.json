@@ -24145,5 +24145,41 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:01:12.495+08:00"
+  },
+  {
+    "name": "武汉愚公物流(长风路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:15.073+08:00"
+  },
+  {
+    "name": "晓毕物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:15.157+08:00"
+  },
+  {
+    "name": "武汉市吉祥货运有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:21.641+08:00"
+  },
+  {
+    "name": "宇鑫物流(常码头汽配用品市场店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:25.592+08:00"
   }
 ]
