@@ -1717,5 +1717,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:00:39.760+08:00"
+  },
+  {
+    "name": "海兔鱼(上海)汽车租赁公司普陀店",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:00:42.692+08:00"
+  },
+  {
+    "name": "优欣汽车租赁",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T23:00:45.590+08:00"
+  },
+  {
+    "name": "上海君酷租大租中巴商务租车旅游包车企业班车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:00:45.632+08:00"
   }
 ]
