@@ -1105,5 +1105,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:22:21.458+08:00"
+  },
+  {
+    "name": "上海优尼康国际货运代理有限公司(上海招商局大厦店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:21.508+08:00"
+  },
+  {
+    "name": "安能物流(建国西路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:21.551+08:00"
+  },
+  {
+    "name": "顺丰速运(和泰店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 372,
+    "colorRatio": "16.21%",
+    "timestamp": "2026-07-03T07:22:21.588+08:00"
+  },
+  {
+    "name": "上海泛远国际货运代理有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:21.626+08:00"
+  },
+  {
+    "name": "安能物流(建国西路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:24.072+08:00"
+  },
+  {
+    "name": "顺丰速运(和泰店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 372,
+    "colorRatio": "16.21%",
+    "timestamp": "2026-07-03T07:22:24.119+08:00"
+  },
+  {
+    "name": "上海泛远国际货运代理有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:24.193+08:00"
+  },
+  {
+    "name": "马士基航运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:24.230+08:00"
+  },
+  {
+    "name": "上海泛远国际货运代理有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:27.269+08:00"
   }
 ]
