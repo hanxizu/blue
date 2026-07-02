@@ -5560,5 +5560,59 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-02T23:16:35.719+08:00"
+  },
+  {
+    "name": "旺缘租车(越秀区光塔街道店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:45.453+08:00"
+  },
+  {
+    "name": "宏景租车",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:45.479+08:00"
+  },
+  {
+    "name": "麻花租车-广州店",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:45.510+08:00"
+  },
+  {
+    "name": "神州租车(周门服务点)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:48.282+08:00"
+  },
+  {
+    "name": "神州租车(天河客运站地铁站服务点)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:51.028+08:00"
+  },
+  {
+    "name": "骏亿租车",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:16:53.643+08:00"
   }
 ]
