@@ -27205,5 +27205,41 @@
     "colorPixels": 2,
     "colorRatio": "0.05%",
     "timestamp": "2026-07-03T02:15:49.915+08:00"
+  },
+  {
+    "name": "弘茂物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:53.037+08:00"
+  },
+  {
+    "name": "华坤蚂蚁货运部",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:15:55.595+08:00"
+  },
+  {
+    "name": "金泽物流永志分部",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:55.664+08:00"
+  },
+  {
+    "name": "铭泰物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:55.717+08:00"
   }
 ]
