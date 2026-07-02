@@ -16738,5 +16738,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:25:42.700+08:00"
+  },
+  {
+    "name": "顺丰速运(三利蔚然集店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:25:46.018+08:00"
+  },
+  {
+    "name": "菜鸟驿站(滨江和城·二期栖棠店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:25:49.260+08:00"
+  },
+  {
+    "name": "顺丰速运(橡树林华府1店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:25:49.304+08:00"
+  },
+  {
+    "name": "中国物资储运总公司成都物流中心(物流大道)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:25:52.010+08:00"
   }
 ]
