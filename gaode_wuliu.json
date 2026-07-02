@@ -20635,5 +20635,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:42:32.621+08:00"
+  },
+  {
+    "name": "顺丰速运(明德大楼店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:42:35.228+08:00"
+  },
+  {
+    "name": "杭州骑手运力中心",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:42:35.282+08:00"
+  },
+  {
+    "name": "顺丰速运(杭玻街店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:42:35.339+08:00"
   }
 ]
