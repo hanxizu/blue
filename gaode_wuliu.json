@@ -29941,5 +29941,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:25:53.512+08:00"
+  },
+  {
+    "name": "西安市万里达货物托运部",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:25:56.732+08:00"
+  },
+  {
+    "name": "陕西新丝路物流(三府湾城中村西南)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:25:56.786+08:00"
+  },
+  {
+    "name": "西安秦晋货物托运部",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:25:59.686+08:00"
   }
 ]
