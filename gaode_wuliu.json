@@ -31885,5 +31885,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:39:33.872+08:00"
+  },
+  {
+    "name": "京东物流(环城西路辅路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:39:33.915+08:00"
+  },
+  {
+    "name": "顺丰速运(黄昌街店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:39:33.958+08:00"
+  },
+  {
+    "name": "东莞市众点物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:39:34.000+08:00"
+  },
+  {
+    "name": "劲航国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:39:34.043+08:00"
+  },
+  {
+    "name": "大件物流全国托运",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:39:36.494+08:00"
+  },
+  {
+    "name": "顺丰速运(易祥店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:39:36.554+08:00"
+  },
+  {
+    "name": "壹米滴答物流(万江中心营业部)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:39:36.621+08:00"
+  },
+  {
+    "name": "顺丰速运(顺风易收发店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 170,
+    "colorRatio": "4.63%",
+    "timestamp": "2026-07-03T02:39:40.048+08:00"
   }
 ]
