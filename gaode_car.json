@@ -17089,5 +17089,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:10:22.920+08:00"
+  },
+  {
+    "name": "丁丁租车(莞城街道店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:10:25.730+08:00"
+  },
+  {
+    "name": "一方租车(南城街道店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:10:28.727+08:00"
+  },
+  {
+    "name": "哈啰租车(丁丁租车长发装饰送车点)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:10:31.698+08:00"
+  },
+  {
+    "name": "辉顺租车(德汇·嘉里广场店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:10:37.057+08:00"
+  },
+  {
+    "name": "奈奈便利租车(东城街道店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:10:37.092+08:00"
+  },
+  {
+    "name": "哈啰租车(9南城)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:10:39.931+08:00"
+  },
+  {
+    "name": "八戒租车(东莞南城店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:10:42.899+08:00"
+  },
+  {
+    "name": "哈啰租车(东莞南城店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:10:42.944+08:00"
+  },
+  {
+    "name": "哈啰租车(丁丁租车中信森林湖送车点)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:10:46.159+08:00"
   }
 ]
