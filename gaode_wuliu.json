@@ -13327,5 +13327,95 @@
     "colorPixels": 36,
     "colorRatio": "1.38%",
     "timestamp": "2026-07-03T01:12:58.185+08:00"
+  },
+  {
+    "name": "安顺·大件物流配送中心(三店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:13:01.480+08:00"
+  },
+  {
+    "name": "安顺·大件物流配送中心(四店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:13:01.512+08:00"
+  },
+  {
+    "name": "安顺·大件物流家具家电行李机械设备工具托运支持上门取货",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:13:05.252+08:00"
+  },
+  {
+    "name": "安顺.大件物流(小件勿扰)电动车摩托车托运行李托运(成都店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:13:05.312+08:00"
+  },
+  {
+    "name": "安顺.大件物流托运(成都店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 101,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-03T01:13:05.343+08:00"
+  },
+  {
+    "name": "雄达国际物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:13:05.385+08:00"
+  },
+  {
+    "name": "福鑫国际物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:13:09.043+08:00"
+  },
+  {
+    "name": "中国物流股份有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:13:09.085+08:00"
+  },
+  {
+    "name": "海程邦达国际物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:13:09.149+08:00"
+  },
+  {
+    "name": "顺丰速运(环球中心店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 119,
+    "colorRatio": "3.24%",
+    "timestamp": "2026-07-03T01:13:09.195+08:00"
   }
 ]
