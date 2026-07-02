@@ -6901,5 +6901,23 @@
     "colorPixels": 144,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T00:45:24.680+08:00"
+  },
+  {
+    "name": "中通快递(笋岗分部)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:45:27.437+08:00"
+  },
+  {
+    "name": "民治木架木箱包装",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:45:30.013+08:00"
   }
 ]
