@@ -28519,5 +28519,104 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:07:01.488+08:00"
+  },
+  {
+    "name": "天下行租车(长沙伍家岭店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:07:04.337+08:00"
+  },
+  {
+    "name": "金霞考场租车点",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:07:07.376+08:00"
+  },
+  {
+    "name": "一嗨租车(长沙阳光100店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:07:07.411+08:00"
+  },
+  {
+    "name": "安捷利车行域芯租电池租车(永安小区店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:07:13.290+08:00"
+  },
+  {
+    "name": "象羽租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:07:13.330+08:00"
+  },
+  {
+    "name": "雄英汇租车(芙蓉店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:07:13.378+08:00"
+  },
+  {
+    "name": "滴滴出行租买车官方授权(满易行雷锋大道店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:07:16.664+08:00"
+  },
+  {
+    "name": "西海租车(烈士公园东门)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:07:19.095+08:00"
+  },
+  {
+    "name": "曹操出行合作伙伴-摆渡人运营中心",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:07:19.129+08:00"
+  },
+  {
+    "name": "瑞宸汽车养护专家(开福店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:07:19.163+08:00"
+  },
+  {
+    "name": "滴滴出行租买车官方授权店(荣舜店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:07:21.881+08:00"
   }
 ]
