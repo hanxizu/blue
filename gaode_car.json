@@ -17683,5 +17683,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:13:44.205+08:00"
+  },
+  {
+    "name": "哈啰租车(石里创意园送取车点)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:13:53.058+08:00"
+  },
+  {
+    "name": "哈啰租车(丁丁租车道滘店社区取车点)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:13:55.576+08:00"
+  },
+  {
+    "name": "行致租车",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:14:01.230+08:00"
+  },
+  {
+    "name": "哈啰租车(美德森中堂加南加油站滘联一)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:14:01.260+08:00"
+  },
+  {
+    "name": "哈啰租车(恒展大厦店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:14:01.295+08:00"
+  },
+  {
+    "name": "一方租车(厚街镇店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:14:06.989+08:00"
+  },
+  {
+    "name": "哈啰租车(众耀租车香市小学点)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:14:07.022+08:00"
+  },
+  {
+    "name": "东莞市兆佳汽车租赁有限公司",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:14:07.054+08:00"
   }
 ]
