@@ -4876,5 +4876,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:39:13.355+08:00"
+  },
+  {
+    "name": "深圳市易脉国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:39:16.295+08:00"
+  },
+  {
+    "name": "深圳市中新国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:16.359+08:00"
+  },
+  {
+    "name": "以星综合航运(中国)公司深圳分公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:19.720+08:00"
   }
 ]
