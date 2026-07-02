@@ -367,5 +367,32 @@
     "colorPixels": 100,
     "colorRatio": "3.84%",
     "timestamp": "2026-07-03T00:15:54.856+08:00"
+  },
+  {
+    "name": "运安能物流I跨市搬家I电动车托运I摩托车托运",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T00:15:54.877+08:00"
+  },
+  {
+    "name": "运安能物流-跨市搬家",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T00:15:54.897+08:00"
+  },
+  {
+    "name": "顺丰速运(雅宝路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:15:58.615+08:00"
   }
 ]
