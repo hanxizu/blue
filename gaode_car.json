@@ -37330,5 +37330,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:49:57.189+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(温州市南向出租车服务区)",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:50:00.215+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(温州市西向出租车服务区)",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:50:00.249+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(永嘉县瓯北街道)",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:50:00.281+08:00"
+  },
+  {
+    "name": "小北租车·温州鹿城洪殿南路联哥公寓自提点",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:50:03.177+08:00"
+  },
+  {
+    "name": "哈啰小北租电动车(瓯海黄屿昌华旅馆)合作服务点",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:50:03.273+08:00"
   }
 ]
