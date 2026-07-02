@@ -2626,5 +2626,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:03:21.220+08:00"
+  },
+  {
+    "name": "上海市-上海站店-扬凡租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:21.248+08:00"
+  },
+  {
+    "name": "凹凸租车-7898343-直营店",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:26.832+08:00"
+  },
+  {
+    "name": "森狗出行陆家嘴店",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:26.933+08:00"
   }
 ]
