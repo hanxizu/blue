@@ -5407,5 +5407,59 @@
     "colorPixels": 160,
     "colorRatio": "6.97%",
     "timestamp": "2026-07-02T10:50:24.685+08:00"
+  },
+  {
+    "name": "百安居装修(龙阳旗舰店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-02T10:50:24.746+08:00"
+  },
+  {
+    "name": "齐家网装修(总店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 138,
+    "colorRatio": "6.01%",
+    "timestamp": "2026-07-02T10:50:27.536+08:00"
+  },
+  {
+    "name": "京东家装(上海分公司)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-02T10:50:27.563+08:00"
+  },
+  {
+    "name": "金令装饰设计·新房老房翻新·环保装修",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-02T10:50:31.173+08:00"
+  },
+  {
+    "name": "统帅装饰(浦西旗舰体验中心)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-02T10:50:31.196+08:00"
+  },
+  {
+    "name": "沪佳装饰(闵行旗舰店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 389,
+    "colorRatio": "16.95%",
+    "timestamp": "2026-07-02T10:50:31.235+08:00"
   }
 ]
