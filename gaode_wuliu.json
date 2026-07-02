@@ -16315,5 +16315,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:23:42.099+08:00"
+  },
+  {
+    "name": "安博成都空港物流中心",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:23:45.098+08:00"
+  },
+  {
+    "name": "顺丰速运(保利花园四期店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 471,
+    "colorRatio": "12.83%",
+    "timestamp": "2026-07-03T01:23:45.169+08:00"
+  },
+  {
+    "name": "顺丰速运(现代学校快递店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:23:48.792+08:00"
+  },
+  {
+    "name": "安能物流武侯天街营业部(蓝光金楠府店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:23:48.845+08:00"
+  },
+  {
+    "name": "顺丰速运(君汇上品店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:23:48.905+08:00"
+  },
+  {
+    "name": "顺丰速运(白扬大厦店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 622,
+    "colorRatio": "16.94%",
+    "timestamp": "2026-07-03T01:23:48.956+08:00"
   }
 ]
