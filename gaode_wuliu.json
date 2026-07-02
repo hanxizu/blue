@@ -4237,5 +4237,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:30:51.672+08:00"
+  },
+  {
+    "name": "北京朝批商贸股份有限公司物流配送中心五号库",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:07.758+08:00"
+  },
+  {
+    "name": "顺丰速运(富安街店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:31:07.802+08:00"
   }
 ]
