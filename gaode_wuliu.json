@@ -9988,5 +9988,68 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T00:58:32.191+08:00"
+  },
+  {
+    "name": "安能物流越秀大沙头营业厅",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:58:39.177+08:00"
+  },
+  {
+    "name": "越恒货运有限公司(广州创客商务中心店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:58:39.220+08:00"
+  },
+  {
+    "name": "海达国际物流有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:58:42.758+08:00"
+  },
+  {
+    "name": "隆利国际供应链A222",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:58:42.802+08:00"
+  },
+  {
+    "name": "力天国际物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:58:42.845+08:00"
+  },
+  {
+    "name": "安顺物流(广州车辆段综合住宅区2期店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:58:42.895+08:00"
+  },
+  {
+    "name": "广州市乌拉尔国际物流(铁路小区店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:58:42.953+08:00"
   }
 ]
