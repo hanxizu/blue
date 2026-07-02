@@ -34126,5 +34126,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:46:44.948+08:00"
+  },
+  {
+    "name": "日东中港香港专线",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:46:55.228+08:00"
+  },
+  {
+    "name": "城市之星物流(石鼓店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:46:55.274+08:00"
+  },
+  {
+    "name": "宇风物流(温塘站点)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:46:58.504+08:00"
+  },
+  {
+    "name": "百世快运东城营业部(银湖路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 58,
+    "colorRatio": "1.58%",
+    "timestamp": "2026-07-03T02:46:58.548+08:00"
+  },
+  {
+    "name": "鸿信国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:47:01.122+08:00"
   }
 ]
