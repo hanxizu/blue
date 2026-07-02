@@ -1645,5 +1645,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:19:34.392+08:00"
+  },
+  {
+    "name": "顺丰速运(火星园店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:19:34.428+08:00"
+  },
+  {
+    "name": "中国远洋物流有限公司(朝阳北路)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:19:34.462+08:00"
+  },
+  {
+    "name": "中铁特货物流股份有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:19:34.497+08:00"
+  },
+  {
+    "name": "北京中汽怡和物流服务有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:19:37.252+08:00"
+  },
+  {
+    "name": "顺丰速运(凯德店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:19:37.327+08:00"
   }
 ]
