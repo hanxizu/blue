@@ -28618,5 +28618,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:20:20.620+08:00"
+  },
+  {
+    "name": "陕西盛世物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:20:23.530+08:00"
+  },
+  {
+    "name": "小万腾梦冷链物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:20:23.585+08:00"
+  },
+  {
+    "name": "货拉拉多拉汽车陕西中泰营销中心",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:20:23.673+08:00"
+  },
+  {
+    "name": "六村堡物流中心C区",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:20:23.736+08:00"
+  },
+  {
+    "name": "陕西煌道鑫物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:20:31.094+08:00"
   }
 ]
