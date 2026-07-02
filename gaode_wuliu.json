@@ -3319,5 +3319,50 @@
     "colorPixels": 51,
     "colorRatio": "1.39%",
     "timestamp": "2026-07-03T00:26:11.109+08:00"
+  },
+  {
+    "name": "京东物流(双林南路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:22.219+08:00"
+  },
+  {
+    "name": "胜京物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:22.260+08:00"
+  },
+  {
+    "name": "顺丰速运(永定路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:26:22.311+08:00"
+  },
+  {
+    "name": "顺丰速运(富源里小区店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:26:22.365+08:00"
+  },
+  {
+    "name": "顺丰速运(林萃路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:26:22.405+08:00"
   }
 ]
