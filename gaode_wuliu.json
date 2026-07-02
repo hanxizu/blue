@@ -37141,5 +37141,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:03:21.458+08:00"
+  },
+  {
+    "name": "顺丰速运(中山北路小店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:03:21.507+08:00"
+  },
+  {
+    "name": "顺丰速运(云谷山庄小店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:03:21.550+08:00"
+  },
+  {
+    "name": "南京金祥远洋海运有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:03:21.593+08:00"
+  },
+  {
+    "name": "上海传盛国际货运有限公司南京分公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:03:21.636+08:00"
+  },
+  {
+    "name": "大件物流运输公司电瓶车摩托车托运南京德快",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 132,
+    "colorRatio": "3.59%",
+    "timestamp": "2026-07-03T03:03:24.237+08:00"
   }
 ]
