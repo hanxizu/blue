@@ -214,5 +214,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:15:29.130+08:00"
+  },
+  {
+    "name": "顺丰速运(福长街店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:15:32.154+08:00"
+  },
+  {
+    "name": "顺丰速运(体育馆店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:15:32.180+08:00"
   }
 ]
