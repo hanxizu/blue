@@ -21364,5 +21364,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:45:44.667+08:00"
+  },
+  {
+    "name": "顺丰速运(高第府西区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:45:44.721+08:00"
+  },
+  {
+    "name": "顺丰速运(银润星座店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:45:44.773+08:00"
+  },
+  {
+    "name": "杭州萧山铁路东方运输有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:45:44.825+08:00"
+  },
+  {
+    "name": "诚信物流(德胜东路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:45:47.920+08:00"
+  },
+  {
+    "name": "杭州全线货运有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:45:48.024+08:00"
+  },
+  {
+    "name": "浙江盈和国际物流有限公司(杭州分公司)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "4.36%",
+    "timestamp": "2026-07-03T01:45:48.116+08:00"
   }
 ]
