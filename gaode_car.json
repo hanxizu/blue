@@ -1042,5 +1042,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T22:56:10.286+08:00"
+  },
+  {
+    "name": "首城租车",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:56:15.858+08:00"
+  },
+  {
+    "name": "哈啰租车(大红门地铁站)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:56:15.894+08:00"
   }
 ]
