@@ -29707,5 +29707,41 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:24:44.902+08:00"
+  },
+  {
+    "name": "陕西西北物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:24:44.950+08:00"
+  },
+  {
+    "name": "新飞驰(物产小区店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:24:44.998+08:00"
+  },
+  {
+    "name": "恒信物流(华清西路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:24:45.074+08:00"
+  },
+  {
+    "name": "西安贝斯特绿色物流转运中心",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:24:48.147+08:00"
   }
 ]
