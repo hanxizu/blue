@@ -41065,5 +41065,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:09:42.770+08:00"
+  },
+  {
+    "name": "南通卓风租车",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:04.266+08:00"
+  },
+  {
+    "name": "亚希汽车租赁",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:07.055+08:00"
+  },
+  {
+    "name": "启东盛翔租车",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T02:10:10.019+08:00"
+  },
+  {
+    "name": "皓驰租车",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T02:10:10.053+08:00"
+  },
+  {
+    "name": "舞车匠豪车租赁",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:12.642+08:00"
+  },
+  {
+    "name": "浩腾租车",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T02:10:12.672+08:00"
+  },
+  {
+    "name": "鑫达汽车租赁(江海西路店)",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:12.708+08:00"
   }
 ]
