@@ -34297,5 +34297,158 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T01:34:40.392+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(济南莲花山站)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:43.538+08:00"
+  },
+  {
+    "name": "哈啰租电动车(洪家楼店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:46.261+08:00"
+  },
+  {
+    "name": "茄子租租(大明湖店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:46.296+08:00"
+  },
+  {
+    "name": "信亿租车停车场院内洗车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:49.240+08:00"
+  },
+  {
+    "name": "济南仁途汽车服务有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:34:49.281+08:00"
+  },
+  {
+    "name": "小嘿象电动车租赁(翡翠华庭店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:49.319+08:00"
+  },
+  {
+    "name": "山东叁陆伍汽车租赁有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:52.272+08:00"
+  },
+  {
+    "name": "总舵主租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:34:52.315+08:00"
+  },
+  {
+    "name": "济南亚鑫汽车服务有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:54.944+08:00"
+  },
+  {
+    "name": "济南凯安租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:57.938+08:00"
+  },
+  {
+    "name": "济南金先生租车·婚车服务有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:57.972+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(济南越驰站)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:00.635+08:00"
+  },
+  {
+    "name": "山东利康置业有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:03.174+08:00"
+  },
+  {
+    "name": "修驰星汽车服务",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:03.211+08:00"
+  },
+  {
+    "name": "一嗨租车(济南遥墙机场店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:03.250+08:00"
+  },
+  {
+    "name": "泉居电动车租赁",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:06.457+08:00"
+  },
+  {
+    "name": "小嘿象电动车租赁(水屯北路店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:06.518+08:00"
   }
 ]
