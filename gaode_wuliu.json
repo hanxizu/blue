@@ -28357,5 +28357,32 @@
     "colorPixels": 29,
     "colorRatio": "0.79%",
     "timestamp": "2026-07-03T02:19:14.726+08:00"
+  },
+  {
+    "name": "西安兰宝物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:19:17.839+08:00"
+  },
+  {
+    "name": "西安铭泰物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:19:20.645+08:00"
+  },
+  {
+    "name": "星火燎原物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:20.701+08:00"
   }
 ]
