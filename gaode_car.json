@@ -11905,5 +11905,149 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:45:48.067+08:00"
+  },
+  {
+    "name": "近多出行",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:45:50.605+08:00"
+  },
+  {
+    "name": "一嗨租车(青山众圆广场店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:45:50.652+08:00"
+  },
+  {
+    "name": "武汉博舟汽车租赁(武昌店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:45:53.355+08:00"
+  },
+  {
+    "name": "安适达租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:45:53.389+08:00"
+  },
+  {
+    "name": "青柠租车首义新村店",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:45:53.424+08:00"
+  },
+  {
+    "name": "天能电池众乐租车(道仁店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:45:55.791+08:00"
+  },
+  {
+    "name": "长沙小桔租车(白马馨居一期西区店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:45:55.829+08:00"
+  },
+  {
+    "name": "喵喵快跑电动车租赁(光谷店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:45:55.866+08:00"
+  },
+  {
+    "name": "汉骑驿站电动车租车点",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:45:59.317+08:00"
+  },
+  {
+    "name": "银河租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:45:59.378+08:00"
+  },
+  {
+    "name": "满电租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:46:01.887+08:00"
+  },
+  {
+    "name": "皇包车旅行",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:46:04.856+08:00"
+  },
+  {
+    "name": "栗子租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:46:04.896+08:00"
+  },
+  {
+    "name": "领航人代驾租车一站式服务",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:46:07.833+08:00"
+  },
+  {
+    "name": "悦也租车汉口区域店",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:46:11.663+08:00"
+  },
+  {
+    "name": "湖北兰图价格评估有限公司",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T23:46:11.737+08:00"
   }
 ]
