@@ -3049,5 +3049,50 @@
     "colorPixels": 94,
     "colorRatio": "4.10%",
     "timestamp": "2026-07-02T23:06:34.269+08:00"
+  },
+  {
+    "name": "车享汇租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-02T23:06:34.317+08:00"
+  },
+  {
+    "name": "泽丰租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:06:34.359+08:00"
+  },
+  {
+    "name": "奥马租车(民丰店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:06:37.157+08:00"
+  },
+  {
+    "name": "融兴租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-02T23:06:37.194+08:00"
+  },
+  {
+    "name": "远创租车(远创深圳)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:06:39.835+08:00"
   }
 ]
