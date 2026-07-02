@@ -5065,5 +5065,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T07:27:28.618+08:00"
+  },
+  {
+    "name": "安能物流(江桥路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:27:28.673+08:00"
+  },
+  {
+    "name": "上海华宇药业有限公司物流中心(沪闵路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:27:28.700+08:00"
+  },
+  {
+    "name": "悠悠空间2号店",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:27:28.729+08:00"
+  },
+  {
+    "name": "上海华宇药业有限公司物流中心(沪闵路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:27:31.789+08:00"
   }
 ]
