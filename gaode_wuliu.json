@@ -5362,5 +5362,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:40:28.242+08:00"
+  },
+  {
+    "name": "顺丰速运(远望店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:31.274+08:00"
+  },
+  {
+    "name": "鼎环国际物流(华发北路店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:40:31.326+08:00"
+  },
+  {
+    "name": "康良物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:34.220+08:00"
+  },
+  {
+    "name": "豪邦物流(科技园营业部)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 24,
+    "colorRatio": "0.65%",
+    "timestamp": "2026-07-03T00:40:34.264+08:00"
+  },
+  {
+    "name": "顺丰速运(赛格苑店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T00:40:37.276+08:00"
   }
 ]
