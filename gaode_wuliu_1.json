@@ -4696,5 +4696,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T07:26:58.590+08:00"
+  },
+  {
+    "name": "上海神通海运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:26:58.643+08:00"
+  },
+  {
+    "name": "顺丰速运(东方国贸新城店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T07:26:58.668+08:00"
+  },
+  {
+    "name": "上海钢联物流股份有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:26:58.695+08:00"
+  },
+  {
+    "name": "顺丰速运(平吉营店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:27:01.811+08:00"
   }
 ]
