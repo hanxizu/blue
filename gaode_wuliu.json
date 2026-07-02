@@ -28033,5 +28033,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:18:12.573+08:00"
+  },
+  {
+    "name": "陕西怡亚通冷链物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:18:19.507+08:00"
+  },
+  {
+    "name": "西安春晖物流有限责任公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 152,
+    "colorRatio": "4.14%",
+    "timestamp": "2026-07-03T02:18:19.551+08:00"
+  },
+  {
+    "name": "平西物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:18:22.733+08:00"
   }
 ]
