@@ -33505,5 +33505,23 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T02:44:26.628+08:00"
+  },
+  {
+    "name": "广东连总物流公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:44:32.696+08:00"
+  },
+  {
+    "name": "行通物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.06%",
+    "timestamp": "2026-07-03T02:44:32.743+08:00"
   }
 ]
