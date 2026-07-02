@@ -29653,5 +29653,50 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:24:27.978+08:00"
+  },
+  {
+    "name": "贝斯特物流中心3区",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:24:31.038+08:00"
+  },
+  {
+    "name": "西安新鸿顺祥货运",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:24:34.566+08:00"
+  },
+  {
+    "name": "钜簏物流(西站路1店)路南",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:24:34.706+08:00"
+  },
+  {
+    "name": "西安卓明货运(蔚蓝印象店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:24:34.763+08:00"
+  },
+  {
+    "name": "西安三利物流服务有限公司(贝斯特分公司)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:24:34.821+08:00"
   }
 ]
