@@ -38545,5 +38545,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:08:32.261+08:00"
+  },
+  {
+    "name": "快捷快物流(南京分拨中心)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:08:35.557+08:00"
+  },
+  {
+    "name": "商诺物流园",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:08:35.600+08:00"
+  },
+  {
+    "name": "南京众彩物流配套服务有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:08:38.536+08:00"
+  },
+  {
+    "name": "众彩物流B区",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:08:49.344+08:00"
+  },
+  {
+    "name": "江苏冠德浩仁鑫网联店",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:08:49.387+08:00"
+  },
+  {
+    "name": "尧化门铁路货场",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:08:53.071+08:00"
+  },
+  {
+    "name": "京东物流(东麒路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:08:53.114+08:00"
+  },
+  {
+    "name": "顺丰速运(莲花北苑店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:08:53.157+08:00"
+  },
+  {
+    "name": "天送福物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:08:53.200+08:00"
+  },
+  {
+    "name": "南京必胜运输有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 51,
+    "colorRatio": "1.39%",
+    "timestamp": "2026-07-03T03:08:53.243+08:00"
   }
 ]
