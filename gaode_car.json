@@ -2590,5 +2590,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:03:12.559+08:00"
+  },
+  {
+    "name": "上海闸北店",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:15.316+08:00"
+  },
+  {
+    "name": "哈啰租车(徐家汇)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:15.349+08:00"
+  },
+  {
+    "name": "哈啰租车(上海迈电浦东新区店)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:17.923+08:00"
+  },
+  {
+    "name": "柠驰租车(浦东新区陆家嘴街道店)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:21.220+08:00"
   }
 ]
