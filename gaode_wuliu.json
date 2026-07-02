@@ -26008,5 +26008,32 @@
     "colorPixels": 121,
     "colorRatio": "3.30%",
     "timestamp": "2026-07-03T02:09:04.233+08:00"
+  },
+  {
+    "name": "通利达物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:09:04.297+08:00"
+  },
+  {
+    "name": "顺丰速运(古田一路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:09:04.366+08:00"
+  },
+  {
+    "name": "韵达物流(汉城花园店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:09:04.433+08:00"
   }
 ]
