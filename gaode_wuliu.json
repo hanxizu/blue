@@ -12949,5 +12949,77 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:09:56.766+08:00"
+  },
+  {
+    "name": "易启飞国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:13.227+08:00"
+  },
+  {
+    "name": "广州市大林物流有限公司(原顺心物流)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:10:13.283+08:00"
+  },
+  {
+    "name": "宏邦物流(五凤晓鸿大街凤岗路)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:16.348+08:00"
+  },
+  {
+    "name": "广州顺景安能货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:16.400+08:00"
+  },
+  {
+    "name": "顺丰速运(合盈创意园店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:10:19.683+08:00"
+  },
+  {
+    "name": "捷瑞诚物流供应链(广州)有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 143,
+    "colorRatio": "3.89%",
+    "timestamp": "2026-07-03T01:10:19.736+08:00"
+  },
+  {
+    "name": "利发物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:22.439+08:00"
+  },
+  {
+    "name": "德邦物流(广州海珠区顺景街经营分部)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:22.514+08:00"
   }
 ]
