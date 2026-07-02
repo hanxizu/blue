@@ -763,5 +763,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T22:55:13.941+08:00"
+  },
+  {
+    "name": "利达德汽车租赁有限责任公司",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:55:17.121+08:00"
+  },
+  {
+    "name": "北京商务服务租车(亦庄店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-02T22:55:17.160+08:00"
+  },
+  {
+    "name": "神州租车(六里桥服务点)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:55:20.028+08:00"
   }
 ]
