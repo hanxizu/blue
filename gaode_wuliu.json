@@ -20770,5 +20770,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:43:03.094+08:00"
+  },
+  {
+    "name": "禾欣物流经营部",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:05.830+08:00"
+  },
+  {
+    "name": "铁路杭州北老货运站",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:05.900+08:00"
+  },
+  {
+    "name": "安能物流(杭州华丰)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:43:05.992+08:00"
   }
 ]
