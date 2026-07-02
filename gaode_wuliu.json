@@ -11392,5 +11392,149 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:03:20.486+08:00"
+  },
+  {
+    "name": "鸿庆物流(河柳街店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:30.226+08:00"
+  },
+  {
+    "name": "安能物流(河柳街店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:30.293+08:00"
+  },
+  {
+    "name": "顺达权智物流(河柳街店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:33.969+08:00"
+  },
+  {
+    "name": "鸿杰货运(广州美博城店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:34.015+08:00"
+  },
+  {
+    "name": "顺丰速运(河柳街店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:03:34.079+08:00"
+  },
+  {
+    "name": "信丰物流(中山八路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:34.151+08:00"
+  },
+  {
+    "name": "坤跃国际快递集运(海珠店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:34.193+08:00"
+  },
+  {
+    "name": "广州天成Z.M.C国际货运",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:36.949+08:00"
+  },
+  {
+    "name": "海辰物流有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:47.940+08:00"
+  },
+  {
+    "name": "顺丰速运(广园中路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:03:47.983+08:00"
+  },
+  {
+    "name": "速的国际物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:48.026+08:00"
+  },
+  {
+    "name": "正鸿国际物流有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:48.068+08:00"
+  },
+  {
+    "name": "广州宏旭国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:48.112+08:00"
+  },
+  {
+    "name": "广州恒华国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:50.816+08:00"
+  },
+  {
+    "name": "信丰物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:50.863+08:00"
+  },
+  {
+    "name": "菜鸟驿站(广州海珠素社直街48号店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:50.922+08:00"
   }
 ]
