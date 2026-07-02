@@ -5263,5 +5263,59 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T00:40:13.161+08:00"
+  },
+  {
+    "name": "深圳市路勤国际货运管理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:40:16.492+08:00"
+  },
+  {
+    "name": "顺丰速运(金梅花园店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:40:20.711+08:00"
+  },
+  {
+    "name": "顺丰速运(天吉大厦店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T00:40:20.760+08:00"
+  },
+  {
+    "name": "深圳市百腾物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:20.810+08:00"
+  },
+  {
+    "name": "顺丰速运(港澳城店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:40:20.862+08:00"
+  },
+  {
+    "name": "顺丰速运(福星店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:40:24.829+08:00"
   }
 ]
