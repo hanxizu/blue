@@ -31165,5 +31165,41 @@
     "colorPixels": 131,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-03T02:37:13.866+08:00"
+  },
+  {
+    "name": "维嘉国际货运(香港物流台湾越南泰国国际物流服务)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 131,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T02:37:35.384+08:00"
+  },
+  {
+    "name": "沛航物流·东莞宠物托运中心",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 131,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T02:37:35.426+08:00"
+  },
+  {
+    "name": "中通快运(莞城网点)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:37:38.649+08:00"
+  },
+  {
+    "name": "登泰国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:37:38.691+08:00"
   }
 ]
