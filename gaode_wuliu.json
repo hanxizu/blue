@@ -6793,5 +6793,113 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:45:00.470+08:00"
+  },
+  {
+    "name": "圆通国际(星河一期店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:45:11.505+08:00"
+  },
+  {
+    "name": "深圳市远东国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:45:11.550+08:00"
+  },
+  {
+    "name": "深圳纬狮物流网络科技有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:11.594+08:00"
+  },
+  {
+    "name": "Keylink",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:45:11.637+08:00"
+  },
+  {
+    "name": "深圳环球睿成物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 134,
+    "colorRatio": "3.65%",
+    "timestamp": "2026-07-03T00:45:11.683+08:00"
+  },
+  {
+    "name": "湖北活畜中转仓",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:14.435+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(深安路店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:17.126+08:00"
+  },
+  {
+    "name": "东昇物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:24.479+08:00"
+  },
+  {
+    "name": "飞坦数字物流(office)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:45:24.523+08:00"
+  },
+  {
+    "name": "快安达物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:45:24.566+08:00"
+  },
+  {
+    "name": "深圳市亚马迅物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:24.633+08:00"
+  },
+  {
+    "name": "深圳诚信物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 144,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T00:45:24.680+08:00"
   }
 ]
