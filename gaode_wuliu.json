@@ -31264,5 +31264,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:37:50.988+08:00"
+  },
+  {
+    "name": "东莞市汽车运输有限公司(老总站)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:37:54.117+08:00"
+  },
+  {
+    "name": "东莞市聚星国际物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 133,
+    "colorRatio": "3.62%",
+    "timestamp": "2026-07-03T02:37:54.162+08:00"
+  },
+  {
+    "name": "全球速卖通东莞服务中心",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:37:57.874+08:00"
+  },
+  {
+    "name": "东莞市程展货运有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:37:57.923+08:00"
+  },
+  {
+    "name": "德邦快递(东莞莞城区体育横路经营分部)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:37:57.968+08:00"
+  },
+  {
+    "name": "安能物流(运河西三路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:37:58.012+08:00"
+  },
+  {
+    "name": "顺丰速运(聚福豪苑店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:38:02.110+08:00"
   }
 ]
