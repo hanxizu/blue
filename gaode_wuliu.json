@@ -40039,5 +40039,131 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T03:20:36.401+08:00"
+  },
+  {
+    "name": "顺丰速运(西康路店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:20:36.448+08:00"
+  },
+  {
+    "name": "顺丰速运(广东路店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:20:36.490+08:00"
+  },
+  {
+    "name": "天津海天启航国际货运代理有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:20:36.533+08:00"
+  },
+  {
+    "name": "威纳国际货运代理有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 15,
+    "colorRatio": "0.41%",
+    "timestamp": "2026-07-03T03:20:36.599+08:00"
+  },
+  {
+    "name": "可利国际运输集团",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:20:39.603+08:00"
+  },
+  {
+    "name": "天津德承物流有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:20:42.382+08:00"
+  },
+  {
+    "name": "骏高国际货运(中国)有限公司(天津分公司)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:20:42.449+08:00"
+  },
+  {
+    "name": "天津君隆泰华国际货运代理有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:20:45.746+08:00"
+  },
+  {
+    "name": "顺丰速运(绥江道店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:20:45.829+08:00"
+  },
+  {
+    "name": "天津市腾达圣通国际货运代理有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T03:20:49.553+08:00"
+  },
+  {
+    "name": "顺丰速运(龙都南园店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:20:49.596+08:00"
+  },
+  {
+    "name": "天津市西青区邦威鹏达物流部",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 132,
+    "colorRatio": "3.59%",
+    "timestamp": "2026-07-03T03:20:49.641+08:00"
+  },
+  {
+    "name": "顺丰速运(昆明路店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:20:52.180+08:00"
+  },
+  {
+    "name": "深圳市迅来通国际货运代理有限公司天津分公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:20:52.241+08:00"
   }
 ]
