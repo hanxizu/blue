@@ -35764,5 +35764,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:59:21.967+08:00"
+  },
+  {
+    "name": "顺丰速运(西桥路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:59:22.020+08:00"
+  },
+  {
+    "name": "顺丰速运(五台花园店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:59:25.904+08:00"
+  },
+  {
+    "name": "顺丰速运(上海路小区店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:59:25.949+08:00"
+  },
+  {
+    "name": "江苏中科瑞航国际物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:59:25.993+08:00"
+  },
+  {
+    "name": "顺丰速运(华新巷店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T02:59:26.037+08:00"
   }
 ]
