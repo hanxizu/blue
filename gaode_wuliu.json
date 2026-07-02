@@ -41632,5 +41632,41 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T03:25:00.676+08:00"
+  },
+  {
+    "name": "富鑫货运站",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:09.688+08:00"
+  },
+  {
+    "name": "顺丰速运(精武店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:25:12.776+08:00"
+  },
+  {
+    "name": "顺丰速运(环亚店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:25:12.819+08:00"
+  },
+  {
+    "name": "天津恒顺冷藏货运有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:25:16.391+08:00"
   }
 ]
