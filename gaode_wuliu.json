@@ -28870,5 +28870,32 @@
     "colorPixels": 110,
     "colorRatio": "3.00%",
     "timestamp": "2026-07-03T02:21:04.526+08:00"
+  },
+  {
+    "name": "陕西鸿飞物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 60,
+    "colorRatio": "1.63%",
+    "timestamp": "2026-07-03T02:21:14.375+08:00"
+  },
+  {
+    "name": "中铁快运",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:21:14.425+08:00"
+  },
+  {
+    "name": "广盛源物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:21:14.529+08:00"
   }
 ]
