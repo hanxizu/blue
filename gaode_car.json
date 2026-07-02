@@ -2905,5 +2905,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:04:16.628+08:00"
+  },
+  {
+    "name": "上海飞东汽车租赁有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:19.367+08:00"
+  },
+  {
+    "name": "煜宸租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:04:22.370+08:00"
+  },
+  {
+    "name": "神州租车(嘉定南翔古漪园店)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:22.397+08:00"
+  },
+  {
+    "name": "鼎亿汽车租赁服务(上海)有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:25.402+08:00"
+  },
+  {
+    "name": "安喏租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:25.433+08:00"
+  },
+  {
+    "name": "上海煦升汽车租赁有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:28.046+08:00"
+  },
+  {
+    "name": "神州租车(百联吴淞生活中心自助点)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:30.832+08:00"
+  },
+  {
+    "name": "悟空租车(智慧园商务大楼店)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:30.866+08:00"
+  },
+  {
+    "name": "隆辉汽车租赁(上海)有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-02T23:04:33.489+08:00"
+  },
+  {
+    "name": "摇啊摇汽车租赁",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:35.930+08:00"
   }
 ]
