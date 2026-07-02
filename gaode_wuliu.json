@@ -39337,5 +39337,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:12:20.460+08:00"
+  },
+  {
+    "name": "顺丰速运(翠屏店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T03:12:24.173+08:00"
+  },
+  {
+    "name": "江苏中卓工程物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:12:27.242+08:00"
+  },
+  {
+    "name": "曹操出行网约车司机招募中心(启滴1号店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T03:12:27.306+08:00"
+  },
+  {
+    "name": "顺丰速运(金茂悦店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:12:27.361+08:00"
+  },
+  {
+    "name": "南京伯尔尼冷链物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:12:27.426+08:00"
+  },
+  {
+    "name": "顺丰速运(国熙台门店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:12:27.491+08:00"
   }
 ]
