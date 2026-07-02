@@ -23083,5 +23083,122 @@
     "colorPixels": 306,
     "colorRatio": "13.33%",
     "timestamp": "2026-07-03T00:40:37.313+08:00"
+  },
+  {
+    "name": "星空租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:40:42.811+08:00"
+  },
+  {
+    "name": "博威租车天津机场店",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:40:45.329+08:00"
+  },
+  {
+    "name": "一嗨租车(天津站店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:48.093+08:00"
+  },
+  {
+    "name": "网约车俱乐部",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:48.124+08:00"
+  },
+  {
+    "name": "曹操出行合作伙伴-中泰缤纷路店",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:48.152+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(易安用车站)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:50.925+08:00"
+  },
+  {
+    "name": "名车汇汽车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:51.012+08:00"
+  },
+  {
+    "name": "神州租车(第二大街店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:53.436+08:00"
+  },
+  {
+    "name": "一嗨租车(河西土城地铁站店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:56.369+08:00"
+  },
+  {
+    "name": "顺鑫出租车买卖",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:59.096+08:00"
+  },
+  {
+    "name": "钜川网约车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:59.126+08:00"
+  },
+  {
+    "name": "承远租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:02.394+08:00"
+  },
+  {
+    "name": "万顺出租车专卖(河北店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:02.426+08:00"
   }
 ]
