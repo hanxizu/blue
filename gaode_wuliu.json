@@ -2815,5 +2815,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:24:11.034+08:00"
+  },
+  {
+    "name": "北京鑫熹伟晔物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:24:18.205+08:00"
+  },
+  {
+    "name": "盛达物流(汉龙物流园)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:24:18.270+08:00"
+  },
+  {
+    "name": "北京君英达货运代理有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:24:18.312+08:00"
   }
 ]
