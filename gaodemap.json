@@ -2293,5 +2293,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T09:01:11.542+08:00"
+  },
+  {
+    "name": "北京杰敏装饰有限责任公司",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:01:17.852+08:00"
+  },
+  {
+    "name": "北京朗阔建材装饰材料有限公司",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T09:01:17.934+08:00"
   }
 ]
