@@ -40804,5 +40804,50 @@
     "colorPixels": 491,
     "colorRatio": "13.37%",
     "timestamp": "2026-07-03T03:22:18.762+08:00"
+  },
+  {
+    "name": "智云物流(天津)有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:22:25.500+08:00"
+  },
+  {
+    "name": "顺丰速运(天津大学店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:22:25.544+08:00"
+  },
+  {
+    "name": "菜鸟驿站(天津河西四信公寓底商2号店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:22:25.588+08:00"
+  },
+  {
+    "name": "顺丰速运(大沽北路店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:22:25.632+08:00"
+  },
+  {
+    "name": "山东元增国际货运代理公司天津分公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 67,
+    "colorRatio": "1.82%",
+    "timestamp": "2026-07-03T03:22:25.675+08:00"
   }
 ]
