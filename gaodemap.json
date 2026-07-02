@@ -27826,5 +27826,104 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T15:40:00.000+08:00"
+  },
+  {
+    "name": "优阁装饰",
+    "city": "芜湖市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:40:12.585+08:00"
+  },
+  {
+    "name": "安兴装饰",
+    "city": "芜湖市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:40:12.620+08:00"
+  },
+  {
+    "name": "盛居装饰(奇瑞·BOBO城F区店)",
+    "city": "芜湖市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:40:12.679+08:00"
+  },
+  {
+    "name": "洁诺装饰",
+    "city": "芜湖市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T15:40:12.710+08:00"
+  },
+  {
+    "name": "亿然装饰",
+    "city": "芜湖市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T15:40:15.521+08:00"
+  },
+  {
+    "name": "惠友装饰建材馆(瑞丰商博城南区J区店)",
+    "city": "芜湖市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:40:15.552+08:00"
+  },
+  {
+    "name": "素本全案设计中心",
+    "city": "芜湖市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T15:40:18.222+08:00"
+  },
+  {
+    "name": "安徽云禾广告装饰工程有限公司",
+    "city": "芜湖市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T15:40:30.432+08:00"
+  },
+  {
+    "name": "品艺广告装饰",
+    "city": "芜湖市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:40:30.464+08:00"
+  },
+  {
+    "name": "昌华家居装饰行",
+    "city": "芜湖市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:40:32.997+08:00"
+  },
+  {
+    "name": "彩红装饰(环球小区店)",
+    "city": "芜湖市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:40:33.027+08:00"
   }
 ]
