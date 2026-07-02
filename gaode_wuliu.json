@@ -31372,5 +31372,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:38:05.392+08:00"
+  },
+  {
+    "name": "盈速通国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:38:08.063+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞万江坝翔路11号106店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:38:08.176+08:00"
+  },
+  {
+    "name": "顺丰速运(石竹新花园店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:38:11.634+08:00"
+  },
+  {
+    "name": "金龙航运有限公司(坝翔商业街)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:38:11.677+08:00"
+  },
+  {
+    "name": "振华运输有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:38:15.496+08:00"
   }
 ]
