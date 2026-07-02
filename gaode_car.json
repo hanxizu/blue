@@ -28429,5 +28429,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:06:42.081+08:00"
+  },
+  {
+    "name": "骑仕租车(长沙高铁南站店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:06:44.926+08:00"
+  },
+  {
+    "name": "新渝租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:47.879+08:00"
+  },
+  {
+    "name": "滴滴出行授权司机服务之家(翔宇岳麓大道店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:06:47.913+08:00"
+  },
+  {
+    "name": "神州租车长沙南高铁还车点",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:50.389+08:00"
+  },
+  {
+    "name": "熊猫外卖租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:06:53.527+08:00"
+  },
+  {
+    "name": "橙电租车(长沙五恒高岭店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:53.558+08:00"
+  },
+  {
+    "name": "一嗨租车(长盛岚庭店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:56.119+08:00"
+  },
+  {
+    "name": "滴滴租买车官方授权中心(一汽出行)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:58.971+08:00"
+  },
+  {
+    "name": "小北骑行服务中心(火车站店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:59.022+08:00"
+  },
+  {
+    "name": "同祥租车(火车站店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:07:01.488+08:00"
   }
 ]
