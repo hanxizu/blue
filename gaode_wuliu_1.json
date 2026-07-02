@@ -1339,5 +1339,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:22:38.151+08:00"
+  },
+  {
+    "name": "顺丰速运(康定店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:22:38.200+08:00"
+  },
+  {
+    "name": "顺丰速运(陆家嘴金融中心快递服务中心)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T07:22:38.236+08:00"
+  },
+  {
+    "name": "朗宏国际物流(上海)有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:38.271+08:00"
+  },
+  {
+    "name": "江苏世航国际货运代理股份有限公司上海分公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:40.747+08:00"
+  },
+  {
+    "name": "顺丰速运(康定店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:22:40.771+08:00"
+  },
+  {
+    "name": "顺丰速运(陆家嘴金融中心快递服务中心)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T07:22:40.796+08:00"
+  },
+  {
+    "name": "朗宏国际物流(上海)有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:40.818+08:00"
+  },
+  {
+    "name": "美设国际物流集团股份有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:40.840+08:00"
+  },
+  {
+    "name": "顺丰速运(陆家嘴金融中心快递服务中心)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T07:22:43.838+08:00"
   }
 ]
