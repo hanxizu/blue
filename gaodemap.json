@@ -6901,5 +6901,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T10:55:03.503+08:00"
+  },
+  {
+    "name": "芃锦装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:55:06.229+08:00"
+  },
+  {
+    "name": "上海秀然设计工程有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:55:08.925+08:00"
+  },
+  {
+    "name": "领贤设计装饰·整装·老房翻新",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:55:11.451+08:00"
+  },
+  {
+    "name": "上海鸿仁亿海建筑工程装饰有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:55:11.475+08:00"
   }
 ]
