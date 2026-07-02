@@ -30571,5 +30571,158 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T01:17:09.190+08:00"
+  },
+  {
+    "name": "青岛云朵两轮电动车租赁",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:17:11.951+08:00"
+  },
+  {
+    "name": "佰利租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:17:11.986+08:00"
+  },
+  {
+    "name": "青岛东平汶上客货专线",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:12.023+08:00"
+  },
+  {
+    "name": "滴滴出行租买车官方授权店(优岛行长沙路店)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:17:14.606+08:00"
+  },
+  {
+    "name": "青岛康迪汽车租赁有限公司",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:14.639+08:00"
+  },
+  {
+    "name": "北极星租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:14.672+08:00"
+  },
+  {
+    "name": "酷乐租车租电动车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:18.066+08:00"
+  },
+  {
+    "name": "大观租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:21.071+08:00"
+  },
+  {
+    "name": "众泽通网约车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:21.102+08:00"
+  },
+  {
+    "name": "叉车铲车吊车拖车租赁公司",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 108,
+    "colorRatio": "4.71%",
+    "timestamp": "2026-07-03T01:17:24.046+08:00"
+  },
+  {
+    "name": "哈啰租车(暖阳出行)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:24.086+08:00"
+  },
+  {
+    "name": "哈啰租车(青岛北站自提点)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:24.146+08:00"
+  },
+  {
+    "name": "精灵奢驾汽车租赁(CBD店)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:29.995+08:00"
+  },
+  {
+    "name": "青岛出租车之家",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:30.025+08:00"
+  },
+  {
+    "name": "青岛和金汽车租赁有限公司",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:17:30.054+08:00"
+  },
+  {
+    "name": "哈啰租车(五四广场店)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:32.872+08:00"
+  },
+  {
+    "name": "传奇租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:32.909+08:00"
   }
 ]
