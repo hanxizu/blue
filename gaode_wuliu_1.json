@@ -1186,5 +1186,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:22:27.269+08:00"
+  },
+  {
+    "name": "马士基航运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:27.301+08:00"
+  },
+  {
+    "name": "上海佳禾国际物流有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:27.334+08:00"
+  },
+  {
+    "name": "顺丰速运(环龙新苑店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:22:27.360+08:00"
+  },
+  {
+    "name": "上海泛远国际货运代理有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:29.776+08:00"
+  },
+  {
+    "name": "马士基航运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:29.810+08:00"
+  },
+  {
+    "name": "上海佳禾国际物流有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:29.846+08:00"
+  },
+  {
+    "name": "顺丰速运(环龙新苑店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:22:29.872+08:00"
+  },
+  {
+    "name": "德邦物流",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:29.901+08:00"
+  },
+  {
+    "name": "顺丰速运(环龙新苑店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:22:32.670+08:00"
   }
 ]
