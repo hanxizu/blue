@@ -1429,5 +1429,32 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T22:57:47.255+08:00"
+  },
+  {
+    "name": "哈啰租车(汇海汽车丰台店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:57:49.584+08:00"
+  },
+  {
+    "name": "北京租车(朝阳店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T22:57:49.609+08:00"
+  },
+  {
+    "name": "北京兴业联合汽车租赁有限公司",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:57:49.647+08:00"
   }
 ]
