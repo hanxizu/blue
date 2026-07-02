@@ -17521,5 +17521,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T12:10:57.389+08:00"
+  },
+  {
+    "name": "创博装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:11:13.118+08:00"
+  },
+  {
+    "name": "中再装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:11:13.146+08:00"
+  },
+  {
+    "name": "智飞装饰(清和园店)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:11:13.218+08:00"
+  },
+  {
+    "name": "安徽省新艺装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T12:11:18.294+08:00"
+  },
+  {
+    "name": "抖佳装·装修设计全屋定制",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:11:18.335+08:00"
   }
 ]
