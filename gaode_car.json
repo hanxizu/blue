@@ -30076,5 +30076,104 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T01:15:42.284+08:00"
+  },
+  {
+    "name": "中腾租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:15:42.326+08:00"
+  },
+  {
+    "name": "小牛租车·电动车租赁(金沙滩店)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:42.361+08:00"
+  },
+  {
+    "name": "阿福车行·电动车·旅游服务(第三海水浴场店)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:45.471+08:00"
+  },
+  {
+    "name": "帅龙龙车行租电动车·租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:15:48.223+08:00"
+  },
+  {
+    "name": "青岛千里骑租赁服务有限公司",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:15:48.250+08:00"
+  },
+  {
+    "name": "青岛阳光挚旅商贸有限公司",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:50.989+08:00"
+  },
+  {
+    "name": "路安租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:51.023+08:00"
+  },
+  {
+    "name": "顺吉租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:53.910+08:00"
+  },
+  {
+    "name": "青岛梦幻豪车租赁",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:56.850+08:00"
+  },
+  {
+    "name": "礼运租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:56.886+08:00"
+  },
+  {
+    "name": "中出行租车(黄岛店)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:59.576+08:00"
   }
 ]
