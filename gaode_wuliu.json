@@ -29518,5 +29518,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:23:51.687+08:00"
+  },
+  {
+    "name": "顺笛冷链物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:23:51.738+08:00"
+  },
+  {
+    "name": "双宏通物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:23:51.816+08:00"
+  },
+  {
+    "name": "壹米滴答(贝斯特东营业部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:23:51.864+08:00"
+  },
+  {
+    "name": "四季安物流玉祥门1部(西站路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 154,
+    "colorRatio": "4.19%",
+    "timestamp": "2026-07-03T02:23:51.917+08:00"
+  },
+  {
+    "name": "双生延西货运部(西站社区店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:23:54.808+08:00"
   }
 ]
