@@ -5605,5 +5605,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:41:16.064+08:00"
+  },
+  {
+    "name": "顺丰速运(百花店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:41:16.109+08:00"
+  },
+  {
+    "name": "坤辉龙国际物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:41:16.153+08:00"
+  },
+  {
+    "name": "方显国际货运(华强分部)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:16.196+08:00"
+  },
+  {
+    "name": "中通快递(赛格科技园店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 95,
+    "colorRatio": "2.59%",
+    "timestamp": "2026-07-03T00:41:16.262+08:00"
+  },
+  {
+    "name": "百腾物流(华发北路)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:18.861+08:00"
+  },
+  {
+    "name": "深圳市华胜国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:18.917+08:00"
+  },
+  {
+    "name": "佳美易国际物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:18.994+08:00"
   }
 ]
