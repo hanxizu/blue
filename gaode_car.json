@@ -7963,5 +7963,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:26:56.979+08:00"
+  },
+  {
+    "name": "成都畅游租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:27:03.187+08:00"
+  },
+  {
+    "name": "广源宏通汽车租赁",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:27:03.243+08:00"
+  },
+  {
+    "name": "绿城租赁",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:27:05.758+08:00"
   }
 ]
