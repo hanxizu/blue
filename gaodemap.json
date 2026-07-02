@@ -23551,5 +23551,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T12:54:29.730+08:00"
+  },
+  {
+    "name": "卓野装饰巴南店",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:54:51.424+08:00"
+  },
+  {
+    "name": "浦江装饰(松青路)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:54:51.474+08:00"
+  },
+  {
+    "name": "宏鑫装饰(奥园越时代D区店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T12:54:51.531+08:00"
+  },
+  {
+    "name": "名满楼装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:54:54.079+08:00"
+  },
+  {
+    "name": "潮新美业装修设计(日月山庄店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:54:56.660+08:00"
+  },
+  {
+    "name": "十光装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:54:59.343+08:00"
   }
 ]
