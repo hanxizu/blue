@@ -30553,5 +30553,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:29:12.200+08:00"
+  },
+  {
+    "name": "通达乡村物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:29:12.280+08:00"
+  },
+  {
+    "name": "千帆货运",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:29:12.354+08:00"
+  },
+  {
+    "name": "西安金贸达物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:29:12.442+08:00"
+  },
+  {
+    "name": "顺丰速运(恒天国际城店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:29:12.519+08:00"
   }
 ]
