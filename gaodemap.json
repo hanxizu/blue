@@ -1861,5 +1861,23 @@
     "colorPixels": 72,
     "colorRatio": "1.82%",
     "timestamp": "2026-07-02T08:48:32.763+08:00"
+  },
+  {
+    "name": "上海金茂建筑装饰有限公司",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T08:48:38.656+08:00"
+  },
+  {
+    "name": "新加坡恺天设计(朝阳建外soho店)",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T08:48:38.696+08:00"
   }
 ]
