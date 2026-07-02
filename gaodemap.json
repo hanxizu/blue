@@ -17314,5 +17314,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T12:09:35.213+08:00"
+  },
+  {
+    "name": "安徽纯伦建筑工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:09:50.730+08:00"
+  },
+  {
+    "name": "安徽徽丰三和建筑工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:09:50.760+08:00"
+  },
+  {
+    "name": "安徽看美建筑工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:09:53.702+08:00"
+  },
+  {
+    "name": "安徽大易建筑设计事务所",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:09:57.259+08:00"
+  },
+  {
+    "name": "安徽商界建筑设计有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:09:57.286+08:00"
+  },
+  {
+    "name": "匠心联创设计集团有限公司合肥分公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T12:09:59.798+08:00"
+  },
+  {
+    "name": "合肥青葵设计有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:09:59.830+08:00"
   }
 ]
