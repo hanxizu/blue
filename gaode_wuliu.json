@@ -3391,5 +3391,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:26:25.164+08:00"
+  },
+  {
+    "name": "金牌亿达物流·搬家·货运公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 61,
+    "colorRatio": "1.66%",
+    "timestamp": "2026-07-03T00:26:38.958+08:00"
+  },
+  {
+    "name": "顺丰速运(金卫路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 520,
+    "colorRatio": "14.16%",
+    "timestamp": "2026-07-03T00:26:38.998+08:00"
+  },
+  {
+    "name": "顺丰速运(新荟城店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:26:42.221+08:00"
   }
 ]
