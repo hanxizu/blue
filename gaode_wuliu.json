@@ -20878,5 +20878,41 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:43:30.481+08:00"
+  },
+  {
+    "name": "顺丰速运(华西支路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:43:33.836+08:00"
+  },
+  {
+    "name": "顺丰速运(万家花城小区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:43:33.888+08:00"
+  },
+  {
+    "name": "壹米滴答(杭州北塘营业部)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:36.970+08:00"
+  },
+  {
+    "name": "顺丰速运(尚堂府店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "2.42%",
+    "timestamp": "2026-07-03T01:43:37.021+08:00"
   }
 ]
