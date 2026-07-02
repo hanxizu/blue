@@ -28852,5 +28852,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:21:01.912+08:00"
+  },
+  {
+    "name": "西安创佳物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:21:04.476+08:00"
+  },
+  {
+    "name": "西安蒙通物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 110,
+    "colorRatio": "3.00%",
+    "timestamp": "2026-07-03T02:21:04.526+08:00"
   }
 ]
