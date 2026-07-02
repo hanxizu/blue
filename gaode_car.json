@@ -34054,5 +34054,113 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:33:55.983+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(济南展威科技园站)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:59.257+08:00"
+  },
+  {
+    "name": "一诚汽车服务",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:59.291+08:00"
+  },
+  {
+    "name": "山东昊宇汽车服务有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:01.891+08:00"
+  },
+  {
+    "name": "山东易特优",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:04.973+08:00"
+  },
+  {
+    "name": "济南吉途众安汽车租赁有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:05.006+08:00"
+  },
+  {
+    "name": "首约租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:34:05.036+08:00"
+  },
+  {
+    "name": "济南长途汽车总站送车点-神州租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:08.054+08:00"
+  },
+  {
+    "name": "滴滴送货山东喜刷刷司机服务中心",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:08.091+08:00"
+  },
+  {
+    "name": "总镖头汽车租赁(历城店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:10.571+08:00"
+  },
+  {
+    "name": "济南舒旅汽车服务有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:34:13.741+08:00"
+  },
+  {
+    "name": "山东交通运输集团兴运汽车租赁有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:13.773+08:00"
+  },
+  {
+    "name": "顺达出行",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:16.228+08:00"
   }
 ]
