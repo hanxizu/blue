@@ -35404,5 +35404,32 @@
     "colorPixels": 514,
     "colorRatio": "14.00%",
     "timestamp": "2026-07-03T02:52:49.446+08:00"
+  },
+  {
+    "name": "东莞市屿骞国际物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:52:52.418+08:00"
+  },
+  {
+    "name": "汉鼎陆港捷运",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:52:52.561+08:00"
+  },
+  {
+    "name": "盛世国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:52:52.650+08:00"
   }
 ]
