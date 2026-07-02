@@ -15775,5 +15775,32 @@
     "colorPixels": 170,
     "colorRatio": "4.63%",
     "timestamp": "2026-07-03T01:21:29.260+08:00"
+  },
+  {
+    "name": "京东物流成都高升桥营业部",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:32.321+08:00"
+  },
+  {
+    "name": "发航物流成都分公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:34.839+08:00"
+  },
+  {
+    "name": "成都蓝顶艺速物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:21:34.897+08:00"
   }
 ]
