@@ -1492,5 +1492,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:19:07.705+08:00"
+  },
+  {
+    "name": "京东物流(北京广通站)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:19:07.742+08:00"
+  },
+  {
+    "name": "顺丰速运(金辉店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:19:07.777+08:00"
+  },
+  {
+    "name": "顺丰速运(樱花园店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:19:07.813+08:00"
+  },
+  {
+    "name": "顺丰速运(高楼村店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:19:10.380+08:00"
+  },
+  {
+    "name": "顺丰速运(蓝色港湾快递服务中心)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 568,
+    "colorRatio": "15.47%",
+    "timestamp": "2026-07-03T00:19:10.426+08:00"
+  },
+  {
+    "name": "顺丰速运(中海城店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:19:10.512+08:00"
   }
 ]
