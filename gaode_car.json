@@ -39895,5 +39895,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:02:18.646+08:00"
+  },
+  {
+    "name": "电动车出租0押金",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:02:24.522+08:00"
+  },
+  {
+    "name": "乾庄寄卖汽车抵押黄金回收",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T02:02:27.325+08:00"
   }
 ]
