@@ -16513,5 +16513,167 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:08:15.350+08:00"
+  },
+  {
+    "name": "远德租车",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:18.084+08:00"
+  },
+  {
+    "name": "江铃乐行租赁",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:18.116+08:00"
+  },
+  {
+    "name": "顺州租车",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:20.591+08:00"
+  },
+  {
+    "name": "安安汽车网约车司服中心",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T00:08:23.739+08:00"
+  },
+  {
+    "name": "金万通租车",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:23.804+08:00"
+  },
+  {
+    "name": "货拉拉租车买车官方交付中心",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:26.390+08:00"
+  },
+  {
+    "name": "车之友代驾 租车",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:29.321+08:00"
+  },
+  {
+    "name": "枫叶出行(格兰名筑店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:29.353+08:00"
+  },
+  {
+    "name": "神州租车(花园大街店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:31.775+08:00"
+  },
+  {
+    "name": "鸿盛免押金租车",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:34.823+08:00"
+  },
+  {
+    "name": "莞源汽车信息服务部",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:34.859+08:00"
+  },
+  {
+    "name": "洪鑫新能源货车出租点(寮步站)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:37.473+08:00"
+  },
+  {
+    "name": "东莞市凯俊汽车租赁有限公司",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:40.716+08:00"
+  },
+  {
+    "name": "东莞市合顺旅游汽车租赁有限公司",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:40.745+08:00"
+  },
+  {
+    "name": "东莞–宇沣网约车运营中心(寮步店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:40.786+08:00"
+  },
+  {
+    "name": "诚信租车租电服务中心(东城西路店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:43.284+08:00"
+  },
+  {
+    "name": "广东立通汽车租赁有限公司",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:43.317+08:00"
+  },
+  {
+    "name": "奇源汽车租赁公司",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:08:43.346+08:00"
   }
 ]
