@@ -18700,5 +18700,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T12:21:57.931+08:00"
+  },
+  {
+    "name": "景宏装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:22:16.538+08:00"
+  },
+  {
+    "name": "立潮装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:22:16.565+08:00"
+  },
+  {
+    "name": "安徽茂艺装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:22:21.829+08:00"
+  },
+  {
+    "name": "臻艾装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:22:24.707+08:00"
   }
 ]
