@@ -35152,5 +35152,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:38:16.858+08:00"
+  },
+  {
+    "name": "凯安汽车租赁服务(鹊华大道店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:38:22.663+08:00"
+  },
+  {
+    "name": "畅玩旅游租车",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:38:22.697+08:00"
+  },
+  {
+    "name": "哈啰租车济南东站店",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:38:25.682+08:00"
+  },
+  {
+    "name": "哈啰租车(郭店华联超市)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:38:31.574+08:00"
+  },
+  {
+    "name": "北极星租车(携程优选翡翠郡店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:38:31.608+08:00"
+  },
+  {
+    "name": "飓风租车(天桥区官扎营街道店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:38:34.185+08:00"
+  },
+  {
+    "name": "哈啰租车(云图租车济南店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:38:40.234+08:00"
   }
 ]
