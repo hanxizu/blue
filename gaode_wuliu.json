@@ -2734,5 +2734,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:23:51.960+08:00"
+  },
+  {
+    "name": "华诚达物流有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:23:54.575+08:00"
+  },
+  {
+    "name": "云龙永盛物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 165,
+    "colorRatio": "4.49%",
+    "timestamp": "2026-07-03T00:23:54.625+08:00"
   }
 ]
