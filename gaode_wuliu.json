@@ -17845,5 +17845,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:32:20.596+08:00"
+  },
+  {
+    "name": "四川运恒物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:32:20.701+08:00"
+  },
+  {
+    "name": "宠歪歪宠物托运",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "3.35%",
+    "timestamp": "2026-07-03T01:32:20.774+08:00"
+  },
+  {
+    "name": "顺丰速运(保利康桥负一楼店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:32:23.398+08:00"
   }
 ]
