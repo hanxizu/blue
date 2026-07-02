@@ -33145,5 +33145,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:43:18.916+08:00"
+  },
+  {
+    "name": "东莞市邮成通货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:43:24.669+08:00"
+  },
+  {
+    "name": "东莞市环泰国际货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 38,
+    "colorRatio": "1.03%",
+    "timestamp": "2026-07-03T02:43:24.717+08:00"
+  },
+  {
+    "name": "鑫兴鹏物流南城站",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:43:28.537+08:00"
   }
 ]
