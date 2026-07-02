@@ -36070,5 +36070,104 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T01:43:14.308+08:00"
+  },
+  {
+    "name": "哈啰租车(广贤路店)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:43:17.146+08:00"
+  },
+  {
+    "name": "领辰租车(滴滴授权门店)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:17.184+08:00"
+  },
+  {
+    "name": "福州滨河里汽车服务有限公司",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:43:20.286+08:00"
+  },
+  {
+    "name": "网约车租赁",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:20.340+08:00"
+  },
+  {
+    "name": "福州长乐亨达高空作业车租赁",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:23.092+08:00"
+  },
+  {
+    "name": "福州世纪风出租车有限公司",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:25.973+08:00"
+  },
+  {
+    "name": "凹凸租车(浦上大道店)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:26.032+08:00"
+  },
+  {
+    "name": "福州瑞通汽车租赁有限公司",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:26.142+08:00"
+  },
+  {
+    "name": "良辰汽车租赁",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:28.854+08:00"
+  },
+  {
+    "name": "哈啰租车(华纵租车福州站店)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:28.888+08:00"
+  },
+  {
+    "name": "海峡出租车西岭服务站",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:31.392+08:00"
   }
 ]
