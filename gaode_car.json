@@ -8773,5 +8773,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:31:02.959+08:00"
+  },
+  {
+    "name": "候鸟租车杭州东站店",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 306,
+    "colorRatio": "13.33%",
+    "timestamp": "2026-07-02T23:31:08.095+08:00"
+  },
+  {
+    "name": "连租车汽车服务站",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:08.162+08:00"
+  },
+  {
+    "name": "杭州云达租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:10.943+08:00"
+  },
+  {
+    "name": "骑幻出行-租车  售车  修车 换电(拱墅区店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:10.968+08:00"
+  },
+  {
+    "name": "神州租车(文一路西溪泊岸服务点)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:13.446+08:00"
+  },
+  {
+    "name": "杭州友邻租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:16.281+08:00"
+  },
+  {
+    "name": "一嗨租车(笕桥店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:31:16.315+08:00"
+  },
+  {
+    "name": "金娴租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:31:18.931+08:00"
+  },
+  {
+    "name": "小旋风租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:31:21.409+08:00"
   }
 ]
