@@ -826,5 +826,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:17:03.030+08:00"
+  },
+  {
+    "name": "顺丰速运(国际眼镜城店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:17:03.066+08:00"
+  },
+  {
+    "name": "中电国际货运代理有限责任公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:17:03.100+08:00"
+  },
+  {
+    "name": "北京市第一运输公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:17:03.135+08:00"
+  },
+  {
+    "name": "顺丰速运(嘉业大厦店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 514,
+    "colorRatio": "14.00%",
+    "timestamp": "2026-07-03T00:17:03.169+08:00"
+  },
+  {
+    "name": "驿收发驿站(嘉业大厦店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:17:05.675+08:00"
+  },
+  {
+    "name": "顺丰速运(广渠东路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "2.78%",
+    "timestamp": "2026-07-03T00:17:05.720+08:00"
   }
 ]
