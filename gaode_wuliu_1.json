@@ -358,5 +358,68 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T07:21:28.461+08:00"
+  },
+  {
+    "name": "硕达国际货运公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:28.494+08:00"
+  },
+  {
+    "name": "东浩兰生国际贸易集团",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:28.521+08:00"
+  },
+  {
+    "name": "东浩兰生国际贸易集团",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:30.964+08:00"
+  },
+  {
+    "name": "上海恩跃物流发展有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:31.005+08:00"
+  },
+  {
+    "name": "上海铁通物流有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:31.048+08:00"
+  },
+  {
+    "name": "顺丰速运(四川北路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T07:21:31.076+08:00"
+  },
+  {
+    "name": "上海铁通物流有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:33.780+08:00"
   }
 ]
