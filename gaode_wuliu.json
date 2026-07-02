@@ -16081,5 +16081,68 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:22:44.811+08:00"
+  },
+  {
+    "name": "顺丰速运(V客东都店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:22:50.596+08:00"
+  },
+  {
+    "name": "安能物流簇桥营业部",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:22:50.639+08:00"
+  },
+  {
+    "name": "顺丰速运(文星镇店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:22:54.991+08:00"
+  },
+  {
+    "name": "强虎物流(双华店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:22:55.035+08:00"
+  },
+  {
+    "name": "四川新中伟业物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:22:55.079+08:00"
+  },
+  {
+    "name": "顺丰速运(现代之窗店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:22:55.122+08:00"
+  },
+  {
+    "name": "平安不动产成都新地物流园",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:22:55.164+08:00"
   }
 ]
