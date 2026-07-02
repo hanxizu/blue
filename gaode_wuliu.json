@@ -12175,5 +12175,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:06:24.110+08:00"
+  },
+  {
+    "name": "顺丰速运(粤景轩小区店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:35.577+08:00"
+  },
+  {
+    "name": "中国物流(中山一路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:35.620+08:00"
+  },
+  {
+    "name": "顺丰速运(金贵村店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:06:35.663+08:00"
+  },
+  {
+    "name": "兴通行(云山雅苑店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:06:35.729+08:00"
   }
 ]
