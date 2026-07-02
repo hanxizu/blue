@@ -7117,5 +7117,86 @@
     "colorPixels": 570,
     "colorRatio": "15.52%",
     "timestamp": "2026-07-03T00:46:14.860+08:00"
+  },
+  {
+    "name": "港庆联物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:46:25.321+08:00"
+  },
+  {
+    "name": "圆通妈妈驿站(白石龙一区八栋)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:46:25.394+08:00"
+  },
+  {
+    "name": "顺心捷达(清水河店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:46:25.438+08:00"
+  },
+  {
+    "name": "顺丰速运(鹤围村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:46:25.482+08:00"
+  },
+  {
+    "name": "兴利中港",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:46:28.373+08:00"
+  },
+  {
+    "name": "顺丰速运(龙悦居店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:46:28.418+08:00"
+  },
+  {
+    "name": "金运达A仓",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:46:31.114+08:00"
+  },
+  {
+    "name": "孟元物流(清水河五路店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:46:41.131+08:00"
+  },
+  {
+    "name": "中港利达海南专线",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:46:45.234+08:00"
   }
 ]
