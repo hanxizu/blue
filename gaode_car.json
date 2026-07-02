@@ -1618,5 +1618,104 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-02T23:00:18.522+08:00"
+  },
+  {
+    "name": "上海租车公司曙辉租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:00:21.523+08:00"
+  },
+  {
+    "name": "金义方租车(宝山日月光店)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:00:24.488+08:00"
+  },
+  {
+    "name": "腾达汽车租赁",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-02T23:00:24.516+08:00"
+  },
+  {
+    "name": "上海浦南汽车出租服务有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:00:30.218+08:00"
+  },
+  {
+    "name": "丛达汽车租赁(上海)有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:00:30.250+08:00"
+  },
+  {
+    "name": "上海歆宏汽车租赁有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:00:33.261+08:00"
+  },
+  {
+    "name": "上海佳缘汽车租赁(肇嘉浜路)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T23:00:36.371+08:00"
+  },
+  {
+    "name": "上海市雅涵汽车租赁有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:00:36.424+08:00"
+  },
+  {
+    "name": "陪同租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:00:36.470+08:00"
+  },
+  {
+    "name": "上海弘晔(包车租车)汽车租赁有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:00:39.722+08:00"
+  },
+  {
+    "name": "尧驰租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:00:39.760+08:00"
   }
 ]
