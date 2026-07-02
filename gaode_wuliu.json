@@ -13417,5 +13417,41 @@
     "colorPixels": 119,
     "colorRatio": "3.24%",
     "timestamp": "2026-07-03T01:13:09.195+08:00"
+  },
+  {
+    "name": "成都佳凯物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:13:12.088+08:00"
+  },
+  {
+    "name": "顺丰速运(招商大魔方店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:13:12.131+08:00"
+  },
+  {
+    "name": "中智供应链智库",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:13:15.191+08:00"
+  },
+  {
+    "name": "成都到到物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:13:21.264+08:00"
   }
 ]
