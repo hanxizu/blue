@@ -32515,5 +32515,32 @@
     "colorPixels": 86,
     "colorRatio": "2.34%",
     "timestamp": "2026-07-03T02:41:20.098+08:00"
+  },
+  {
+    "name": "华捷物流(恒正大厦店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:41:26.613+08:00"
+  },
+  {
+    "name": "掌柜物流(恒正大厦店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:41:26.657+08:00"
+  },
+  {
+    "name": "上海易佳恩得国际货运代理有限公司东莞分公司(精英名都店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:41:30.378+08:00"
   }
 ]
