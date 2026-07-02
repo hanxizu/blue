@@ -4138,5 +4138,41 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:30:23.153+08:00"
+  },
+  {
+    "name": "北京百利威物流有限公司(芦花路)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:26.566+08:00"
+  },
+  {
+    "name": "百利威物流园北区一号库",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:26.608+08:00"
+  },
+  {
+    "name": "京东物流(北京孙河站)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:29.205+08:00"
+  },
+  {
+    "name": "北京大秦物流有限公司门口丰巢柜",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:29.256+08:00"
   }
 ]
