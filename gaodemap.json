@@ -4507,5 +4507,23 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-02T10:08:18.829+08:00"
+  },
+  {
+    "name": "北京宏达装饰公司",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:08:24.576+08:00"
+  },
+  {
+    "name": "大豪装饰",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:08:24.619+08:00"
   }
 ]
