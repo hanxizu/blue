@@ -16639,5 +16639,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:25:01.537+08:00"
+  },
+  {
+    "name": "光大安石成都双流物流中心",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:25:15.265+08:00"
+  },
+  {
+    "name": "泰宜鑫储运中心",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:25:15.316+08:00"
   }
 ]
