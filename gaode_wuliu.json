@@ -5020,5 +5020,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:39:39.731+08:00"
+  },
+  {
+    "name": "京东物流(澳知浩综合楼店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:42.338+08:00"
+  },
+  {
+    "name": "中航中心货运通道(中航城君尚购物中心店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:42.388+08:00"
+  },
+  {
+    "name": "顺丰速运(上梅林新村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:39:46.982+08:00"
+  },
+  {
+    "name": "顺丰速运(梅华路店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:39:47.023+08:00"
+  },
+  {
+    "name": "易王国际快递·韩国专线(福田分公司)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:47.063+08:00"
+  },
+  {
+    "name": "顺丰速运(深圳围面村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:39:47.169+08:00"
   }
 ]
