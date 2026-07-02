@@ -9916,5 +9916,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:58:21.537+08:00"
+  },
+  {
+    "name": "京快物流(锦都服装大厦店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:58:29.123+08:00"
+  },
+  {
+    "name": "利龙国际物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:58:29.166+08:00"
+  },
+  {
+    "name": "顺丰速运(西郊大厦店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:58:29.210+08:00"
+  },
+  {
+    "name": "台辉货运有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:58:29.254+08:00"
+  },
+  {
+    "name": "广州泰翔国际物流有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 31,
+    "colorRatio": "0.84%",
+    "timestamp": "2026-07-03T00:58:29.298+08:00"
+  },
+  {
+    "name": "沄云货运越南专线",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:58:32.039+08:00"
+  },
+  {
+    "name": "顺丰速运(广东国际大厦快递服务中心)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T00:58:32.112+08:00"
+  },
+  {
+    "name": "57kapro(富力·君湖华庭店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:58:32.191+08:00"
   }
 ]
