@@ -5668,5 +5668,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:41:18.994+08:00"
+  },
+  {
+    "name": "顺丰速运(车管所店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:41:25.780+08:00"
+  },
+  {
+    "name": "顺丰速运(益田花园店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:41:25.823+08:00"
   }
 ]
