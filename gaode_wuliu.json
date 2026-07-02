@@ -1429,5 +1429,41 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:18:51.702+08:00"
+  },
+  {
+    "name": "JAS捷爱士国际货运北京分公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:18:55.163+08:00"
+  },
+  {
+    "name": "寰宇义嘉国际物流(北京)有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:18:55.220+08:00"
+  },
+  {
+    "name": "北京爱斯特国际物流有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:18:58.242+08:00"
+  },
+  {
+    "name": "北京百顺国际货运代理有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:18:58.277+08:00"
   }
 ]
