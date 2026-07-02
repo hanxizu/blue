@@ -4075,5 +4075,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:09:49.822+08:00"
+  },
+  {
+    "name": "立行租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:09:52.539+08:00"
+  },
+  {
+    "name": "咘咘豪车租赁(福田区福田街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:09:55.292+08:00"
+  },
+  {
+    "name": "城市之光租车(福田区福田街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:09:55.344+08:00"
   }
 ]
