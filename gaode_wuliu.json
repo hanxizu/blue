@@ -37528,5 +37528,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:04:34.675+08:00"
+  },
+  {
+    "name": "百腾物流(南京分公司)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:04:41.390+08:00"
+  },
+  {
+    "name": "顺丰速运(仁恒城市星光店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T03:04:41.433+08:00"
+  },
+  {
+    "name": "骑士驿站南京仙鹤门站",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:04:44.638+08:00"
+  },
+  {
+    "name": "江苏天鹅快运有限公司总部",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:04:44.682+08:00"
   }
 ]
