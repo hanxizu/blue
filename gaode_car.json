@@ -1060,5 +1060,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T22:56:15.894+08:00"
+  },
+  {
+    "name": "橙子租车-北京总店",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:56:18.796+08:00"
+  },
+  {
+    "name": "升源租车北京店",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:56:18.821+08:00"
+  },
+  {
+    "name": "亿辉租车南站二店",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:56:21.466+08:00"
   }
 ]
