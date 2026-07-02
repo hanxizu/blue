@@ -2392,5 +2392,50 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T00:22:24.757+08:00"
+  },
+  {
+    "name": "北京昊昌顺达物流有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:22:35.177+08:00"
+  },
+  {
+    "name": "顺丰速运(裕泽园店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:22:35.218+08:00"
+  },
+  {
+    "name": "田氏盛通物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:22:35.257+08:00"
+  },
+  {
+    "name": "蓝页物满满.全国物流专线查询平台(北京分公司)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 129,
+    "colorRatio": "3.51%",
+    "timestamp": "2026-07-03T00:22:35.297+08:00"
+  },
+  {
+    "name": "众联湘誉物流F区",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:22:37.650+08:00"
   }
 ]
