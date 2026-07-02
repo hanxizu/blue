@@ -20698,5 +20698,41 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:42:46.235+08:00"
+  },
+  {
+    "name": "顺丰速运(益乐新村店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:42:49.278+08:00"
+  },
+  {
+    "name": "杭州益鑫物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:42:49.321+08:00"
+  },
+  {
+    "name": "顺丰速运(五联东167店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:42:52.210+08:00"
+  },
+  {
+    "name": "杭州搏翔物流信息咨询有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 14,
+    "colorRatio": "0.38%",
+    "timestamp": "2026-07-03T01:42:52.292+08:00"
   }
 ]
