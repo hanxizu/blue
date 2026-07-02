@@ -29914,5 +29914,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:25:47.052+08:00"
+  },
+  {
+    "name": "西安社发运输服务有限公司第一分公司(第一分公司)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:25:50.293+08:00"
+  },
+  {
+    "name": "壹米滴答(西站街营业部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:25:53.459+08:00"
+  },
+  {
+    "name": "西安市双生方亚货运服务部",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:25:53.512+08:00"
   }
 ]
