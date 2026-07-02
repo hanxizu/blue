@@ -1762,5 +1762,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:19:47.271+08:00"
+  },
+  {
+    "name": "顺丰速运(亮马桥店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:19:57.409+08:00"
+  },
+  {
+    "name": "北京物华云通货物运输有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:19:57.443+08:00"
+  },
+  {
+    "name": "胜京物流(城环城国际汽配城小红门路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:19:57.478+08:00"
+  },
+  {
+    "name": "李健快运",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:20:01.104+08:00"
+  },
+  {
+    "name": "美团快递仓库",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 46,
+    "colorRatio": "1.25%",
+    "timestamp": "2026-07-03T00:20:01.141+08:00"
   }
 ]
