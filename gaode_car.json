@@ -18034,5 +18034,50 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T00:17:19.525+08:00"
+  },
+  {
+    "name": "信宇网约车交付中心",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-03T00:17:40.867+08:00"
+  },
+  {
+    "name": "新能源货车租赁中心",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T00:17:44.276+08:00"
+  },
+  {
+    "name": "小黄鸭租车(小黄鸭名车俱乐部)",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:17:44.325+08:00"
+  },
+  {
+    "name": "尊程租车",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:17:44.363+08:00"
+  },
+  {
+    "name": "通远租车",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:17:44.399+08:00"
   }
 ]
