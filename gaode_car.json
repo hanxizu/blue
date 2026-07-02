@@ -37789,5 +37789,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:51:38.885+08:00"
+  },
+  {
+    "name": "哈啰租车(豪达汽车租赁)",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:51:47.315+08:00"
+  },
+  {
+    "name": "瓯东旅馆送车点",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:51:50.325+08:00"
   }
 ]
