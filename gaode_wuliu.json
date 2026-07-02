@@ -41497,5 +41497,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:24:31.895+08:00"
+  },
+  {
+    "name": "顺丰速运(远洋快递服务中心)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T03:24:31.942+08:00"
+  },
+  {
+    "name": "天津市晟海国际物流有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:24:31.984+08:00"
+  },
+  {
+    "name": "菜鸟驿站(云山里店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:24:32.027+08:00"
+  },
+  {
+    "name": "天津中远国际海运",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.06%",
+    "timestamp": "2026-07-03T03:24:32.100+08:00"
+  },
+  {
+    "name": "天津市地矿南河物资储运站",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:24:35.114+08:00"
+  },
+  {
+    "name": "顺丰速运(乐园里店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 150,
+    "colorRatio": "4.08%",
+    "timestamp": "2026-07-03T03:24:35.157+08:00"
+  },
+  {
+    "name": "顺丰速运(千禧园东园店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:24:37.938+08:00"
   }
 ]
