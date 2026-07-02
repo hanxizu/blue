@@ -33271,5 +33271,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:43:41.620+08:00"
+  },
+  {
+    "name": "递壹时速递(东莞公司)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:43:44.178+08:00"
+  },
+  {
+    "name": "顺丰速运(蛤地店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:43:44.231+08:00"
   }
 ]
