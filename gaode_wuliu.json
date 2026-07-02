@@ -37825,5 +37825,59 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T03:05:43.174+08:00"
+  },
+  {
+    "name": "云启物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:05:46.305+08:00"
+  },
+  {
+    "name": "南京谭三物流(仙林部)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:05:46.349+08:00"
+  },
+  {
+    "name": "众汇物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:05:49.122+08:00"
+  },
+  {
+    "name": "佳佳物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:05:49.176+08:00"
+  },
+  {
+    "name": "南京东站铁路槽车运输中心",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:05:49.238+08:00"
+  },
+  {
+    "name": "顺丰速运(金融城店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:05:49.299+08:00"
   }
 ]
