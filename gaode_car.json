@@ -14650,5 +14650,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:58:19.308+08:00"
+  },
+  {
+    "name": "元顺实业汽车租赁",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:58:25.212+08:00"
+  },
+  {
+    "name": "老马出租汽车服务部",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:58:25.243+08:00"
+  },
+  {
+    "name": "西安大唐租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:58:27.768+08:00"
+  },
+  {
+    "name": "元汇天下租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:58:33.766+08:00"
+  },
+  {
+    "name": "西安拓达汽车贸易有限公司",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:58:36.869+08:00"
+  },
+  {
+    "name": "安徒生租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:58:36.936+08:00"
+  },
+  {
+    "name": "爱尚租车(曲江店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:58:45.892+08:00"
   }
 ]
