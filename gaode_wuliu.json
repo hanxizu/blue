@@ -8368,5 +8368,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:51:15.348+08:00"
+  },
+  {
+    "name": "宝涵国际物流(坂田仓)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:51:29.619+08:00"
+  },
+  {
+    "name": "安能物流(南山西丽塘朗店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:51:29.662+08:00"
+  },
+  {
+    "name": "齐海跨境",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:51:29.704+08:00"
+  },
+  {
+    "name": "顺丰速运(高时店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 119,
+    "colorRatio": "3.24%",
+    "timestamp": "2026-07-03T00:51:29.746+08:00"
+  },
+  {
+    "name": "顺丰速运(大靓花园明哥店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:51:32.608+08:00"
+  },
+  {
+    "name": "卓上通航国际物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:51:32.688+08:00"
+  },
+  {
+    "name": "顺丰速运(特力北店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:51:35.256+08:00"
   }
 ]
