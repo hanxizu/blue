@@ -18016,5 +18016,41 @@
     "colorPixels": 100,
     "colorRatio": "3.84%",
     "timestamp": "2026-07-03T01:34:20.624+08:00"
+  },
+  {
+    "name": "顺丰速运(钱塘人家店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:34:20.668+08:00"
+  },
+  {
+    "name": "安顺大件物流电动车托运(杭州店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:34:20.701+08:00"
+  },
+  {
+    "name": "尚城物流站",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:20.745+08:00"
+  },
+  {
+    "name": "千一物流(采荷路)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:23.466+08:00"
   }
 ]
