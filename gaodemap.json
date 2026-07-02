@@ -15316,5 +15316,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T12:00:06.658+08:00"
+  },
+  {
+    "name": "立邦官方(美家居市场店)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-02T12:00:09.478+08:00"
+  },
+  {
+    "name": "艺佰装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:00:12.268+08:00"
+  },
+  {
+    "name": "安徽腾冠装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:00:15.222+08:00"
+  },
+  {
+    "name": "OLO我乐·全屋定制(四里河红星店)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-02T12:00:15.251+08:00"
+  },
+  {
+    "name": "安徽庐合建筑空间设计有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:00:15.277+08:00"
+  },
+  {
+    "name": "合肥新意境装饰装修有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:00:15.307+08:00"
+  },
+  {
+    "name": "合肥市创泽建筑装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:00:17.910+08:00"
   }
 ]
