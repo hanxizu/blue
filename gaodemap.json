@@ -3805,5 +3805,68 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T09:53:57.650+08:00"
+  },
+  {
+    "name": "宏鑫装饰",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-02T09:53:59.459+08:00"
+  },
+  {
+    "name": "室内外装修",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:54:01.168+08:00"
+  },
+  {
+    "name": "明雷顺装饰有限公司",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T09:54:04.892+08:00"
+  },
+  {
+    "name": "三好同创装饰城外诚旗舰店",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T09:54:04.923+08:00"
+  },
+  {
+    "name": "诚信装修盖房",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:54:04.958+08:00"
+  },
+  {
+    "name": "秋田家日式建装(朝外SOHO店)",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T09:54:04.990+08:00"
+  },
+  {
+    "name": "今朝装饰(天桥店)",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 426,
+    "colorRatio": "18.56%",
+    "timestamp": "2026-07-02T09:54:07.083+08:00"
   }
 ]
