@@ -29653,5 +29653,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:12:11.838+08:00"
+  },
+  {
+    "name": "萬众租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:12:18.471+08:00"
+  },
+  {
+    "name": "长沙永乐租车飞租V店",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:12:18.505+08:00"
+  },
+  {
+    "name": "车拉米租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:12:21.108+08:00"
+  },
+  {
+    "name": "申驰租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:12:26.940+08:00"
+  },
+  {
+    "name": "唐宝租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:12:29.523+08:00"
+  },
+  {
+    "name": "长沙鹏靖租赁有限公司",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:12:29.551+08:00"
   }
 ]
