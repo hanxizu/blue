@@ -30427,5 +30427,149 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:16:48.159+08:00"
+  },
+  {
+    "name": "青岛孔凡奎客运出租汽车有限公司",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:50.790+08:00"
+  },
+  {
+    "name": "升级幸福汽车租赁",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:53.849+08:00"
+  },
+  {
+    "name": "尚品良车(尚品良车)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:53.884+08:00"
+  },
+  {
+    "name": "九五租车·茶室",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:53.918+08:00"
+  },
+  {
+    "name": "柚子租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:56.745+08:00"
+  },
+  {
+    "name": "近多出行",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:16:56.777+08:00"
+  },
+  {
+    "name": "皓迪租车青岛店",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:56.809+08:00"
+  },
+  {
+    "name": "青岛信泽通网约车运营中心",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:59.876+08:00"
+  },
+  {
+    "name": "鼎源网约车一站式服务中心",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:59.936+08:00"
+  },
+  {
+    "name": "路博达租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:59.969+08:00"
+  },
+  {
+    "name": "及时用车司机服务中心",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:02.881+08:00"
+  },
+  {
+    "name": "众意网约车总店",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:02.916+08:00"
+  },
+  {
+    "name": "海博出租汽车有限公司",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:05.747+08:00"
+  },
+  {
+    "name": "青岛万羽汽车租赁有限公司",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:09.126+08:00"
+  },
+  {
+    "name": "网约车司机官方招募中心",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:09.157+08:00"
+  },
+  {
+    "name": "滴滴出行司机中心(青岛兴华路店)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:17:09.190+08:00"
   }
 ]
