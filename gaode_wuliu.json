@@ -12751,5 +12751,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:09:13.367+08:00"
+  },
+  {
+    "name": "同德仓库1号仓俄罗斯物流专线",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:09:13.413+08:00"
+  },
+  {
+    "name": "顺丰速运(广和路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:09:13.456+08:00"
+  },
+  {
+    "name": "俊佳配货中心",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:09:13.500+08:00"
+  },
+  {
+    "name": "顺丰速运(天球大厦店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:09:13.543+08:00"
+  },
+  {
+    "name": "棠景街资源集运中心",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:09:16.401+08:00"
+  },
+  {
+    "name": "6532空运总部",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:09:19.088+08:00"
+  },
+  {
+    "name": "东坊(广州)国际贸易有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:09:19.166+08:00"
   }
 ]
