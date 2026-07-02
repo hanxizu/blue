@@ -6217,5 +6217,32 @@
     "colorPixels": 110,
     "colorRatio": "3.00%",
     "timestamp": "2026-07-03T00:42:58.640+08:00"
+  },
+  {
+    "name": "星迈速达",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:43:04.790+08:00"
+  },
+  {
+    "name": "顺丰速运(爱华电子店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:43:04.834+08:00"
+  },
+  {
+    "name": "深圳市金龙天运国际物流有限公司福田分公司(福田分公司)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:07.846+08:00"
   }
 ]
