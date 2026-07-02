@@ -23353,5 +23353,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T12:53:08.244+08:00"
+  },
+  {
+    "name": "鼎恒装饰(融汇半岛二期店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:53:26.323+08:00"
+  },
+  {
+    "name": "宏鑫装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:53:26.379+08:00"
+  },
+  {
+    "name": "邻里装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:53:28.800+08:00"
+  },
+  {
+    "name": "荣合装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:53:32.123+08:00"
+  },
+  {
+    "name": "晓东装饰部",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:53:32.179+08:00"
+  },
+  {
+    "name": "实信装饰(聚祥居店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:53:32.206+08:00"
   }
 ]
