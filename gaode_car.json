@@ -38311,5 +38311,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:55:24.687+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(岐关工业大厦站)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:55:27.532+08:00"
+  },
+  {
+    "name": "珠海租葛辆汽车租赁有限公司",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:55:27.568+08:00"
+  },
+  {
+    "name": "奥必通租车",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:55:30.286+08:00"
+  },
+  {
+    "name": "一嗨租车(香洲汽车客运总站店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:55:33.211+08:00"
   }
 ]
