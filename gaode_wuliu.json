@@ -5947,5 +5947,50 @@
     "colorPixels": 121,
     "colorRatio": "3.30%",
     "timestamp": "2026-07-03T00:42:09.542+08:00"
+  },
+  {
+    "name": "百腾物流(桑达工业区409栋店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:42:12.441+08:00"
+  },
+  {
+    "name": "深圳市深国际现代城市物流港有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:42:19.512+08:00"
+  },
+  {
+    "name": "泰嘉物流(振中路)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:42:19.555+08:00"
+  },
+  {
+    "name": "马来西亚专线",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:42:19.599+08:00"
+  },
+  {
+    "name": "老汤姆国际货运代理深圳有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:42:19.642+08:00"
   }
 ]
