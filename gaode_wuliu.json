@@ -3463,5 +3463,32 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:26:48.937+08:00"
+  },
+  {
+    "name": "中铁物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:02.662+08:00"
+  },
+  {
+    "name": "万达杰诚国际物流(北京)有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:27:02.703+08:00"
+  },
+  {
+    "name": "中铁快运双桥营业部(西柳巷店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:27:02.743+08:00"
   }
 ]
