@@ -7045,5 +7045,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:46:01.436+08:00"
+  },
+  {
+    "name": "德坤物流(深圳清水河五路营业部)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:46:08.334+08:00"
+  },
+  {
+    "name": "顺丰速运(燃料公司店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:46:08.380+08:00"
+  },
+  {
+    "name": "顺丰速运(华隆园店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:46:11.986+08:00"
   }
 ]
