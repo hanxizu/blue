@@ -37249,5 +37249,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:03:36.469+08:00"
+  },
+  {
+    "name": "菜鸟驿站(恒大华府店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:03:48.753+08:00"
+  },
+  {
+    "name": "顺丰速运(弘阳店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:03:48.797+08:00"
+  },
+  {
+    "name": "江苏途冠物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:03:52.356+08:00"
+  },
+  {
+    "name": "龙波物流实业公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:03:52.400+08:00"
+  },
+  {
+    "name": "顺丰速运(润丰店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:03:52.443+08:00"
+  },
+  {
+    "name": "友通物流(神马路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:03:52.486+08:00"
   }
 ]
