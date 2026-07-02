@@ -4417,5 +4417,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:10:59.633+08:00"
+  },
+  {
+    "name": "领航租车(南山区沙河街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:11:06.067+08:00"
+  },
+  {
+    "name": "悟能租车(龙华区民治街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:11:06.130+08:00"
+  },
+  {
+    "name": "一方租车(南山区桃源街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:11:06.192+08:00"
+  },
+  {
+    "name": "滴滴出行网约车运营中心(光明大街店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-02T23:11:12.436+08:00"
+  },
+  {
+    "name": "亿丰租车(罗湖区翠竹街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:11:12.487+08:00"
   }
 ]
