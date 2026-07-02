@@ -28222,5 +28222,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T15:43:03.343+08:00"
+  },
+  {
+    "name": "OLO我乐·全屋定制(蚌埠蚌山店)",
+    "city": "蚌埠市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-02T15:43:06.083+08:00"
+  },
+  {
+    "name": "迎客装饰",
+    "city": "蚌埠市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T15:43:06.116+08:00"
+  },
+  {
+    "name": "顾家家居(三清财富城店)",
+    "city": "蚌埠市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-02T15:43:08.919+08:00"
+  },
+  {
+    "name": "悦美装饰",
+    "city": "蚌埠市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:43:32.920+08:00"
   }
 ]
