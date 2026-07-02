@@ -35719,5 +35719,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:41:50.079+08:00"
+  },
+  {
+    "name": "出租车租赁",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:53.041+08:00"
+  },
+  {
+    "name": "捷程租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:53.073+08:00"
+  },
+  {
+    "name": "吉诺租车(盖山店)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:55.694+08:00"
+  },
+  {
+    "name": "神州租车(福州大学地铁站服务点)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:59.488+08:00"
+  },
+  {
+    "name": "大地租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:59.525+08:00"
+  },
+  {
+    "name": "网约车车就业中心(曹操自营)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:02.541+08:00"
+  },
+  {
+    "name": "滴滴货运文东新能源租售",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:02.579+08:00"
   }
 ]
