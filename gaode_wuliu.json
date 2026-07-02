@@ -36529,5 +36529,32 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T03:01:20.991+08:00"
+  },
+  {
+    "name": "顺丰速运(东方城店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:01:21.050+08:00"
+  },
+  {
+    "name": "顺丰速运(安乐村店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:01:21.132+08:00"
+  },
+  {
+    "name": "南京天盈物流有限责任公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:01:21.211+08:00"
   }
 ]
