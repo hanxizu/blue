@@ -32830,5 +32830,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:42:14.259+08:00"
+  },
+  {
+    "name": "广东易速特国际货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:42:16.947+08:00"
+  },
+  {
+    "name": "广东锦翔国际物流东莞公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:42:17.007+08:00"
+  },
+  {
+    "name": "东莞市优跃国际物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:42:17.058+08:00"
   }
 ]
