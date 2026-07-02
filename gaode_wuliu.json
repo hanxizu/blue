@@ -8224,5 +8224,77 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T00:50:37.947+08:00"
+  },
+  {
+    "name": "菜鸟驿站韵达店",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:50:51.532+08:00"
+  },
+  {
+    "name": "深圳市岚钰货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:50:51.600+08:00"
+  },
+  {
+    "name": "顺丰速运(塘朗新村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:50:51.646+08:00"
+  },
+  {
+    "name": "顺丰速运(旭景佳园店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:50:51.689+08:00"
+  },
+  {
+    "name": "顺丰速运(华洋大厦店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T00:50:55.069+08:00"
+  },
+  {
+    "name": "深贸发物流仓库",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:50:55.113+08:00"
+  },
+  {
+    "name": "中通快递(29栋兔喜生活)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:50:57.720+08:00"
+  },
+  {
+    "name": "顺丰速运(和磡村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:50:57.781+08:00"
   }
 ]
