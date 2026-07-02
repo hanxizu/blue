@@ -11824,5 +11824,68 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T01:05:11.779+08:00"
+  },
+  {
+    "name": "中外运通国际货运代理(广州)有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:05:11.824+08:00"
+  },
+  {
+    "name": "龙兴物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:11.867+08:00"
+  },
+  {
+    "name": "依凡特物流(广物创客园店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:11.910+08:00"
+  },
+  {
+    "name": "顺丰速运(前桂街店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:05:15.022+08:00"
+  },
+  {
+    "name": "广州亿兴国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:05:15.065+08:00"
+  },
+  {
+    "name": "顺丰速运(罗冲围店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:05:17.878+08:00"
+  },
+  {
+    "name": "良通物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:17.964+08:00"
   }
 ]
