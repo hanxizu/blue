@@ -14848,5 +14848,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:17:46.496+08:00"
+  },
+  {
+    "name": "成都恒顺达物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:17:52.035+08:00"
+  },
+  {
+    "name": "招商局物流集团成都有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:52.079+08:00"
+  },
+  {
+    "name": "菜鸟驿站(南城锦尚店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:55.826+08:00"
+  },
+  {
+    "name": "上海际华物流有限公司(成都分公司)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:55.869+08:00"
+  },
+  {
+    "name": "顺丰速运(怡丰新城店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:17:55.912+08:00"
+  },
+  {
+    "name": "成都宏万轿运物流公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 37,
+    "colorRatio": "1.01%",
+    "timestamp": "2026-07-03T01:17:55.955+08:00"
   }
 ]
