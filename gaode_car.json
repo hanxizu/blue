@@ -35926,5 +35926,86 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T01:42:37.178+08:00"
+  },
+  {
+    "name": "华迅租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:40.116+08:00"
+  },
+  {
+    "name": "悦荣租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:42:42.582+08:00"
+  },
+  {
+    "name": "恒锋汽车服务中心(浦兴店)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:42.612+08:00"
+  },
+  {
+    "name": "商务旅游租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:45.483+08:00"
+  },
+  {
+    "name": "金煌婚车租赁",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:42:45.518+08:00"
+  },
+  {
+    "name": "一嗨租车(福清万达广场店)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:48.176+08:00"
+  },
+  {
+    "name": "金尊租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:51.451+08:00"
+  },
+  {
+    "name": "正大租赁",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:51.488+08:00"
+  },
+  {
+    "name": "泰信吉租车福州长乐机场店",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:42:54.383+08:00"
   }
 ]
