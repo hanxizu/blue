@@ -9106,5 +9106,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T11:12:51.079+08:00"
+  },
+  {
+    "name": "方舟建材市场",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:12:54.006+08:00"
+  },
+  {
+    "name": "上海合异空间设计有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:12:59.274+08:00"
+  },
+  {
+    "name": "九洲数字印刷广告",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T11:12:59.312+08:00"
   }
 ]
