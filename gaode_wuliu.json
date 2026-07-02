@@ -27124,5 +27124,50 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:15:40.048+08:00"
+  },
+  {
+    "name": "菜鸟驿站(兴盛园店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:40.098+08:00"
+  },
+  {
+    "name": "陕西每日达物流运输服务有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:15:40.144+08:00"
+  },
+  {
+    "name": "顺丰速运(贞观路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:15:40.187+08:00"
+  },
+  {
+    "name": "中国外运(凤城二路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "4.36%",
+    "timestamp": "2026-07-03T02:15:40.230+08:00"
+  },
+  {
+    "name": "京东物流(西安百花站)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:43.268+08:00"
   }
 ]
