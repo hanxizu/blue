@@ -32173,5 +32173,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:40:22.719+08:00"
+  },
+  {
+    "name": "南方物流(宏图路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:40:22.765+08:00"
+  },
+  {
+    "name": "东莞市恒东物流配送有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:40:22.809+08:00"
+  },
+  {
+    "name": "安能物流(东莞市东城区大塘头松毛岭街店)东莞东城城区网点",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 131,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T02:40:22.851+08:00"
+  },
+  {
+    "name": "东莞市信诺国际货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:40:25.770+08:00"
+  },
+  {
+    "name": "安能物流(石井安能营业厅)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:40:25.814+08:00"
+  },
+  {
+    "name": "主兴物流仓储配送中心",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:40:28.470+08:00"
+  },
+  {
+    "name": "和骏物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 42,
+    "colorRatio": "1.14%",
+    "timestamp": "2026-07-03T02:40:28.525+08:00"
   }
 ]
