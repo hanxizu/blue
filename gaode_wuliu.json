@@ -4255,5 +4255,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:31:07.802+08:00"
+  },
+  {
+    "name": "北京新一物流有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:11.124+08:00"
+  },
+  {
+    "name": "普洛斯北京通州OIP物流园(兴光二街店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:14.814+08:00"
+  },
+  {
+    "name": "融辉物流北京丰台站",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:31:14.876+08:00"
+  },
+  {
+    "name": "安能物流(广安康馨家园店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:31:14.943+08:00"
+  },
+  {
+    "name": "顺丰速运(卢沟桥店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:15.012+08:00"
   }
 ]
