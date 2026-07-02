@@ -32929,5 +32929,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:42:32.542+08:00"
+  },
+  {
+    "name": "东莞市年丰物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:42:38.508+08:00"
+  },
+  {
+    "name": "宏源物流南城仓",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:42:38.551+08:00"
+  },
+  {
+    "name": "佳韵英国专线",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:42:41.573+08:00"
+  },
+  {
+    "name": "赛通物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.06%",
+    "timestamp": "2026-07-03T02:42:41.617+08:00"
+  },
+  {
+    "name": "广东蓝蚂蚁国际物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:42:44.619+08:00"
   }
 ]
