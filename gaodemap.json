@@ -10465,5 +10465,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T11:21:20.320+08:00"
+  },
+  {
+    "name": "天津金森装饰工程有限公司",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:21:23.022+08:00"
+  },
+  {
+    "name": "顾家家居(河西环渤海家居店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-02T11:21:25.319+08:00"
+  },
+  {
+    "name": "云顺装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:21:25.349+08:00"
+  },
+  {
+    "name": "津科装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:21:25.375+08:00"
+  },
+  {
+    "name": "普陀家庭装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:21:25.409+08:00"
+  },
+  {
+    "name": "北京盛蒎装饰装修",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:21:31.396+08:00"
   }
 ]
