@@ -20734,5 +20734,41 @@
     "colorPixels": 14,
     "colorRatio": "0.38%",
     "timestamp": "2026-07-03T01:42:52.292+08:00"
+  },
+  {
+    "name": "顺丰速运(西湖金月巷店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:02.954+08:00"
+  },
+  {
+    "name": "浙江中外运有限公司杭州分公司雷士仓库",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:03.001+08:00"
+  },
+  {
+    "name": "千一物流(杭州萧山广宇建筑工程有限公司店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:03.048+08:00"
+  },
+  {
+    "name": "联惠物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:03.094+08:00"
   }
 ]
