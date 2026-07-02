@@ -16477,5 +16477,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T12:04:49.080+08:00"
+  },
+  {
+    "name": "合肥永林建筑装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:04:58.171+08:00"
+  },
+  {
+    "name": "合肥美家装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:04:58.197+08:00"
+  },
+  {
+    "name": "望雲装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T12:05:01.022+08:00"
+  },
+  {
+    "name": "合肥耀邦装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:05:04.070+08:00"
   }
 ]
