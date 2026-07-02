@@ -7972,5 +7972,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:49:35.246+08:00"
+  },
+  {
+    "name": "顺丰速运(南景新村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:49:38.717+08:00"
+  },
+  {
+    "name": "顺丰速运(樟坑二区1店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T00:49:38.775+08:00"
+  },
+  {
+    "name": "顺丰速运(五和新村五和店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T00:49:38.827+08:00"
+  },
+  {
+    "name": "顺丰速运(春华店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:49:38.888+08:00"
   }
 ]
