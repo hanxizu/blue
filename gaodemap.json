@@ -952,5 +952,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T08:34:03.704+08:00"
+  },
+  {
+    "name": "华金兄弟装饰公司",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T08:34:08.047+08:00"
+  },
+  {
+    "name": "嘉方豪装饰",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T08:34:08.079+08:00"
+  },
+  {
+    "name": "博洛尼整体家装",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 72,
+    "colorRatio": "1.82%",
+    "timestamp": "2026-07-02T08:34:11.514+08:00"
   }
 ]
