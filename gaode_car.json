@@ -31246,5 +31246,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:19:45.625+08:00"
+  },
+  {
+    "name": "青岛汽车东站-悟空",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:19:48.278+08:00"
+  },
+  {
+    "name": "青岛五四广场公交站送车点",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:19:53.761+08:00"
+  },
+  {
+    "name": "台湾路店",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:19:53.831+08:00"
+  },
+  {
+    "name": "飓风租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:19:59.761+08:00"
+  },
+  {
+    "name": "哈啰租车(金沙滩)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:02.332+08:00"
+  },
+  {
+    "name": "熊大租车·电动车租赁(金沙滩啤酒城店)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:02.362+08:00"
   }
 ]
