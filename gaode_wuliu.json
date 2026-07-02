@@ -25495,5 +25495,68 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:06:34.000+08:00"
+  },
+  {
+    "name": "晓毕、江南、鑫飞翔物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:44.605+08:00"
+  },
+  {
+    "name": "顺丰速运(武体卓刀泉校园服务中心)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 15,
+    "colorRatio": "0.41%",
+    "timestamp": "2026-07-03T02:06:44.648+08:00"
+  },
+  {
+    "name": "蓝焰物流园",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:48.178+08:00"
+  },
+  {
+    "name": "武汉新天运输有限责任公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:48.222+08:00"
+  },
+  {
+    "name": "武汉市圣达物流有限责任公司(欧亚广场写字楼店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:06:48.264+08:00"
+  },
+  {
+    "name": "捌嘉壹物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:48.308+08:00"
+  },
+  {
+    "name": "武汉汉口快运集配站",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:51.045+08:00"
   }
 ]
