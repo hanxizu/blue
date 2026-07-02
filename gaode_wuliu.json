@@ -1375,5 +1375,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:18:39.063+08:00"
+  },
+  {
+    "name": "顺丰速运(光彩路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:18:42.020+08:00"
+  },
+  {
+    "name": "顺丰速运(北京西铁路站)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:18:44.669+08:00"
+  },
+  {
+    "name": "顺通国际供应链管理(北京)有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:18:44.714+08:00"
+  },
+  {
+    "name": "顺丰速运(里仁店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:18:44.763+08:00"
   }
 ]
