@@ -22435,5 +22435,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:56:24.522+08:00"
+  },
+  {
+    "name": "通联达物流供应链有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:27.338+08:00"
+  },
+  {
+    "name": "安能物流(球场路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 46,
+    "colorRatio": "1.25%",
+    "timestamp": "2026-07-03T01:56:27.380+08:00"
   }
 ]
