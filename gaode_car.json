@@ -4795,5 +4795,77 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-02T23:14:18.344+08:00"
+  },
+  {
+    "name": "伯乐豪车俱乐部天河店",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T23:14:21.047+08:00"
+  },
+  {
+    "name": "致耀汽车租赁",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:14:21.081+08:00"
+  },
+  {
+    "name": "秒租租车(广州东站店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:14:23.857+08:00"
+  },
+  {
+    "name": "广州会腾汽车租赁有限公司",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:14:23.908+08:00"
+  },
+  {
+    "name": "滴滴出行网约车租赁",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-02T23:14:27.128+08:00"
+  },
+  {
+    "name": "租个车(广州)科技有限公司(时光汇店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T23:14:29.833+08:00"
+  },
+  {
+    "name": "安驰租车",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:14:29.862+08:00"
+  },
+  {
+    "name": "婚车豪车租赁",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:14:29.891+08:00"
   }
 ]
