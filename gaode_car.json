@@ -10159,5 +10159,113 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:37:35.175+08:00"
+  },
+  {
+    "name": "翼到租车(相城区元和街道店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:37:38.097+08:00"
+  },
+  {
+    "name": "小哈租车换电(中翔生活广场店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:37:38.126+08:00"
+  },
+  {
+    "name": "哈啰租车仓库",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-02T23:37:40.745+08:00"
+  },
+  {
+    "name": "滴滴出行司机服务中心·小桔租买车(火车站店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:37:43.777+08:00"
+  },
+  {
+    "name": "曹操出行-苏州靖泽运营中心(和润家园店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:37:43.809+08:00"
+  },
+  {
+    "name": "神州租车(通安华通路自助点)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:37:46.433+08:00"
+  },
+  {
+    "name": "一嗨租车(寒山寺店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:37:49.491+08:00"
+  },
+  {
+    "name": "乐吉士租车(苏州店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:37:49.528+08:00"
+  },
+  {
+    "name": "马达租车(苏州吴中店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:37:52.389+08:00"
+  },
+  {
+    "name": "GTL超跑豪车租赁",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:37:55.001+08:00"
+  },
+  {
+    "name": "蓝创优选汽车租赁",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:37:55.089+08:00"
+  },
+  {
+    "name": "神州租车(苏州威克多运动中心自助点)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:37:55.126+08:00"
   }
 ]
