@@ -5767,5 +5767,122 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:41:42.845+08:00"
+  },
+  {
+    "name": "欧速通国际物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:42.889+08:00"
+  },
+  {
+    "name": "顺丰速运(雅苑店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:41:42.932+08:00"
+  },
+  {
+    "name": "AP泰国专线·货运公司(桑达雅苑店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:42.976+08:00"
+  },
+  {
+    "name": "拓宇达国际物流(兰天路)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:45.782+08:00"
+  },
+  {
+    "name": "顺丰速运(塘晏村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:41:45.849+08:00"
+  },
+  {
+    "name": "印度尼西亚专线",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:52.527+08:00"
+  },
+  {
+    "name": "台湾专线物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:52.571+08:00"
+  },
+  {
+    "name": "一辉国际物流(桑达雅苑北厅店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:56.058+08:00"
+  },
+  {
+    "name": "飞海国际货运",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:41:56.103+08:00"
+  },
+  {
+    "name": "金成信物流(深圳电子院店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:56.146+08:00"
+  },
+  {
+    "name": "FIRST CARGO泰国货运",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:56.189+08:00"
+  },
+  {
+    "name": "渡商物流(苏发大厦西北)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:58.936+08:00"
+  },
+  {
+    "name": "伟超捷货运(桑达工业区409栋店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 20,
+    "colorRatio": "0.54%",
+    "timestamp": "2026-07-03T00:41:58.995+08:00"
   }
 ]
