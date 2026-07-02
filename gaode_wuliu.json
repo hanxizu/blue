@@ -41614,5 +41614,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:24:58.021+08:00"
+  },
+  {
+    "name": "景运祥货运中心办公室",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:00.624+08:00"
+  },
+  {
+    "name": "顺丰速运(融创城店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:25:00.676+08:00"
   }
 ]
