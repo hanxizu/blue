@@ -15406,5 +15406,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:19:57.511+08:00"
+  },
+  {
+    "name": "易通搬家运输有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:19:59.964+08:00"
+  },
+  {
+    "name": "德邦博派(红星双楠店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:20:00.026+08:00"
+  },
+  {
+    "name": "成都高质行国际货运代理有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:20:00.106+08:00"
   }
 ]
