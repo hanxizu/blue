@@ -1906,5 +1906,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:01:14.398+08:00"
+  },
+  {
+    "name": "蚂乙租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:01:17.614+08:00"
+  },
+  {
+    "name": "上海锦江出租汽车服务有限公司闵行分公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:01:20.420+08:00"
+  },
+  {
+    "name": "上海优斯汽车租赁有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:01:20.448+08:00"
   }
 ]
