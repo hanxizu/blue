@@ -8566,5 +8566,77 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T00:52:18.050+08:00"
+  },
+  {
+    "name": "乐凯龙跨境快运",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:52:31.753+08:00"
+  },
+  {
+    "name": "广州市政豪货运代理有限公司深圳坂田分公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:52:31.805+08:00"
+  },
+  {
+    "name": "深圳卓英国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:52:31.858+08:00"
+  },
+  {
+    "name": "盛利国际物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:52:31.910+08:00"
+  },
+  {
+    "name": "凯利德国际物流(金方华电商产业园三期园区1栋店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:52:35.286+08:00"
+  },
+  {
+    "name": "深圳市航宇鸿兴国际物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 69,
+    "colorRatio": "1.88%",
+    "timestamp": "2026-07-03T00:52:35.338+08:00"
+  },
+  {
+    "name": "顺丰速运(园林店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:52:38.218+08:00"
+  },
+  {
+    "name": "捷优国际货运代理(深圳)有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:52:38.287+08:00"
   }
 ]
