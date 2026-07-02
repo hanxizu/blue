@@ -37627,5 +37627,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:50:57.584+08:00"
+  },
+  {
+    "name": "洪迪租车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:51:01.320+08:00"
+  },
+  {
+    "name": "零点租车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:51:01.352+08:00"
+  },
+  {
+    "name": "欣荣租车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:51:04.456+08:00"
+  },
+  {
+    "name": "哈啰租车(车引力租车)",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:51:07.609+08:00"
+  },
+  {
+    "name": "喜相逢租车温州自助取还店",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:51:07.643+08:00"
   }
 ]
