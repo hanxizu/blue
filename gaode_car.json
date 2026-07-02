@@ -33586,5 +33586,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:31:08.887+08:00"
+  },
+  {
+    "name": "聚梦租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:31:14.999+08:00"
+  },
+  {
+    "name": "郑州豪车租赁",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:31:15.032+08:00"
+  },
+  {
+    "name": "河南嗖嗖车汽车租赁有限公司",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:31:15.064+08:00"
+  },
+  {
+    "name": "半吨豪车租赁",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:31:21.212+08:00"
+  },
+  {
+    "name": "云辇租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:31:23.672+08:00"
+  },
+  {
+    "name": "郑州乐活汽车租赁有限公司",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:31:23.709+08:00"
   }
 ]
