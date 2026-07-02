@@ -3373,5 +3373,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:07:36.568+08:00"
+  },
+  {
+    "name": "哈啰租车(深圳吉华路店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:07:39.187+08:00"
+  },
+  {
+    "name": "神州租车(英龙商务中心服务点)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:07:41.824+08:00"
+  },
+  {
+    "name": "鑫鸿出行",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:07:41.851+08:00"
+  },
+  {
+    "name": "深圳市网约车运营中心",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T23:07:41.909+08:00"
+  },
+  {
+    "name": "万盈租车白石龙店",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:07:45.426+08:00"
+  },
+  {
+    "name": "哈啰租车(深圳碧海湾店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:07:45.462+08:00"
+  },
+  {
+    "name": "鹏超租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:07:45.493+08:00"
   }
 ]
