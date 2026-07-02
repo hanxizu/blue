@@ -13165,5 +13165,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:11:00.435+08:00"
+  },
+  {
+    "name": "广州花链物流办公区",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:13.705+08:00"
+  },
+  {
+    "name": "奥博物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:13.757+08:00"
+  },
+  {
+    "name": "广东省邮政速递物流有限公司国际业务分公司(广州营业部)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:17.870+08:00"
+  },
+  {
+    "name": "润发供应链(方方达)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 170,
+    "colorRatio": "4.63%",
+    "timestamp": "2026-07-03T01:11:17.922+08:00"
+  },
+  {
+    "name": "香港明生(祥兴)物流公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:21.225+08:00"
+  },
+  {
+    "name": "北大荒智慧厨房配送仓",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:23.943+08:00"
+  },
+  {
+    "name": "九国仓储",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:24.018+08:00"
+  },
+  {
+    "name": "中通快递(大件物流 全国货运 整车零担 代收货款)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:11:26.925+08:00"
   }
 ]
