@@ -32722,5 +32722,32 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T02:41:53.183+08:00"
+  },
+  {
+    "name": "顺丰速运(广科雅园店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:41:59.736+08:00"
+  },
+  {
+    "name": "林格物流装备有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:41:59.779+08:00"
+  },
+  {
+    "name": "好莱客物流中心",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:42:03.300+08:00"
   }
 ]
