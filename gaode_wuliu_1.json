@@ -4768,5 +4768,77 @@
     "colorPixels": 305,
     "colorRatio": "13.29%",
     "timestamp": "2026-07-03T07:27:04.827+08:00"
+  },
+  {
+    "name": "上海钢联物流股份有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:27:04.875+08:00"
+  },
+  {
+    "name": "顺丰速运(利津路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:27:04.904+08:00"
+  },
+  {
+    "name": "上海翔运国际货运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:27:04.930+08:00"
+  },
+  {
+    "name": "上海钢联物流股份有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:27:07.659+08:00"
+  },
+  {
+    "name": "顺丰速运(利津路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:27:07.694+08:00"
+  },
+  {
+    "name": "上海翔运国际货运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:27:07.720+08:00"
+  },
+  {
+    "name": "航空货运",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:27:07.754+08:00"
+  },
+  {
+    "name": "上海钢联物流股份有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:27:10.932+08:00"
   }
 ]
