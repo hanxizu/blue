@@ -2860,5 +2860,41 @@
     "colorPixels": 761,
     "colorRatio": "19.22%",
     "timestamp": "2026-07-02T09:13:54.972+08:00"
+  },
+  {
+    "name": "宏发装饰(可丽亚商务酒店西)",
+    "city": "海原县",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:13:55.018+08:00"
+  },
+  {
+    "name": "亿居装饰(广安门外车站东街4号楼底商)",
+    "city": "海原县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T09:13:55.064+08:00"
+  },
+  {
+    "name": "北京市高升装饰有限公司",
+    "city": "海原县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T09:13:55.110+08:00"
+  },
+  {
+    "name": "雯惠装饰",
+    "city": "海原县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T09:14:00.697+08:00"
   }
 ]
