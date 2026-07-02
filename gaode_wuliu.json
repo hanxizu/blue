@@ -22039,5 +22039,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:49:10.598+08:00"
+  },
+  {
+    "name": "顺丰速运(互联广场店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:49:24.410+08:00"
+  },
+  {
+    "name": "顺丰速运(棠瑞府店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:49:24.462+08:00"
+  },
+  {
+    "name": "广胜物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:49:28.334+08:00"
   }
 ]
