@@ -2689,5 +2689,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:23:48.615+08:00"
+  },
+  {
+    "name": "神速威远物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:23:48.656+08:00"
+  },
+  {
+    "name": "北京鑫宏粤物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:23:48.721+08:00"
+  },
+  {
+    "name": "中国矿业大学(北京)物流服务中心",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:23:48.762+08:00"
+  },
+  {
+    "name": "北京辰丰物流全国各地货物运输",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 139,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T00:23:48.802+08:00"
+  },
+  {
+    "name": "北京万顺通泰物流(汉龙货运中心南站店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:23:51.960+08:00"
   }
 ]
