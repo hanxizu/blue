@@ -1996,5 +1996,32 @@
     "colorPixels": 647,
     "colorRatio": "16.34%",
     "timestamp": "2026-07-02T08:49:15.710+08:00"
+  },
+  {
+    "name": "家庭装修断桥铝门窗防盗门护栏",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T08:49:21.276+08:00"
+  },
+  {
+    "name": "丰盛华装修(化工大院社区店)",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T08:49:21.303+08:00"
+  },
+  {
+    "name": "北京瑞雅日盛装饰工程有限公司",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T08:49:21.333+08:00"
   }
 ]
