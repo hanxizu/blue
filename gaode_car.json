@@ -24172,5 +24172,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:45:17.631+08:00"
+  },
+  {
+    "name": "广通汽车租赁(育才路)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:17.669+08:00"
+  },
+  {
+    "name": "聚友二手车汽车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:20.324+08:00"
+  },
+  {
+    "name": "哈啰租车(合众租车)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:26.664+08:00"
+  },
+  {
+    "name": "旺军汽车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:26.699+08:00"
+  },
+  {
+    "name": "趣途租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:29.428+08:00"
+  },
+  {
+    "name": "森联汽车租赁(富民道店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:35.660+08:00"
+  },
+  {
+    "name": "恒泰汽车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:35.709+08:00"
+  },
+  {
+    "name": "九盈租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:45:38.334+08:00"
   }
 ]
