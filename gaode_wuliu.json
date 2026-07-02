@@ -12463,5 +12463,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:07:41.708+08:00"
+  },
+  {
+    "name": "南方航空物流公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:07:55.461+08:00"
+  },
+  {
+    "name": "顺丰速运(越秀店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:07:59.135+08:00"
+  },
+  {
+    "name": "顺丰速运(光大店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:07:59.222+08:00"
+  },
+  {
+    "name": "未来星货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:07:59.265+08:00"
+  },
+  {
+    "name": "薛航物流白云分公司东三省专线",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:08:01.886+08:00"
+  },
+  {
+    "name": "广州市猛犸国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:08:01.936+08:00"
+  },
+  {
+    "name": "广州超逸国际物流有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:08:02.011+08:00"
   }
 ]
