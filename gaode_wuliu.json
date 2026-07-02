@@ -20041,5 +20041,41 @@
     "colorPixels": 164,
     "colorRatio": "4.47%",
     "timestamp": "2026-07-03T01:40:06.822+08:00"
+  },
+  {
+    "name": "安能物流(九堡盛世营业部)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:40:13.356+08:00"
+  },
+  {
+    "name": "大黄蜂(阳光单身公寓店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:40:16.739+08:00"
+  },
+  {
+    "name": "顺丰速运(康宁街店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:40:16.782+08:00"
+  },
+  {
+    "name": "中宏国际货运代理有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:40:20.306+08:00"
   }
 ]
