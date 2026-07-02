@@ -18988,5 +18988,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:36:39.988+08:00"
+  },
+  {
+    "name": "顺丰速运(长天弄14号店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:36:47.358+08:00"
+  },
+  {
+    "name": "顺丰速运(中河北路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:36:47.429+08:00"
+  },
+  {
+    "name": "浙江赤道华东区杭州鼎宸国际物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:47.473+08:00"
+  },
+  {
+    "name": "顺丰速运(杭州大厦店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:36:47.517+08:00"
+  },
+  {
+    "name": "顺丰速运(玉公弄外包店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 504,
+    "colorRatio": "13.73%",
+    "timestamp": "2026-07-03T01:36:47.560+08:00"
+  },
+  {
+    "name": "顺丰速运(欣盛东方郡店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:36:50.223+08:00"
+  },
+  {
+    "name": "杭州长运运输集团(春雨巷店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:50.278+08:00"
+  },
+  {
+    "name": "浙江川贵国际物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:50.331+08:00"
   }
 ]
