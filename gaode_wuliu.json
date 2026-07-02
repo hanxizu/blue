@@ -6622,5 +6622,50 @@
     "colorPixels": 491,
     "colorRatio": "13.37%",
     "timestamp": "2026-07-03T00:44:24.987+08:00"
+  },
+  {
+    "name": "货拉拉深圳罗湖区门店",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 119,
+    "colorRatio": "3.24%",
+    "timestamp": "2026-07-03T00:44:27.593+08:00"
+  },
+  {
+    "name": "泓通国际物流(深圳)有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:44:27.637+08:00"
+  },
+  {
+    "name": "深圳市港中旅华贸国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:44:30.309+08:00"
+  },
+  {
+    "name": "顺丰速运(中旅店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:44:32.830+08:00"
+  },
+  {
+    "name": "深圳市明威运达物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:44:32.876+08:00"
   }
 ]
