@@ -17341,5 +17341,77 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T01:29:12.355+08:00"
+  },
+  {
+    "name": "顺丰速运(成华花郡店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:29:30.674+08:00"
+  },
+  {
+    "name": "菜鸟驿站(南延线蔚蓝卡地亚店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:30.728+08:00"
+  },
+  {
+    "name": "成都锋行物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:29:34.563+08:00"
+  },
+  {
+    "name": "上海康展物流有限公司(成都分公司)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:34.616+08:00"
+  },
+  {
+    "name": "盟链电商果蔬仓储配送中心",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:34.668+08:00"
+  },
+  {
+    "name": "四川川航物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:34.721+08:00"
+  },
+  {
+    "name": "川航货站",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 69,
+    "colorRatio": "1.88%",
+    "timestamp": "2026-07-03T01:29:34.772+08:00"
+  },
+  {
+    "name": "成都中豹物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:37.584+08:00"
   }
 ]
