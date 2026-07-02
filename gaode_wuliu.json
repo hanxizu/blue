@@ -28384,5 +28384,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:19:20.701+08:00"
+  },
+  {
+    "name": "顺丰速运(浐灞三路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T02:19:27.956+08:00"
+  },
+  {
+    "name": "顺丰速运(汉城湖店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:19:28.000+08:00"
+  },
+  {
+    "name": "招商局物流集团西安有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:28.043+08:00"
+  },
+  {
+    "name": "山东西北物流西安分公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:28.112+08:00"
   }
 ]
