@@ -1096,5 +1096,32 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:17:44.086+08:00"
+  },
+  {
+    "name": "顺丰速运(美景东方店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:17:44.123+08:00"
+  },
+  {
+    "name": "顺丰速运(柳芳店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:17:44.159+08:00"
+  },
+  {
+    "name": "顺丰速运(安华里店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:17:44.194+08:00"
   }
 ]
