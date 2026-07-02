@@ -25423,5 +25423,77 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:06:11.534+08:00"
+  },
+  {
+    "name": "武汉勤泰国际物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:22.198+08:00"
+  },
+  {
+    "name": "货拉拉·武汉绿能车队",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:06:22.250+08:00"
+  },
+  {
+    "name": "星鑫江海物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:25.264+08:00"
+  },
+  {
+    "name": "顺丰速运(华师店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:06:28.086+08:00"
+  },
+  {
+    "name": "天和快运",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:28.129+08:00"
+  },
+  {
+    "name": "湖北鸿盛达物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:31.385+08:00"
+  },
+  {
+    "name": "顺丰速运(汉新店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:06:31.428+08:00"
+  },
+  {
+    "name": "国宾物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:06:34.000+08:00"
   }
 ]
