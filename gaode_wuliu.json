@@ -40741,5 +40741,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:22:14.941+08:00"
+  },
+  {
+    "name": "顺丰速运(海信广场店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 121,
+    "colorRatio": "3.30%",
+    "timestamp": "2026-07-03T03:22:14.993+08:00"
+  },
+  {
+    "name": "顺丰速运(新都庄园店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:22:15.036+08:00"
+  },
+  {
+    "name": "瀚之远国际货运代理",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:22:15.079+08:00"
+  },
+  {
+    "name": "天津达伦国际货运代理有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:22:18.597+08:00"
+  },
+  {
+    "name": "顺丰速运(南开大学店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:22:18.654+08:00"
+  },
+  {
+    "name": "天津外代货运有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:22:18.702+08:00"
+  },
+  {
+    "name": "顺丰速运(东第家园小区店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T03:22:18.762+08:00"
   }
 ]
