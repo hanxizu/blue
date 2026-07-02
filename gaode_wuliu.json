@@ -9655,5 +9655,122 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T00:57:38.833+08:00"
+  },
+  {
+    "name": "KOKO CARGO",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:57:41.956+08:00"
+  },
+  {
+    "name": "3AD Keur khadim cargo",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:57:41.998+08:00"
+  },
+  {
+    "name": "拉菲货运国际",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:57:44.710+08:00"
+  },
+  {
+    "name": "环城货运",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:57:44.766+08:00"
+  },
+  {
+    "name": "广州市晴朗国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:57:44.837+08:00"
+  },
+  {
+    "name": "蒙古物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:57:50.989+08:00"
+  },
+  {
+    "name": "越强运输代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 78,
+    "colorRatio": "2.12%",
+    "timestamp": "2026-07-03T00:57:51.034+08:00"
+  },
+  {
+    "name": "凯信国际物流(广福国际商贸城店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:57:54.677+08:00"
+  },
+  {
+    "name": "顺丰速运(山海城店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:57:54.721+08:00"
+  },
+  {
+    "name": "华大物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:57:54.765+08:00"
+  },
+  {
+    "name": "576КАРГО",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:57:54.808+08:00"
+  },
+  {
+    "name": "安途物流(人民高架路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:57:57.597+08:00"
+  },
+  {
+    "name": "898库房",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:57:57.670+08:00"
   }
 ]
