@@ -27592,5 +27592,32 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:16:53.704+08:00"
+  },
+  {
+    "name": "西安市原每天达物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:16:56.425+08:00"
+  },
+  {
+    "name": "顺丰速运(楼阁台村店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:16:58.995+08:00"
+  },
+  {
+    "name": "陕西翔通富瑞汽车运输有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:17:02.931+08:00"
   }
 ]
