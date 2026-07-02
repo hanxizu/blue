@@ -16846,5 +16846,77 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:26:12.971+08:00"
+  },
+  {
+    "name": "顺丰速运(晋吉东二路店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:26:26.999+08:00"
+  },
+  {
+    "name": "德邦快递(少城大厦店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:26:30.424+08:00"
+  },
+  {
+    "name": "成都中储发展物流有限责任公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:26:33.596+08:00"
+  },
+  {
+    "name": "成都兴浩货运有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 74,
+    "colorRatio": "2.02%",
+    "timestamp": "2026-07-03T01:26:33.647+08:00"
+  },
+  {
+    "name": "中通快递(总府路分部)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:26:36.074+08:00"
+  },
+  {
+    "name": "成都齐欣宠物托运公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:26:36.134+08:00"
+  },
+  {
+    "name": "成都星锐捷物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:26:36.188+08:00"
+  },
+  {
+    "name": "四川林敏供应链有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:26:36.242+08:00"
   }
 ]
