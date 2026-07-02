@@ -3526,5 +3526,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:27:11.823+08:00"
+  },
+  {
+    "name": "顺丰速运(苏家屯店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:27:27.999+08:00"
+  },
+  {
+    "name": "顺丰速运(五方店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:27:28.040+08:00"
+  },
+  {
+    "name": "中特物流(北京总部基地12区36号楼店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:28.080+08:00"
   }
 ]
