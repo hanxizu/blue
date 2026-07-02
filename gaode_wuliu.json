@@ -31849,5 +31849,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:39:24.663+08:00"
+  },
+  {
+    "name": "南城华航物流(上坊环溪东街店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:39:27.550+08:00"
+  },
+  {
+    "name": "安能物流(台心路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:39:27.593+08:00"
+  },
+  {
+    "name": "东莞市速驰货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:39:30.288+08:00"
+  },
+  {
+    "name": "东莞市东江水陆运输有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:39:33.872+08:00"
   }
 ]
