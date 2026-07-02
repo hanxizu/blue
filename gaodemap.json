@@ -31642,5 +31642,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T15:58:43.071+08:00"
+  },
+  {
+    "name": "壹天广告装饰",
+    "city": "淮南市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:58:49.259+08:00"
+  },
+  {
+    "name": "索菲亚柜类定制专家",
+    "city": "淮南市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:58:51.748+08:00"
+  },
+  {
+    "name": "城关朝阳装饰安装部五金电料锁具",
+    "city": "淮南市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:58:51.774+08:00"
+  },
+  {
+    "name": "大双装饰建材",
+    "city": "淮南市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T15:58:57.810+08:00"
+  },
+  {
+    "name": "淮南市传艺建筑装饰工程有限公司",
+    "city": "淮南市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T15:58:57.836+08:00"
   }
 ]
