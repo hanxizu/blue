@@ -20005,5 +20005,194 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:26:40.073+08:00"
+  },
+  {
+    "name": "R+汽车美容中心(城北万象汇店)",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:42.496+08:00"
+  },
+  {
+    "name": "南京驰卓汽车租赁有限公司",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:42.538+08:00"
+  },
+  {
+    "name": "南京豪沃汽车服务有限公司(马高路店)",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:42.566+08:00"
+  },
+  {
+    "name": "枫叶租车",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:45.484+08:00"
+  },
+  {
+    "name": "南京玮琪汽车租赁有限公司",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:47.887+08:00"
+  },
+  {
+    "name": "祥特租赁",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:47.933+08:00"
+  },
+  {
+    "name": "哈啰租车(盐业路店)",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:50.948+08:00"
+  },
+  {
+    "name": "大方租车(南京南站明发商业广场店)",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:50.985+08:00"
+  },
+  {
+    "name": "小灵狗租车",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:26:54.269+08:00"
+  },
+  {
+    "name": "异形租车",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:56.947+08:00"
+  },
+  {
+    "name": "滴滴出行司机中心玄武大道店",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 94,
+    "colorRatio": "4.10%",
+    "timestamp": "2026-07-03T00:26:56.979+08:00"
+  },
+  {
+    "name": "宏广东盈租车",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:26:59.472+08:00"
+  },
+  {
+    "name": "风云·电动车租赁(和燕路店)",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:02.683+08:00"
+  },
+  {
+    "name": "青芒网约车",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:02.718+08:00"
+  },
+  {
+    "name": "南京车友盟汽车租赁有限公司",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:05.796+08:00"
+  },
+  {
+    "name": "南京神舟盛大租车飞租V店",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:08.623+08:00"
+  },
+  {
+    "name": "翼驰租车",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:08.657+08:00"
+  },
+  {
+    "name": "南京玺智汽车租赁有限公司",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:11.170+08:00"
+  },
+  {
+    "name": "携程租车合作门店",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:13.820+08:00"
+  },
+  {
+    "name": "滴滴出行授权车辆服务门店(弛扬寅春路店)",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:13.866+08:00"
+  },
+  {
+    "name": "南京乙丁新能源网约车运营中心",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:13.901+08:00"
   }
 ]
