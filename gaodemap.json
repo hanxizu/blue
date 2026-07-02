@@ -10411,5 +10411,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T11:21:11.012+08:00"
+  },
+  {
+    "name": "盛鑫富业装饰公司",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:21:16.877+08:00"
+  },
+  {
+    "name": "佳佳合装饰工程有限公司",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:21:16.902+08:00"
+  },
+  {
+    "name": "顾家家居(黑牛城道红星店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-02T11:21:20.193+08:00"
+  },
+  {
+    "name": "厚道全案装修设计",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:21:20.239+08:00"
+  },
+  {
+    "name": "索菲亚衣柜橱柜全屋定制(红桥红星美龙店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-02T11:21:20.282+08:00"
+  },
+  {
+    "name": "天津佳信装饰工程有限公司",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:21:20.320+08:00"
   }
 ]
