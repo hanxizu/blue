@@ -35503,5 +35503,104 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:41:15.523+08:00"
+  },
+  {
+    "name": "168租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:18.607+08:00"
+  },
+  {
+    "name": "博途租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:18.649+08:00"
+  },
+  {
+    "name": "天下行租车(福州福清店)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:41:18.682+08:00"
+  },
+  {
+    "name": "哥们租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:41:21.496+08:00"
+  },
+  {
+    "name": "速易通租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:41:24.208+08:00"
+  },
+  {
+    "name": "雄猫租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:41:24.237+08:00"
+  },
+  {
+    "name": "旅伴出行三坊七巷电动车服务驿站",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T01:41:26.970+08:00"
+  },
+  {
+    "name": "福州安逸行汽车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:29.984+08:00"
+  },
+  {
+    "name": "铭航汽车租赁服务有限公司",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:30.026+08:00"
+  },
+  {
+    "name": "帆顺租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:32.731+08:00"
+  },
+  {
+    "name": "福州路航汽车租赁",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:32.766+08:00"
   }
 ]
