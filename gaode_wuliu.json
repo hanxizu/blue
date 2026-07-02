@@ -29140,5 +29140,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:22:10.932+08:00"
+  },
+  {
+    "name": "壹米滴答(广立丰营业部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:22:20.814+08:00"
+  },
+  {
+    "name": "宏帆物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:22:20.861+08:00"
   }
 ]
