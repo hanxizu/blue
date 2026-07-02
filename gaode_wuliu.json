@@ -36142,5 +36142,50 @@
     "colorPixels": 119,
     "colorRatio": "3.24%",
     "timestamp": "2026-07-03T03:00:19.074+08:00"
+  },
+  {
+    "name": "江苏大田国际货运有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:19.119+08:00"
+  },
+  {
+    "name": "上海环世捷运物流有限公司(南京分公司)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:22.824+08:00"
+  },
+  {
+    "name": "顺丰速运(福鑫大厦店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:22.918+08:00"
+  },
+  {
+    "name": "顺丰速运(明故宫店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:22.966+08:00"
+  },
+  {
+    "name": "南京航空航天大学(明故宫校区)后勤集团车辆运输中心",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:23.010+08:00"
   }
 ]
