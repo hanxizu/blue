@@ -28222,5 +28222,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:06:07.637+08:00"
+  },
+  {
+    "name": "滴滴出行租买车官方授权店",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:10.337+08:00"
+  },
+  {
+    "name": "电动车维修四方租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:06:10.369+08:00"
+  },
+  {
+    "name": "货拉拉租买车(长沙望城直营店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:12.891+08:00"
+  },
+  {
+    "name": "长沙焕域汽车租赁有限公司",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:16.013+08:00"
+  },
+  {
+    "name": "携程租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:16.048+08:00"
+  },
+  {
+    "name": "鑫逸租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:06:18.609+08:00"
+  },
+  {
+    "name": "仁隆租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:06:21.664+08:00"
+  },
+  {
+    "name": "博楚租赁",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:24.106+08:00"
+  },
+  {
+    "name": "扶摇出行",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:24.138+08:00"
   }
 ]
