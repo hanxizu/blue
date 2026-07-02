@@ -29257,5 +29257,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:10:07.796+08:00"
+  },
+  {
+    "name": "九九租车(洋湖店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:13.547+08:00"
+  },
+  {
+    "name": "哈啰租车(南湖路服务点)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:16.104+08:00"
+  },
+  {
+    "name": "汇聚租车(芙蓉区荷花园街道店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:21.712+08:00"
+  },
+  {
+    "name": "众诚租车(长沙火车站送取车网点)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:10:21.759+08:00"
+  },
+  {
+    "name": "同辉租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:21.808+08:00"
+  },
+  {
+    "name": "润隆租车(阳光店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:10:27.673+08:00"
+  },
+  {
+    "name": "哈啰租车(香江·高岭国际汽配城店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:27.731+08:00"
+  },
+  {
+    "name": "神州租车涂家冲地铁站自助点",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:30.442+08:00"
   }
 ]
