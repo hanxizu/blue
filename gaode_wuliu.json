@@ -36754,5 +36754,41 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T03:02:03.017+08:00"
+  },
+  {
+    "name": "顺丰速运(多伦路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:02:06.275+08:00"
+  },
+  {
+    "name": "顺丰速运(中海桃源里店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T03:02:09.303+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(江东门投递部)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:02:09.348+08:00"
+  },
+  {
+    "name": "顺丰速运(方家营70号小店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T03:02:13.112+08:00"
   }
 ]
