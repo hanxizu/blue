@@ -29707,5 +29707,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T01:12:29.551+08:00"
+  },
+  {
+    "name": "湖南途辉汽车租赁",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T01:12:35.476+08:00"
+  },
+  {
+    "name": "哈啰租车(曲塘路店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:12:37.956+08:00"
+  },
+  {
+    "name": "湖南恒颂租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:12:37.992+08:00"
+  },
+  {
+    "name": "顺意新能源汽车租售",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:12:43.849+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(长沙万众出租车服务中心)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:12:43.882+08:00"
+  },
+  {
+    "name": "长沙丰博租车德思勤店",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:12:46.913+08:00"
   }
 ]
