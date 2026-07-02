@@ -14200,5 +14200,41 @@
     "colorPixels": 27,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T01:15:42.019+08:00"
+  },
+  {
+    "name": "成都市佳好运输服务有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:15:44.810+08:00"
+  },
+  {
+    "name": "云聚物流(华丰食品城营业部)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:15:48.214+08:00"
+  },
+  {
+    "name": "诚信物流(成渝环线高速店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:51.177+08:00"
+  },
+  {
+    "name": "新牛马托运部",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:51.220+08:00"
   }
 ]
