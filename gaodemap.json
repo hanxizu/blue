@@ -745,5 +745,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T08:29:55.221+08:00"
+  },
+  {
+    "name": "京东装修社区服务店(团结湖店)",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T08:29:59.894+08:00"
+  },
+  {
+    "name": "今朝装饰玉泉营店",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 165,
+    "colorRatio": "4.17%",
+    "timestamp": "2026-07-02T08:29:59.932+08:00"
+  },
+  {
+    "name": "旺隆祥旧房翻新(都市馨园店)",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T08:30:04.294+08:00"
   }
 ]
