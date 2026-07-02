@@ -3283,5 +3283,23 @@
     "colorPixels": 158,
     "colorRatio": "3.99%",
     "timestamp": "2026-07-02T09:38:55.763+08:00"
+  },
+  {
+    "name": "祥和环保装饰公司五金百货",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:39:01.286+08:00"
+  },
+  {
+    "name": "阔航装饰装修公司",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T09:39:01.320+08:00"
   }
 ]
