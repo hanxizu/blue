@@ -8404,5 +8404,86 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T23:30:00.264+08:00"
+  },
+  {
+    "name": "好运行租车(杭州门店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:30:03.269+08:00"
+  },
+  {
+    "name": "哈啰小北租车(小桔充电)自助服务点",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:30:03.329+08:00"
+  },
+  {
+    "name": "神州租车(新天地商务中心11幢南楼店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:30:06.042+08:00"
+  },
+  {
+    "name": "浙江心华网约车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:30:09.121+08:00"
+  },
+  {
+    "name": "滴滴出行授权司机服务之家(创业兄弟同协路店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-02T23:30:09.155+08:00"
+  },
+  {
+    "name": "易亿租",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:30:11.911+08:00"
+  },
+  {
+    "name": "吉泰租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:30:14.760+08:00"
+  },
+  {
+    "name": "吉利远程慧联快又好新能源交付中心",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T23:30:17.431+08:00"
+  },
+  {
+    "name": "鼎尖·Apex超跑豪车租赁",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:30:17.457+08:00"
   }
 ]
