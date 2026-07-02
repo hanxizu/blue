@@ -34324,5 +34324,86 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T02:47:31.454+08:00"
+  },
+  {
+    "name": "顺心捷达物流(东科路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:47:34.278+08:00"
+  },
+  {
+    "name": "壹米滴答物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:47:40.337+08:00"
+  },
+  {
+    "name": "捷迅物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 96,
+    "colorRatio": "2.61%",
+    "timestamp": "2026-07-03T02:47:40.384+08:00"
+  },
+  {
+    "name": "富兴物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:47:43.954+08:00"
+  },
+  {
+    "name": "景光物流(东昇路)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:47:47.590+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞南城石鼓花园8号105店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:47:47.660+08:00"
+  },
+  {
+    "name": "东莞锦帛通国际集运",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:47:47.757+08:00"
+  },
+  {
+    "name": "东莞市兴达物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:47:47.830+08:00"
+  },
+  {
+    "name": "天马行物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:47:47.895+08:00"
   }
 ]
