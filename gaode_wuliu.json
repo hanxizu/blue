@@ -3418,5 +3418,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:26:42.221+08:00"
+  },
+  {
+    "name": "静逸斋宣纸配货中心",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:26:45.157+08:00"
+  },
+  {
+    "name": "顺丰速运(大屯路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:26:45.198+08:00"
+  },
+  {
+    "name": "物流大院",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:48.837+08:00"
+  },
+  {
+    "name": "安能物流朝阳托运中心(双桥路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:48.882+08:00"
+  },
+  {
+    "name": "顺丰速运(福盈店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:26:48.937+08:00"
   }
 ]
