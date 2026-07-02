@@ -26665,5 +26665,23 @@
     "colorPixels": 125,
     "colorRatio": "4.81%",
     "timestamp": "2026-07-03T02:13:40.691+08:00"
+  },
+  {
+    "name": "安顺大件物流托运中心(西安店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T02:13:44.784+08:00"
+  },
+  {
+    "name": "壹米滴答(西安店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T02:13:44.815+08:00"
   }
 ]
