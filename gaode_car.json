@@ -19168,5 +19168,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:21:15.077+08:00"
+  },
+  {
+    "name": "顺意租车(南海区店)",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:18.044+08:00"
+  },
+  {
+    "name": "追梦租赁",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:20.707+08:00"
+  },
+  {
+    "name": "钱站租车",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:21:23.406+08:00"
+  },
+  {
+    "name": "小老虎租车",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:28.599+08:00"
+  },
+  {
+    "name": "柠啡汽车维修租赁",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:31.077+08:00"
+  },
+  {
+    "name": "展博名车",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:31.107+08:00"
+  },
+  {
+    "name": "广州优优小豆租车",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:37.399+08:00"
+  },
+  {
+    "name": "广州-威龙租车",
+    "city": "佛山市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:37.433+08:00"
   }
 ]
