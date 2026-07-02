@@ -13768,5 +13768,104 @@
     "colorPixels": 560,
     "colorRatio": "15.25%",
     "timestamp": "2026-07-03T01:14:26.839+08:00"
+  },
+  {
+    "name": "安顺·大件物流全国托运(成都店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:14:30.649+08:00"
+  },
+  {
+    "name": "安顺·大件物流配送中心(五店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:14:34.292+08:00"
+  },
+  {
+    "name": "安顺大件物流托运中心(成都1店)60公斤起运",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:14:34.324+08:00"
+  },
+  {
+    "name": "成都货远流长货运有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:14:34.366+08:00"
+  },
+  {
+    "name": "顺丰速运(府河菜市店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:14:37.478+08:00"
+  },
+  {
+    "name": "顺丰速运(雍湖湾店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:14:37.522+08:00"
+  },
+  {
+    "name": "顺丰速运(麦田中心店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:14:41.038+08:00"
+  },
+  {
+    "name": "顺丰速运(普得先锋店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:14:41.082+08:00"
+  },
+  {
+    "name": "大森林全球物流(成都分公司)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:14:41.126+08:00"
+  },
+  {
+    "name": "纽酷国际物流成都公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:14:41.187+08:00"
+  },
+  {
+    "name": "深圳普罗空运有限公司成都分公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:14:43.893+08:00"
   }
 ]
