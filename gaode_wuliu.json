@@ -16657,5 +16657,50 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:25:15.316+08:00"
+  },
+  {
+    "name": "东半球宠物托运",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:25:18.653+08:00"
+  },
+  {
+    "name": "顺丰速运(百花中心店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:25:21.536+08:00"
+  },
+  {
+    "name": "成都明和运输有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:25:21.595+08:00"
+  },
+  {
+    "name": "顺丰速运(中华名园店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:25:21.658+08:00"
+  },
+  {
+    "name": "成都市双流区物流大道嘉里大通",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:25:21.714+08:00"
   }
 ]
