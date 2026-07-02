@@ -25837,5 +25837,32 @@
     "colorPixels": 491,
     "colorRatio": "13.37%",
     "timestamp": "2026-07-03T02:08:03.580+08:00"
+  },
+  {
+    "name": "湖北省烟草公司武汉卷烟物流中心",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:08:18.033+08:00"
+  },
+  {
+    "name": "德邦快递(武汉汉口古田二路经营分部)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:08:18.092+08:00"
+  },
+  {
+    "name": "顺丰速运(军威苑雾化店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:08:21.792+08:00"
   }
 ]
