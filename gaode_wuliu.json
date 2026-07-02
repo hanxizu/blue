@@ -23875,5 +23875,59 @@
     "colorPixels": 570,
     "colorRatio": "15.52%",
     "timestamp": "2026-07-03T02:00:20.954+08:00"
+  },
+  {
+    "name": "汉港运输公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:27.509+08:00"
+  },
+  {
+    "name": "顺丰速运(后湖店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:00:27.552+08:00"
+  },
+  {
+    "name": "顺丰速运(司门口店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:00:30.698+08:00"
+  },
+  {
+    "name": "武汉中实国际物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:30.768+08:00"
+  },
+  {
+    "name": "顺丰速运(铁机新居店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:33.530+08:00"
+  },
+  {
+    "name": "武汉宇圣通物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 107,
+    "colorRatio": "2.91%",
+    "timestamp": "2026-07-03T02:00:33.572+08:00"
   }
 ]
