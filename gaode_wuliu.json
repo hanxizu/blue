@@ -14074,5 +14074,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:15:14.034+08:00"
+  },
+  {
+    "name": "顺丰速运(大源欢乐颂店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:15:16.761+08:00"
+  },
+  {
+    "name": "琅茂霖物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:22.742+08:00"
+  },
+  {
+    "name": "顺丰速运(长寿苑店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:15:22.788+08:00"
+  },
+  {
+    "name": "鑫达鑫物流海吉星网点",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:25.851+08:00"
+  },
+  {
+    "name": "安能物流(柳江新居3期店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 125,
+    "colorRatio": "3.40%",
+    "timestamp": "2026-07-03T01:15:25.894+08:00"
   }
 ]
