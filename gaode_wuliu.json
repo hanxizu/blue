@@ -2608,5 +2608,23 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T00:23:21.761+08:00"
+  },
+  {
+    "name": "鑫国通物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:23:31.416+08:00"
+  },
+  {
+    "name": "君玖物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:23:31.455+08:00"
   }
 ]
