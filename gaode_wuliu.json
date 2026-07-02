@@ -20464,5 +20464,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:41:43.149+08:00"
+  },
+  {
+    "name": "高捷物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:53.142+08:00"
+  },
+  {
+    "name": "顺丰速运(武林九里店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:41:53.185+08:00"
+  },
+  {
+    "name": "浙江浙鲁物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:56.992+08:00"
   }
 ]
