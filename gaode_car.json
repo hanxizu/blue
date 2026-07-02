@@ -3778,5 +3778,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:08:50.247+08:00"
+  },
+  {
+    "name": "神州租车(科兴科学园服务点)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:52.725+08:00"
+  },
+  {
+    "name": "一嗨租车(华强北便捷点)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:55.664+08:00"
+  },
+  {
+    "name": "一嗨租车(梅林店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:55.702+08:00"
+  },
+  {
+    "name": "赞牛出行租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:08:55.741+08:00"
+  },
+  {
+    "name": "神州租车(罗湖口岸服务点)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:58.454+08:00"
   }
 ]
