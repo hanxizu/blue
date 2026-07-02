@@ -21184,5 +21184,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:44:50.258+08:00"
+  },
+  {
+    "name": "京东物流(三卫过渡房店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:44:53.451+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(邮政枢纽大楼店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:44:53.502+08:00"
+  },
+  {
+    "name": "神通物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:44:56.139+08:00"
   }
 ]
