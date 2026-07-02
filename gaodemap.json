@@ -14128,5 +14128,59 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-02T11:52:20.942+08:00"
+  },
+  {
+    "name": "欧派零售大家居(合肥政务红星店)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-02T11:52:23.528+08:00"
+  },
+  {
+    "name": "容筑装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:52:23.555+08:00"
+  },
+  {
+    "name": "锦尚装饰(合肥分公司)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:52:26.399+08:00"
+  },
+  {
+    "name": "合肥一号装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:52:26.430+08:00"
+  },
+  {
+    "name": "卧赛旧改·房屋翻新·厨卫改造(杏花公园店)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T11:52:29.198+08:00"
+  },
+  {
+    "name": "福人空间-合肥店",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T11:52:29.247+08:00"
   }
 ]
