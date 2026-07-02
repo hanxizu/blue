@@ -21715,5 +21715,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:47:46.305+08:00"
+  },
+  {
+    "name": "杭州谢氏运输有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:47:46.524+08:00"
+  },
+  {
+    "name": "日通国际物流(中国)有限公司杭州分公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:47:50.600+08:00"
+  },
+  {
+    "name": "泰邦货运",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:47:50.653+08:00"
   }
 ]
