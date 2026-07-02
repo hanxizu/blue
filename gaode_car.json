@@ -1375,5 +1375,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T22:57:26.669+08:00"
+  },
+  {
+    "name": "四合汽车租赁(新发地店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:57:33.356+08:00"
+  },
+  {
+    "name": "北京龙诚远行汽车租赁有限公司",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:57:33.401+08:00"
+  },
+  {
+    "name": "雨辰豪峰租车(双合门店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:57:36.259+08:00"
   }
 ]
