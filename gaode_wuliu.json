@@ -27754,5 +27754,59 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:17:27.524+08:00"
+  },
+  {
+    "name": "顺丰速运(雨润市场快递服务中心)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:17:27.569+08:00"
+  },
+  {
+    "name": "安能物流(凯旋大厦店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:17:27.612+08:00"
+  },
+  {
+    "name": "陕西卓远物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:17:27.684+08:00"
+  },
+  {
+    "name": "顺丰速运(万科幸福里店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:17:27.727+08:00"
+  },
+  {
+    "name": "安徽建工现代商贸物流集团西北区域公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:17:30.793+08:00"
+  },
+  {
+    "name": "顺丰速运(香颂国际店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 552,
+    "colorRatio": "15.03%",
+    "timestamp": "2026-07-03T02:17:30.836+08:00"
   }
 ]
