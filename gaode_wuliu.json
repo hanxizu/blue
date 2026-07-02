@@ -35710,5 +35710,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:59:11.786+08:00"
+  },
+  {
+    "name": "江苏淼润森物流科技有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:59:14.997+08:00"
+  },
+  {
+    "name": "南京大学鼓楼校区后勤服务集团运输中心",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:59:18.147+08:00"
+  },
+  {
+    "name": "江苏润航国际货运代理有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 18,
+    "colorRatio": "0.49%",
+    "timestamp": "2026-07-03T02:59:18.190+08:00"
+  },
+  {
+    "name": "江苏锐进国际货运代理有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:59:21.872+08:00"
+  },
+  {
+    "name": "南京韵昇货运代理有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:59:21.921+08:00"
+  },
+  {
+    "name": "以星综合航运",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:59:21.967+08:00"
   }
 ]
