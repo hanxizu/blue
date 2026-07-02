@@ -17557,5 +17557,32 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:30:27.050+08:00"
+  },
+  {
+    "name": "四川物流航空港有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:43.971+08:00"
+  },
+  {
+    "name": "周大福物流成都机场物流中心",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:47.178+08:00"
+  },
+  {
+    "name": "成都双流国际机场四川航空货运部",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:47.230+08:00"
   }
 ]
