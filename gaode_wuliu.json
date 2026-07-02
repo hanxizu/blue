@@ -26809,5 +26809,59 @@
     "colorPixels": 132,
     "colorRatio": "3.59%",
     "timestamp": "2026-07-03T02:14:32.646+08:00"
+  },
+  {
+    "name": "陕西富达物流(六村堡营业部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:14:53.958+08:00"
+  },
+  {
+    "name": "顺丰速运(老兵二站西门店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:14:57.449+08:00"
+  },
+  {
+    "name": "顺丰速运(世茂都店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:14:57.493+08:00"
+  },
+  {
+    "name": "顺丰速运(菁华名门店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:14:57.536+08:00"
+  },
+  {
+    "name": "顺丰速运(保利中达广场店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:14:57.578+08:00"
+  },
+  {
+    "name": "顺丰速运(首创国际城店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 107,
+    "colorRatio": "2.91%",
+    "timestamp": "2026-07-03T02:14:57.621+08:00"
   }
 ]
