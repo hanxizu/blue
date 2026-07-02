@@ -27898,5 +27898,131 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T01:05:13.954+08:00"
+  },
+  {
+    "name": "湖南大象巴士",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T01:05:16.661+08:00"
+  },
+  {
+    "name": "长沙思渊租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:05:19.313+08:00"
+  },
+  {
+    "name": "天天租车梅溪湖店",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:05:19.352+08:00"
+  },
+  {
+    "name": "湖南德聚仁和汽车租赁有限公司",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:05:21.813+08:00"
+  },
+  {
+    "name": "大螺租车(河西店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:21.845+08:00"
+  },
+  {
+    "name": "湖南易安租车有限公司",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:21.873+08:00"
+  },
+  {
+    "name": "湖南恒源汽车租赁有限公司",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:24.815+08:00"
+  },
+  {
+    "name": "湖南叁六零汽车租赁服务有限公司",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:24.864+08:00"
+  },
+  {
+    "name": "阿龙租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:27.919+08:00"
+  },
+  {
+    "name": "长沙市水润汽车租赁有限公司",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:30.591+08:00"
+  },
+  {
+    "name": "掌及租车(东瓜山店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:30.624+08:00"
+  },
+  {
+    "name": "力强租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:05:30.677+08:00"
+  },
+  {
+    "name": "蛋蛋租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:33.497+08:00"
+  },
+  {
+    "name": "星顺租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:33.530+08:00"
   }
 ]
