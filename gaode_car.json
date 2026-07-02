@@ -2824,5 +2824,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:03:59.790+08:00"
+  },
+  {
+    "name": "候鸟租车上海虹桥店",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:04:05.308+08:00"
+  },
+  {
+    "name": "上海车多多汽车租赁服务有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:05.333+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(南京领行-仁仁驿T3司机服务驿站-丰华公路站点)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:05.361+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(交心驿 沪青平公路站)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:08.508+08:00"
+  },
+  {
+    "name": "漾林租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:04:08.533+08:00"
   }
 ]
