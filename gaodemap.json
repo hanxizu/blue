@@ -3769,5 +3769,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T09:53:50.516+08:00"
+  },
+  {
+    "name": "今朝装饰(十里河店)",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 432,
+    "colorRatio": "18.82%",
+    "timestamp": "2026-07-02T09:53:57.575+08:00"
+  },
+  {
+    "name": "北京大改家智慧养老有限公司",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T09:53:57.596+08:00"
+  },
+  {
+    "name": "设计空间",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:53:57.620+08:00"
+  },
+  {
+    "name": "豪杰门窗装饰(马家堡路店)",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T09:53:57.650+08:00"
   }
 ]
