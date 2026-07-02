@@ -31894,5 +31894,131 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T01:24:31.573+08:00"
+  },
+  {
+    "name": "达达出行",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T01:24:34.546+08:00"
+  },
+  {
+    "name": "郑州上元汽车租赁服务有限公司",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:34.609+08:00"
+  },
+  {
+    "name": "大疆租赁",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T01:24:37.295+08:00"
+  },
+  {
+    "name": "都市丽茵天能电池租车店",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:40.419+08:00"
+  },
+  {
+    "name": "蛋蛋电动车租赁",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:40.459+08:00"
+  },
+  {
+    "name": "梓萌租车(南三环店)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:43.318+08:00"
+  },
+  {
+    "name": "郑州旅游同城九八租车公司",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:46.220+08:00"
+  },
+  {
+    "name": "一陆租车(郑州东站店)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:46.253+08:00"
+  },
+  {
+    "name": "神州租车郑州杜康大酒店自助点",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:51.555+08:00"
+  },
+  {
+    "name": "哈啰小北租车电动车(升龙广场A区)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:51.586+08:00"
+  },
+  {
+    "name": "万雪租车文化路旗舰店",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:24:51.620+08:00"
+  },
+  {
+    "name": "老丁出租车信息部",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:54.503+08:00"
+  },
+  {
+    "name": "河南郑州旅游大巴客车租赁",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:54.553+08:00"
+  },
+  {
+    "name": "神舟租车(旗舰店)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:24:57.538+08:00"
   }
 ]
