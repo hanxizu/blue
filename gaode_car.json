@@ -17512,5 +17512,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:12:42.202+08:00"
+  },
+  {
+    "name": "滴滴出行网约车运营中心(光明大街店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T00:12:48.265+08:00"
+  },
+  {
+    "name": "哈啰租车(八戒出行石碣沙洲工业区送取车点)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:12:48.402+08:00"
+  },
+  {
+    "name": "哈啰租车(悟能租车万江思美特科技园送取车点)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:12:54.311+08:00"
+  },
+  {
+    "name": "哈啰租车(丁丁租车取车点)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:12:54.347+08:00"
+  },
+  {
+    "name": "悟能租车(东城街道店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:12:56.876+08:00"
+  },
+  {
+    "name": "神州租车(锦江都城高埗镇时兴中心店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:13:03.278+08:00"
+  },
+  {
+    "name": "丁丁租车(寮步镇店)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:13:05.875+08:00"
+  },
+  {
+    "name": "哈啰租车(丁丁租车高埗店三联村文化广场取车点)",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:13:12.072+08:00"
+  },
+  {
+    "name": "住鑫汽车租赁有限公司",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:13:12.106+08:00"
+  },
+  {
+    "name": "悟能租车",
+    "city": "东莞市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:13:14.810+08:00"
   }
 ]
