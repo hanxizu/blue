@@ -11320,5 +11320,140 @@
     "colorPixels": 89,
     "colorRatio": "3.88%",
     "timestamp": "2026-07-02T23:44:02.542+08:00"
+  },
+  {
+    "name": "旋迪租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T23:44:02.576+08:00"
+  },
+  {
+    "name": "鑫犇悦租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:05.595+08:00"
+  },
+  {
+    "name": "神州租车(武汉马哥孛罗酒店自助点)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:05.638+08:00"
+  },
+  {
+    "name": "武汉中达租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:08.511+08:00"
+  },
+  {
+    "name": "风米豪车租赁",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:08.572+08:00"
+  },
+  {
+    "name": "惠通租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:08.607+08:00"
+  },
+  {
+    "name": "武汉顺福隆汽车租赁",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 14,
+    "colorRatio": "0.61%",
+    "timestamp": "2026-07-02T23:44:08.639+08:00"
+  },
+  {
+    "name": "安途豪车俱乐部",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:11.417+08:00"
+  },
+  {
+    "name": "武汉漫自由租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:11.448+08:00"
+  },
+  {
+    "name": "捷轮租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:14.268+08:00"
+  },
+  {
+    "name": "万达威骏租车(北湖旗舰店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:17.382+08:00"
+  },
+  {
+    "name": "武汉晴朗租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:17.414+08:00"
+  },
+  {
+    "name": "武汉胜天汽车租赁有限公司",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:17.448+08:00"
+  },
+  {
+    "name": "T-ONE豪车租赁",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-02T23:44:20.175+08:00"
+  },
+  {
+    "name": "武汉易择豪车租赁",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:20.208+08:00"
   }
 ]
