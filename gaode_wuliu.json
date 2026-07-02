@@ -37006,5 +37006,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:02:54.566+08:00"
+  },
+  {
+    "name": "顺丰速运(郑和南路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:02:57.632+08:00"
+  },
+  {
+    "name": "顺丰速运(夫子庙店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T03:02:57.675+08:00"
+  },
+  {
+    "name": "顺丰速运(龙江店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:03:00.175+08:00"
+  },
+  {
+    "name": "顺丰速运(阅江广场店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:03:00.244+08:00"
+  },
+  {
+    "name": "晨光集团有限责任公司运输分公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:03:00.318+08:00"
+  },
+  {
+    "name": "顺丰速运(所街思园店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:03:07.400+08:00"
   }
 ]
