@@ -4048,5 +4048,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T10:05:04.401+08:00"
+  },
+  {
+    "name": "家居装饰五金建材",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:05:16.023+08:00"
+  },
+  {
+    "name": "五金建材金德管业装修断桥铝(柳芳南里社区店)",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:05:22.168+08:00"
   }
 ]
