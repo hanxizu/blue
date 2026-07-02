@@ -646,5 +646,41 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:16:33.828+08:00"
+  },
+  {
+    "name": "顺丰速运(嘉盛店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:16:36.666+08:00"
+  },
+  {
+    "name": "顺丰速运(百荣店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 545,
+    "colorRatio": "14.84%",
+    "timestamp": "2026-07-03T00:16:36.722+08:00"
+  },
+  {
+    "name": "昊业物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:39.286+08:00"
+  },
+  {
+    "name": "百荣世贸商城物流区",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:44.231+08:00"
   }
 ]
