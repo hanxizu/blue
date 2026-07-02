@@ -10879,5 +10879,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:40:30.665+08:00"
+  },
+  {
+    "name": "星摩速租车(昆山柏庐北路店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:36.599+08:00"
+  },
+  {
+    "name": "城满电租车(衡山路店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:36.631+08:00"
+  },
+  {
+    "name": "顺鹏汽车租赁有限公司",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:36.662+08:00"
+  },
+  {
+    "name": "广源网约车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T23:40:42.830+08:00"
+  },
+  {
+    "name": "长鸿租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:42.860+08:00"
+  },
+  {
+    "name": "一嗨租车(千灯店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:42.889+08:00"
+  },
+  {
+    "name": "前进东路神州租车(帝景大厦店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:48.550+08:00"
+  },
+  {
+    "name": "滴滴网约车·司机招募点",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:48.581+08:00"
+  },
+  {
+    "name": "星摩速租车(昆山樾河南路店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:48.615+08:00"
+  },
+  {
+    "name": "拾柒租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 306,
+    "colorRatio": "13.33%",
+    "timestamp": "2026-07-02T23:40:54.738+08:00"
   }
 ]
