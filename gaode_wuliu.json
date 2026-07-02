@@ -12814,5 +12814,68 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T01:09:19.166+08:00"
+  },
+  {
+    "name": "顺丰速运(体育学院校园快递服务中心)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:09:33.548+08:00"
+  },
+  {
+    "name": "俄国际货运",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:09:33.598+08:00"
+  },
+  {
+    "name": "京东物流(华苑大厦店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:09:33.650+08:00"
+  },
+  {
+    "name": "伊甸国际货运",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:09:33.701+08:00"
+  },
+  {
+    "name": "赢昊大厦物流卸货区",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:09:33.750+08:00"
+  },
+  {
+    "name": "日昱物流(交易园店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:09:36.336+08:00"
+  },
+  {
+    "name": "广州发龙国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:09:36.401+08:00"
   }
 ]
