@@ -11455,5 +11455,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:44:20.208+08:00"
+  },
+  {
+    "name": "SC豪车租赁",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:22.940+08:00"
+  },
+  {
+    "name": "武汉大通汽车出租有限公司(第六分公司)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:25.980+08:00"
+  },
+  {
+    "name": "武汉葛洲坝出租车有限公司",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:26.040+08:00"
+  },
+  {
+    "name": "伍洲租车(汉口火车站店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T23:44:28.859+08:00"
+  },
+  {
+    "name": "出租车汽车司机驿站(携程专车汉阳站)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:31.740+08:00"
+  },
+  {
+    "name": "货拉拉武汉东西湖区金银潭路门店",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:31.777+08:00"
+  },
+  {
+    "name": "武汉凯美途租车包车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:44:35.022+08:00"
+  },
+  {
+    "name": "EVCARD租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:44:37.710+08:00"
+  },
+  {
+    "name": "埃库隆租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:44:40.473+08:00"
   }
 ]
