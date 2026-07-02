@@ -28501,5 +28501,23 @@
     "colorPixels": 60,
     "colorRatio": "1.63%",
     "timestamp": "2026-07-03T02:19:44.752+08:00"
+  },
+  {
+    "name": "顺丰速运(郝家巷泊澜地店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:19:44.855+08:00"
+  },
+  {
+    "name": "顺丰速运(安诚御花苑店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:19:44.904+08:00"
   }
 ]
