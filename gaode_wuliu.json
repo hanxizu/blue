@@ -22300,5 +22300,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:50:43.073+08:00"
+  },
+  {
+    "name": "浙江环恒物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:50:45.767+08:00"
+  },
+  {
+    "name": "欧西爱司物流公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:50:45.835+08:00"
   }
 ]
