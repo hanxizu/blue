@@ -6190,5 +6190,68 @@
     "colorPixels": 389,
     "colorRatio": "16.95%",
     "timestamp": "2026-07-02T10:52:27.293+08:00"
+  },
+  {
+    "name": "造福装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:52:34.574+08:00"
+  },
+  {
+    "name": "上海波涛装饰(集团)有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:52:34.607+08:00"
+  },
+  {
+    "name": "松下住空间真北店(进口品体验馆)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T10:52:37.409+08:00"
+  },
+  {
+    "name": "上海卓叶建筑装饰集团有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:52:40.554+08:00"
+  },
+  {
+    "name": "艾朝装饰(静安店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:52:40.596+08:00"
+  },
+  {
+    "name": "成飞装饰(宝山设计旗舰店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:52:40.621+08:00"
+  },
+  {
+    "name": "美力达设计·装饰(杨浦店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:52:40.653+08:00"
   }
 ]
