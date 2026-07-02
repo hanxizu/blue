@@ -17449,5 +17449,41 @@
     "colorPixels": 147,
     "colorRatio": "4.00%",
     "timestamp": "2026-07-03T01:29:59.247+08:00"
+  },
+  {
+    "name": "成都鑫名达物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:02.570+08:00"
+  },
+  {
+    "name": "成都市亿联达物流有限责任公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:05.342+08:00"
+  },
+  {
+    "name": "四川宏盛国际物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:05.442+08:00"
+  },
+  {
+    "name": "西藏昌都鹏宇轿运",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:05.587+08:00"
   }
 ]
