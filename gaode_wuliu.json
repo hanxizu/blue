@@ -1834,5 +1834,59 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:20:10.464+08:00"
+  },
+  {
+    "name": "大红门火车站货运中心",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:20:17.637+08:00"
+  },
+  {
+    "name": "北京铁路物流中心(天佑京铁物流有限公司)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:20:17.672+08:00"
+  },
+  {
+    "name": "收货部",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:20:21.528+08:00"
+  },
+  {
+    "name": "传志物流城外城站点",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:20:21.566+08:00"
+  },
+  {
+    "name": "顺丰速运(庑殿路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:20:21.606+08:00"
+  },
+  {
+    "name": "北京翔龙合力搬家物流有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 133,
+    "colorRatio": "3.62%",
+    "timestamp": "2026-07-03T00:20:21.645+08:00"
   }
 ]
