@@ -33028,5 +33028,50 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:42:59.496+08:00"
+  },
+  {
+    "name": "铭盛国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:43:02.702+08:00"
+  },
+  {
+    "name": "振崴国际物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:43:02.745+08:00"
+  },
+  {
+    "name": "东莞市赣通物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:43:05.380+08:00"
+  },
+  {
+    "name": "华仁国际物流东莞南城操作中心",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:43:05.460+08:00"
+  },
+  {
+    "name": "安能ane(莫新路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:43:05.599+08:00"
   }
 ]
