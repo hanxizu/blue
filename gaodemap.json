@@ -19870,5 +19870,104 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T12:34:42.581+08:00"
+  },
+  {
+    "name": "久匠装饰(合肥店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:34:45.214+08:00"
+  },
+  {
+    "name": "四象空间设计",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:34:47.766+08:00"
+  },
+  {
+    "name": "米萝装饰创意馆",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:34:47.803+08:00"
+  },
+  {
+    "name": "华新师傅精品装修水泥",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T12:34:50.532+08:00"
+  },
+  {
+    "name": "中建深圳装饰有限公司",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:34:53.956+08:00"
+  },
+  {
+    "name": "顾家家居(居然之家两江国际mall店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-02T12:34:53.998+08:00"
+  },
+  {
+    "name": "卓坊家装饰(长江一路)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:34:54.036+08:00"
+  },
+  {
+    "name": "天至宏装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:34:54.070+08:00"
+  },
+  {
+    "name": "Aqara Home绿米智能家居体验馆(北环红星美凯龙店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T12:34:56.711+08:00"
+  },
+  {
+    "name": "辞旧迎新装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:34:59.516+08:00"
+  },
+  {
+    "name": "领军装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:34:59.550+08:00"
   }
 ]
