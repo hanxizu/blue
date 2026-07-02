@@ -1024,5 +1024,23 @@
     "colorPixels": 268,
     "colorRatio": "6.77%",
     "timestamp": "2026-07-02T08:34:23.050+08:00"
+  },
+  {
+    "name": "今朝装饰(北三环东路辅路)",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T08:34:26.547+08:00"
+  },
+  {
+    "name": "首佳装饰",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T08:34:26.602+08:00"
   }
 ]
