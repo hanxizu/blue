@@ -37294,5 +37294,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:49:48.623+08:00"
+  },
+  {
+    "name": "温州小北租车取车点(瓯之堡公寓)",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:49:51.342+08:00"
+  },
+  {
+    "name": "鑫通汽车租赁有限公司温州分公司",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T01:49:54.341+08:00"
+  },
+  {
+    "name": "豪信二手车汽车租赁",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:49:54.377+08:00"
+  },
+  {
+    "name": "哈啰租车(机场)",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:49:57.189+08:00"
   }
 ]
