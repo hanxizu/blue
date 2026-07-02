@@ -3301,5 +3301,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:07:22.381+08:00"
+  },
+  {
+    "name": "至尊出行",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:07:24.932+08:00"
+  },
+  {
+    "name": "深圳市众联汽车租赁有限公司",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:07:27.942+08:00"
+  },
+  {
+    "name": "迈润安名车租赁",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:07:27.977+08:00"
   }
 ]
