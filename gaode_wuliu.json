@@ -30229,5 +30229,14 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:27:15.263+08:00"
+  },
+  {
+    "name": "保证货运",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:27:18.421+08:00"
   }
 ]
