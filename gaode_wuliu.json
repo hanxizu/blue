@@ -21967,5 +21967,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:48:48.128+08:00"
+  },
+  {
+    "name": "顺丰速运(上东臻品店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:49:01.222+08:00"
+  },
+  {
+    "name": "杭州会成物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 12,
+    "colorRatio": "0.33%",
+    "timestamp": "2026-07-03T01:49:01.274+08:00"
+  },
+  {
+    "name": "恒邦物流有限公司(驻新街办事处)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:49:04.496+08:00"
+  },
+  {
+    "name": "长远物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 170,
+    "colorRatio": "4.63%",
+    "timestamp": "2026-07-03T01:49:04.549+08:00"
+  },
+  {
+    "name": "杭州朝阳油品运输有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:49:07.807+08:00"
   }
 ]
