@@ -27043,5 +27043,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:15:24.347+08:00"
+  },
+  {
+    "name": "宇鑫物流(丰产路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:27.436+08:00"
+  },
+  {
+    "name": "菜鸟驿站(高山流水·幸福快车店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:27.480+08:00"
+  },
+  {
+    "name": "顺丰速运(西航中心小区店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:30.438+08:00"
+  },
+  {
+    "name": "西安聚坤物流有限公司(中通快递)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:15:30.480+08:00"
   }
 ]
