@@ -8836,5 +8836,50 @@
     "colorPixels": 85,
     "colorRatio": "3.70%",
     "timestamp": "2026-07-02T11:11:10.457+08:00"
+  },
+  {
+    "name": "域式设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:11:12.948+08:00"
+  },
+  {
+    "name": "佰丽爱家全屋定制徐汇旗舰店",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T11:11:15.585+08:00"
+  },
+  {
+    "name": "溪岸全屋定制(上海旗舰店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:11:18.018+08:00"
+  },
+  {
+    "name": "中国装饰股份有限公司上海分公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:11:18.060+08:00"
+  },
+  {
+    "name": "Coldefy建筑设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:11:18.102+08:00"
   }
 ]
