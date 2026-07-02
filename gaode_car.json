@@ -20995,5 +20995,284 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:30:57.870+08:00"
+  },
+  {
+    "name": "一嗨租车全季酒店明珠广场店送车点",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:00.890+08:00"
+  },
+  {
+    "name": "厚宸租车",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:03.326+08:00"
+  },
+  {
+    "name": "徽之缘租车",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:03.358+08:00"
+  },
+  {
+    "name": "神州租车(大唐国际购物广场店)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:06.059+08:00"
+  },
+  {
+    "name": "侣行租车(合肥店)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:06.095+08:00"
+  },
+  {
+    "name": "纳星租赁",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:06.130+08:00"
+  },
+  {
+    "name": "添猫出行",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T00:31:08.754+08:00"
+  },
+  {
+    "name": "合肥长溯旅游汽车服务有限公司",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:08.785+08:00"
+  },
+  {
+    "name": "合肥和瑞出租车有限公司",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:08.829+08:00"
+  },
+  {
+    "name": "一键租车",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:11.149+08:00"
+  },
+  {
+    "name": "马达租车",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:31:11.188+08:00"
+  },
+  {
+    "name": "神州租车合肥火车站服务点",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:11.221+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(昱航繁华大道店)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:14.606+08:00"
+  },
+  {
+    "name": "祁隆新能源合肥分公司",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:14.661+08:00"
+  },
+  {
+    "name": "骑寄驿站(北一环路店)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:17.333+08:00"
+  },
+  {
+    "name": "梦升租车",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:31:17.367+08:00"
+  },
+  {
+    "name": "智创租车",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:31:22.661+08:00"
+  },
+  {
+    "name": "合肥365约车之家",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T00:31:22.689+08:00"
+  },
+  {
+    "name": "神州租车(杏花公园自助点)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:25.301+08:00"
+  },
+  {
+    "name": "一嗨租车(华孚城隍庙店)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:25.331+08:00"
+  },
+  {
+    "name": "明煌租车",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:31:25.375+08:00"
+  },
+  {
+    "name": "明昂租车(包河店)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:28.742+08:00"
+  },
+  {
+    "name": "神州租车(南一环路辅路店)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:28.771+08:00"
+  },
+  {
+    "name": "倍思特租车",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:31:28.804+08:00"
+  },
+  {
+    "name": "一嗨租车(朱岗地铁站店)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:31.928+08:00"
+  },
+  {
+    "name": "神州租车(文曲路创新产业园二期自助点)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:31.960+08:00"
+  },
+  {
+    "name": "德云社租车",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:31.993+08:00"
+  },
+  {
+    "name": "超万家租车",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:34.677+08:00"
+  },
+  {
+    "name": "哈啰租车(南站送车点)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:34.710+08:00"
+  },
+  {
+    "name": "达富租车(包河区望湖街道店)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:37.448+08:00"
+  },
+  {
+    "name": "旭道租车(包河区常青街道店)",
+    "city": "合肥市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:31:37.480+08:00"
   }
 ]
