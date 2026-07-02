@@ -18223,5 +18223,50 @@
     "colorPixels": 100,
     "colorRatio": "3.84%",
     "timestamp": "2026-07-03T01:35:00.525+08:00"
+  },
+  {
+    "name": "杭州鑫盛物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:03.633+08:00"
+  },
+  {
+    "name": "顺丰速运(近江二园店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:03.676+08:00"
+  },
+  {
+    "name": "顺丰速运(凯旋路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:06.336+08:00"
+  },
+  {
+    "name": "中铁快运股份有限公司浙江分公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:06.384+08:00"
+  },
+  {
+    "name": "极兔物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:06.441+08:00"
   }
 ]
