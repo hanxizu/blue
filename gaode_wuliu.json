@@ -27430,5 +27430,41 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:16:27.746+08:00"
+  },
+  {
+    "name": "中山鹏辉物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:16:30.809+08:00"
+  },
+  {
+    "name": "西安源天物流(成都至西安往返专线北三环永志物流点)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:16:30.852+08:00"
+  },
+  {
+    "name": "西安杰康物流总部",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:16:33.622+08:00"
+  },
+  {
+    "name": "云聚物流(永志物流营业部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:16:37.422+08:00"
   }
 ]
