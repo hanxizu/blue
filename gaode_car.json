@@ -40561,5 +40561,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:06:07.071+08:00"
+  },
+  {
+    "name": "金锡租车常州店",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:12.787+08:00"
+  },
+  {
+    "name": "畅快租车常州店",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:12.832+08:00"
+  },
+  {
+    "name": "哈啰租车",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:15.331+08:00"
+  },
+  {
+    "name": "立龙租车常州",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:18.172+08:00"
+  },
+  {
+    "name": "哈啰租车(常州北站)",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:18.220+08:00"
   }
 ]
