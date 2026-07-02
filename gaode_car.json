@@ -5884,5 +5884,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:17:51.406+08:00"
+  },
+  {
+    "name": "广州站-旺缘租车",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:17:53.953+08:00"
+  },
+  {
+    "name": "广州东站-易到",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:17:53.990+08:00"
+  },
+  {
+    "name": "神州租车(滘口地铁站服务点)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:17:59.459+08:00"
+  },
+  {
+    "name": "旺缘租车(荔湾区花地街道店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:17:59.484+08:00"
+  },
+  {
+    "name": "广州租车网天河店",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:18:01.961+08:00"
+  },
+  {
+    "name": "哈啰租车(木森梦想车库)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:18:04.960+08:00"
+  },
+  {
+    "name": "广州希全汽车租赁有限公司",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:18:04.998+08:00"
   }
 ]
