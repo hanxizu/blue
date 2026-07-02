@@ -40795,5 +40795,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:07:05.812+08:00"
+  },
+  {
+    "name": "黑曼巴租车①",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:08.172+08:00"
+  },
+  {
+    "name": "常州运河租车钟楼店",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:08.241+08:00"
+  },
+  {
+    "name": "包租公租车",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:11.291+08:00"
+  },
+  {
+    "name": "黑曼巴租车",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:17.168+08:00"
+  },
+  {
+    "name": "哈啰租车(钟楼店)",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:20.409+08:00"
+  },
+  {
+    "name": "哈啰租车(鹏珍租车钟楼店)",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:20.440+08:00"
   }
 ]
