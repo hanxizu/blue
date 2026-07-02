@@ -31129,5 +31129,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:37:09.650+08:00"
+  },
+  {
+    "name": "汇森速运·龙邦物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:37:09.693+08:00"
+  },
+  {
+    "name": "浙商物流(红山路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:37:09.737+08:00"
+  },
+  {
+    "name": "信达物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:37:09.781+08:00"
+  },
+  {
+    "name": "东莞市力信装卸搬运有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 131,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T02:37:13.866+08:00"
   }
 ]
