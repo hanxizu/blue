@@ -23902,5 +23902,104 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:43:47.830+08:00"
+  },
+  {
+    "name": "轻舟租车(东丽店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:54.074+08:00"
+  },
+  {
+    "name": "日升源租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:54.110+08:00"
+  },
+  {
+    "name": "赛德租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 306,
+    "colorRatio": "13.33%",
+    "timestamp": "2026-07-03T00:43:56.908+08:00"
+  },
+  {
+    "name": "林松租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:44:03.021+08:00"
+  },
+  {
+    "name": "津服租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:44:03.058+08:00"
+  },
+  {
+    "name": "小嘿象电动车租赁(小淀镇店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:44:03.129+08:00"
+  },
+  {
+    "name": "鑫鼎高端婚车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T00:44:09.129+08:00"
+  },
+  {
+    "name": "中建救援清障车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:44:11.693+08:00"
+  },
+  {
+    "name": "永晟租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:44:17.945+08:00"
+  },
+  {
+    "name": "吾达晟行汽车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:44:18.004+08:00"
+  },
+  {
+    "name": "宏达汽车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:44:20.585+08:00"
   }
 ]
