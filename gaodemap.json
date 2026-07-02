@@ -9862,5 +9862,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T11:19:25.338+08:00"
+  },
+  {
+    "name": "天津建辉装饰(南开旗舰店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:19:31.071+08:00"
+  },
+  {
+    "name": "不言装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-02T11:19:31.104+08:00"
+  },
+  {
+    "name": "欧派橱柜衣柜全屋定制(天津河东店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-02T11:19:34.363+08:00"
+  },
+  {
+    "name": "正弘装饰一站式整装馆",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:19:34.402+08:00"
   }
 ]
