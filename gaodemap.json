@@ -5749,5 +5749,59 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-02T10:51:15.874+08:00"
+  },
+  {
+    "name": "圣都整装虹口店",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 149,
+    "colorRatio": "6.49%",
+    "timestamp": "2026-07-02T10:51:18.712+08:00"
+  },
+  {
+    "name": "悬森装修",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:51:21.261+08:00"
+  },
+  {
+    "name": "韵澜空间设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:51:21.288+08:00"
+  },
+  {
+    "name": "夏氏工匠装饰设计工程有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T10:51:23.954+08:00"
+  },
+  {
+    "name": "特诺发不破坏装修换窗工厂直营店",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:51:23.981+08:00"
+  },
+  {
+    "name": "锦明装饰(伴亭路店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:51:27.598+08:00"
   }
 ]
