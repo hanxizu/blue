@@ -34684,5 +34684,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:49:05.524+08:00"
+  },
+  {
+    "name": "快安达物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:49:18.989+08:00"
+  },
+  {
+    "name": "普晋大物流报关服务有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 30,
+    "colorRatio": "0.82%",
+    "timestamp": "2026-07-03T02:49:19.032+08:00"
+  },
+  {
+    "name": "东莞市常广物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:49:22.079+08:00"
+  },
+  {
+    "name": "东莞市佳永货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:49:25.756+08:00"
   }
 ]
