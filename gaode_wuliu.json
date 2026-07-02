@@ -7072,5 +7072,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:46:11.986+08:00"
+  },
+  {
+    "name": "联安物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:46:12.030+08:00"
+  },
+  {
+    "name": "壹米滴答(民治民旺营业部)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:46:12.074+08:00"
+  },
+  {
+    "name": "深圳市鑫永鑫物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:46:12.118+08:00"
+  },
+  {
+    "name": "中港澳跨境物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:46:14.775+08:00"
+  },
+  {
+    "name": "顺丰速运(横岭五区店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T00:46:14.860+08:00"
   }
 ]
