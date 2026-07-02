@@ -25585,5 +25585,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:07:07.372+08:00"
+  },
+  {
+    "name": "先进物流科技(武汉)有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:07:07.417+08:00"
+  },
+  {
+    "name": "捌加壹物流总部仓库",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:07.461+08:00"
+  },
+  {
+    "name": "顺丰速运(招商江湾国际店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:07:07.512+08:00"
+  },
+  {
+    "name": "顺丰速运(华中师范南湖校园服务中心)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 108,
+    "colorRatio": "2.94%",
+    "timestamp": "2026-07-03T02:07:07.557+08:00"
+  },
+  {
+    "name": "饿了么站点",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:07:10.435+08:00"
   }
 ]
