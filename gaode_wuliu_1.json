@@ -1654,5 +1654,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:23:00.379+08:00"
+  },
+  {
+    "name": "大众物流运输公司(长寿路)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:00.423+08:00"
+  },
+  {
+    "name": "上海全胜物流股份有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:00.457+08:00"
+  },
+  {
+    "name": "顺丰速运(老沪太路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T07:23:00.489+08:00"
+  },
+  {
+    "name": "顺丰速运(老沪太路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T07:23:02.870+08:00"
+  },
+  {
+    "name": "顺丰速运(南码头路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:23:02.897+08:00"
+  },
+  {
+    "name": "上海喆祥国际货运代理有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:02.925+08:00"
+  },
+  {
+    "name": "MSC地中海航运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:02.961+08:00"
+  },
+  {
+    "name": "上海喆祥国际货运代理有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:05.447+08:00"
   }
 ]
