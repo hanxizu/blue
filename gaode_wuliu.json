@@ -1411,5 +1411,23 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:18:44.763+08:00"
+  },
+  {
+    "name": "顺丰速运(马连道茶城店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:18:51.667+08:00"
+  },
+  {
+    "name": "顺丰速运(交通大学店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:18:51.702+08:00"
   }
 ]
