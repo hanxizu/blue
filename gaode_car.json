@@ -2797,5 +2797,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:03:54.657+08:00"
+  },
+  {
+    "name": "慕成租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:57.280+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(桔子出行)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:59.764+08:00"
+  },
+  {
+    "name": "携程租车合作门店(嘉澳出行)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:59.790+08:00"
   }
 ]
