@@ -3724,5 +3724,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:25:38.124+08:00"
+  },
+  {
+    "name": "上海骐飞国际货运",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:38.207+08:00"
+  },
+  {
+    "name": "上海大牧汗食品股份有限公司物流部",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T07:25:38.244+08:00"
+  },
+  {
+    "name": "顺丰速运(金鼎店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:25:38.280+08:00"
+  },
+  {
+    "name": "大润发生鲜加工物流中心",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:38.314+08:00"
+  },
+  {
+    "name": "顺丰速运(金鼎店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:25:40.985+08:00"
+  },
+  {
+    "name": "大润发生鲜加工物流中心",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:41.022+08:00"
+  },
+  {
+    "name": "施耐德电气(中国)有限公司上海分公司上海物流中心",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:41.056+08:00"
+  },
+  {
+    "name": "施耐德电气(中国)有限公司上海分公司上海物流中心",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:43.573+08:00"
   }
 ]
