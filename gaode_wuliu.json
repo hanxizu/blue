@@ -10969,5 +10969,59 @@
     "colorPixels": 20,
     "colorRatio": "0.54%",
     "timestamp": "2026-07-03T01:01:44.512+08:00"
+  },
+  {
+    "name": "佰思德物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:51.774+08:00"
+  },
+  {
+    "name": "GTC CARGO",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:51.817+08:00"
+  },
+  {
+    "name": "渡商物流(沿江西路)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:51.860+08:00"
+  },
+  {
+    "name": "景光物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:51.903+08:00"
+  },
+  {
+    "name": "永佳物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:55.053+08:00"
+  },
+  {
+    "name": "顺丰速运(黄花新村店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:01:55.097+08:00"
   }
 ]
