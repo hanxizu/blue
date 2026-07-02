@@ -853,5 +853,32 @@
     "colorPixels": 36,
     "colorRatio": "0.91%",
     "timestamp": "2026-07-02T08:33:44.141+08:00"
+  },
+  {
+    "name": "紫钰装饰(丰台西四环店)",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 139,
+    "colorRatio": "3.51%",
+    "timestamp": "2026-07-02T08:33:44.179+08:00"
+  },
+  {
+    "name": "梵客家装生活体验馆(城外诚店)",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 645,
+    "colorRatio": "16.29%",
+    "timestamp": "2026-07-02T08:33:44.210+08:00"
+  },
+  {
+    "name": "全包圆整体家居体验馆(西三环店)",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 647,
+    "colorRatio": "16.34%",
+    "timestamp": "2026-07-02T08:33:44.242+08:00"
   }
 ]
