@@ -26719,5 +26719,158 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T00:59:27.979+08:00"
+  },
+  {
+    "name": "鸿顺租车(厦门分公司)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:28.022+08:00"
+  },
+  {
+    "name": "厦门美驿豪车租赁",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:28.062+08:00"
+  },
+  {
+    "name": "良远宇租车",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:59:31.033+08:00"
+  },
+  {
+    "name": "车仆租车",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:36.828+08:00"
+  },
+  {
+    "name": "EVCARD租车-厦门高崎机场店",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:39.453+08:00"
+  },
+  {
+    "name": "路优优租车",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:39.487+08:00"
+  },
+  {
+    "name": "厦门超跑熊租车",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:41.850+08:00"
+  },
+  {
+    "name": "峰度汽车服务(机场店)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T00:59:41.896+08:00"
+  },
+  {
+    "name": "捷马租车",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:41.928+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(兴华社区新时代大厦站)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:45.153+08:00"
+  },
+  {
+    "name": "猫街电动车出租",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:45.193+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(滴滴绎车旭站)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:48.077+08:00"
+  },
+  {
+    "name": "顺宏缘租车",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:59:50.713+08:00"
+  },
+  {
+    "name": "祥晨汇汽车租赁",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:50.768+08:00"
+  },
+  {
+    "name": "顺捷宏租车",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:59:50.808+08:00"
+  },
+  {
+    "name": "厦之兴汽租",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:53.777+08:00"
+  },
+  {
+    "name": "豪翔飞租车(嘉庚体育馆店)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:59:53.815+08:00"
   }
 ]
