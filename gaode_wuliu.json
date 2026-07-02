@@ -718,5 +718,41 @@
     "colorPixels": 167,
     "colorRatio": "4.55%",
     "timestamp": "2026-07-03T00:16:44.393+08:00"
+  },
+  {
+    "name": "厦门联合物流有限公司北京分公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:47.176+08:00"
+  },
+  {
+    "name": "中铁物流集团(南三环中路辅路)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:47.225+08:00"
+  },
+  {
+    "name": "京东物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:47.281+08:00"
+  },
+  {
+    "name": "京东物流(北京华威里站)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:51.293+08:00"
   }
 ]
