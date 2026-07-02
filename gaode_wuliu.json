@@ -25756,5 +25756,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:07:43.464+08:00"
+  },
+  {
+    "name": "壹米滴答大道物流(丰硕北路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:07:46.024+08:00"
+  },
+  {
+    "name": "宇鑫物流(武汉太平洋汽车后市场店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:46.081+08:00"
   }
 ]
