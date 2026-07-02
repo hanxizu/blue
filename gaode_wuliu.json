@@ -37375,5 +37375,23 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T03:04:06.119+08:00"
+  },
+  {
+    "name": "中铁快运(南京南站店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:04:08.681+08:00"
+  },
+  {
+    "name": "顺丰速运(润麒店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:04:11.316+08:00"
   }
 ]
