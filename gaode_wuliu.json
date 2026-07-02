@@ -4696,5 +4696,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:38:42.238+08:00"
+  },
+  {
+    "name": "顺丰速运(平安金融中心快递服务中心)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T00:38:45.795+08:00"
+  },
+  {
+    "name": "顺丰速运(莲花村站店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:38:45.834+08:00"
+  },
+  {
+    "name": "顺丰速运(景鹏综合楼店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:38:49.032+08:00"
   }
 ]
