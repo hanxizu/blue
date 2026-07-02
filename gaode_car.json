@@ -38743,5 +38743,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:56:46.189+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(柏宁拱北站)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:48.957+08:00"
+  },
+  {
+    "name": "网约车",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:48.995+08:00"
+  },
+  {
+    "name": "大方租车(华发商都店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:51.687+08:00"
+  },
+  {
+    "name": "暨大租车",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:54.692+08:00"
+  },
+  {
+    "name": "一嗨租车(南屏科技园店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:54.728+08:00"
+  },
+  {
+    "name": "哈啰租车(龙悦租车横琴长隆店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:57.878+08:00"
   }
 ]
