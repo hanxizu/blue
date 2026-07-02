@@ -4984,5 +4984,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T10:11:54.886+08:00"
+  },
+  {
+    "name": "博洛尼整体家装",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T10:12:00.574+08:00"
+  },
+  {
+    "name": "京鸿装饰总汇",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:12:00.611+08:00"
   }
 ]
