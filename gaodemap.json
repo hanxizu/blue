@@ -2248,5 +2248,32 @@
     "colorPixels": 36,
     "colorRatio": "0.91%",
     "timestamp": "2026-07-02T09:01:06.288+08:00"
+  },
+  {
+    "name": "南方红日装饰工程有限公司",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:01:06.348+08:00"
+  },
+  {
+    "name": "北京中吉泰安装饰",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:01:06.400+08:00"
+  },
+  {
+    "name": "润元装饰",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T09:01:06.466+08:00"
   }
 ]
