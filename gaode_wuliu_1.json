@@ -2095,5 +2095,41 @@
     "colorPixels": 380,
     "colorRatio": "16.56%",
     "timestamp": "2026-07-03T07:23:36.168+08:00"
+  },
+  {
+    "name": "天天物流摩托车物流托运电动车物流托运",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:23:36.204+08:00"
+  },
+  {
+    "name": "上海石立国际货物运输代理有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T07:23:36.226+08:00"
+  },
+  {
+    "name": "顺丰速运(潮州路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:23:36.253+08:00"
+  },
+  {
+    "name": "上海泽尚国际物流有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:39.474+08:00"
   }
 ]
