@@ -27394,5 +27394,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:16:21.735+08:00"
+  },
+  {
+    "name": "永志钜簏物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:16:24.805+08:00"
+  },
+  {
+    "name": "闽速物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:16:24.848+08:00"
+  },
+  {
+    "name": "杨玉强物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 68,
+    "colorRatio": "1.85%",
+    "timestamp": "2026-07-03T02:16:24.890+08:00"
+  },
+  {
+    "name": "宇鑫物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:16:27.746+08:00"
   }
 ]
