@@ -12391,5 +12391,23 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:07:18.863+08:00"
+  },
+  {
+    "name": "迪深物流C栋",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:07:28.229+08:00"
+  },
+  {
+    "name": "华阳国际物流-广州仓",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:07:28.279+08:00"
   }
 ]
