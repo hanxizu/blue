@@ -4669,5 +4669,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T10:09:21.102+08:00"
+  },
+  {
+    "name": "北京恒兴通房屋商业设计装修施工公司",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:09:32.810+08:00"
+  },
+  {
+    "name": "北京家佳乾豪装饰有限公司",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:09:32.842+08:00"
   }
 ]
