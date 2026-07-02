@@ -9034,5 +9034,104 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:56:01.897+08:00"
+  },
+  {
+    "name": "广州市中驰国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:56:05.244+08:00"
+  },
+  {
+    "name": "乔达国际货运(中国)有限公司广州分公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:56:05.288+08:00"
+  },
+  {
+    "name": "广州全世达国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:56:08.594+08:00"
+  },
+  {
+    "name": "壹米滴答物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:56:08.637+08:00"
+  },
+  {
+    "name": "顺丰速运(海珠中路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:56:12.586+08:00"
+  },
+  {
+    "name": "顺丰速运(第一津街店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:56:12.654+08:00"
+  },
+  {
+    "name": "广州市固特威国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:56:12.698+08:00"
+  },
+  {
+    "name": "广州保利达国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:56:12.741+08:00"
+  },
+  {
+    "name": "广州怡达国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 152,
+    "colorRatio": "4.14%",
+    "timestamp": "2026-07-03T00:56:12.784+08:00"
+  },
+  {
+    "name": "顺丰速运(德政中路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:56:15.872+08:00"
+  },
+  {
+    "name": "星火1926卸货区丰巢柜",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:56:19.483+08:00"
   }
 ]
