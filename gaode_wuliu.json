@@ -5407,5 +5407,122 @@
     "colorPixels": 560,
     "colorRatio": "15.25%",
     "timestamp": "2026-07-03T00:40:37.276+08:00"
+  },
+  {
+    "name": "快运通物流(数码城营业部)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:40:40.315+08:00"
+  },
+  {
+    "name": "惠众物流(振兴路)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:40.358+08:00"
+  },
+  {
+    "name": "信凯达国际物流(汇通总店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:40:42.989+08:00"
+  },
+  {
+    "name": "煌嘉物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:43.059+08:00"
+  },
+  {
+    "name": "正点国际物流(太平洋店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:40:46.213+08:00"
+  },
+  {
+    "name": "深圳四通国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:49.187+08:00"
+  },
+  {
+    "name": "百驰国际物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:49.236+08:00"
+  },
+  {
+    "name": "顺丰速运(梅林农批店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:40:52.210+08:00"
+  },
+  {
+    "name": "德邦快递(深圳福田区皇岗路经营分部)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:40:52.253+08:00"
+  },
+  {
+    "name": "宏达润升物流(振华数码城店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:54.959+08:00"
+  },
+  {
+    "name": "旺达物流(振兴路店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:40:55.146+08:00"
+  },
+  {
+    "name": "快运通物流(振中路店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:55.204+08:00"
+  },
+  {
+    "name": "盛辉物流(振华数码城店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:40:55.264+08:00"
   }
 ]
