@@ -33298,5 +33298,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:29:51.200+08:00"
+  },
+  {
+    "name": "聚鼎汽车租赁(中实润城店)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:57.588+08:00"
+  },
+  {
+    "name": "河南运力汽车服务有限公司",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:57.622+08:00"
+  },
+  {
+    "name": "河南枫行租车有限公司(高新区店)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:57.652+08:00"
+  },
+  {
+    "name": "乐尚租车郑州店",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:30:04.063+08:00"
+  },
+  {
+    "name": "有米租车-高新店",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:04.094+08:00"
+  },
+  {
+    "name": "星越租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:04.140+08:00"
+  },
+  {
+    "name": "Fzz超跑豪车租赁",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:30:09.582+08:00"
+  },
+  {
+    "name": "河南新未来汽车租赁有限公司(网约车三全路店)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:09.613+08:00"
+  },
+  {
+    "name": "网约车司机服务中心",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:09.654+08:00"
   }
 ]
