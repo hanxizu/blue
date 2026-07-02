@@ -19699,5 +19699,41 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:38:44.471+08:00"
+  },
+  {
+    "name": "顺丰速运(上城区资福街店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:38:51.771+08:00"
+  },
+  {
+    "name": "顺丰速运(教工路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:38:51.815+08:00"
+  },
+  {
+    "name": "京东物流(君祥花木创业园店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 12,
+    "colorRatio": "0.33%",
+    "timestamp": "2026-07-03T01:38:54.809+08:00"
+  },
+  {
+    "name": "顺丰速运(聚才路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:39:01.356+08:00"
   }
 ]
