@@ -18565,5 +18565,77 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:35:51.275+08:00"
+  },
+  {
+    "name": "顺丰速运(中河中路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:51.320+08:00"
+  },
+  {
+    "name": "顺丰速运(塘工局路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:51.364+08:00"
+  },
+  {
+    "name": "龙雀物流(青春坊小区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:51.407+08:00"
+  },
+  {
+    "name": "杭州易通达物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:54.001+08:00"
+  },
+  {
+    "name": "智禾信物流环北收货点",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:54.068+08:00"
+  },
+  {
+    "name": "顺丰速运(金隅学府小区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:35:54.138+08:00"
+  },
+  {
+    "name": "顺丰速运(云河家园店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:54.191+08:00"
+  },
+  {
+    "name": "顺丰速运(瑞丰国际大厦店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T01:35:57.826+08:00"
   }
 ]
