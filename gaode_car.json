@@ -39436,5 +39436,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:00:58.789+08:00"
+  },
+  {
+    "name": "瑞博车服",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:01.546+08:00"
+  },
+  {
+    "name": "浙江豪福人力资源有限公司",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T02:01:01.579+08:00"
+  },
+  {
+    "name": "滴滴出行租买车官方授权店(才汇盈绿展路店)",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:01.616+08:00"
+  },
+  {
+    "name": "一嗨租车(嘉兴站店)",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:04.521+08:00"
+  },
+  {
+    "name": "嘉兴网约车司机服务中心",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:04.549+08:00"
   }
 ]
