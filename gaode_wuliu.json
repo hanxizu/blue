@@ -6721,5 +6721,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:44:45.186+08:00"
+  },
+  {
+    "name": "天宏达国际物流(中航·阳光新苑店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:44:54.365+08:00"
+  },
+  {
+    "name": "一嘉物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:44:54.409+08:00"
+  },
+  {
+    "name": "顺丰速运(民乐路店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:44:57.460+08:00"
+  },
+  {
+    "name": "顺丰速运(罗湖村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T00:44:57.504+08:00"
+  },
+  {
+    "name": "深圳市万迅国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:00.232+08:00"
+  },
+  {
+    "name": "深圳美狮物流网络科技有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:00.298+08:00"
+  },
+  {
+    "name": "菜鸟驿站(民兴苑店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:00.377+08:00"
+  },
+  {
+    "name": "顺丰速运(逸秀新村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:45:00.470+08:00"
   }
 ]
