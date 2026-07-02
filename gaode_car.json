@@ -31363,5 +31363,86 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T01:20:28.706+08:00"
+  },
+  {
+    "name": "鑫资源租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:38.058+08:00"
+  },
+  {
+    "name": "千寻车行·租车·电动车租赁",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:38.093+08:00"
+  },
+  {
+    "name": "露营电动车租赁",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:40.564+08:00"
+  },
+  {
+    "name": "顺达租车(流亭机场店)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:46.622+08:00"
+  },
+  {
+    "name": "青岛钰群宏伟租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:46.657+08:00"
+  },
+  {
+    "name": "承顺租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:49.169+08:00"
+  },
+  {
+    "name": "乐吉士租车(黄岛店)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T01:20:55.267+08:00"
+  },
+  {
+    "name": "汽车租赁",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:55.308+08:00"
+  },
+  {
+    "name": "京合养车汽车租赁",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:55.339+08:00"
   }
 ]
