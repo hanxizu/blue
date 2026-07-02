@@ -13453,5 +13453,59 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:13:21.264+08:00"
+  },
+  {
+    "name": "航空货运宠物托运",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 60,
+    "colorRatio": "1.63%",
+    "timestamp": "2026-07-03T01:13:42.421+08:00"
+  },
+  {
+    "name": "余氏东风物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 119,
+    "colorRatio": "3.24%",
+    "timestamp": "2026-07-03T01:13:42.465+08:00"
+  },
+  {
+    "name": "安顺·大件物流托运(工具设备托运)(一店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:13:45.653+08:00"
+  },
+  {
+    "name": "安顺·大件物流工具设备托运(成都一店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:13:48.717+08:00"
+  },
+  {
+    "name": "安顺·大件物流工具设备行李家具摩托车托运(可上门取货)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:13:51.611+08:00"
+  },
+  {
+    "name": "中铁物流配送中心",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T01:13:51.642+08:00"
   }
 ]
