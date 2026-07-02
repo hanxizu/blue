@@ -36304,5 +36304,50 @@
     "colorPixels": 8,
     "colorRatio": "0.22%",
     "timestamp": "2026-07-03T03:00:45.576+08:00"
+  },
+  {
+    "name": "江苏中外运船务代理有限公司江苏船代",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:45.622+08:00"
+  },
+  {
+    "name": "顺丰速运(黑龙江路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:00:45.664+08:00"
+  },
+  {
+    "name": "京东物流(建宁路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:45.710+08:00"
+  },
+  {
+    "name": "溢僖商务运配中心(新姚家巷小区店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 38,
+    "colorRatio": "1.03%",
+    "timestamp": "2026-07-03T03:00:45.754+08:00"
+  },
+  {
+    "name": "南京群升·迪士尼配送中心",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:48.710+08:00"
   }
 ]
