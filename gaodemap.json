@@ -1978,5 +1978,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T08:49:09.862+08:00"
+  },
+  {
+    "name": "智慧装饰",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T08:49:15.651+08:00"
+  },
+  {
+    "name": "被窝整装(总部旗舰店)",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 647,
+    "colorRatio": "16.34%",
+    "timestamp": "2026-07-02T08:49:15.710+08:00"
   }
 ]
