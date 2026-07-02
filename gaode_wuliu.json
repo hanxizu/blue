@@ -3202,5 +3202,50 @@
     "colorPixels": 60,
     "colorRatio": "1.63%",
     "timestamp": "2026-07-03T00:25:45.800+08:00"
+  },
+  {
+    "name": "京东物流(S50东五环店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:25:48.938+08:00"
+  },
+  {
+    "name": "联生超市配送中心(北京新发地农副产品批发市场西区店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:25:49.001+08:00"
+  },
+  {
+    "name": "顺丰速运(五环国际店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:25:51.709+08:00"
+  },
+  {
+    "name": "翠鲜缘自提站",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:25:51.764+08:00"
+  },
+  {
+    "name": "顺丰速运(东升店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:25:51.822+08:00"
   }
 ]
