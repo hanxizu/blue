@@ -17971,5 +17971,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T12:13:33.597+08:00"
+  },
+  {
+    "name": "欧然装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:13:51.790+08:00"
+  },
+  {
+    "name": "程工装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:13:51.816+08:00"
+  },
+  {
+    "name": "筑新家·老房翻新(海棠花园店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-02T12:13:54.720+08:00"
+  },
+  {
+    "name": "臻艺装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:13:54.754+08:00"
+  },
+  {
+    "name": "西飞装饰公司",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:13:58.018+08:00"
+  },
+  {
+    "name": "美美装饰(中海环宇天地店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:13:58.046+08:00"
+  },
+  {
+    "name": "馨硕装饰建材吊顶隔墙",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T12:13:58.073+08:00"
+  },
+  {
+    "name": "玲泷装饰设计",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:14:00.778+08:00"
   }
 ]
