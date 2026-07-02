@@ -187,5 +187,23 @@
     "colorPixels": 100,
     "colorRatio": "3.84%",
     "timestamp": "2026-07-03T00:15:23.586+08:00"
+  },
+  {
+    "name": "顺丰速运(大方家店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:15:26.386+08:00"
+  },
+  {
+    "name": "顺丰速运(王府井商业街店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 505,
+    "colorRatio": "13.75%",
+    "timestamp": "2026-07-03T00:15:26.414+08:00"
   }
 ]
