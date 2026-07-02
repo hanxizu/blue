@@ -1933,5 +1933,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:01:20.448+08:00"
+  },
+  {
+    "name": "枫叶租车(上海中春路店)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:01:23.744+08:00"
+  },
+  {
+    "name": "上海蕴田汽车服务有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:01:26.358+08:00"
+  },
+  {
+    "name": "上海硕纪汽车租赁有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:01:26.388+08:00"
+  },
+  {
+    "name": "科骑豪车租赁",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:01:26.417+08:00"
+  },
+  {
+    "name": "行云驾租车(虹桥机场店)",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:01:29.153+08:00"
+  },
+  {
+    "name": "陆赢租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:01:29.183+08:00"
+  },
+  {
+    "name": "上海海博出租汽车有限公司",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:01:29.229+08:00"
   }
 ]
