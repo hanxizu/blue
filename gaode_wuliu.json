@@ -7243,5 +7243,59 @@
     "colorPixels": 491,
     "colorRatio": "13.37%",
     "timestamp": "2026-07-03T00:46:48.013+08:00"
+  },
+  {
+    "name": "顺丰速运(白石龙二区店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:46:58.729+08:00"
+  },
+  {
+    "name": "安能物流(白石龙村二区店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:46:58.797+08:00"
+  },
+  {
+    "name": "顺丰速运(海宏产业园店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:46:58.840+08:00"
+  },
+  {
+    "name": "顺丰速运(东方华都店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:46:58.882+08:00"
+  },
+  {
+    "name": "顺丰速运(文锦渡店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 522,
+    "colorRatio": "14.22%",
+    "timestamp": "2026-07-03T00:46:58.924+08:00"
+  },
+  {
+    "name": "顺丰速运(水贝城市广场店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T00:47:01.488+08:00"
   }
 ]
