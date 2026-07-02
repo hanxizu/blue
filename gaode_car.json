@@ -19780,5 +19780,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:25:34.534+08:00"
+  },
+  {
+    "name": "南京佳偶婚车",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T00:25:34.580+08:00"
+  },
+  {
+    "name": "启晟租车",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:25:58.939+08:00"
+  },
+  {
+    "name": "听澜租车(南京建邺万达东坊店)",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:25:58.975+08:00"
+  },
+  {
+    "name": "南京长颈鹿汽车租赁有限公司",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:01.642+08:00"
+  },
+  {
+    "name": "南京邦联车业集团",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:01.696+08:00"
+  },
+  {
+    "name": "马达租车",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:26:05.006+08:00"
+  },
+  {
+    "name": "滴滴出行司机中心(南京龙西路店)",
+    "city": "南京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 94,
+    "colorRatio": "4.10%",
+    "timestamp": "2026-07-03T00:26:05.072+08:00"
   }
 ]
