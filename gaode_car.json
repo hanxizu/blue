@@ -40372,5 +40372,32 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T02:05:28.273+08:00"
+  },
+  {
+    "name": "江晓吊车出租",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T02:05:30.779+08:00"
+  },
+  {
+    "name": "名路超跑俱乐部",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:33.572+08:00"
+  },
+  {
+    "name": "常州运河租车(钟楼吾悦店)",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:33.605+08:00"
   }
 ]
