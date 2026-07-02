@@ -20608,5 +20608,32 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:42:26.359+08:00"
+  },
+  {
+    "name": "京东物流(浙江天惠保健品有限公司店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:29.548+08:00"
+  },
+  {
+    "name": "顺丰速运(璞悦湾小区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 96,
+    "colorRatio": "2.61%",
+    "timestamp": "2026-07-03T01:42:29.591+08:00"
+  },
+  {
+    "name": "骏天国际物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:42:32.621+08:00"
   }
 ]
