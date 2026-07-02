@@ -1618,5 +1618,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:19:23.878+08:00"
+  },
+  {
+    "name": "嘉里大通物流(霄云路)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:19:30.699+08:00"
+  },
+  {
+    "name": "京东物流(北京银杏营业部)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 60,
+    "colorRatio": "1.63%",
+    "timestamp": "2026-07-03T00:19:30.734+08:00"
+  },
+  {
+    "name": "顺丰速运(马家堡店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:19:34.392+08:00"
   }
 ]
