@@ -9853,5 +9853,131 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:36:33.856+08:00"
+  },
+  {
+    "name": "登途有车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:36:36.939+08:00"
+  },
+  {
+    "name": "滴滴专车·零零伍司机服务中心",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-02T23:36:39.537+08:00"
+  },
+  {
+    "name": "滴滴出行官方服务中心(腾磊尹中路店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:39.580+08:00"
+  },
+  {
+    "name": "小桔租买车(凯旋街店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:45.255+08:00"
+  },
+  {
+    "name": "高飞汽车服务",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:45.285+08:00"
+  },
+  {
+    "name": "舒诚海行汽车服务有限公司",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T23:36:45.318+08:00"
+  },
+  {
+    "name": "咔么租赁(苏州姑苏店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T23:36:48.100+08:00"
+  },
+  {
+    "name": "滴滴出行·租买车官方授权店(张玲大厦店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:48.127+08:00"
+  },
+  {
+    "name": "一嗨租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:48.158+08:00"
+  },
+  {
+    "name": "T3出行·苏州官方司机招募中心",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-02T23:36:51.141+08:00"
+  },
+  {
+    "name": "滴滴司机服务中心(租卖车)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:51.173+08:00"
+  },
+  {
+    "name": "苏州诺力租车飞租V店",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:51.203+08:00"
+  },
+  {
+    "name": "小桔租买车(苏州枫瑞路店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:54.204+08:00"
+  },
+  {
+    "name": "地上铁新能源货车租赁",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:54.239+08:00"
   }
 ]
