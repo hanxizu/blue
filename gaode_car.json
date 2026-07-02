@@ -4363,5 +4363,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:10:51.057+08:00"
+  },
+  {
+    "name": "八戒出行(福田区莲花街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:54.385+08:00"
+  },
+  {
+    "name": "光速超跑(深圳市福田店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:54.409+08:00"
+  },
+  {
+    "name": "深圳鸿盛涛汽车租赁服务有限公司",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-02T23:10:57.242+08:00"
+  },
+  {
+    "name": "一方租车(龙岗区布吉街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:59.566+08:00"
+  },
+  {
+    "name": "展兴租车(龙岗区布吉街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:59.599+08:00"
+  },
+  {
+    "name": "明顺租车(龙岗区布吉街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:59.633+08:00"
   }
 ]
