@@ -20176,5 +20176,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:40:36.553+08:00"
+  },
+  {
+    "name": "菜鸟驿站(杭州八堡家园22排28号店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:40:47.038+08:00"
+  },
+  {
+    "name": "云服卡航九堡营业部",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:40:47.085+08:00"
+  },
+  {
+    "name": "顺丰速运(三宝郡庭小区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:40:50.067+08:00"
+  },
+  {
+    "name": "安能物流(9意法鞋城店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:40:52.952+08:00"
   }
 ]
