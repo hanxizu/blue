@@ -3004,5 +3004,50 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-02T23:06:03.844+08:00"
+  },
+  {
+    "name": "深圳壹首汽车服务有限公司",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T23:06:25.252+08:00"
+  },
+  {
+    "name": "深圳市吉鑫汽车租赁有限公司",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 94,
+    "colorRatio": "4.10%",
+    "timestamp": "2026-07-02T23:06:28.194+08:00"
+  },
+  {
+    "name": "深圳市安捷通汽车租赁有限公司",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 94,
+    "colorRatio": "4.10%",
+    "timestamp": "2026-07-02T23:06:30.796+08:00"
+  },
+  {
+    "name": "嘎嘎租车(上梅林店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:06:30.850+08:00"
+  },
+  {
+    "name": "深圳路捷通汽车服务有限公司",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 94,
+    "colorRatio": "4.10%",
+    "timestamp": "2026-07-02T23:06:34.269+08:00"
   }
 ]
