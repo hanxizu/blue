@@ -26953,5 +26953,41 @@
     "colorPixels": 568,
     "colorRatio": "15.47%",
     "timestamp": "2026-07-03T02:15:10.744+08:00"
+  },
+  {
+    "name": "星马快送超市(西安店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:14.433+08:00"
+  },
+  {
+    "name": "京东物流张家堡集配站(扬善路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:14.477+08:00"
+  },
+  {
+    "name": "极兔速递(西安汉城网点)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:15:17.491+08:00"
+  },
+  {
+    "name": "陕建物流集团(一方·中港国际A座店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 34,
+    "colorRatio": "0.93%",
+    "timestamp": "2026-07-03T02:15:17.561+08:00"
   }
 ]
