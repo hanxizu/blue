@@ -22066,5 +22066,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:49:28.334+08:00"
+  },
+  {
+    "name": "顺丰速运(勤丰路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:49:28.389+08:00"
+  },
+  {
+    "name": "安能物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:49:28.440+08:00"
+  },
+  {
+    "name": "顺丰速运(蒋村兴达苑店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:49:28.491+08:00"
+  },
+  {
+    "name": "顺丰速运(云潮美誉店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:49:31.280+08:00"
   }
 ]
