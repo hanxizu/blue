@@ -24370,5 +24370,23 @@
     "colorPixels": 39,
     "colorRatio": "1.06%",
     "timestamp": "2026-07-03T02:01:57.587+08:00"
+  },
+  {
+    "name": "菜鸟驿站(永利新城东苑店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:02:00.733+08:00"
+  },
+  {
+    "name": "顺丰速运(百姓之春店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:02:03.402+08:00"
   }
 ]
