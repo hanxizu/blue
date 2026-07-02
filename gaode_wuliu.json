@@ -33874,5 +33874,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:45:54.020+08:00"
+  },
+  {
+    "name": "朝强快运越南专线万江鸿粤仓",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:57.465+08:00"
+  },
+  {
+    "name": "中通快运万江公司(创新路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:45:57.508+08:00"
+  },
+  {
+    "name": "八杯水超市物流配送中心",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:46:00.544+08:00"
+  },
+  {
+    "name": "广东时捷物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 18,
+    "colorRatio": "0.49%",
+    "timestamp": "2026-07-03T02:46:00.588+08:00"
+  },
+  {
+    "name": "莞泰方方通物流(山湖路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:46:03.255+08:00"
+  },
+  {
+    "name": "东莞市南泓国际物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:46:03.304+08:00"
   }
 ]
