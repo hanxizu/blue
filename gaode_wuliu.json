@@ -38860,5 +38860,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:10:02.962+08:00"
+  },
+  {
+    "name": "顺丰速运(广汇店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:10:06.662+08:00"
+  },
+  {
+    "name": "润丰物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:10:06.705+08:00"
+  },
+  {
+    "name": "南京轩翰物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:10:06.749+08:00"
+  },
+  {
+    "name": "顺丰速运(云靖花园店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:10:06.793+08:00"
+  },
+  {
+    "name": "顺丰速运(麒麟门店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:10:09.451+08:00"
+  },
+  {
+    "name": "菜鸟驿站(华汇路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 48,
+    "colorRatio": "1.31%",
+    "timestamp": "2026-07-03T03:10:09.505+08:00"
   }
 ]
