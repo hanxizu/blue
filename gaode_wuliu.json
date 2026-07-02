@@ -29860,5 +29860,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:25:27.377+08:00"
+  },
+  {
+    "name": "顶峰汽配物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:25:30.472+08:00"
+  },
+  {
+    "name": "顺丰速运(康复路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:25:30.518+08:00"
+  },
+  {
+    "name": "腾达物流(西站社区店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:25:33.263+08:00"
   }
 ]
