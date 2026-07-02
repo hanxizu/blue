@@ -3715,5 +3715,68 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T23:08:40.435+08:00"
+  },
+  {
+    "name": "哈啰租车深圳北站店",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:43.650+08:00"
+  },
+  {
+    "name": "一搏租车(深圳北站龙华店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:43.717+08:00"
+  },
+  {
+    "name": "神州租车(南山万科云城服务点)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:43.771+08:00"
+  },
+  {
+    "name": "神州租车(罗湖鸿昌广场自助点)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:50.139+08:00"
+  },
+  {
+    "name": "滴滴出行宇企网约车营运中心",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T23:08:50.181+08:00"
+  },
+  {
+    "name": "深圳市大朋汽车租赁有限公司",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:50.215+08:00"
+  },
+  {
+    "name": "神州租车(民治地铁站服务点)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:50.247+08:00"
   }
 ]
