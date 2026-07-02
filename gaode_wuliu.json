@@ -20005,5 +20005,41 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:40:06.513+08:00"
+  },
+  {
+    "name": "韵达快递超市",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:40:06.627+08:00"
+  },
+  {
+    "name": "杭州广科冷链物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:40:06.692+08:00"
+  },
+  {
+    "name": "安徽建工现代商贸物流集团东南区域公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:40:06.766+08:00"
+  },
+  {
+    "name": "顺丰速运(九堡金雅苑店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 164,
+    "colorRatio": "4.47%",
+    "timestamp": "2026-07-03T01:40:06.822+08:00"
   }
 ]
