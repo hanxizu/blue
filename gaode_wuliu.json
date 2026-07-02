@@ -20077,5 +20077,41 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:40:20.306+08:00"
+  },
+  {
+    "name": "杭州跨境通供应链管理有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:40:20.379+08:00"
+  },
+  {
+    "name": "泰克物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:40:20.422+08:00"
+  },
+  {
+    "name": "杭州小毛驴货运部",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 130,
+    "colorRatio": "3.54%",
+    "timestamp": "2026-07-03T01:40:22.991+08:00"
+  },
+  {
+    "name": "天扬包装摩运",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:40:23.091+08:00"
   }
 ]
