@@ -2860,5 +2860,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:24:35.762+08:00"
+  },
+  {
+    "name": "顺丰速运(国定东路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:24:35.799+08:00"
+  },
+  {
+    "name": "上海航道物流有限公司(浦东大道)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:24:35.833+08:00"
+  },
+  {
+    "name": "京东物流(高科西路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:24:35.862+08:00"
+  },
+  {
+    "name": "上海航道物流有限公司(浦东大道)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:24:38.465+08:00"
+  },
+  {
+    "name": "京东物流(高科西路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:24:38.508+08:00"
+  },
+  {
+    "name": "顺丰速运(华灵路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:24:38.571+08:00"
+  },
+  {
+    "name": "分收时代综合物流园",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:24:38.606+08:00"
+  },
+  {
+    "name": "京东物流(高科西路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:24:40.928+08:00"
   }
 ]
