@@ -8485,5 +8485,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:30:17.457+08:00"
+  },
+  {
+    "name": "尊通汽车服务有限公司(萧山区店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:30:20.540+08:00"
+  },
+  {
+    "name": "滴滴租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:30:23.115+08:00"
+  },
+  {
+    "name": "神州租车(杭州南站服务点)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:30:23.162+08:00"
+  },
+  {
+    "name": "富君租车(杭州店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:30:25.997+08:00"
+  },
+  {
+    "name": "穿驰租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:30:28.639+08:00"
+  },
+  {
+    "name": "驿通租车下沙店",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:30:31.250+08:00"
   }
 ]
