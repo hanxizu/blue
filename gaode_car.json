@@ -277,5 +277,32 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T22:53:36.219+08:00"
+  },
+  {
+    "name": "北京北顶汽车租赁有限公司",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:53:39.333+08:00"
+  },
+  {
+    "name": "滴滴网约车租赁中心(新发地综合创意园B1栋店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:53:39.372+08:00"
+  },
+  {
+    "name": "润达租车(鸟巢店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:53:41.978+08:00"
   }
 ]
