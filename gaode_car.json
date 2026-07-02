@@ -4732,5 +4732,68 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-02T23:13:48.219+08:00"
+  },
+  {
+    "name": "滴滴网约车出行授权招聘中心(飞途网约车服务中心)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-02T23:14:09.626+08:00"
+  },
+  {
+    "name": "押车借款汽车抵押",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T23:14:12.835+08:00"
+  },
+  {
+    "name": "佛山正通网约车司机招募中心",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-02T23:14:12.875+08:00"
+  },
+  {
+    "name": "神州租车(五月花商场自助点)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:14:15.464+08:00"
+  },
+  {
+    "name": "麻花租车(广州同德店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:14:15.502+08:00"
+  },
+  {
+    "name": "腾龙行豪车超跑租赁俱乐部",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:14:18.313+08:00"
+  },
+  {
+    "name": "滴滴网约车司机招募中心",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-02T23:14:18.344+08:00"
   }
 ]
