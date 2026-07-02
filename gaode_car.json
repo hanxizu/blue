@@ -12841,5 +12841,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:49:42.438+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(风韵金潭路站)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:49:48.334+08:00"
+  },
+  {
+    "name": "神州租车(欧亚会展国际酒店自助点)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:49:48.368+08:00"
+  },
+  {
+    "name": "武汉车都租车飞租V店",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:49:51.146+08:00"
+  },
+  {
+    "name": "肖师傅租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:49:57.470+08:00"
+  },
+  {
+    "name": "星火租车(洪山店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:49:57.531+08:00"
+  },
+  {
+    "name": "单行线租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:50:00.246+08:00"
+  },
+  {
+    "name": "八哥租车(汉阳区洲头街道店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:50:06.338+08:00"
+  },
+  {
+    "name": "聚拓行租车(汉阳区龙阳街道店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:50:06.372+08:00"
+  },
+  {
+    "name": "武汉白马馨居一期东区便捷租车点",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:50:09.091+08:00"
   }
 ]
