@@ -12859,5 +12859,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T11:31:32.828+08:00"
+  },
+  {
+    "name": "ISCD象境营造",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:31:35.695+08:00"
+  },
+  {
+    "name": "天津市砼意建筑工程设计有限公司",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T11:31:35.735+08:00"
+  },
+  {
+    "name": "天津市裕恒城建筑工程有限公司",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:31:38.115+08:00"
+  },
+  {
+    "name": "天津鹏友建筑工程有限公司",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:31:38.205+08:00"
+  },
+  {
+    "name": "贵发装饰(宁江道)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:31:38.242+08:00"
   }
 ]
