@@ -33820,5 +33820,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:45:43.074+08:00"
+  },
+  {
+    "name": "东莞市万江荣发运输经营部",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:43.142+08:00"
+  },
+  {
+    "name": "启硕物流(鼎添仓)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:43.199+08:00"
+  },
+  {
+    "name": "温塘龙兴物流(莞温路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:45:43.267+08:00"
+  },
+  {
+    "name": "盈顺国际物流(东莞)有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:43.337+08:00"
   }
 ]
