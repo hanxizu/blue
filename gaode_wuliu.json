@@ -18088,5 +18088,32 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:34:29.168+08:00"
+  },
+  {
+    "name": "群英物流(四季青昆龙童装城店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:33.053+08:00"
+  },
+  {
+    "name": "杭州健龙物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:36.206+08:00"
+  },
+  {
+    "name": "辛邦物流公司(杭州总店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T01:34:36.238+08:00"
   }
 ]
