@@ -21643,5 +21643,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T12:41:32.733+08:00"
+  },
+  {
+    "name": "华彩装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T12:41:35.453+08:00"
+  },
+  {
+    "name": "乐尚装饰(沙坪坝店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:41:35.496+08:00"
+  },
+  {
+    "name": "泰安装饰设计工程有限公司",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:41:38.165+08:00"
+  },
+  {
+    "name": "重庆资晟装饰设计有限公司",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:41:47.696+08:00"
+  },
+  {
+    "name": "重庆科金装饰设计工程有限公司",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:41:47.724+08:00"
+  },
+  {
+    "name": "重庆格屹美装饰工程有限公司",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:41:51.000+08:00"
   }
 ]
