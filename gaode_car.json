@@ -4462,5 +4462,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:11:12.487+08:00"
+  },
+  {
+    "name": "金當押车押证黄金回收",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T23:11:15.217+08:00"
+  },
+  {
+    "name": "泰丰租车(龙华区民治街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:11:20.497+08:00"
+  },
+  {
+    "name": "深圳弘涛租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:11:20.530+08:00"
+  },
+  {
+    "name": "哈啰租车(布吉地铁站)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:11:20.558+08:00"
+  },
+  {
+    "name": "深港荣租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:11:26.577+08:00"
+  },
+  {
+    "name": "深圳市尊荣汽车租赁",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:11:26.609+08:00"
+  },
+  {
+    "name": "深圳市雷尔法汽车租赁有限公司",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:11:26.648+08:00"
   }
 ]
