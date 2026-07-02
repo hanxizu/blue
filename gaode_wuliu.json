@@ -36349,5 +36349,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:00:48.710+08:00"
+  },
+  {
+    "name": "顺丰速运(鲁迅园店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:00:51.837+08:00"
+  },
+  {
+    "name": "顺丰速运(古平岗店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:51.880+08:00"
+  },
+  {
+    "name": "顺丰速运(红山店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:00:55.030+08:00"
+  },
+  {
+    "name": "顺丰速运(柳叶街道店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:55.073+08:00"
   }
 ]
