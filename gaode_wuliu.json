@@ -26863,5 +26863,59 @@
     "colorPixels": 107,
     "colorRatio": "2.91%",
     "timestamp": "2026-07-03T02:14:57.621+08:00"
+  },
+  {
+    "name": "顺丰速运(薛家寨二号楼店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:15:00.680+08:00"
+  },
+  {
+    "name": "菜鸟驿站(鼎正大都城店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:00.785+08:00"
+  },
+  {
+    "name": "顺丰速运(凤城八路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:15:00.867+08:00"
+  },
+  {
+    "name": "顺丰速运(开元第一城店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:15:04.013+08:00"
+  },
+  {
+    "name": "远拓物流(未十二广场店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:04.080+08:00"
+  },
+  {
+    "name": "顺丰速运(北经城店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:15:07.895+08:00"
   }
 ]
