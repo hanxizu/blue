@@ -16225,5 +16225,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:23:10.925+08:00"
+  },
+  {
+    "name": "顺丰速运(五桂桥交通枢纽站店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 133,
+    "colorRatio": "3.62%",
+    "timestamp": "2026-07-03T01:23:25.022+08:00"
+  },
+  {
+    "name": "四川路尊物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:23:25.077+08:00"
+  },
+  {
+    "name": "成都东站行李包裹托运处",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:23:25.131+08:00"
+  },
+  {
+    "name": "顺丰速运(迈空间店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:23:25.185+08:00"
+  },
+  {
+    "name": "大广发物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:23:25.240+08:00"
   }
 ]
