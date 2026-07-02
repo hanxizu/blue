@@ -21742,5 +21742,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:47:50.653+08:00"
+  },
+  {
+    "name": "顺丰速运(恭和产业园店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T01:47:53.489+08:00"
+  },
+  {
+    "name": "杭州蜂立达物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:47:53.580+08:00"
+  },
+  {
+    "name": "心悟空快运杭州站",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:47:53.715+08:00"
   }
 ]
