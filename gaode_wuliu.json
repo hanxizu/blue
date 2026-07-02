@@ -15514,5 +15514,59 @@
     "colorPixels": 491,
     "colorRatio": "13.37%",
     "timestamp": "2026-07-03T01:20:31.454+08:00"
+  },
+  {
+    "name": "京东物流(成都双流快运集配站)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:39.077+08:00"
+  },
+  {
+    "name": "成都泰实(九联达)物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:39.121+08:00"
+  },
+  {
+    "name": "源非物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:39.164+08:00"
+  },
+  {
+    "name": "永生快运(成都周边汽车配件配送)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:39.207+08:00"
+  },
+  {
+    "name": "今日达快运",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:42.302+08:00"
+  },
+  {
+    "name": "顺丰速运(龙湖晶蓝半岛店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 464,
+    "colorRatio": "12.64%",
+    "timestamp": "2026-07-03T01:20:42.345+08:00"
   }
 ]
