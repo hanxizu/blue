@@ -3382,5 +3382,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T09:39:37.098+08:00"
+  },
+  {
+    "name": "博洛尼整体家装",
+    "city": "海原县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 72,
+    "colorRatio": "1.82%",
+    "timestamp": "2026-07-02T09:39:42.527+08:00"
+  },
+  {
+    "name": "双键装饰公司",
+    "city": "海原县",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:39:42.575+08:00"
   }
 ]
