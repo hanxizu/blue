@@ -4192,5 +4192,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:30:45.029+08:00"
+  },
+  {
+    "name": "百利威物流南区1号库",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:48.878+08:00"
+  },
+  {
+    "name": "京东物流(北京台湖集配站)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:48.921+08:00"
+  },
+  {
+    "name": "海丰宝物流有限公司南区",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:48.965+08:00"
+  },
+  {
+    "name": "海丰宝物流有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:49.032+08:00"
+  },
+  {
+    "name": "北京巾帼恒通物流有限责任公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:51.672+08:00"
   }
 ]
