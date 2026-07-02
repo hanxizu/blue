@@ -4993,5 +4993,32 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T00:39:33.176+08:00"
+  },
+  {
+    "name": "航通达国际货运(雷圳大厦店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:36.278+08:00"
+  },
+  {
+    "name": "顺丰速运(海外装饰大厦店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 454,
+    "colorRatio": "12.36%",
+    "timestamp": "2026-07-03T00:39:36.318+08:00"
+  },
+  {
+    "name": "深圳市鸿海大通国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:39.731+08:00"
   }
 ]
