@@ -3094,5 +3094,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:06:39.835+08:00"
+  },
+  {
+    "name": "鹏锦翔租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:06:42.651+08:00"
+  },
+  {
+    "name": "豪车租赁",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:06:42.676+08:00"
+  },
+  {
+    "name": "雄英汇汽车租赁(坂田店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:06:45.673+08:00"
   }
 ]
