@@ -23794,5 +23794,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:00:05.122+08:00"
+  },
+  {
+    "name": "菜鸟驿站(铁机小区店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:07.876+08:00"
+  },
+  {
+    "name": "鸿嵩物流(小龟山路)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:14.254+08:00"
+  },
+  {
+    "name": "顺丰速运(星海店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:00:14.297+08:00"
+  },
+  {
+    "name": "顺丰速运(中御店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:00:18.075+08:00"
   }
 ]
