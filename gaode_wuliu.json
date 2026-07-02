@@ -10627,5 +10627,59 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:00:36.619+08:00"
+  },
+  {
+    "name": "金辉环球国际有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:00:36.696+08:00"
+  },
+  {
+    "name": "非越国际物流(金麓山庄北区店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:36.739+08:00"
+  },
+  {
+    "name": "鑫伟达物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:36.782+08:00"
+  },
+  {
+    "name": "安能ane",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 133,
+    "colorRatio": "3.62%",
+    "timestamp": "2026-07-03T01:00:40.016+08:00"
+  },
+  {
+    "name": "广州浪海国际货运代理有限公司·只做国际物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 173,
+    "colorRatio": "4.71%",
+    "timestamp": "2026-07-03T01:00:40.059+08:00"
+  },
+  {
+    "name": "明泰货运(莲塘前街店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:00:42.745+08:00"
   }
 ]
