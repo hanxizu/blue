@@ -38239,5 +38239,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:07:14.536+08:00"
+  },
+  {
+    "name": "众彩物流A区",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:07:25.284+08:00"
+  },
+  {
+    "name": "菜鸟驿站(天秀湾花园店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:07:25.327+08:00"
+  },
+  {
+    "name": "偷嘴猫配送中心",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:07:25.370+08:00"
+  },
+  {
+    "name": "天城快运中心",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:07:25.413+08:00"
   }
 ]
