@@ -439,5 +439,23 @@
     "colorPixels": 158,
     "colorRatio": "3.99%",
     "timestamp": "2026-07-02T08:27:13.128+08:00"
+  },
+  {
+    "name": "十羽装饰(朝阳门店)",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T08:27:17.020+08:00"
+  },
+  {
+    "name": "博洛尼整体家装3万平体验馆旗舰店总店",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 647,
+    "colorRatio": "16.34%",
+    "timestamp": "2026-07-02T08:27:17.066+08:00"
   }
 ]
