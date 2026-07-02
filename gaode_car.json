@@ -511,5 +511,68 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T22:54:26.887+08:00"
+  },
+  {
+    "name": "W超跑汽车服务中心",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T22:54:29.416+08:00"
+  },
+  {
+    "name": "神州租车(方庄店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:32.034+08:00"
+  },
+  {
+    "name": "北京幺叁玖汽车租赁有限公司",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:32.075+08:00"
+  },
+  {
+    "name": "北京凯越商务租车大巴租赁",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:32.125+08:00"
+  },
+  {
+    "name": "达喀尔汽车租赁(北京分公司)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:35.067+08:00"
+  },
+  {
+    "name": "北京一马当先汽车租赁有限公司",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:35.098+08:00"
+  },
+  {
+    "name": "北京京航线汽车租赁有限公司",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T22:54:37.594+08:00"
   }
 ]
