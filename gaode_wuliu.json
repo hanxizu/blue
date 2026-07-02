@@ -34540,5 +34540,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:48:25.821+08:00"
+  },
+  {
+    "name": "乐众物流东莞公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:48:32.479+08:00"
+  },
+  {
+    "name": "永恒泰国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:48:36.517+08:00"
+  },
+  {
+    "name": "颐龙湾五期妈妈驿站(新世纪·颐龙湾五期店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:48:40.140+08:00"
   }
 ]
