@@ -23236,5 +23236,59 @@
     "colorPixels": 390,
     "colorRatio": "16.99%",
     "timestamp": "2026-07-02T12:52:23.515+08:00"
+  },
+  {
+    "name": "富邦装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:52:23.546+08:00"
+  },
+  {
+    "name": "勇斌装饰材料(鲁能·领秀城5街区店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:52:26.865+08:00"
+  },
+  {
+    "name": "欧品装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:52:26.921+08:00"
+  },
+  {
+    "name": "金雨伞装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:52:30.283+08:00"
+  },
+  {
+    "name": "诚实装修店",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:52:30.314+08:00"
+  },
+  {
+    "name": "尚品装饰(融汇半岛·拾光公馆店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T12:52:32.941+08:00"
   }
 ]
