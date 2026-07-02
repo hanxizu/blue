@@ -28420,5 +28420,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:19:28.112+08:00"
+  },
+  {
+    "name": "顺丰速运(泰和居小区店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:30.747+08:00"
+  },
+  {
+    "name": "瑾昀物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:19:30.796+08:00"
+  },
+  {
+    "name": "中国外运(尚苑路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:30.848+08:00"
   }
 ]
