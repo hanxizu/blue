@@ -4642,5 +4642,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T10:09:14.835+08:00"
+  },
+  {
+    "name": "北京东方泰洋装饰工程有限公司",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:09:21.056+08:00"
+  },
+  {
+    "name": "宏运情装饰公司",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:09:21.078+08:00"
+  },
+  {
+    "name": "天康装饰",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:09:21.102+08:00"
   }
 ]
