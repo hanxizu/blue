@@ -30400,5 +30400,32 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:28:22.125+08:00"
+  },
+  {
+    "name": "云聚物流(玉林营业部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:28:25.581+08:00"
+  },
+  {
+    "name": "向东物流(江源国亨代收点)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:28:28.552+08:00"
+  },
+  {
+    "name": "宇鑫物流(玉林工贸总公司家属院西院店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:28:28.605+08:00"
   }
 ]
