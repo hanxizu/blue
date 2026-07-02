@@ -39760,5 +39760,113 @@
     "colorPixels": 100,
     "colorRatio": "3.84%",
     "timestamp": "2026-07-03T03:19:36.638+08:00"
+  },
+  {
+    "name": "中恒物流公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T03:19:40.546+08:00"
+  },
+  {
+    "name": "安顺大件物流托运中心(天津2店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T03:19:40.579+08:00"
+  },
+  {
+    "name": "顺丰速运(天塔店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:19:40.622+08:00"
+  },
+  {
+    "name": "安顺·大件物流全国托运(天津公司)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 125,
+    "colorRatio": "4.81%",
+    "timestamp": "2026-07-03T03:19:44.216+08:00"
+  },
+  {
+    "name": "中运物流·大件运输",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T03:19:44.248+08:00"
+  },
+  {
+    "name": "顺丰速运(越秀店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:19:44.291+08:00"
+  },
+  {
+    "name": "顺丰速运(万象城店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 562,
+    "colorRatio": "15.31%",
+    "timestamp": "2026-07-03T03:19:44.335+08:00"
+  },
+  {
+    "name": "天津蓝海物流有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:19:47.509+08:00"
+  },
+  {
+    "name": "天津霖泽国际货运代理有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:19:47.553+08:00"
+  },
+  {
+    "name": "顺丰速运(文玥里小区店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:19:51.453+08:00"
+  },
+  {
+    "name": "顺丰速运(长青店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T03:19:51.496+08:00"
+  },
+  {
+    "name": "天津市华帅物流有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:20:12.948+08:00"
   }
 ]
