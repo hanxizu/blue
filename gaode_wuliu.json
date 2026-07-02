@@ -35242,5 +35242,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:51:50.712+08:00"
+  },
+  {
+    "name": "聚丰物流(建南一路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:52:04.137+08:00"
+  },
+  {
+    "name": "东莞市赣鑫物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:52:04.190+08:00"
   }
 ]
