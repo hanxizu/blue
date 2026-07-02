@@ -32065,5 +32065,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:39:59.024+08:00"
+  },
+  {
+    "name": "顺丰速运(万江店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:40:01.877+08:00"
+  },
+  {
+    "name": "东莞市顺速达国际物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:40:01.945+08:00"
+  },
+  {
+    "name": "广东涌金供应链有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:40:02.000+08:00"
   }
 ]
