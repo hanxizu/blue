@@ -15802,5 +15802,41 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:21:34.897+08:00"
+  },
+  {
+    "name": "力展物流(双流文星配送中心)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:45.257+08:00"
+  },
+  {
+    "name": "顺丰速运(中海锦城一期店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:21:45.309+08:00"
+  },
+  {
+    "name": "新程物流(西航港大道)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:48.407+08:00"
+  },
+  {
+    "name": "成都广霖物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:51.805+08:00"
   }
 ]
