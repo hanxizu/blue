@@ -25774,5 +25774,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:07:46.081+08:00"
+  },
+  {
+    "name": "顺丰速运(保利中央公馆店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:07:57.121+08:00"
+  },
+  {
+    "name": "武汉官渡国际货运代理有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:07:57.190+08:00"
+  },
+  {
+    "name": "诚运物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:08:00.262+08:00"
+  },
+  {
+    "name": "顺丰速运(金茂府三期店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T02:08:03.404+08:00"
+  },
+  {
+    "name": "南湖物流中心",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:08:03.454+08:00"
+  },
+  {
+    "name": "滴滴货运(磨山东苑店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:08:03.517+08:00"
+  },
+  {
+    "name": "顺丰速运(兰亭盛荟五期店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:08:03.580+08:00"
   }
 ]
