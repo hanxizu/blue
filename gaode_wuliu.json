@@ -14236,5 +14236,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:15:51.220+08:00"
+  },
+  {
+    "name": "利达物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:54.413+08:00"
+  },
+  {
+    "name": "成都翔驰运业有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:54.456+08:00"
+  },
+  {
+    "name": "嘉顺货运(华丰店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:57.462+08:00"
+  },
+  {
+    "name": "绵阳东方物流有限公司(航雅路店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 12,
+    "colorRatio": "0.33%",
+    "timestamp": "2026-07-03T01:15:57.507+08:00"
+  },
+  {
+    "name": "中通快运双流白家一部",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:16:00.132+08:00"
   }
 ]
