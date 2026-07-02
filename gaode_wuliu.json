@@ -37735,5 +37735,41 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T03:05:19.467+08:00"
+  },
+  {
+    "name": "顺丰速运(顶健大厦店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:05:26.031+08:00"
+  },
+  {
+    "name": "顺丰速运(华润国际店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:05:26.076+08:00"
+  },
+  {
+    "name": "同邦物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:05:28.976+08:00"
+  },
+  {
+    "name": "顺丰速运(威尼斯十五街店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 460,
+    "colorRatio": "12.53%",
+    "timestamp": "2026-07-03T03:05:29.021+08:00"
   }
 ]
