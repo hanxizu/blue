@@ -7693,5 +7693,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T10:58:34.180+08:00"
+  },
+  {
+    "name": "上装建筑装饰-专注公装",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:58:43.267+08:00"
+  },
+  {
+    "name": "吉美装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:58:43.295+08:00"
   }
 ]
