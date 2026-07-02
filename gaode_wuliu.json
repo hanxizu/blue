@@ -30949,5 +30949,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:30:55.379+08:00"
+  },
+  {
+    "name": "盛泽物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:31:13.523+08:00"
+  },
+  {
+    "name": "鼎白行物流园",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:31:13.574+08:00"
+  },
+  {
+    "name": "西安快佳物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:31:13.625+08:00"
+  },
+  {
+    "name": "中运物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:31:13.678+08:00"
+  },
+  {
+    "name": "明亨物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 7,
+    "colorRatio": "0.19%",
+    "timestamp": "2026-07-03T02:31:13.729+08:00"
   }
 ]
