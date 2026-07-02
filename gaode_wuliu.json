@@ -2671,5 +2671,23 @@
     "colorPixels": 60,
     "colorRatio": "1.63%",
     "timestamp": "2026-07-03T00:23:38.532+08:00"
+  },
+  {
+    "name": "华远物流·搬家·托运中心",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 130,
+    "colorRatio": "3.54%",
+    "timestamp": "2026-07-03T00:23:41.559+08:00"
+  },
+  {
+    "name": "博浩通达物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:23:48.615+08:00"
   }
 ]
