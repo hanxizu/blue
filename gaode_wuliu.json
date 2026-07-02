@@ -21580,5 +21580,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:46:51.897+08:00"
+  },
+  {
+    "name": "杭州小宋物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:46:58.165+08:00"
+  },
+  {
+    "name": "浙江百航国际货运代理有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:47:02.025+08:00"
+  },
+  {
+    "name": "顺丰速运(金通汽配城店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:47:02.077+08:00"
+  },
+  {
+    "name": "顺丰速运(北站小商品市场店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T01:47:02.167+08:00"
   }
 ]
