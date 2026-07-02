@@ -4066,5 +4066,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T10:05:22.168+08:00"
+  },
+  {
+    "name": "尚品宅配星级定制旗舰店(北沙滩红星美凯龙)",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T10:05:22.206+08:00"
+  },
+  {
+    "name": "尚雅居五金建材装饰装修(远见名苑2期店)",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:05:22.240+08:00"
+  },
+  {
+    "name": "溢旺发五金建材装修店(铁道部第一住宅区店)",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:05:22.270+08:00"
   }
 ]
