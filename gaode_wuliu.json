@@ -17764,5 +17764,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:31:39.085+08:00"
+  },
+  {
+    "name": "成都滨大物流新疆专线",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:31:55.944+08:00"
+  },
+  {
+    "name": "顺丰速运(魅力之城店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:31:56.007+08:00"
+  },
+  {
+    "name": "顺丰速运(锦绣城五期店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:31:58.882+08:00"
+  },
+  {
+    "name": "顺丰速运(富丽东方店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:31:58.940+08:00"
+  },
+  {
+    "name": "中远海运物流29号仓",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:32:02.111+08:00"
+  },
+  {
+    "name": "顺丰速运(御府天骄店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:32:02.185+08:00"
+  },
+  {
+    "name": "顺丰速运(金科东方雅郡店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:32:02.266+08:00"
+  },
+  {
+    "name": "众智物流2号库",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:32:02.354+08:00"
   }
 ]
