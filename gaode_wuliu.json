@@ -6361,5 +6361,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:43:31.230+08:00"
+  },
+  {
+    "name": "顺丰速运(敦信大厦店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:43:37.440+08:00"
+  },
+  {
+    "name": "高铁快运深圳站营业部",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:37.483+08:00"
+  },
+  {
+    "name": "中铁快运(深圳站停车场店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:40.661+08:00"
+  },
+  {
+    "name": "顺丰速运(罗湖火车站店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:43:40.704+08:00"
   }
 ]
