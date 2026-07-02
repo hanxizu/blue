@@ -37951,5 +37951,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:06:02.520+08:00"
+  },
+  {
+    "name": "南京钰诚物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:06:12.592+08:00"
+  },
+  {
+    "name": "南京金八顺物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:06:12.635+08:00"
+  },
+  {
+    "name": "顺丰速运(旭辉铂悦秦淮店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T03:06:15.614+08:00"
+  },
+  {
+    "name": "上海星移物流(南京)分公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:06:15.657+08:00"
   }
 ]
