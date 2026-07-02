@@ -6964,5 +6964,32 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T00:45:42.490+08:00"
+  },
+  {
+    "name": "顺丰速运(深圳五和转运中心)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:45:45.162+08:00"
+  },
+  {
+    "name": "罗湖中成货运",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:45:45.213+08:00"
+  },
+  {
+    "name": "深圳市畅航物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:55.775+08:00"
   }
 ]
