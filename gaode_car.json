@@ -52,5 +52,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-02T22:53:05.049+08:00"
+  },
+  {
+    "name": "乐途租车",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-02T22:53:05.100+08:00"
+  },
+  {
+    "name": "金八达汽车租赁",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T22:53:05.140+08:00"
+  },
+  {
+    "name": "耳朵汽车租赁",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T22:53:05.185+08:00"
+  },
+  {
+    "name": "北京京裕达汽车租赁",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-02T22:53:07.781+08:00"
   }
 ]
