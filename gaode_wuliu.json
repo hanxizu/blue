@@ -27826,5 +27826,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:17:40.745+08:00"
+  },
+  {
+    "name": "雨润物流园极兔速递",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:17:40.791+08:00"
+  },
+  {
+    "name": "西安利峰物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:17:40.860+08:00"
+  },
+  {
+    "name": "乾宝物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:17:40.905+08:00"
+  },
+  {
+    "name": "VC跳动配送中心",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:17:40.949+08:00"
+  },
+  {
+    "name": "瀚溥物流园C3库",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:17:44.012+08:00"
+  },
+  {
+    "name": "优阳物流园",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 41,
+    "colorRatio": "1.12%",
+    "timestamp": "2026-07-03T02:17:44.056+08:00"
   }
 ]
