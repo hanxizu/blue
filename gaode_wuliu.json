@@ -27691,5 +27691,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:17:12.233+08:00"
+  },
+  {
+    "name": "顺丰速运(隆源国际店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:17:15.110+08:00"
+  },
+  {
+    "name": "陕西富达物流(惠西村分部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:17:15.153+08:00"
+  },
+  {
+    "name": "朝东物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:17:18.211+08:00"
+  },
+  {
+    "name": "顺心捷达(西安绕城高速店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:17:18.260+08:00"
   }
 ]
