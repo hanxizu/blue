@@ -15442,5 +15442,41 @@
     "colorPixels": 100,
     "colorRatio": "3.84%",
     "timestamp": "2026-07-03T01:20:16.626+08:00"
+  },
+  {
+    "name": "速非通国际物流(光明苑店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:20:19.736+08:00"
+  },
+  {
+    "name": "成都如梭航空货运",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:19.807+08:00"
+  },
+  {
+    "name": "成都吉宏国际物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:23.098+08:00"
+  },
+  {
+    "name": "众合名扬物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:23.141+08:00"
   }
 ]
