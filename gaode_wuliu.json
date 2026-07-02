@@ -2599,5 +2599,14 @@
     "colorPixels": 17,
     "colorRatio": "0.46%",
     "timestamp": "2026-07-03T00:23:19.151+08:00"
+  },
+  {
+    "name": "冀邮物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:23:21.761+08:00"
   }
 ]
