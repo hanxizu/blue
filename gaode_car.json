@@ -5758,5 +5758,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:17:20.958+08:00"
+  },
+  {
+    "name": "一嗨租车(广州火车东站店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:17:23.577+08:00"
+  },
+  {
+    "name": "乐途租车广州市区店",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:17:23.609+08:00"
+  },
+  {
+    "name": "保捷行租车",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:17:29.614+08:00"
+  },
+  {
+    "name": "丽跑租车(广州东站点)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:17:29.668+08:00"
+  },
+  {
+    "name": "旺缘租车(荔湾区西村街道店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:17:34.951+08:00"
+  },
+  {
+    "name": "安迅租车",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:17:34.996+08:00"
+  },
+  {
+    "name": "哈啰租车(广汽传祺广州白云新能源体验中心)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:17:35.034+08:00"
   }
 ]
