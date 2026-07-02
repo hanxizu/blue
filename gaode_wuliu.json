@@ -24181,5 +24181,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:01:25.592+08:00"
+  },
+  {
+    "name": "顺丰速运(向阳店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T02:01:25.638+08:00"
+  },
+  {
+    "name": "壹米滴答·大道物流(华中汽配营业部)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:25.708+08:00"
+  },
+  {
+    "name": "万海鑫睿物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:25.752+08:00"
+  },
+  {
+    "name": "韵达快运(将军四路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:01:28.244+08:00"
+  },
+  {
+    "name": "顺丰速运(红桥城4栋店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:01:28.307+08:00"
+  },
+  {
+    "name": "顺心捷达",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:28.394+08:00"
+  },
+  {
+    "name": "安顺·大件物流行李托运家具家电托运搬家摩托车电瓶车支持上门取货",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T02:01:35.281+08:00"
+  },
+  {
+    "name": "仁和物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:35.323+08:00"
+  },
+  {
+    "name": "顺丰速运(七里庙店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:01:35.365+08:00"
+  },
+  {
+    "name": "大道物流壹米滴答青山仁和店",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:35.407+08:00"
   }
 ]
