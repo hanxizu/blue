@@ -18898,5 +18898,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T12:23:40.797+08:00"
+  },
+  {
+    "name": "金成广告装饰(太湖路)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:24:04.843+08:00"
+  },
+  {
+    "name": "常胜木工装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:24:04.873+08:00"
+  },
+  {
+    "name": "锦尚名门装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 81,
+    "colorRatio": "3.53%",
+    "timestamp": "2026-07-02T12:24:07.882+08:00"
+  },
+  {
+    "name": "成果装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:24:11.315+08:00"
+  },
+  {
+    "name": "盛安焊接装饰(望湖北苑店)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:24:11.371+08:00"
+  },
+  {
+    "name": "常胜广告装饰(六安路)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:24:11.438+08:00"
+  },
+  {
+    "name": "益民门窗装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:24:13.967+08:00"
   }
 ]
