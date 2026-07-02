@@ -18700,5 +18700,50 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:36:00.680+08:00"
+  },
+  {
+    "name": "杭州越华国际货运代理有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:04.342+08:00"
+  },
+  {
+    "name": "上海港运国际物流有限公司杭州分公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:04.385+08:00"
+  },
+  {
+    "name": "顺丰速运(树园小区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:36:04.442+08:00"
+  },
+  {
+    "name": "浙江新泽国际货运代理有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:07.641+08:00"
+  },
+  {
+    "name": "杭州漕运物流集团有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:07.684+08:00"
   }
 ]
