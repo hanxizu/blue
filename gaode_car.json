@@ -12238,5 +12238,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:46:55.264+08:00"
+  },
+  {
+    "name": "美途汽车租赁",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:47:00.799+08:00"
+  },
+  {
+    "name": "哈啰租车(车管家豪车俱乐部)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:47:00.852+08:00"
+  },
+  {
+    "name": "八哥租车(武昌区白沙洲街道店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:47:00.890+08:00"
+  },
+  {
+    "name": "湖北浩弘汽车租赁有限公司",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:47:04.061+08:00"
+  },
+  {
+    "name": "小北租车金科城A站点",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:47:12.354+08:00"
+  },
+  {
+    "name": "武汉-汉口-盛世龙爵租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:47:18.046+08:00"
+  },
+  {
+    "name": "隽马租车(武汉汉口站店)",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:47:18.102+08:00"
+  },
+  {
+    "name": "众诚租车-武汉高铁店",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:47:20.906+08:00"
   }
 ]
