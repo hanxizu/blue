@@ -9745,5 +9745,113 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:36:14.044+08:00"
+  },
+  {
+    "name": "赤兔游租电动车(山塘街南浩街店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T23:36:16.940+08:00"
+  },
+  {
+    "name": "苏U行租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:16.971+08:00"
+  },
+  {
+    "name": "神州租车(正翔商业广场自助点)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:17.004+08:00"
+  },
+  {
+    "name": "滴滴出行苏州安车居汽车租赁服务有限公司",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T23:36:20.070+08:00"
+  },
+  {
+    "name": "神州租车(汽车南站服务点)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:22.607+08:00"
+  },
+  {
+    "name": "神州租车(苏州尹山湖店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:22.636+08:00"
+  },
+  {
+    "name": "滴滴官方司机招募平台(金山南)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:25.633+08:00"
+  },
+  {
+    "name": "菠萝租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:36:28.356+08:00"
+  },
+  {
+    "name": "车享家汽车服务",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:28.384+08:00"
+  },
+  {
+    "name": "燕骑租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:31.394+08:00"
+  },
+  {
+    "name": "神州租车苏州高新国际汽车城自助点",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:31.431+08:00"
+  },
+  {
+    "name": "神州租车(月亮湾地铁站自助点)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:36:33.856+08:00"
   }
 ]
