@@ -1510,5 +1510,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T22:58:10.171+08:00"
+  },
+  {
+    "name": "奥迪租车(华阳奥通店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T22:58:15.998+08:00"
+  },
+  {
+    "name": "北京凯瑞行汽车租赁服务有限公司",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:58:18.473+08:00"
+  },
+  {
+    "name": "北京民顺源汽车租赁维修服务站",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:58:18.541+08:00"
   }
 ]
