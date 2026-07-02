@@ -28312,5 +28312,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:19:07.218+08:00"
+  },
+  {
+    "name": "西安骑手·城市配送",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:19:14.553+08:00"
+  },
+  {
+    "name": "松速物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:14.597+08:00"
+  },
+  {
+    "name": "西安鑫河西物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:19:14.640+08:00"
+  },
+  {
+    "name": "创世纪物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:14.683+08:00"
+  },
+  {
+    "name": "旺达物流园",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 29,
+    "colorRatio": "0.79%",
+    "timestamp": "2026-07-03T02:19:14.726+08:00"
   }
 ]
