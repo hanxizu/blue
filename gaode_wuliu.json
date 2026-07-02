@@ -4030,5 +4030,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:29:48.626+08:00"
+  },
+  {
+    "name": "京东物流(北京常营站)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:01.042+08:00"
+  },
+  {
+    "name": "鑫焱顺捷物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:30:01.082+08:00"
+  },
+  {
+    "name": "锦绣大地物流港A区",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:04.121+08:00"
+  },
+  {
+    "name": "北京圆京通供应链管理有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 5,
+    "colorRatio": "0.14%",
+    "timestamp": "2026-07-03T00:30:04.161+08:00"
+  },
+  {
+    "name": "北京金博昌盛物流有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:30:07.277+08:00"
   }
 ]
