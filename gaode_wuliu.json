@@ -25630,5 +25630,23 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:07:10.435+08:00"
+  },
+  {
+    "name": "快递超市",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:23.470+08:00"
+  },
+  {
+    "name": "顺丰速运(青杨店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:07:23.513+08:00"
   }
 ]
