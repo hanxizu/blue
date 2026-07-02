@@ -4822,5 +4822,23 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T10:10:30.272+08:00"
+  },
+  {
+    "name": "北京市建筑工程装饰集团有限公司",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:10:44.790+08:00"
+  },
+  {
+    "name": "东方完美装饰五金建材公司",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:10:44.828+08:00"
   }
 ]
