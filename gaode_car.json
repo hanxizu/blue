@@ -10969,5 +10969,77 @@
     "colorPixels": 306,
     "colorRatio": "13.33%",
     "timestamp": "2026-07-02T23:40:54.738+08:00"
+  },
+  {
+    "name": "中欧房车销售租赁",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:57.410+08:00"
+  },
+  {
+    "name": "风行租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:57.443+08:00"
+  },
+  {
+    "name": "长鸿租车(常熟店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:41:03.866+08:00"
+  },
+  {
+    "name": "乐豪婚车租赁",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T23:41:03.905+08:00"
+  },
+  {
+    "name": "星摩速租车换电池",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:41:06.527+08:00"
+  },
+  {
+    "name": "苏州鼎亨汽车销售有限公司",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:41:13.280+08:00"
+  },
+  {
+    "name": "尚顺汽车咨询服务部",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:41:13.351+08:00"
+  },
+  {
+    "name": "一嗨租车(常熟万达店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:41:16.017+08:00"
   }
 ]
