@@ -5146,5 +5146,77 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T00:39:56.866+08:00"
+  },
+  {
+    "name": "京东物流(皇御苑·廊桥花园店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:59.611+08:00"
+  },
+  {
+    "name": "顺丰速运(大门坊56号店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:39:59.699+08:00"
+  },
+  {
+    "name": "深圳市盛顺鼎国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:39:59.768+08:00"
+  },
+  {
+    "name": "信丰物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:59.831+08:00"
+  },
+  {
+    "name": "顺丰速运(华新村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:40:04.188+08:00"
+  },
+  {
+    "name": "顺丰速运(深纺店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:40:04.231+08:00"
+  },
+  {
+    "name": "香港威盛运输企业有限公司深圳代表处",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:04.275+08:00"
+  },
+  {
+    "name": "安能物流(新亚洲·国利大厦店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:40:04.318+08:00"
   }
 ]
