@@ -10420,5 +10420,140 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:00:01.025+08:00"
+  },
+  {
+    "name": "粤海快运",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:01.069+08:00"
+  },
+  {
+    "name": "7795карго",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:00:01.113+08:00"
+  },
+  {
+    "name": "日亮物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:01.156+08:00"
+  },
+  {
+    "name": "安能物流(站前路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:03.807+08:00"
+  },
+  {
+    "name": "广州永驰(飞燕)物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:03.858+08:00"
+  },
+  {
+    "name": "锐航国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:06.623+08:00"
+  },
+  {
+    "name": "日昱物流有限公司(流花店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:09.990+08:00"
+  },
+  {
+    "name": "顺丰速运(一德路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 532,
+    "colorRatio": "14.49%",
+    "timestamp": "2026-07-03T01:00:10.032+08:00"
+  },
+  {
+    "name": "G168КАРГО",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:00:13.422+08:00"
+  },
+  {
+    "name": "广州apM时代国际服装城-物流区",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:16.349+08:00"
+  },
+  {
+    "name": "运发国际物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:16.393+08:00"
+  },
+  {
+    "name": "中成国际运输深圳公司(广州分公司)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:18.995+08:00"
+  },
+  {
+    "name": "永达物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:19.075+08:00"
+  },
+  {
+    "name": "晋彪国际物流(桂花岗小区店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:19.135+08:00"
+  },
+  {
+    "name": "泓利货运有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:00:26.296+08:00"
   }
 ]
