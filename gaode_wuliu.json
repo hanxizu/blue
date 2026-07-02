@@ -31606,5 +31606,59 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:38:44.585+08:00"
+  },
+  {
+    "name": "安能物流(南城总部)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:38:48.764+08:00"
+  },
+  {
+    "name": "东莞市粤通运输有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:38:48.806+08:00"
+  },
+  {
+    "name": "乙恒国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:38:48.850+08:00"
+  },
+  {
+    "name": "八佰里电商物流东莞南城仓",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:38:48.893+08:00"
+  },
+  {
+    "name": "顺心捷达",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:38:51.868+08:00"
+  },
+  {
+    "name": "广东传辰国际国际货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:38:51.911+08:00"
   }
 ]
