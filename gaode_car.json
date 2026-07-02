@@ -39238,5 +39238,95 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T02:00:19.385+08:00"
+  },
+  {
+    "name": "货拉拉嘉兴海宁旗舰店(司机加入.租车买车)",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:22.485+08:00"
+  },
+  {
+    "name": "双誉租车",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:24.922+08:00"
+  },
+  {
+    "name": "嘉兴货拉拉租车卖车官方直营店",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:24.955+08:00"
+  },
+  {
+    "name": "苍龙网约车司机服务中心",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T02:00:24.987+08:00"
+  },
+  {
+    "name": "嘉兴市路丰汽车租赁公司",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:28.000+08:00"
+  },
+  {
+    "name": "多福旅游包车",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:28.034+08:00"
+  },
+  {
+    "name": "面包车之家",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:31.022+08:00"
+  },
+  {
+    "name": "必达出行嘉兴运营中心",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:33.660+08:00"
+  },
+  {
+    "name": "荣浩出行网约车租赁",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:33.720+08:00"
+  },
+  {
+    "name": "森磊旅游包车",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:36.241+08:00"
   }
 ]
