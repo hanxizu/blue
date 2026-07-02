@@ -25099,5 +25099,59 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:04:47.316+08:00"
+  },
+  {
+    "name": "壹米滴答大道物流长丰汽配营业部(古田二路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:04:57.368+08:00"
+  },
+  {
+    "name": "万程物流(宏图路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:04:57.410+08:00"
+  },
+  {
+    "name": "武汉齐心物流(绿洲广场西)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:00.978+08:00"
+  },
+  {
+    "name": "大道物流烽火建材营业部",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:01.088+08:00"
+  },
+  {
+    "name": "安能物流白沙洲大道店",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:05:01.130+08:00"
+  },
+  {
+    "name": "武汉驿东国际物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:03.865+08:00"
   }
 ]
