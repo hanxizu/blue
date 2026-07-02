@@ -3049,5 +3049,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:24:49.259+08:00"
+  },
+  {
+    "name": "顺丰速运(海尚逸苑店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:24:49.298+08:00"
+  },
+  {
+    "name": "顺丰速运(丰镇国安路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T07:24:49.331+08:00"
+  },
+  {
+    "name": "顺丰速运(中轩店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:24:49.357+08:00"
+  },
+  {
+    "name": "顺丰速运(中轩店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:24:52.259+08:00"
   }
 ]
