@@ -34864,5 +34864,41 @@
     "colorPixels": 17,
     "colorRatio": "0.46%",
     "timestamp": "2026-07-03T02:50:03.373+08:00"
+  },
+  {
+    "name": "美达物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:50:06.504+08:00"
+  },
+  {
+    "name": "三志物流(四坊街店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:50:09.084+08:00"
+  },
+  {
+    "name": "顺心捷达(高龙路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:50:09.162+08:00"
+  },
+  {
+    "name": "东莞万江盛辉物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:50:09.252+08:00"
   }
 ]
