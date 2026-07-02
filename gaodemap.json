@@ -33226,5 +33226,86 @@
     "colorPixels": 147,
     "colorRatio": "6.41%",
     "timestamp": "2026-07-02T16:07:03.830+08:00"
+  },
+  {
+    "name": "筑想空间设计",
+    "city": "淮北市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T16:07:07.132+08:00"
+  },
+  {
+    "name": "好工长装饰",
+    "city": "淮北市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T16:07:07.170+08:00"
+  },
+  {
+    "name": "博之远装饰",
+    "city": "淮北市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T16:07:10.761+08:00"
+  },
+  {
+    "name": "正庭装饰",
+    "city": "淮北市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T16:07:10.800+08:00"
+  },
+  {
+    "name": "窝牛装修",
+    "city": "淮北市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T16:07:13.372+08:00"
+  },
+  {
+    "name": "淮北尚风装饰公司",
+    "city": "淮北市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T16:07:19.342+08:00"
+  },
+  {
+    "name": "豪庭装饰",
+    "city": "淮北市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T16:07:22.689+08:00"
+  },
+  {
+    "name": "辰心装饰",
+    "city": "淮北市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T16:07:43.927+08:00"
+  },
+  {
+    "name": "名匠装饰(盛世商贸城店)",
+    "city": "淮北市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T16:07:43.950+08:00"
   }
 ]
