@@ -40498,5 +40498,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:21:35.175+08:00"
+  },
+  {
+    "name": "天津新里程国际海运有限责任公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:21:37.699+08:00"
+  },
+  {
+    "name": "以星综合航运(中国)有限公司天津分公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:21:37.828+08:00"
+  },
+  {
+    "name": "鸿霖货运",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:21:37.896+08:00"
+  },
+  {
+    "name": "安路通物流",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:21:40.860+08:00"
+  },
+  {
+    "name": "天津航星国际货运代理有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 37,
+    "colorRatio": "1.01%",
+    "timestamp": "2026-07-03T03:21:40.904+08:00"
   }
 ]
