@@ -1726,5 +1726,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:23:05.447+08:00"
+  },
+  {
+    "name": "MSC地中海航运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:05.487+08:00"
+  },
+  {
+    "name": "青岛威达国际货运代理有限公司(上海分公司)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:05.517+08:00"
+  },
+  {
+    "name": "上海瀛环惠海国际物流有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:05.546+08:00"
+  },
+  {
+    "name": "MSC地中海航运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:08.069+08:00"
+  },
+  {
+    "name": "青岛威达国际货运代理有限公司(上海分公司)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:08.101+08:00"
+  },
+  {
+    "name": "上海瀛环惠海国际物流有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:08.130+08:00"
+  },
+  {
+    "name": "壹米滴答·安能物流",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:23:08.160+08:00"
+  },
+  {
+    "name": "顺丰速运(凯阳店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:23:08.190+08:00"
+  },
+  {
+    "name": "上海瀛环惠海国际物流有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:10.610+08:00"
   }
 ]
