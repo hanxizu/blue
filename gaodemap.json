@@ -21616,5 +21616,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T12:41:13.967+08:00"
+  },
+  {
+    "name": "艺森装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:41:26.656+08:00"
+  },
+  {
+    "name": "天古装饰(TG码高定精装设计中心)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:41:26.729+08:00"
+  },
+  {
+    "name": "广龙装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:41:32.733+08:00"
   }
 ]
