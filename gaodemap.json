@@ -6361,5 +6361,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T10:52:57.803+08:00"
+  },
+  {
+    "name": "召禾室内设计(上海)有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:53:03.433+08:00"
+  },
+  {
+    "name": "上海鲁班装饰工程有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:53:03.463+08:00"
+  },
+  {
+    "name": "幔顶工装·商业装修·办公餐饮·整装定制",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T10:53:06.208+08:00"
+  },
+  {
+    "name": "焱歌装饰集团(闵行旗舰店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:53:08.936+08:00"
+  },
+  {
+    "name": "拉迷家居(嘉定区总部旗舰店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 389,
+    "colorRatio": "16.95%",
+    "timestamp": "2026-07-02T10:53:08.964+08:00"
   }
 ]
