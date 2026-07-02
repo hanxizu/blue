@@ -6406,5 +6406,59 @@
     "colorPixels": 389,
     "colorRatio": "16.95%",
     "timestamp": "2026-07-02T10:53:08.964+08:00"
+  },
+  {
+    "name": "呈一装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:53:11.392+08:00"
+  },
+  {
+    "name": "上海敏汪建筑装饰工程有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:53:11.412+08:00"
+  },
+  {
+    "name": "(全材配)全品建材一站式配送",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-02T10:53:14.145+08:00"
+  },
+  {
+    "name": "柚雅装饰(金桥店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:53:14.190+08:00"
+  },
+  {
+    "name": "申远空间设计(虹桥别墅设计中心)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:53:16.719+08:00"
+  },
+  {
+    "name": "上海舰拓装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:53:16.762+08:00"
   }
 ]
