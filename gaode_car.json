@@ -8296,5 +8296,113 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:29:44.105+08:00"
+  },
+  {
+    "name": "君呼租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:29:47.189+08:00"
+  },
+  {
+    "name": "杭州鹤诚汽车租赁有限公司",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:29:47.225+08:00"
+  },
+  {
+    "name": "骑士租车电动车超市",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:29:49.659+08:00"
+  },
+  {
+    "name": "杭州南风出行",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-02T23:29:52.147+08:00"
+  },
+  {
+    "name": "睿行租车(杭州店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:29:52.182+08:00"
+  },
+  {
+    "name": "杭州九行汽车网约车服务中心",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:29:52.213+08:00"
+  },
+  {
+    "name": "zhio启优汽车租赁",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:29:54.817+08:00"
+  },
+  {
+    "name": "哈哈出行(杭州运营中心)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:29:54.850+08:00"
+  },
+  {
+    "name": "爱尚名车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:29:54.882+08:00"
+  },
+  {
+    "name": "锦锐租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:29:57.775+08:00"
+  },
+  {
+    "name": "城满电租车(上城区九堡店)",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:29:57.808+08:00"
+  },
+  {
+    "name": "玖德租车",
+    "city": "杭州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:30:00.264+08:00"
   }
 ]
