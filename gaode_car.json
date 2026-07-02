@@ -41128,5 +41128,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:10:12.708+08:00"
+  },
+  {
+    "name": "热点租车(工农路店)",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:15.862+08:00"
+  },
+  {
+    "name": "黑曼巴租车(南通店)",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:15.893+08:00"
+  },
+  {
+    "name": "博速租车",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:15.921+08:00"
+  },
+  {
+    "name": "荣灿豪车汇",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:18.731+08:00"
+  },
+  {
+    "name": "天益汽车租赁",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T02:10:18.768+08:00"
+  },
+  {
+    "name": "飞驰租车",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:21.490+08:00"
+  },
+  {
+    "name": "天易二手车租车",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:24.151+08:00"
+  },
+  {
+    "name": "嘉旅租车(海安市火车站广场店)",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:24.191+08:00"
+  },
+  {
+    "name": "安顺汽车租赁",
+    "city": "南通市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:27.182+08:00"
   }
 ]
