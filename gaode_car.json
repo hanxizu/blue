@@ -4138,5 +4138,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:10:03.878+08:00"
+  },
+  {
+    "name": "八哥租车(罗湖区翠竹街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:07.015+08:00"
+  },
+  {
+    "name": "来米租车(龙华区民治街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:07.044+08:00"
+  },
+  {
+    "name": "来米租车(罗湖区东晓街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:07.094+08:00"
+  },
+  {
+    "name": "一航租车(南山区桃源街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:09.426+08:00"
+  },
+  {
+    "name": "哈啰租车(八戒出行)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:09.452+08:00"
+  },
+  {
+    "name": "泰丰租车(福田区梅林街道店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:12.386+08:00"
+  },
+  {
+    "name": "深圳市东恒汽车租赁有限公司",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:14.910+08:00"
+  },
+  {
+    "name": "深圳北迅安通租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:10:14.942+08:00"
   }
 ]
