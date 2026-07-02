@@ -22966,5 +22966,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:57:46.091+08:00"
+  },
+  {
+    "name": "大唐物流(横堤上街)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:48.773+08:00"
+  },
+  {
+    "name": "正达物流(友谊南路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:48.833+08:00"
+  },
+  {
+    "name": "顺丰速运(梦湖水岸5栋店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:57:52.630+08:00"
+  },
+  {
+    "name": "展宇物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:52.702+08:00"
   }
 ]
