@@ -5686,5 +5686,59 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:41:25.823+08:00"
+  },
+  {
+    "name": "顺丰速运(东海华阁店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:41:29.586+08:00"
+  },
+  {
+    "name": "京华达物流华强北分公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:41:29.629+08:00"
+  },
+  {
+    "name": "长鹏国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:41:29.673+08:00"
+  },
+  {
+    "name": "鸿盛捷运国际物流(华强南店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:41:29.716+08:00"
+  },
+  {
+    "name": "裕鹏达国际物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:41:32.476+08:00"
+  },
+  {
+    "name": "顺丰速运(中电大院店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 119,
+    "colorRatio": "3.24%",
+    "timestamp": "2026-07-03T00:41:32.545+08:00"
   }
 ]
