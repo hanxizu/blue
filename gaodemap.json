@@ -7711,5 +7711,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T10:58:43.295+08:00"
+  },
+  {
+    "name": "岭艺装饰(闵行品质整装中心)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:58:49.750+08:00"
+  },
+  {
+    "name": "东米设计·全案装修设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:58:49.789+08:00"
+  },
+  {
+    "name": "筑引装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:58:52.489+08:00"
+  },
+  {
+    "name": "上海在右建筑装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 16,
+    "colorRatio": "0.70%",
+    "timestamp": "2026-07-02T10:58:52.514+08:00"
+  },
+  {
+    "name": "上海雅居阁设计装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 80,
+    "colorRatio": "3.49%",
+    "timestamp": "2026-07-02T10:58:52.551+08:00"
   }
 ]
