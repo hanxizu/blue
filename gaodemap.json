@@ -8908,5 +8908,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T11:11:38.328+08:00"
+  },
+  {
+    "name": "百安居装修建材卖场(龙阳店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-02T11:11:38.383+08:00"
+  },
+  {
+    "name": "康沛甫建筑设计咨询(上海)有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:11:40.683+08:00"
+  },
+  {
+    "name": "上海榫头家具设计有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T11:11:43.614+08:00"
+  },
+  {
+    "name": "红星美凯龙全球一号店美凯龙装饰设计中心",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:11:43.635+08:00"
   }
 ]
