@@ -16270,5 +16270,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:23:25.240+08:00"
+  },
+  {
+    "name": "中国外运(成都)空港物流有限公司(口岸路店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:23:28.048+08:00"
+  },
+  {
+    "name": "成都东站汽车客运站小件快运",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:23:28.149+08:00"
+  },
+  {
+    "name": "成都晨速物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:23:28.246+08:00"
   }
 ]
