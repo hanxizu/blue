@@ -37600,5 +37600,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:04:50.774+08:00"
+  },
+  {
+    "name": "联洲物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:04:56.581+08:00"
+  },
+  {
+    "name": "南京青马汽车运输有限责任公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T03:05:00.920+08:00"
   }
 ]
