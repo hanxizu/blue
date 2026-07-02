@@ -889,5 +889,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T22:55:41.975+08:00"
+  },
+  {
+    "name": "途尤租车",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:55:44.829+08:00"
+  },
+  {
+    "name": "哈啰租车(鑫达顺通)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:55:44.862+08:00"
   }
 ]
