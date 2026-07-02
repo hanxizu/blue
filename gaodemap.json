@@ -9016,5 +9016,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T11:12:09.618+08:00"
+  },
+  {
+    "name": "东组设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-02T11:12:24.491+08:00"
+  },
+  {
+    "name": "上海慷灏建筑装饰工程有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:12:24.527+08:00"
   }
 ]
