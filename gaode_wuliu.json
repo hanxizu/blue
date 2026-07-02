@@ -6244,5 +6244,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:43:07.846+08:00"
+  },
+  {
+    "name": "深圳市蓝洋通国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:43:10.921+08:00"
+  },
+  {
+    "name": "深圳市长帆国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:10.964+08:00"
+  },
+  {
+    "name": "深圳鹰路供应链管理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:43:14.275+08:00"
+  },
+  {
+    "name": "海珲物流(宝岗路商业仓库5栋店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:14.318+08:00"
+  },
+  {
+    "name": "顺丰速运(笋岗街道店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:43:17.010+08:00"
   }
 ]
