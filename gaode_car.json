@@ -10798,5 +10798,86 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T23:40:09.568+08:00"
+  },
+  {
+    "name": "曲臂车直臂车升降车租赁",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:15.614+08:00"
+  },
+  {
+    "name": "闪电虎租车(东山景区店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:15.651+08:00"
+  },
+  {
+    "name": "昆山名扬汽车租赁公司",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T23:40:15.686+08:00"
+  },
+  {
+    "name": "神州租车(柏庐南路中茵广场服务点)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:21.627+08:00"
+  },
+  {
+    "name": "大运通享租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:40:24.298+08:00"
+  },
+  {
+    "name": "曼曼环岛租车(东村店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:24.336+08:00"
+  },
+  {
+    "name": "小嘿象电动车租赁(昆山富士康店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:30.599+08:00"
+  },
+  {
+    "name": "橙川汽车租赁",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:30.635+08:00"
+  },
+  {
+    "name": "一嗨租车(前进东路店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:40:30.665+08:00"
   }
 ]
