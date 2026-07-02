@@ -20932,5 +20932,41 @@
     "colorPixels": 563,
     "colorRatio": "15.33%",
     "timestamp": "2026-07-03T01:43:39.757+08:00"
+  },
+  {
+    "name": "顺丰速运(春潮路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:43:51.108+08:00"
+  },
+  {
+    "name": "杭州富日物流有限公司1幢",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "3.43%",
+    "timestamp": "2026-07-03T01:43:51.162+08:00"
+  },
+  {
+    "name": "杭州富日物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:43:54.128+08:00"
+  },
+  {
+    "name": "顺丰速运(秋悦路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:43:57.735+08:00"
   }
 ]
