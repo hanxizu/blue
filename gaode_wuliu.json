@@ -17980,5 +17980,41 @@
     "colorPixels": 129,
     "colorRatio": "3.51%",
     "timestamp": "2026-07-03T01:33:52.522+08:00"
+  },
+  {
+    "name": "转瞬达国际货运代理(杭州)有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 133,
+    "colorRatio": "3.62%",
+    "timestamp": "2026-07-03T01:34:13.829+08:00"
+  },
+  {
+    "name": "深国际综合物流公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:17.041+08:00"
+  },
+  {
+    "name": "德龙物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:17.084+08:00"
+  },
+  {
+    "name": "安顺·大件物流全国托运",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:34:20.624+08:00"
   }
 ]
