@@ -25333,5 +25333,95 @@
     "colorPixels": 570,
     "colorRatio": "15.52%",
     "timestamp": "2026-07-03T02:05:54.382+08:00"
+  },
+  {
+    "name": "骑士之家",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:05:57.109+08:00"
+  },
+  {
+    "name": "湖北御驾车物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:05:57.178+08:00"
+  },
+  {
+    "name": "京东物流(武汉杨泗港站)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:08.511+08:00"
+  },
+  {
+    "name": "武汉蓝焰物流基地",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:08.555+08:00"
+  },
+  {
+    "name": "猎豹快运武汉总部(汇丰企业天地店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:08.599+08:00"
+  },
+  {
+    "name": "德邦快递(武汉青山区工业路经营分部)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:06:08.643+08:00"
+  },
+  {
+    "name": "顺丰速运(武泰闸店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:06:11.275+08:00"
+  },
+  {
+    "name": "顺丰速运(永旺店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T02:06:11.345+08:00"
+  },
+  {
+    "name": "顺丰速运(万科高尔夫店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:06:11.470+08:00"
+  },
+  {
+    "name": "顺丰速运(卓越大江店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:06:11.534+08:00"
   }
 ]
