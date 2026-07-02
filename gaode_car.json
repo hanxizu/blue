@@ -2653,5 +2653,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:03:26.933+08:00"
+  },
+  {
+    "name": "昊仕租车",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:29.684+08:00"
+  },
+  {
+    "name": "上海沪太路客运站送车点-达咨",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:32.514+08:00"
+  },
+  {
+    "name": "长寿路(地铁站)-赫速N",
+    "city": "上海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:03:32.546+08:00"
   }
 ]
