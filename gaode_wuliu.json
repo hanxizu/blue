@@ -4435,5 +4435,50 @@
     "colorPixels": 491,
     "colorRatio": "13.37%",
     "timestamp": "2026-07-03T00:32:07.002+08:00"
+  },
+  {
+    "name": "顺丰速运(北京安宁庄园店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T00:32:21.117+08:00"
+  },
+  {
+    "name": "北京外运物流中心",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:32:21.160+08:00"
+  },
+  {
+    "name": "北京登途云物流科技有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:32:21.231+08:00"
+  },
+  {
+    "name": "北京市运输公司(第七分公司)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:32:21.274+08:00"
+  },
+  {
+    "name": "北京外运汽车运输有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:32:23.956+08:00"
   }
 ]
