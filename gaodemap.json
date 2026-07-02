@@ -8638,5 +8638,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T11:09:54.810+08:00"
+  },
+  {
+    "name": "许诺设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:09:58.262+08:00"
+  },
+  {
+    "name": "上海申宝建筑工程有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:09:58.297+08:00"
+  },
+  {
+    "name": "昆武装饰石膏GRG(上海海琪建材家居市场店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-02T11:10:03.277+08:00"
+  },
+  {
+    "name": "FLD福卢设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:10:03.341+08:00"
+  },
+  {
+    "name": "大炎演绎设计事务所·住宅·商业",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T11:10:03.367+08:00"
   }
 ]
