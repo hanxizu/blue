@@ -2671,5 +2671,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:24:21.308+08:00"
+  },
+  {
+    "name": "圆通速递普陀齐翱分公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:24:21.350+08:00"
+  },
+  {
+    "name": "顺丰速运(崮山路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:24:21.377+08:00"
+  },
+  {
+    "name": "顺丰速运(真南路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:24:21.484+08:00"
+  },
+  {
+    "name": "顺丰速运(赢华广场店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:24:21.549+08:00"
+  },
+  {
+    "name": "顺丰速运(崮山路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:24:24.458+08:00"
   }
 ]
