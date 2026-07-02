@@ -36511,5 +36511,23 @@
     "colorPixels": 85,
     "colorRatio": "3.70%",
     "timestamp": "2026-07-03T01:45:05.904+08:00"
+  },
+  {
+    "name": "万卡租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:45:11.878+08:00"
+  },
+  {
+    "name": "福州名仕汇租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:45:11.946+08:00"
   }
 ]
