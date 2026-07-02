@@ -31417,5 +31417,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:38:15.496+08:00"
+  },
+  {
+    "name": "顺丰速运(格林小城店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:38:15.547+08:00"
+  },
+  {
+    "name": "顺丰速运(上东国际店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:38:15.607+08:00"
+  },
+  {
+    "name": "深圳市柏威国际科技物流有限公司(东莞分公司)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:38:15.650+08:00"
+  },
+  {
+    "name": "顺丰速运(中惠华庭店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:38:15.693+08:00"
+  },
+  {
+    "name": "广东海之梦物流科技有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:38:18.499+08:00"
   }
 ]
