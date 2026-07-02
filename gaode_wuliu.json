@@ -18052,5 +18052,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:34:23.466+08:00"
+  },
+  {
+    "name": "安顺大件物流(工具托运大件物流跨省物流托运)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:34:26.417+08:00"
+  },
+  {
+    "name": "小路龙航物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:26.460+08:00"
+  },
+  {
+    "name": "龙航美达航空货运有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:34:29.110+08:00"
+  },
+  {
+    "name": "顺丰速运(钱江苑合作店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:34:29.168+08:00"
   }
 ]
