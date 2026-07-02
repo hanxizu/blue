@@ -1042,5 +1042,23 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:17:30.214+08:00"
+  },
+  {
+    "name": "顺丰速运(新光店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:17:34.117+08:00"
+  },
+  {
+    "name": "顺丰速运(成安店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:17:34.152+08:00"
   }
 ]
