@@ -31759,5 +31759,140 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T01:24:11.608+08:00"
+  },
+  {
+    "name": "大赫租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:24:14.409+08:00"
+  },
+  {
+    "name": "暖熊房车出租",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T01:24:17.013+08:00"
+  },
+  {
+    "name": "祥来租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:17.067+08:00"
+  },
+  {
+    "name": "YC汽车租赁",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:19.627+08:00"
+  },
+  {
+    "name": "豹哥租车(郑州总店)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:19.681+08:00"
+  },
+  {
+    "name": "豪车租赁",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:19.730+08:00"
+  },
+  {
+    "name": "丰元租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:22.612+08:00"
+  },
+  {
+    "name": "智通租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:24:22.645+08:00"
+  },
+  {
+    "name": "郑州枫行汽车租赁有限公司",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:24:22.683+08:00"
+  },
+  {
+    "name": "郑州动点汽车租赁有限公司",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:25.485+08:00"
+  },
+  {
+    "name": "郑州大赫汽车婚车租赁有限公司",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T01:24:25.518+08:00"
+  },
+  {
+    "name": "君悦租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:28.727+08:00"
+  },
+  {
+    "name": "凯利出行丰乐路店",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:24:31.504+08:00"
+  },
+  {
+    "name": "芈月租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:24:31.536+08:00"
+  },
+  {
+    "name": "知心好车(知心好车)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:24:31.573+08:00"
   }
 ]
