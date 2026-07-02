@@ -7873,5 +7873,50 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T23:26:25.127+08:00"
+  },
+  {
+    "name": "光速超跑(成都市武侯店)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:31.323+08:00"
+  },
+  {
+    "name": "成都银泰百货服务点",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:31.350+08:00"
+  },
+  {
+    "name": "成都新会展中心送车点-喜相逢租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:37.436+08:00"
+  },
+  {
+    "name": "鸿远租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:37.491+08:00"
+  },
+  {
+    "name": "巨鸿租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:40.019+08:00"
   }
 ]
