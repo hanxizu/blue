@@ -38680,5 +38680,68 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T01:56:34.978+08:00"
+  },
+  {
+    "name": "小桔租买车",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:37.976+08:00"
+  },
+  {
+    "name": "珠海鑫悦租车",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:56:40.847+08:00"
+  },
+  {
+    "name": "神州租车(井岸镇体育馆服务点)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:40.876+08:00"
+  },
+  {
+    "name": "领创租车",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:43.644+08:00"
+  },
+  {
+    "name": "滴滴租车",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:43.684+08:00"
+  },
+  {
+    "name": "珠海市禾顺出租车有限公司",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:46.158+08:00"
+  },
+  {
+    "name": "汇华汽车租赁",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:46.189+08:00"
   }
 ]
