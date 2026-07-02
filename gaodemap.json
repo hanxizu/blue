@@ -22669,5 +22669,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T12:46:55.368+08:00"
+  },
+  {
+    "name": "5D墙艺装饰体验馆(江南装饰城店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:48:43.503+08:00"
+  },
+  {
+    "name": "八益建材市场",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:48:43.536+08:00"
+  },
+  {
+    "name": "美艺装饰行",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:48:46.284+08:00"
   }
 ]
