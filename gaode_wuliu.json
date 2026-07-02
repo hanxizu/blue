@@ -17944,5 +17944,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:33:45.282+08:00"
+  },
+  {
+    "name": "日昱物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:48.540+08:00"
+  },
+  {
+    "name": "智禾信物流意法收货点",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:48.591+08:00"
+  },
+  {
+    "name": "杭州全富物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:33:52.470+08:00"
+  },
+  {
+    "name": "杭州速顺国际货运代理有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 129,
+    "colorRatio": "3.51%",
+    "timestamp": "2026-07-03T01:33:52.522+08:00"
   }
 ]
