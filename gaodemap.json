@@ -13525,5 +13525,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T11:35:10.529+08:00"
+  },
+  {
+    "name": "利发装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:35:26.024+08:00"
+  },
+  {
+    "name": "方正装饰(罗江西里小区店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:35:28.519+08:00"
+  },
+  {
+    "name": "索菲亚衣柜橱柜全屋定制(河东红星家具店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-02T11:35:31.921+08:00"
+  },
+  {
+    "name": "诚意装饰装修",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:35:31.948+08:00"
+  },
+  {
+    "name": "恒旺缘装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:35:31.974+08:00"
+  },
+  {
+    "name": "齐家网装修(天津店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-02T11:35:34.676+08:00"
   }
 ]
