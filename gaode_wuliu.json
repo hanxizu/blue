@@ -21076,5 +21076,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:44:18.989+08:00"
+  },
+  {
+    "name": "开泰物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:44:29.497+08:00"
+  },
+  {
+    "name": "杭州明俊物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:44:29.550+08:00"
+  },
+  {
+    "name": "顺丰速运(龙湖冠寓店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:44:29.602+08:00"
+  },
+  {
+    "name": "中铁快运杭州南站营业部(电瓶车停车场)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:44:29.655+08:00"
+  },
+  {
+    "name": "祥明托运",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:44:29.707+08:00"
   }
 ]
