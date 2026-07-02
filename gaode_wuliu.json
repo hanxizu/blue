@@ -13021,5 +13021,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:10:22.514+08:00"
+  },
+  {
+    "name": "晴天物流(广园东路辅路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:36.465+08:00"
+  },
+  {
+    "name": "中远海运特种运输股份有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:36.517+08:00"
+  },
+  {
+    "name": "顺丰速运(南方茶叶城店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:10:36.570+08:00"
+  },
+  {
+    "name": "顺丰速运(维多利广场快递服务中心)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:10:36.622+08:00"
+  },
+  {
+    "name": "城市配送",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:39.553+08:00"
+  },
+  {
+    "name": "广东新粤物流实业有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:10:39.633+08:00"
+  },
+  {
+    "name": "顺丰速运(逸璟广场店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:10:39.706+08:00"
+  },
+  {
+    "name": "广州格乐国际物流有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:10:39.797+08:00"
   }
 ]
