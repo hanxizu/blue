@@ -16432,5 +16432,77 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:24:05.181+08:00"
+  },
+  {
+    "name": "正大供应链成都物流中心",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:16.787+08:00"
+  },
+  {
+    "name": "卸货区",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:16.834+08:00"
+  },
+  {
+    "name": "神州数码物流园",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:16.882+08:00"
+  },
+  {
+    "name": "立盟供应链(杰邦邻里中心店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:16.930+08:00"
+  },
+  {
+    "name": "跨越速运(物流大道店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:19.370+08:00"
+  },
+  {
+    "name": "成都市知解物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:19.436+08:00"
+  },
+  {
+    "name": "顺丰速运(九龙广场店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T01:24:19.508+08:00"
+  },
+  {
+    "name": "景鸿国际物流(成都)有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:24:19.571+08:00"
   }
 ]
