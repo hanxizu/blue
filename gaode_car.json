@@ -33217,5 +33217,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:29:27.086+08:00"
+  },
+  {
+    "name": "首汽租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:32.926+08:00"
+  },
+  {
+    "name": "骑吧租车(玉兰街店)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:32.958+08:00"
+  },
+  {
+    "name": "帅众出行租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:32.990+08:00"
+  },
+  {
+    "name": "神州租车(宜璞商务温泉酒店自助点)",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:39.405+08:00"
+  },
+  {
+    "name": "度驾租车",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:39.439+08:00"
+  },
+  {
+    "name": "猫超卡汽车租赁",
+    "city": "郑州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:29:42.158+08:00"
   }
 ]
