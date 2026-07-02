@@ -22813,5 +22813,77 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T12:49:26.802+08:00"
+  },
+  {
+    "name": "固佳装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:49:42.089+08:00"
+  },
+  {
+    "name": "顺达装饰(劳动路店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:49:42.129+08:00"
+  },
+  {
+    "name": "天古装饰(梦空间高端设计事务所)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T12:49:45.241+08:00"
+  },
+  {
+    "name": "富瑜装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:49:45.308+08:00"
+  },
+  {
+    "name": "兄弟装饰(创意设计研究院)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:49:47.767+08:00"
+  },
+  {
+    "name": "博皓装饰(巴山店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:49:50.231+08:00"
+  },
+  {
+    "name": "元典装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T12:49:50.260+08:00"
+  },
+  {
+    "name": "兄弟装饰(两江家居文化中心店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:49:50.292+08:00"
   }
 ]
