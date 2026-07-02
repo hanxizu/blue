@@ -22732,5 +22732,104 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T01:57:14.790+08:00"
+  },
+  {
+    "name": "汉来中通总部(黄陂街店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:17.835+08:00"
+  },
+  {
+    "name": "京东物流(武汉长江公铁隧道店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:20.404+08:00"
+  },
+  {
+    "name": "宇鑫物流(汉来广场店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:20.449+08:00"
+  },
+  {
+    "name": "顺丰速运(徐家棚店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:57:24.715+08:00"
+  },
+  {
+    "name": "长航凤凰股份有限公司货运分公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:24.759+08:00"
+  },
+  {
+    "name": "顺丰速运(台北路二村店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:57:24.802+08:00"
+  },
+  {
+    "name": "顺丰速运(滨江天街商圈服务中心)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:57:24.880+08:00"
+  },
+  {
+    "name": "中通快运江汉路公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:27.953+08:00"
+  },
+  {
+    "name": "菜鸟驿站(福星·城市花园店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:28.001+08:00"
+  },
+  {
+    "name": "明财专业宠物托运",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:57:28.068+08:00"
+  },
+  {
+    "name": "武汉惠誉站",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:28.131+08:00"
   }
 ]
