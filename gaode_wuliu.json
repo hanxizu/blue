@@ -11338,5 +11338,59 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T01:03:14.431+08:00"
+  },
+  {
+    "name": "广州越阳国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:03:14.476+08:00"
+  },
+  {
+    "name": "冠森物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:14.520+08:00"
+  },
+  {
+    "name": "良通货运专线",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:14.563+08:00"
+  },
+  {
+    "name": "安迪国际速递物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:17.745+08:00"
+  },
+  {
+    "name": "顺丰速运(同福安心店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:17.788+08:00"
+  },
+  {
+    "name": "广州辉远国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:03:20.486+08:00"
   }
 ]
