@@ -4966,5 +4966,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:39:26.824+08:00"
+  },
+  {
+    "name": "信丰物流(车公庙分公司)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:29.434+08:00"
+  },
+  {
+    "name": "深圳远洋运输股份有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:33.136+08:00"
+  },
+  {
+    "name": "顺丰速运(皇岗新村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:39:33.176+08:00"
   }
 ]
