@@ -25558,5 +25558,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:06:51.045+08:00"
+  },
+  {
+    "name": "武汉鑫义成物流集团",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:03.678+08:00"
+  },
+  {
+    "name": "顺丰速运(金盛店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:07:03.722+08:00"
+  },
+  {
+    "name": "顺心捷达(蓝焰店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:07.372+08:00"
   }
 ]
