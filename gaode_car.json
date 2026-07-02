@@ -14605,5 +14605,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:58:02.022+08:00"
+  },
+  {
+    "name": "誉冉租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:58:10.910+08:00"
+  },
+  {
+    "name": "骏景汽车租赁有限公司",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T23:58:10.946+08:00"
+  },
+  {
+    "name": "帆达租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:58:13.575+08:00"
+  },
+  {
+    "name": "麻豆泰克西安店",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:58:19.230+08:00"
+  },
+  {
+    "name": "前进汽租",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:58:19.308+08:00"
   }
 ]
