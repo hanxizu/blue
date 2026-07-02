@@ -619,5 +619,14 @@
     "colorPixels": 14,
     "colorRatio": "0.38%",
     "timestamp": "2026-07-03T00:16:26.947+08:00"
+  },
+  {
+    "name": "顺丰速运(北京南铁路站)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:16:30.376+08:00"
   }
 ]
