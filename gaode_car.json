@@ -37960,5 +37960,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:52:26.557+08:00"
+  },
+  {
+    "name": "工贸职业技术学院送车点",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:52:33.266+08:00"
+  },
+  {
+    "name": "温州会展中心送车点",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:52:33.320+08:00"
   }
 ]
