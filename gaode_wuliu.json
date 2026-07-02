@@ -31327,5 +31327,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:38:02.110+08:00"
+  },
+  {
+    "name": "保时运通全球物流(深圳)有限公司东莞分公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:38:02.155+08:00"
+  },
+  {
+    "name": "顺丰速运(360产业园店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:38:02.198+08:00"
+  },
+  {
+    "name": "龙兴物流(石龙塘细边一街店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:38:02.241+08:00"
+  },
+  {
+    "name": "东莞市日正国际货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 7,
+    "colorRatio": "0.19%",
+    "timestamp": "2026-07-03T02:38:02.288+08:00"
+  },
+  {
+    "name": "草岭路综合物流中心",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:38:05.392+08:00"
   }
 ]
