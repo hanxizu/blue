@@ -38275,5 +38275,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:07:25.413+08:00"
+  },
+  {
+    "name": "顺丰速运(银河湾紫苑店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:07:28.505+08:00"
+  },
+  {
+    "name": "顺丰速运(雅居乐滨江国际店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T03:07:28.547+08:00"
+  },
+  {
+    "name": "顺丰速运(雅乐居1期)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:07:31.217+08:00"
+  },
+  {
+    "name": "顺丰速运(康桥圣菲店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:07:31.282+08:00"
   }
 ]
