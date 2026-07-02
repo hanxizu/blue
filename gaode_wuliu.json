@@ -4507,5 +4507,32 @@
     "colorPixels": 99,
     "colorRatio": "3.81%",
     "timestamp": "2026-07-03T00:37:50.698+08:00"
+  },
+  {
+    "name": "胖哥物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T00:37:53.698+08:00"
+  },
+  {
+    "name": "安顺·大件物流(跨省物流托运工具托运)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T00:37:53.727+08:00"
+  },
+  {
+    "name": "睿择国际物流(深圳)有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:37:53.769+08:00"
   }
 ]
