@@ -23794,5 +23794,113 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:43:18.495+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(及时用车站)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:24.868+08:00"
+  },
+  {
+    "name": "天津辉达汽车租赁有限公司",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:24.905+08:00"
+  },
+  {
+    "name": "锐驰租车(天津南站网点)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:27.485+08:00"
+  },
+  {
+    "name": "遇见租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:33.208+08:00"
+  },
+  {
+    "name": "哈啰租车(天津津南区咸水沽)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:33.237+08:00"
+  },
+  {
+    "name": "汽车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:33.267+08:00"
+  },
+  {
+    "name": "哈啰租车(鑫源汇通租车)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:39.263+08:00"
+  },
+  {
+    "name": "礼御租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:43:42.246+08:00"
+  },
+  {
+    "name": "乾跃网约车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:42.273+08:00"
+  },
+  {
+    "name": "哈啰租车(轩宇盛通租车天津店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:44.995+08:00"
+  },
+  {
+    "name": "哈啰租车(天津机场点网点)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:47.743+08:00"
+  },
+  {
+    "name": "优悦达网约车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:43:47.830+08:00"
   }
 ]
