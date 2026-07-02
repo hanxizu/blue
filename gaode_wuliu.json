@@ -1888,5 +1888,14 @@
     "colorPixels": 133,
     "colorRatio": "3.62%",
     "timestamp": "2026-07-03T00:20:21.645+08:00"
+  },
+  {
+    "name": "顺丰速运(紫金店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:20:24.444+08:00"
   }
 ]
