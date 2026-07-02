@@ -39040,5 +39040,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T16:34:24.260+08:00"
+  },
+  {
+    "name": "知府装饰",
+    "city": "阜阳市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T16:34:29.371+08:00"
+  },
+  {
+    "name": "居家装饰",
+    "city": "阜阳市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T16:34:29.398+08:00"
+  },
+  {
+    "name": "朱玉章装修团队",
+    "city": "阜阳市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T16:34:31.899+08:00"
+  },
+  {
+    "name": "安徽东筑装饰",
+    "city": "阜阳市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T16:34:37.229+08:00"
+  },
+  {
+    "name": "恒悦装饰(九龙店)",
+    "city": "阜阳市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T16:34:37.282+08:00"
+  },
+  {
+    "name": "逸坤全案装修设计",
+    "city": "阜阳市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T16:34:37.325+08:00"
+  },
+  {
+    "name": "格德装饰",
+    "city": "阜阳市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T16:34:46.938+08:00"
+  },
+  {
+    "name": "庭轩装饰",
+    "city": "阜阳市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-02T16:34:49.443+08:00"
+  },
+  {
+    "name": "蓝钻装饰",
+    "city": "阜阳市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T16:34:49.507+08:00"
   }
 ]
