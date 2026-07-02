@@ -3436,5 +3436,59 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T23:07:45.493+08:00"
+  },
+  {
+    "name": "广东穗安捷救护车转运租赁中心",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:07:50.867+08:00"
+  },
+  {
+    "name": "利龙租车 北站店",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:07:53.388+08:00"
+  },
+  {
+    "name": "深圳市鹏程出租汽车有限公司笔架山车队",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:07:53.415+08:00"
+  },
+  {
+    "name": "粤港澳租车",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:07:56.236+08:00"
+  },
+  {
+    "name": "至尊租赁",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T23:07:58.629+08:00"
+  },
+  {
+    "name": "哈啰租车坂田五和店",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:07:58.662+08:00"
   }
 ]
