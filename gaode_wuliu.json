@@ -17233,5 +17233,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:28:51.871+08:00"
+  },
+  {
+    "name": "成都涵文国际货运代理有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:28:51.926+08:00"
+  },
+  {
+    "name": "顺丰速运(二十四城一期店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:28:51.978+08:00"
+  },
+  {
+    "name": "成都天祥物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:28:52.029+08:00"
+  },
+  {
+    "name": "重庆锦航国际货运有限公司成都分公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:28:54.834+08:00"
+  },
+  {
+    "name": "金娃娃仓储配送中心",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:28:54.913+08:00"
   }
 ]
