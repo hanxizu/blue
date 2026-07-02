@@ -2959,5 +2959,59 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T00:24:43.342+08:00"
+  },
+  {
+    "name": "京东物流(老君堂南路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:24:53.717+08:00"
+  },
+  {
+    "name": "顺丰速运(五道口店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:24:53.757+08:00"
+  },
+  {
+    "name": "金腾玉硕提货处",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:24:57.423+08:00"
+  },
+  {
+    "name": "顺丰速运(五里店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T00:24:57.465+08:00"
+  },
+  {
+    "name": "FedEx(金枫大厦店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:24:57.505+08:00"
+  },
+  {
+    "name": "祥润物流(稻香园北社区店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:24:57.545+08:00"
   }
 ]
