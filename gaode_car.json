@@ -28105,5 +28105,122 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:05:50.329+08:00"
+  },
+  {
+    "name": "车巢租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:05:53.042+08:00"
+  },
+  {
+    "name": "时利和汽车抵押租赁",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:55.946+08:00"
+  },
+  {
+    "name": "登岳租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:55.975+08:00"
+  },
+  {
+    "name": "掌及租车太平街店",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:56.007+08:00"
+  },
+  {
+    "name": "博路出行",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:05:58.857+08:00"
+  },
+  {
+    "name": "哈啰租车(湖南嘻车车汽车租赁有限公司)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:58.893+08:00"
+  },
+  {
+    "name": "滴滴出行鹏顺网约车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:05:58.927+08:00"
+  },
+  {
+    "name": "一点租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:01.912+08:00"
+  },
+  {
+    "name": "陆骏租车(金霞店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:01.942+08:00"
+  },
+  {
+    "name": "思渊汽车租赁有限公司(总部)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:04.473+08:00"
+  },
+  {
+    "name": "神州租车(汽车西站服务点)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:07.577+08:00"
+  },
+  {
+    "name": "航远租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:06:07.606+08:00"
+  },
+  {
+    "name": "湖南湘誉168汽车维修租赁总公司",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:06:07.637+08:00"
   }
 ]
