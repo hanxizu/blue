@@ -39292,5 +39292,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:12:01.921+08:00"
+  },
+  {
+    "name": "管道储运公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:12:05.113+08:00"
+  },
+  {
+    "name": "南京驰久物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 13,
+    "colorRatio": "0.35%",
+    "timestamp": "2026-07-03T03:12:05.159+08:00"
+  },
+  {
+    "name": "顺丰速运(中天铭庭店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:12:07.848+08:00"
   }
 ]
