@@ -131,5 +131,32 @@
     "colorPixels": 216,
     "colorRatio": "5.45%",
     "timestamp": "2026-07-02T08:03:40.747+08:00"
+  },
+  {
+    "name": "被窝整装(CBD旗舰店)",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 647,
+    "colorRatio": "16.34%",
+    "timestamp": "2026-07-02T08:03:40.793+08:00"
+  },
+  {
+    "name": "城外诚宸佳装饰",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 72,
+    "colorRatio": "1.82%",
+    "timestamp": "2026-07-02T08:03:40.833+08:00"
+  },
+  {
+    "name": "今朝装饰北四环旗舰店",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 706,
+    "colorRatio": "17.83%",
+    "timestamp": "2026-07-02T08:03:44.224+08:00"
   }
 ]
