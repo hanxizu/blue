@@ -3859,5 +3859,32 @@
     "colorPixels": 67,
     "colorRatio": "1.82%",
     "timestamp": "2026-07-03T00:29:03.401+08:00"
+  },
+  {
+    "name": "顺丰速运(鲁谷店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:29:06.526+08:00"
+  },
+  {
+    "name": "北京市华联达储运服务中心",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:29:09.138+08:00"
+  },
+  {
+    "name": "北京和记京泰物流有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:29:09.234+08:00"
   }
 ]
