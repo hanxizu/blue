@@ -3571,5 +3571,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T07:25:26.729+08:00"
+  },
+  {
+    "name": "京东物流上海李子园营业部",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:26.771+08:00"
+  },
+  {
+    "name": "顺丰速运(古浪路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:25:26.798+08:00"
+  },
+  {
+    "name": "德邦快递(上海嘉定区绥德路经营分部)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:26.825+08:00"
+  },
+  {
+    "name": "顺丰速运(古浪路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:25:29.363+08:00"
+  },
+  {
+    "name": "德邦快递(上海嘉定区绥德路经营分部)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:29.411+08:00"
+  },
+  {
+    "name": "上海海烟物流发展有限公司(北翟路)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:29.461+08:00"
+  },
+  {
+    "name": "上海诺源物流有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:29.507+08:00"
+  },
+  {
+    "name": "德邦快递(上海嘉定区绥德路经营分部)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:25:32.392+08:00"
   }
 ]
