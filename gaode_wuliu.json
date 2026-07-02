@@ -22372,5 +22372,32 @@
     "colorPixels": 570,
     "colorRatio": "15.52%",
     "timestamp": "2026-07-03T01:56:11.989+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(武汉1店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:56:15.039+08:00"
+  },
+  {
+    "name": "武汉铁路物流中心",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:18.406+08:00"
+  },
+  {
+    "name": "速达·大件物流托运上门取件",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:56:18.438+08:00"
   }
 ]
