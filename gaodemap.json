@@ -11626,5 +11626,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T11:25:09.089+08:00"
+  },
+  {
+    "name": "品墅装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:25:17.981+08:00"
+  },
+  {
+    "name": "亮亮装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:25:18.028+08:00"
   }
 ]
