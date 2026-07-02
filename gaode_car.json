@@ -27412,5 +27412,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:01:36.792+08:00"
+  },
+  {
+    "name": "厦门北通出行(厦门机场高崎店)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:39.421+08:00"
+  },
+  {
+    "name": "驰通租车(厦门机场店)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:41.765+08:00"
+  },
+  {
+    "name": "厦摩机车租赁",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:41.814+08:00"
+  },
+  {
+    "name": "沃享租车(厦门店)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:01:41.845+08:00"
+  },
+  {
+    "name": "厦门店",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 368,
+    "colorRatio": "16.03%",
+    "timestamp": "2026-07-03T01:01:47.640+08:00"
+  },
+  {
+    "name": "神州租车(坂尚地铁站服务点)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:50.094+08:00"
+  },
+  {
+    "name": "一嗨租车(厦门北站店)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:50.128+08:00"
+  },
+  {
+    "name": "佳亿通租车",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:01:53.557+08:00"
+  },
+  {
+    "name": "出租汽车司机驿站(绿牌新天地店)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:53.587+08:00"
+  },
+  {
+    "name": "神州租车(杏林华铃花园服务点)",
+    "city": "厦门市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:01:53.619+08:00"
   }
 ]
