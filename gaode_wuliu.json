@@ -37438,5 +37438,32 @@
     "colorPixels": 23,
     "colorRatio": "0.63%",
     "timestamp": "2026-07-03T03:04:18.894+08:00"
+  },
+  {
+    "name": "江苏胜翔集运物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:04:21.441+08:00"
+  },
+  {
+    "name": "顺丰速运(万江共和新城店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T03:04:21.497+08:00"
+  },
+  {
+    "name": "顺丰速运(国金中心快递服务中心)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:04:21.557+08:00"
   }
 ]
