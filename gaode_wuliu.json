@@ -33370,5 +33370,59 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:44:05.124+08:00"
+  },
+  {
+    "name": "兔喜快递超市(花园城店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:44:05.168+08:00"
+  },
+  {
+    "name": "东莞市启硕物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:44:05.239+08:00"
+  },
+  {
+    "name": "德邦快递(东莞东城街道牛山经营分部)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:44:05.282+08:00"
+  },
+  {
+    "name": "东莞市泽一国际货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 70,
+    "colorRatio": "1.91%",
+    "timestamp": "2026-07-03T02:44:05.325+08:00"
+  },
+  {
+    "name": "广东飞象国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:44:08.372+08:00"
+  },
+  {
+    "name": "昌嘉控股集团有限公司(工厂物流中心)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 128,
+    "colorRatio": "3.49%",
+    "timestamp": "2026-07-03T02:44:08.414+08:00"
   }
 ]
