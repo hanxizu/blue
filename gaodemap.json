@@ -14524,5 +14524,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T11:53:23.239+08:00"
+  },
+  {
+    "name": "安徽方泽装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T11:53:26.401+08:00"
+  },
+  {
+    "name": "合肥有米室内设计有限公司",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:53:29.599+08:00"
+  },
+  {
+    "name": "志邦全屋定制(红旗店)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T11:53:29.637+08:00"
+  },
+  {
+    "name": "利达装饰集团",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:53:29.674+08:00"
+  },
+  {
+    "name": "索菲亚全屋定制·装修设计·衣柜橱柜家具·合肥店",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-02T11:53:29.708+08:00"
+  },
+  {
+    "name": "美特佳装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:53:32.227+08:00"
   }
 ]
