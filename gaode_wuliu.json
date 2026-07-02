@@ -26107,5 +26107,59 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:09:24.559+08:00"
+  },
+  {
+    "name": "卓尔云仓三号物流园8号仓库",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:09:38.432+08:00"
+  },
+  {
+    "name": "美乐维低温物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:09:38.484+08:00"
+  },
+  {
+    "name": "卓尔云仓三号物流园7栋",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:09:42.250+08:00"
+  },
+  {
+    "name": "安能物流(陶家岭医药物流园金鼎药业住宅楼店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:09:42.305+08:00"
+  },
+  {
+    "name": "鑫中兴物流(汉口北南一路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:09:42.359+08:00"
+  },
+  {
+    "name": "荣诚物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:09:42.421+08:00"
   }
 ]
