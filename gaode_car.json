@@ -574,5 +574,32 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-02T22:54:37.594+08:00"
+  },
+  {
+    "name": "携程租车·北京龙凤出行(光彩路店)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:54:40.652+08:00"
+  },
+  {
+    "name": "北京雪球汽车服务有限公司",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T22:54:40.683+08:00"
+  },
+  {
+    "name": "艾米租车",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T22:54:43.148+08:00"
   }
 ]
