@@ -14506,5 +14506,95 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:16:48.429+08:00"
+  },
+  {
+    "name": "成都小乌龟运输有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:51.679+08:00"
+  },
+  {
+    "name": "成都建国货运有限公司(成都华丰食品城店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:51.722+08:00"
+  },
+  {
+    "name": "顺丰速运(新怡花园店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:16:54.493+08:00"
+  },
+  {
+    "name": "顺丰速运(华丰店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:16:54.573+08:00"
+  },
+  {
+    "name": "鑫意诚货运有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:16:54.622+08:00"
+  },
+  {
+    "name": "顺丰速运(中德英伦联邦店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:16:54.671+08:00"
+  },
+  {
+    "name": "成都市万马物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:01.782+08:00"
+  },
+  {
+    "name": "顺丰速运(慕和南道小区店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:17:01.826+08:00"
+  },
+  {
+    "name": "顺丰速运(新怡华庭店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:17:04.836+08:00"
+  },
+  {
+    "name": "成都中佰物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:04.879+08:00"
   }
 ]
