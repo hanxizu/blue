@@ -18394,5 +18394,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:35:26.529+08:00"
+  },
+  {
+    "name": "浙江海源国际物流杭州分公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "2.78%",
+    "timestamp": "2026-07-03T01:35:26.576+08:00"
+  },
+  {
+    "name": "顺丰速运(王马社区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:29.361+08:00"
+  },
+  {
+    "name": "顺丰速运(鸿宁路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:33.786+08:00"
+  },
+  {
+    "name": "传化物流产业园",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:33.830+08:00"
+  },
+  {
+    "name": "杭州东市运输有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:33.873+08:00"
+  },
+  {
+    "name": "融辉物流+光大物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:35:33.942+08:00"
   }
 ]
