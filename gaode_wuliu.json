@@ -7657,5 +7657,14 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:48:24.063+08:00"
+  },
+  {
+    "name": "京东物流(深圳水径站)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:48:35.705+08:00"
   }
 ]
