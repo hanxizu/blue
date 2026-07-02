@@ -979,5 +979,41 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:17:24.046+08:00"
+  },
+  {
+    "name": "海淀小哥城市驿站(太平湖社区商业中心果蔬超市)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:17:24.110+08:00"
+  },
+  {
+    "name": "顺丰速运(赵公口店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:17:24.145+08:00"
+  },
+  {
+    "name": "中铁快运(北京白纸坊营业部)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:17:24.179+08:00"
+  },
+  {
+    "name": "顺丰速运(SKP商场快递服务中心)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T00:17:24.215+08:00"
   }
 ]
