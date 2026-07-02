@@ -2401,5 +2401,32 @@
     "colorPixels": 761,
     "colorRatio": "19.22%",
     "timestamp": "2026-07-02T09:01:41.886+08:00"
+  },
+  {
+    "name": "今朝装饰(玉泉营居然之家店)",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 72,
+    "colorRatio": "1.82%",
+    "timestamp": "2026-07-02T09:01:46.287+08:00"
+  },
+  {
+    "name": "盛源装饰",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T09:01:46.339+08:00"
+  },
+  {
+    "name": "北京蓝鲸装饰设计有限公司",
+    "city": "中宁县",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 72,
+    "colorRatio": "1.82%",
+    "timestamp": "2026-07-02T09:01:51.578+08:00"
   }
 ]
