@@ -36043,5 +36043,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:00:03.373+08:00"
+  },
+  {
+    "name": "中铁快运(南京站营业部)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:06.012+08:00"
+  },
+  {
+    "name": "顺丰速运(龙王庙店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:00:06.120+08:00"
+  },
+  {
+    "name": "顺丰速运(南师大店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:00:10.208+08:00"
+  },
+  {
+    "name": "速德物流(东宫大厦店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:00:10.265+08:00"
   }
 ]
