@@ -24892,5 +24892,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:03:57.957+08:00"
+  },
+  {
+    "name": "菜鸟驿站(武汉十里景秀2期3号门店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:04:08.143+08:00"
+  },
+  {
+    "name": "顺丰速运(十里景秀店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:04:08.187+08:00"
+  },
+  {
+    "name": "顺丰速运(锦绣汉江四区店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:04:08.265+08:00"
+  },
+  {
+    "name": "顺丰速运(飘轩工业园店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T02:04:08.308+08:00"
   }
 ]
