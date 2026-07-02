@@ -39328,5 +39328,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:00:36.241+08:00"
+  },
+  {
+    "name": "百里租车",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:39.230+08:00"
+  },
+  {
+    "name": "巨辰汽车租赁",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:39.262+08:00"
+  },
+  {
+    "name": "嘉善县小恺租车-婚车租赁",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T02:00:41.780+08:00"
+  },
+  {
+    "name": "肯威尼网约车服务中心",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:44.725+08:00"
+  },
+  {
+    "name": "神州租车(嘉善宜庭宾馆服务点)",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:47.324+08:00"
+  },
+  {
+    "name": "绍兴市神龙汽车租赁旅游有限公司",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:47.352+08:00"
   }
 ]
