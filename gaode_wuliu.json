@@ -37303,5 +37303,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:03:52.486+08:00"
+  },
+  {
+    "name": "顺丰速运(金马路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:03:55.194+08:00"
+  },
+  {
+    "name": "重庆致通物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 80,
+    "colorRatio": "2.18%",
+    "timestamp": "2026-07-03T03:03:55.290+08:00"
   }
 ]
