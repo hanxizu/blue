@@ -25864,5 +25864,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:08:21.792+08:00"
+  },
+  {
+    "name": "顺丰速运(盛荟三期外包店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:08:21.868+08:00"
+  },
+  {
+    "name": "众横物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:08:21.931+08:00"
+  },
+  {
+    "name": "大唐物流(长云路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:08:21.991+08:00"
+  },
+  {
+    "name": "壹米滴答大道物流(长丰大道店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 10,
+    "colorRatio": "0.27%",
+    "timestamp": "2026-07-03T02:08:22.039+08:00"
   }
 ]
