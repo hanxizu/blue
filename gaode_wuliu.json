@@ -24316,5 +24316,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:01:44.894+08:00"
+  },
+  {
+    "name": "武汉汉欧国际物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:51.223+08:00"
+  },
+  {
+    "name": "中邮物流(白沙洲大道店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:51.265+08:00"
+  },
+  {
+    "name": "顺丰速运(新城丽景B区店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:01:54.506+08:00"
+  },
+  {
+    "name": "上海际华物流有限公司武汉分公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 108,
+    "colorRatio": "2.94%",
+    "timestamp": "2026-07-03T02:01:54.550+08:00"
+  },
+  {
+    "name": "顺丰速运(滨湖名邸店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:01:57.541+08:00"
+  },
+  {
+    "name": "幸福垸物流园",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.06%",
+    "timestamp": "2026-07-03T02:01:57.587+08:00"
   }
 ]
