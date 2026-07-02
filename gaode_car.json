@@ -22678,5 +22678,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:39:16.794+08:00"
+  },
+  {
+    "name": "天津京顺通汽车租赁有限公司",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:19.311+08:00"
+  },
+  {
+    "name": "天津易成科技有限公司(易城网约车服务中心)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:22.391+08:00"
+  },
+  {
+    "name": "德盛豪车租赁(津南店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:22.431+08:00"
+  },
+  {
+    "name": "马达租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:39:24.912+08:00"
+  },
+  {
+    "name": "哈哈租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:28.157+08:00"
+  },
+  {
+    "name": "天津优仕达网约车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T00:39:28.194+08:00"
+  },
+  {
+    "name": "金益华运业",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:30.935+08:00"
+  },
+  {
+    "name": "天津铨圣越商贸有限公司",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:33.952+08:00"
+  },
+  {
+    "name": "八八租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:36.778+08:00"
+  },
+  {
+    "name": "一嗨租车天士力地铁站便捷点",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:36.808+08:00"
   }
 ]
