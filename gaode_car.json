@@ -35422,5 +35422,86 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T01:41:01.187+08:00"
+  },
+  {
+    "name": "航锋租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:41:01.217+08:00"
+  },
+  {
+    "name": "福路租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:41:04.137+08:00"
+  },
+  {
+    "name": "福州叉车吊车升降车租赁",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T01:41:04.175+08:00"
+  },
+  {
+    "name": "峻鑫租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:41:06.784+08:00"
+  },
+  {
+    "name": "品诚租车(马榕店)",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:09.495+08:00"
+  },
+  {
+    "name": "一明租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:09.531+08:00"
+  },
+  {
+    "name": "百车汇租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:41:12.402+08:00"
+  },
+  {
+    "name": "乾程租车",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:15.481+08:00"
+  },
+  {
+    "name": "一路行汽车租赁行",
+    "city": "福州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:15.523+08:00"
   }
 ]
