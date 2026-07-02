@@ -36484,5 +36484,50 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T03:01:11.159+08:00"
+  },
+  {
+    "name": "顺丰速运(蓝旗街店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:01:18.180+08:00"
+  },
+  {
+    "name": "雨乐物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:01:18.223+08:00"
+  },
+  {
+    "name": "中外运化工国际物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:01:18.267+08:00"
+  },
+  {
+    "name": "菜鸟驿站(芳草园店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:01:18.310+08:00"
+  },
+  {
+    "name": "顺丰速运(陵村小区店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:01:20.991+08:00"
   }
 ]
