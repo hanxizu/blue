@@ -40993,5 +40993,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:22:53.689+08:00"
+  },
+  {
+    "name": "顺丰速运(新华路店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:22:59.922+08:00"
+  },
+  {
+    "name": "顺丰速运(哪吒小镇店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:22:59.966+08:00"
+  },
+  {
+    "name": "万达搬家运输(文宫里店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:23:03.630+08:00"
+  },
+  {
+    "name": "中国物流(七纬路店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:23:03.674+08:00"
+  },
+  {
+    "name": "天津惠禾国际货运代理有限责任公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:23:03.717+08:00"
+  },
+  {
+    "name": "森航物流(万隆中心大厦-B座店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:23:03.761+08:00"
+  },
+  {
+    "name": "天津静升物流有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:23:03.804+08:00"
   }
 ]
