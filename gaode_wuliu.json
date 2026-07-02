@@ -26755,5 +26755,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:13:57.683+08:00"
+  },
+  {
+    "name": "陕西省物流集团商储物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:14:00.755+08:00"
+  },
+  {
+    "name": "陕西省物流集团(长和国际B座东)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:14:00.812+08:00"
+  },
+  {
+    "name": "陕西商储物流凤城七路物流园-AX库",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:14:03.715+08:00"
+  },
+  {
+    "name": "顺丰速运(智慧国际店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:14:03.758+08:00"
   }
 ]
