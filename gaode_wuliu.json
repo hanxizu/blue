@@ -31462,5 +31462,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:38:18.499+08:00"
+  },
+  {
+    "name": "顺丰速运(二环五巷一号店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:38:22.104+08:00"
+  },
+  {
+    "name": "正利物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 12,
+    "colorRatio": "0.33%",
+    "timestamp": "2026-07-03T02:38:22.146+08:00"
+  },
+  {
+    "name": "利康配送有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:38:25.092+08:00"
+  },
+  {
+    "name": "顺丰速运(春天路犬眠岭店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:38:25.134+08:00"
   }
 ]
