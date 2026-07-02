@@ -36835,5 +36835,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:48:13.154+08:00"
+  },
+  {
+    "name": "瓯顺租车(总公司)",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:48:16.143+08:00"
+  },
+  {
+    "name": "白鹿租车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:48:16.203+08:00"
+  },
+  {
+    "name": "温州市博爱出租汽车服务有限公司",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:48:21.980+08:00"
+  },
+  {
+    "name": "易鑫豪车租赁(滨海店)",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:48:22.013+08:00"
   }
 ]
