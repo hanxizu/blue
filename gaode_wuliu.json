@@ -13237,5 +13237,77 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T01:11:26.925+08:00"
+  },
+  {
+    "name": "文越物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:41.047+08:00"
+  },
+  {
+    "name": "源诚成物流(中大点)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:41.093+08:00"
+  },
+  {
+    "name": "桂粤008速运专线",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:44.832+08:00"
+  },
+  {
+    "name": "理智物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:44.877+08:00"
+  },
+  {
+    "name": "顺丰速运(越秀金融快递服务中心)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:11:44.921+08:00"
+  },
+  {
+    "name": "德迅(中国)货运代理有限公司(广州分公司)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:44.964+08:00"
+  },
+  {
+    "name": "勇创物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 95,
+    "colorRatio": "2.59%",
+    "timestamp": "2026-07-03T01:11:45.010+08:00"
+  },
+  {
+    "name": "顺昌中港物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:47.695+08:00"
   }
 ]
