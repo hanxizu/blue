@@ -22678,5 +22678,59 @@
     "colorPixels": 560,
     "colorRatio": "15.25%",
     "timestamp": "2026-07-03T01:57:05.416+08:00"
+  },
+  {
+    "name": "顺丰速运(武车四村店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:57:08.087+08:00"
+  },
+  {
+    "name": "武汉中远海运集装箱运输有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:57:08.136+08:00"
+  },
+  {
+    "name": "湖北省供销仓储运输总公司(九运大厦店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:11.865+08:00"
+  },
+  {
+    "name": "金昌物流(前进二路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:11.936+08:00"
+  },
+  {
+    "name": "顺丰速运(中华城B3栋店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:57:14.746+08:00"
+  },
+  {
+    "name": "壹米滴答.大道物流(前进营业部)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:57:14.790+08:00"
   }
 ]
