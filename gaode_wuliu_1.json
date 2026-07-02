@@ -1267,5 +1267,77 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T07:22:32.670+08:00"
+  },
+  {
+    "name": "德邦物流",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:32.724+08:00"
+  },
+  {
+    "name": "黄匣子智能迷你仓(北外滩金茂中心店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T07:22:32.750+08:00"
+  },
+  {
+    "name": "江苏世航国际货运代理股份有限公司上海分公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:32.776+08:00"
+  },
+  {
+    "name": "德邦物流",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:35.306+08:00"
+  },
+  {
+    "name": "黄匣子智能迷你仓(北外滩金茂中心店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T07:22:35.331+08:00"
+  },
+  {
+    "name": "江苏世航国际货运代理股份有限公司上海分公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:35.361+08:00"
+  },
+  {
+    "name": "顺丰速运(康定店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T07:22:35.385+08:00"
+  },
+  {
+    "name": "江苏世航国际货运代理股份有限公司上海分公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:22:38.151+08:00"
   }
 ]
