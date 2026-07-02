@@ -40372,5 +40372,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:21:24.629+08:00"
+  },
+  {
+    "name": "亿诚达物流",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:21:24.686+08:00"
+  },
+  {
+    "name": "粤达物流",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:21:28.468+08:00"
+  },
+  {
+    "name": "顺利时代物流(温州国际商贸城店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:21:28.513+08:00"
+  },
+  {
+    "name": "海硕国际货运",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:21:28.555+08:00"
+  },
+  {
+    "name": "上海得斯威国际货运有限公司天津分公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:21:28.599+08:00"
+  },
+  {
+    "name": "天津启德物流有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 9,
+    "colorRatio": "0.25%",
+    "timestamp": "2026-07-03T03:21:28.643+08:00"
   }
 ]
