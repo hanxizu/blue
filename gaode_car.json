@@ -15118,5 +15118,149 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T00:01:29.769+08:00"
+  },
+  {
+    "name": "云航租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:01:32.448+08:00"
+  },
+  {
+    "name": "国渝租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:01:32.480+08:00"
+  },
+  {
+    "name": "重庆鑫永鼎租车飞租V店",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:01:35.114+08:00"
+  },
+  {
+    "name": "天空出行租电动车(九街店)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:01:38.108+08:00"
+  },
+  {
+    "name": "晨乐租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:01:38.141+08:00"
+  },
+  {
+    "name": "货拉拉租车买车(九龙坡官方直营店)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:01:40.802+08:00"
+  },
+  {
+    "name": "神州租车(大坪龙湖时代天街自助点)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:01:43.841+08:00"
+  },
+  {
+    "name": "新叁城租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:01:43.874+08:00"
+  },
+  {
+    "name": "仟盛租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:01:46.626+08:00"
+  },
+  {
+    "name": "柒月租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:01:50.255+08:00"
+  },
+  {
+    "name": "荣归租车(北站店)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:01:50.300+08:00"
+  },
+  {
+    "name": "汶泰租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:01:50.330+08:00"
+  },
+  {
+    "name": "珀莱租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:01:53.279+08:00"
+  },
+  {
+    "name": "全程租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:01:56.311+08:00"
+  },
+  {
+    "name": "明双汽车服务有限公司(江北分公司)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T00:01:56.366+08:00"
+  },
+  {
+    "name": "重庆国信租车(金源店)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:01:59.158+08:00"
   }
 ]
