@@ -8935,5 +8935,41 @@
     "colorPixels": 562,
     "colorRatio": "15.31%",
     "timestamp": "2026-07-03T00:55:02.915+08:00"
+  },
+  {
+    "name": "上海利进国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:02.960+08:00"
+  },
+  {
+    "name": "安能物流(仓前大厦店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:03.002+08:00"
+  },
+  {
+    "name": "顺丰速运(云路街店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:55:03.045+08:00"
+  },
+  {
+    "name": "安能物流(黄埔店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "3.35%",
+    "timestamp": "2026-07-03T00:55:09.353+08:00"
   }
 ]
