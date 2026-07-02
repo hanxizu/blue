@@ -32155,5 +32155,23 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T02:40:12.357+08:00"
+  },
+  {
+    "name": "安能物流(莞长路店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:40:15.339+08:00"
+  },
+  {
+    "name": "凯越物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:40:22.719+08:00"
   }
 ]
