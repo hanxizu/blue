@@ -39166,5 +39166,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:00:04.497+08:00"
+  },
+  {
+    "name": "深澜汽车租赁(新塍一店)",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:07.581+08:00"
+  },
+  {
+    "name": "嘉兴三生石婚车租赁(嘉善店)",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:07.613+08:00"
+  },
+  {
+    "name": "绿行新能源汽车租售",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:10.290+08:00"
+  },
+  {
+    "name": "嘉程汽车租赁",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:13.175+08:00"
+  },
+  {
+    "name": "桐乡市阿彪汽车服务有限公司",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:13.209+08:00"
+  },
+  {
+    "name": "自由行(浙江嘉兴)汽车租赁服务有限公司",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:16.535+08:00"
+  },
+  {
+    "name": "红日二手车租车",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:19.348+08:00"
+  },
+  {
+    "name": "叮当豪车租赁",
+    "city": "嘉兴市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T02:00:19.385+08:00"
   }
 ]
