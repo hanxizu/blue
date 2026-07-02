@@ -2752,5 +2752,32 @@
     "colorPixels": 165,
     "colorRatio": "4.49%",
     "timestamp": "2026-07-03T00:23:54.625+08:00"
+  },
+  {
+    "name": "北京旭龙伟业物流有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:24:04.537+08:00"
+  },
+  {
+    "name": "京豫隆物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:24:04.577+08:00"
+  },
+  {
+    "name": "顺丰速运(电子城店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:24:08.264+08:00"
   }
 ]
