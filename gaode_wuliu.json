@@ -8512,5 +8512,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:52:06.403+08:00"
+  },
+  {
+    "name": "英威特国际物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:52:09.573+08:00"
+  },
+  {
+    "name": "深圳市中亚迅捷货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:52:12.602+08:00"
+  },
+  {
+    "name": "江闸国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:52:12.653+08:00"
+  },
+  {
+    "name": "佳美达国际物流坂田仓",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:52:15.330+08:00"
+  },
+  {
+    "name": "旗云国际-澳洲专线坂田仓",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 119,
+    "colorRatio": "3.24%",
+    "timestamp": "2026-07-03T00:52:15.390+08:00"
+  },
+  {
+    "name": "环世通国际物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:52:18.050+08:00"
   }
 ]
