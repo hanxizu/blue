@@ -16567,5 +16567,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:24:40.774+08:00"
+  },
+  {
+    "name": "金九物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:55.450+08:00"
+  },
+  {
+    "name": "余氏东风(西航港门市)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:24:55.502+08:00"
+  },
+  {
+    "name": "四川上驰物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:24:58.500+08:00"
+  },
+  {
+    "name": "金桥物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:58.546+08:00"
+  },
+  {
+    "name": "德邦快递(一环路东店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:25:01.371+08:00"
+  },
+  {
+    "name": "顺丰速运(蓝光诺丁山店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:25:01.424+08:00"
+  },
+  {
+    "name": "顺丰速运(西派城B区店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 490,
+    "colorRatio": "13.34%",
+    "timestamp": "2026-07-03T01:25:01.488+08:00"
+  },
+  {
+    "name": "京东物流(尚都服饰广场店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:25:01.537+08:00"
   }
 ]
