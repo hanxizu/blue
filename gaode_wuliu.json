@@ -38635,5 +38635,23 @@
     "colorPixels": 51,
     "colorRatio": "1.39%",
     "timestamp": "2026-07-03T03:08:53.243+08:00"
+  },
+  {
+    "name": "望福物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:08:56.044+08:00"
+  },
+  {
+    "name": "望达物流(天泉路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:09:07.347+08:00"
   }
 ]
