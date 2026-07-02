@@ -36907,5 +36907,68 @@
     "colorPixels": 491,
     "colorRatio": "13.37%",
     "timestamp": "2026-07-03T03:02:31.282+08:00"
+  },
+  {
+    "name": "妈妈驿站(银城街店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:02:38.421+08:00"
+  },
+  {
+    "name": "顺丰速运(二板桥店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:02:38.464+08:00"
+  },
+  {
+    "name": "顺丰速运(君临紫金商业街店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T03:02:42.312+08:00"
+  },
+  {
+    "name": "顺丰速运(茶博园店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:02:42.355+08:00"
+  },
+  {
+    "name": "江苏探路者国际物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:02:42.398+08:00"
+  },
+  {
+    "name": "顺丰速运(象山店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:02:42.442+08:00"
+  },
+  {
+    "name": "顺丰速运(龙苑新寓店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:02:42.486+08:00"
   }
 ]
