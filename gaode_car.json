@@ -40156,5 +40156,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T02:04:56.700+08:00"
+  },
+  {
+    "name": "运河租车(武进店)",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:04:59.232+08:00"
+  },
+  {
+    "name": "冰河租车(九洲新世界广场店)",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:01.921+08:00"
+  },
+  {
+    "name": "旭军汽车租赁",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:01.955+08:00"
+  },
+  {
+    "name": "明鑫典当",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T02:05:02.011+08:00"
+  },
+  {
+    "name": "宝铺租车",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:04.766+08:00"
+  },
+  {
+    "name": "货拉拉常州武进旗舰店(司机加入.租车买车)",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:04.806+08:00"
+  },
+  {
+    "name": "客运汽车租赁有限公司",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:04.847+08:00"
   }
 ]
