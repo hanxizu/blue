@@ -28123,5 +28123,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:18:35.037+08:00"
+  },
+  {
+    "name": "金三环物流(北三环大明宫店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:18:38.524+08:00"
+  },
+  {
+    "name": "宝路通物流(武德路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 14,
+    "colorRatio": "0.38%",
+    "timestamp": "2026-07-03T02:18:38.568+08:00"
+  },
+  {
+    "name": "陕西富达物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:18:41.399+08:00"
   }
 ]
