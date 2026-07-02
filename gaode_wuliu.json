@@ -22138,5 +22138,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:49:48.593+08:00"
+  },
+  {
+    "name": "顺丰速运(永裕大厦公寓店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:49:51.566+08:00"
+  },
+  {
+    "name": "顺丰速运(杨家牌楼店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:49:51.618+08:00"
+  },
+  {
+    "name": "驿收发繁华里店",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:49:54.594+08:00"
+  },
+  {
+    "name": "顺丰速运(枫香路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:49:54.687+08:00"
   }
 ]
