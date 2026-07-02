@@ -22246,5 +22246,14 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:50:21.642+08:00"
+  },
+  {
+    "name": "杭州龙通物流园",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:50:39.664+08:00"
   }
 ]
