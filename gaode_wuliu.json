@@ -3634,5 +3634,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:27:54.866+08:00"
+  },
+  {
+    "name": "北京东方翔远储运有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:54.907+08:00"
+  },
+  {
+    "name": "顺丰速运(学院路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 119,
+    "colorRatio": "3.24%",
+    "timestamp": "2026-07-03T00:27:54.948+08:00"
+  },
+  {
+    "name": "北京万德海斯科贸有限公司物流仓储中心",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:54.988+08:00"
+  },
+  {
+    "name": "京东物流(北京亦庄站)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:27:57.526+08:00"
   }
 ]
