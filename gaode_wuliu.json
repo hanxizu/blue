@@ -21121,5 +21121,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:44:29.707+08:00"
+  },
+  {
+    "name": "杭州宏欣运输有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:44:32.727+08:00"
+  },
+  {
+    "name": "海通托运",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:44:35.503+08:00"
+  },
+  {
+    "name": "萧山祥辉托运部(太平洋食品广场店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:44:35.584+08:00"
   }
 ]
