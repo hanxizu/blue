@@ -17062,5 +17062,77 @@
     "colorPixels": 119,
     "colorRatio": "3.24%",
     "timestamp": "2026-07-03T01:27:34.596+08:00"
+  },
+  {
+    "name": "重药集团四川器械物流中心",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:27:54.697+08:00"
+  },
+  {
+    "name": "成都易速物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:27:58.696+08:00"
+  },
+  {
+    "name": "成都中储物流通润分库",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:27:58.747+08:00"
+  },
+  {
+    "name": "成都运诺冷链物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:27:58.798+08:00"
+  },
+  {
+    "name": "四川赤兔马物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:27:58.849+08:00"
+  },
+  {
+    "name": "中储成都物流中心",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:28:01.606+08:00"
+  },
+  {
+    "name": "京东物流(布后街店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:28:01.674+08:00"
+  },
+  {
+    "name": "会缘汽车汽配物流中心(双华路三段)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:28:01.743+08:00"
   }
 ]
