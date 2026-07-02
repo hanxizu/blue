@@ -18484,5 +18484,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:35:37.196+08:00"
+  },
+  {
+    "name": "远城物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:41.082+08:00"
+  },
+  {
+    "name": "顺丰速运(新塘家园东区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:35:41.125+08:00"
+  },
+  {
+    "name": "安能物流(杭州新东升店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "3.35%",
+    "timestamp": "2026-07-03T01:35:44.225+08:00"
+  },
+  {
+    "name": "晨光文具杭州配送中心(艮山西路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:44.292+08:00"
+  },
+  {
+    "name": "顺丰速运(海潮雅园店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:47.123+08:00"
+  },
+  {
+    "name": "尚小驿锦和补给站",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:35:47.183+08:00"
+  },
+  {
+    "name": "顺丰速运(王马巷店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:47.250+08:00"
+  },
+  {
+    "name": "顺丰速运(滨江华家池店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:47.351+08:00"
+  },
+  {
+    "name": "顺丰速运(江河汇流店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:35:51.275+08:00"
   }
 ]
