@@ -20293,5 +20293,32 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:41:04.243+08:00"
+  },
+  {
+    "name": "顺丰速运(贺田尚城店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:41:07.156+08:00"
+  },
+  {
+    "name": "丰沃达医药物流(杭州)有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:41:09.927+08:00"
+  },
+  {
+    "name": "顺丰速运(八堡店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:41:10.018+08:00"
   }
 ]
