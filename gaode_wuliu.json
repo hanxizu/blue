@@ -23929,5 +23929,59 @@
     "colorPixels": 107,
     "colorRatio": "2.91%",
     "timestamp": "2026-07-03T02:00:33.572+08:00"
+  },
+  {
+    "name": "顺丰速运(汉口店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:00:36.035+08:00"
+  },
+  {
+    "name": "顺丰速运(幽兰苑店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:00:39.451+08:00"
+  },
+  {
+    "name": "顺丰速运(汉口花园四期店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:43.142+08:00"
+  },
+  {
+    "name": "华纳物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:00:43.186+08:00"
+  },
+  {
+    "name": "顺丰速运(常二63栋店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 490,
+    "colorRatio": "13.34%",
+    "timestamp": "2026-07-03T02:00:43.230+08:00"
+  },
+  {
+    "name": "壹米滴答·大道物流徐东营业部",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:00:43.274+08:00"
   }
 ]
