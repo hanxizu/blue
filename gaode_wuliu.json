@@ -14119,5 +14119,86 @@
     "colorPixels": 125,
     "colorRatio": "3.40%",
     "timestamp": "2026-07-03T01:15:25.894+08:00"
+  },
+  {
+    "name": "菜鸟驿站(碧桂园·沁云里店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:28.978+08:00"
+  },
+  {
+    "name": "顺丰速运(桃李园店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 666,
+    "colorRatio": "18.14%",
+    "timestamp": "2026-07-03T01:15:29.039+08:00"
+  },
+  {
+    "name": "顺丰速运(翔宇花园店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:15:31.658+08:00"
+  },
+  {
+    "name": "顺丰速运(育才竹岛店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T01:15:38.272+08:00"
+  },
+  {
+    "name": "顺丰速运(伏龙北巷店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:15:41.844+08:00"
+  },
+  {
+    "name": "成都好友缘大洋运业有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:15:41.888+08:00"
+  },
+  {
+    "name": "双阳运业",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:41.931+08:00"
+  },
+  {
+    "name": "安能物流(成都华丰食品城店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:15:41.976+08:00"
+  },
+  {
+    "name": "荆州安恒物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 27,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:15:42.019+08:00"
   }
 ]
