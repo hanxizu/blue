@@ -6190,5 +6190,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:42:55.842+08:00"
+  },
+  {
+    "name": "力天物流(金茂礼都店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:42:58.532+08:00"
+  },
+  {
+    "name": "递易达国际物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:42:58.586+08:00"
+  },
+  {
+    "name": "华强北全球电子物流园",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 110,
+    "colorRatio": "3.00%",
+    "timestamp": "2026-07-03T00:42:58.640+08:00"
   }
 ]
