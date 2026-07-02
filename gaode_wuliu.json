@@ -30706,5 +30706,32 @@
     "colorPixels": 539,
     "colorRatio": "14.68%",
     "timestamp": "2026-07-03T02:29:50.658+08:00"
+  },
+  {
+    "name": "陕西富达物流(国亨店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:29:53.341+08:00"
+  },
+  {
+    "name": "明亨物流(国亨营业部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:29:53.418+08:00"
+  },
+  {
+    "name": "百腾物流(北大街店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:29:53.504+08:00"
   }
 ]
