@@ -38041,5 +38041,59 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T01:54:13.360+08:00"
+  },
+  {
+    "name": "星际租车(珠海富华里店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:54:34.745+08:00"
+  },
+  {
+    "name": "鸿煊租车",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:54:37.612+08:00"
+  },
+  {
+    "name": "吊车出租",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T01:54:40.499+08:00"
+  },
+  {
+    "name": "珠海市龙飞汽车租赁有限公司",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T01:54:40.540+08:00"
+  },
+  {
+    "name": "珠海市金力汽车租赁有限公司",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:54:40.580+08:00"
+  },
+  {
+    "name": "神州租车(景峰广场自助点)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:54:40.615+08:00"
   }
 ]
