@@ -23407,5 +23407,68 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:58:54.173+08:00"
+  },
+  {
+    "name": "甘姐物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:59:01.246+08:00"
+  },
+  {
+    "name": "鑫鑫鹏飞物流(暨济商城店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:59:01.317+08:00"
+  },
+  {
+    "name": "创捷·平安达物流(五彩正巷)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:59:01.360+08:00"
+  },
+  {
+    "name": "新江城物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:59:01.403+08:00"
+  },
+  {
+    "name": "顺安达物流(五彩正巷店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 58,
+    "colorRatio": "1.58%",
+    "timestamp": "2026-07-03T01:59:01.446+08:00"
+  },
+  {
+    "name": "顺丰速运(中山雾化店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T01:59:04.399+08:00"
+  },
+  {
+    "name": "海丰物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:59:04.450+08:00"
   }
 ]
