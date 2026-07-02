@@ -28447,5 +28447,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:19:30.848+08:00"
+  },
+  {
+    "name": "陕西云聚物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:38.381+08:00"
+  },
+  {
+    "name": "顺丰速运(草滩九路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:19:38.424+08:00"
+  },
+  {
+    "name": "安能物流(草滩店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "3.35%",
+    "timestamp": "2026-07-03T02:19:38.483+08:00"
+  },
+  {
+    "name": "西安骏驰物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 130,
+    "colorRatio": "3.54%",
+    "timestamp": "2026-07-03T02:19:42.326+08:00"
+  },
+  {
+    "name": "西安同辉物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 130,
+    "colorRatio": "3.54%",
+    "timestamp": "2026-07-03T02:19:42.369+08:00"
+  },
+  {
+    "name": "西安聚邦物流服务中心",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 60,
+    "colorRatio": "1.63%",
+    "timestamp": "2026-07-03T02:19:44.752+08:00"
   }
 ]
