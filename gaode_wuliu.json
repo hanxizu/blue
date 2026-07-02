@@ -37114,5 +37114,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:03:10.461+08:00"
+  },
+  {
+    "name": "顺丰速运(宜可隆便利店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:03:17.678+08:00"
+  },
+  {
+    "name": "双飞华德物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:03:17.720+08:00"
+  },
+  {
+    "name": "优派货运",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:03:21.458+08:00"
   }
 ]
