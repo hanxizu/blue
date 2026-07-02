@@ -28798,5 +28798,59 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T02:20:49.956+08:00"
+  },
+  {
+    "name": "陕西逢源物流停车配货中心(广安路)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:20:58.079+08:00"
+  },
+  {
+    "name": "中国物流(米秦北路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:20:58.122+08:00"
+  },
+  {
+    "name": "顺丰速运(龙苑小区店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:21:01.784+08:00"
+  },
+  {
+    "name": "陕西供销储运综合服务公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:21:01.827+08:00"
+  },
+  {
+    "name": "蓝森物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:21:01.870+08:00"
+  },
+  {
+    "name": "利安物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:21:01.912+08:00"
   }
 ]
