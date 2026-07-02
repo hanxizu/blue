@@ -40327,5 +40327,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:05:22.305+08:00"
+  },
+  {
+    "name": "怪兽超跑",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:25.125+08:00"
+  },
+  {
+    "name": "远程新能源商用车租售中心(运满满门店)",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T02:05:25.160+08:00"
+  },
+  {
+    "name": "神州租车(奔牛机场店)",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:25.224+08:00"
+  },
+  {
+    "name": "酷途租车",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:28.240+08:00"
+  },
+  {
+    "name": "森多汇租车",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T02:05:28.273+08:00"
   }
 ]
