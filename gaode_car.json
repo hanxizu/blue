@@ -5137,5 +5137,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:15:15.791+08:00"
+  },
+  {
+    "name": "越顺汽车租赁(凯升国际广场店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:18.737+08:00"
+  },
+  {
+    "name": "广州市柏祥汽车出租有限公司",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:18.776+08:00"
+  },
+  {
+    "name": "博威租车广州南站店",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:15:18.808+08:00"
+  },
+  {
+    "name": "百跑速行租车(荔湾区南源街道店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:21.619+08:00"
+  },
+  {
+    "name": "神州租车(员村山顶服务点)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:21.655+08:00"
+  },
+  {
+    "name": "广州驾势堂汽车租赁服务有限公司",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:24.183+08:00"
+  },
+  {
+    "name": "德洲租车",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:27.052+08:00"
+  },
+  {
+    "name": "悦租汽车",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:29.857+08:00"
+  },
+  {
+    "name": "优优租车(广州荔湾店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:15:29.881+08:00"
   }
 ]
