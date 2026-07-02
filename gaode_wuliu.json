@@ -8980,5 +8980,59 @@
     "colorPixels": 121,
     "colorRatio": "3.30%",
     "timestamp": "2026-07-03T00:55:30.747+08:00"
+  },
+  {
+    "name": "壹米滴答·捷凯一站式物流中心",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 61,
+    "colorRatio": "1.66%",
+    "timestamp": "2026-07-03T00:55:52.354+08:00"
+  },
+  {
+    "name": "顺丰速运(西湖路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 562,
+    "colorRatio": "15.31%",
+    "timestamp": "2026-07-03T00:55:55.782+08:00"
+  },
+  {
+    "name": "顺丰速运(三眼井店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T00:55:55.848+08:00"
+  },
+  {
+    "name": "中外运空运有限公司(广州分公司)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:55:58.868+08:00"
+  },
+  {
+    "name": "赛诺吉(广州)国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:56:01.853+08:00"
+  },
+  {
+    "name": "顺丰速运(盘福路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:56:01.897+08:00"
   }
 ]
