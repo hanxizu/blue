@@ -8782,5 +8782,68 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T00:53:22.550+08:00"
+  },
+  {
+    "name": "深圳市景航货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:53:37.251+08:00"
+  },
+  {
+    "name": "顺丰速运(长龙新乐路店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:53:37.304+08:00"
+  },
+  {
+    "name": "深圳市安鸿国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:53:37.356+08:00"
+  },
+  {
+    "name": "深圳市跨世通供应链有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:53:37.408+08:00"
+  },
+  {
+    "name": "深圳市显远国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 33,
+    "colorRatio": "0.90%",
+    "timestamp": "2026-07-03T00:53:37.460+08:00"
+  },
+  {
+    "name": "深圳蓝鲨国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:53:40.371+08:00"
+  },
+  {
+    "name": "斯为美汽车运输有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 10,
+    "colorRatio": "0.27%",
+    "timestamp": "2026-07-03T00:53:40.444+08:00"
   }
 ]
