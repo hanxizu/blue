@@ -26917,5 +26917,41 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:15:07.895+08:00"
+  },
+  {
+    "name": "顺丰速运(凤城四路店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T02:15:07.940+08:00"
+  },
+  {
+    "name": "西安易速货运代理有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:07.983+08:00"
+  },
+  {
+    "name": "菜鸟驿站(金泰·贞观悦府店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:15:08.051+08:00"
+  },
+  {
+    "name": "顺丰速运(瑞桐便利店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 568,
+    "colorRatio": "15.47%",
+    "timestamp": "2026-07-03T02:15:10.744+08:00"
   }
 ]
