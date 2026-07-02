@@ -38842,5 +38842,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:09:52.134+08:00"
+  },
+  {
+    "name": "松泉物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:10:02.919+08:00"
+  },
+  {
+    "name": "京东物流(南京宏运营业部)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:10:02.962+08:00"
   }
 ]
