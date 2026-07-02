@@ -29428,5 +29428,32 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:23:23.896+08:00"
+  },
+  {
+    "name": "富平曹操快运(联运大厦店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:23:34.481+08:00"
+  },
+  {
+    "name": "云聚物流西站街三部(蔚蓝印象店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:23:34.534+08:00"
+  },
+  {
+    "name": "西安贝斯特物流中心西区64号楼",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:23:38.114+08:00"
   }
 ]
