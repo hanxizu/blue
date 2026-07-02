@@ -24091,5 +24091,59 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:00:58.675+08:00"
+  },
+  {
+    "name": "宇鑫物流(市政小区店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:06.101+08:00"
+  },
+  {
+    "name": "祥宇航物流大件设备搬家工地宠物电动车",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 61,
+    "colorRatio": "1.66%",
+    "timestamp": "2026-07-03T02:01:06.145+08:00"
+  },
+  {
+    "name": "顺丰速运(青源店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:09.441+08:00"
+  },
+  {
+    "name": "三真驿道物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:09.485+08:00"
+  },
+  {
+    "name": "兄弟快运物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:12.452+08:00"
+  },
+  {
+    "name": "顺丰速运(宗关雾化店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:01:12.495+08:00"
   }
 ]
