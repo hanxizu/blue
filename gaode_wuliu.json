@@ -22201,5 +22201,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:50:15.560+08:00"
+  },
+  {
+    "name": "顺丰速运(北辰奥园店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:50:18.744+08:00"
+  },
+  {
+    "name": "顺丰速运(西溪诚园小区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:50:18.795+08:00"
+  },
+  {
+    "name": "顺丰速运(梅灵南路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T01:50:21.484+08:00"
+  },
+  {
+    "name": "杭州杭亚物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:50:21.570+08:00"
+  },
+  {
+    "name": "杭州龙通仓储物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:50:21.642+08:00"
   }
 ]
