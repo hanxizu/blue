@@ -22345,5 +22345,32 @@
     "colorPixels": 100,
     "colorRatio": "3.84%",
     "timestamp": "2026-07-03T01:56:08.018+08:00"
+  },
+  {
+    "name": "大件速达物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T01:56:11.907+08:00"
+  },
+  {
+    "name": "安顺·大件物流托运(武汉店-全国往返)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T01:56:11.946+08:00"
+  },
+  {
+    "name": "顺丰速运(华中通信广场快递服务中心)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T01:56:11.989+08:00"
   }
 ]
