@@ -17206,5 +17206,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:28:34.337+08:00"
+  },
+  {
+    "name": "顺丰速运(力德时代店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:28:47.302+08:00"
+  },
+  {
+    "name": "顺丰速运(人民中路店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:28:47.357+08:00"
+  },
+  {
+    "name": "顺丰速运(锦绣古玩城店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:28:51.871+08:00"
   }
 ]
