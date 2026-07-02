@@ -38626,5 +38626,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:56:25.700+08:00"
+  },
+  {
+    "name": "哈啰租车(唐家湾唐邑酒店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:29.104+08:00"
+  },
+  {
+    "name": "桐叶租车(珠海机场店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:29.137+08:00"
+  },
+  {
+    "name": "一嗨租车(珠海机场店)",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:29.174+08:00"
+  },
+  {
+    "name": "珠海市智杰运输有限公司",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:56:32.116+08:00"
+  },
+  {
+    "name": "旅程约车珠海运营中心",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:32.194+08:00"
+  },
+  {
+    "name": "马达租车",
+    "city": "珠海市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:56:34.978+08:00"
   }
 ]
