@@ -8710,5 +8710,77 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T00:52:59.255+08:00"
+  },
+  {
+    "name": "跨越速运物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:53:15.963+08:00"
+  },
+  {
+    "name": "欧铁联运服务有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:53:16.006+08:00"
+  },
+  {
+    "name": "成运国际物流供应链(深圳)有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:53:19.629+08:00"
+  },
+  {
+    "name": "顺丰速运(明珠花园店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:53:19.672+08:00"
+  },
+  {
+    "name": "深圳市卓越通逊物流科技有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:53:19.716+08:00"
+  },
+  {
+    "name": "华派通达国际物流(深圳)有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:53:19.759+08:00"
+  },
+  {
+    "name": "顺丰速运(水尾新村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:53:22.498+08:00"
+  },
+  {
+    "name": "深圳市众飞扬国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:53:22.550+08:00"
   }
 ]
