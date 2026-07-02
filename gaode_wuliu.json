@@ -22831,5 +22831,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:57:28.131+08:00"
+  },
+  {
+    "name": "湖北时进国际货运代理有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:28.186+08:00"
+  },
+  {
+    "name": "顺丰速运(捷便驿小店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:57:32.430+08:00"
+  },
+  {
+    "name": "顺丰速运(赵家条雾化店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:57:32.472+08:00"
+  },
+  {
+    "name": "湖北海楚国际物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:32.514+08:00"
+  },
+  {
+    "name": "湖北时速物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:57:32.582+08:00"
+  },
+  {
+    "name": "舞台社区菜鸟驿站9号楼店(民意街舞台社区店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:57:35.600+08:00"
+  },
+  {
+    "name": "顺丰速运(幸福里小范店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:57:35.644+08:00"
   }
 ]
