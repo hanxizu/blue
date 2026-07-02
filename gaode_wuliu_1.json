@@ -295,5 +295,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:21:23.021+08:00"
+  },
+  {
+    "name": "安顺·大件托运物流(上海店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:21:23.050+08:00"
+  },
+  {
+    "name": "上海名港国际货运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:23.093+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(上海)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:21:23.114+08:00"
+  },
+  {
+    "name": "上海名港国际货运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:25.650+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(上海)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:21:25.677+08:00"
+  },
+  {
+    "name": "硕达国际货运公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:25.706+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(上海)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:21:28.461+08:00"
   }
 ]
