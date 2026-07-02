@@ -12526,5 +12526,32 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T01:08:02.011+08:00"
+  },
+  {
+    "name": "顺丰速运(集邦大件店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:08:12.453+08:00"
+  },
+  {
+    "name": "志洋国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:08:12.519+08:00"
+  },
+  {
+    "name": "6707КАРГО广州勇琦供应链管理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:08:16.182+08:00"
   }
 ]
