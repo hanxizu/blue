@@ -2914,5 +2914,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:24:34.414+08:00"
+  },
+  {
+    "name": "宝龙发农产品冷链物流园",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:24:37.489+08:00"
+  },
+  {
+    "name": "北京网际货运代理有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:24:37.530+08:00"
+  },
+  {
+    "name": "顺丰速运(东湖湾店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:24:40.712+08:00"
+  },
+  {
+    "name": "顺丰速运(翠城店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:24:40.752+08:00"
+  },
+  {
+    "name": "北京市发利达货物运输有限责任公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:24:43.342+08:00"
   }
 ]
