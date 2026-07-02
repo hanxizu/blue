@@ -29464,5 +29464,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:11:13.021+08:00"
+  },
+  {
+    "name": "辰星租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:19.277+08:00"
+  },
+  {
+    "name": "正典豪车租赁",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:19.312+08:00"
+  },
+  {
+    "name": "TY电动车租车(望城店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T01:11:21.905+08:00"
+  },
+  {
+    "name": "神州租车(裕园店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:28.079+08:00"
+  },
+  {
+    "name": "恒颂租车高铁站店",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:11:30.525+08:00"
+  },
+  {
+    "name": "协成租车",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:11:30.558+08:00"
+  },
+  {
+    "name": "想用车(长沙租车中心)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:36.621+08:00"
+  },
+  {
+    "name": "创耀租车(星沙总店)",
+    "city": "长沙市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:11:36.657+08:00"
   }
 ]
