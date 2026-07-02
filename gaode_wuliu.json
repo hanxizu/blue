@@ -4903,5 +4903,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:39:19.720+08:00"
+  },
+  {
+    "name": "日邮物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:22.740+08:00"
+  },
+  {
+    "name": "顺丰速运(湖北大厦店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:39:22.781+08:00"
+  },
+  {
+    "name": "顺丰速运(天健时尚店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:39:26.667+08:00"
+  },
+  {
+    "name": "顺丰速运(南光捷佳店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:39:26.707+08:00"
+  },
+  {
+    "name": "顺丰速运(多丽工业区店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T00:39:26.747+08:00"
+  },
+  {
+    "name": "顺丰速运(宏浩花园店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:39:26.786+08:00"
+  },
+  {
+    "name": "顺丰速运(新沙街华海店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:26.824+08:00"
   }
 ]
