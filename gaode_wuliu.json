@@ -5884,5 +5884,68 @@
     "colorPixels": 20,
     "colorRatio": "0.54%",
     "timestamp": "2026-07-03T00:41:58.995+08:00"
+  },
+  {
+    "name": "德坤(华发路店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:42:05.411+08:00"
+  },
+  {
+    "name": "顺丰速运(笔架山公馆店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:42:05.455+08:00"
+  },
+  {
+    "name": "BLC鼎峰物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:42:09.340+08:00"
+  },
+  {
+    "name": "顺丰速运(驿小店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:42:09.384+08:00"
+  },
+  {
+    "name": "宝驰捷物流(兰天路)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:42:09.455+08:00"
+  },
+  {
+    "name": "都市快车物流(华强北)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:42:09.498+08:00"
+  },
+  {
+    "name": "安能物流(华强北总店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 121,
+    "colorRatio": "3.30%",
+    "timestamp": "2026-07-03T00:42:09.542+08:00"
   }
 ]
