@@ -29284,5 +29284,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:22:45.537+08:00"
+  },
+  {
+    "name": "中储物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:22:55.627+08:00"
+  },
+  {
+    "name": "陕西大件汽车运输有限责任公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:22:55.741+08:00"
   }
 ]
