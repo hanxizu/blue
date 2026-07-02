@@ -17584,5 +17584,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:30:47.230+08:00"
+  },
+  {
+    "name": "顺丰速运(十一科技店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:30:50.492+08:00"
+  },
+  {
+    "name": "成都捷安顺国际物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 131,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T01:30:50.542+08:00"
+  },
+  {
+    "name": "成都多点物流有限公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:53.851+08:00"
+  },
+  {
+    "name": "顺丰速运(万年路店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:30:56.644+08:00"
+  },
+  {
+    "name": "鑫荣物流集团",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:30:56.748+08:00"
   }
 ]
