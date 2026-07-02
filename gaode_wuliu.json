@@ -24388,5 +24388,50 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:02:03.402+08:00"
+  },
+  {
+    "name": "德邦快递(武汉武昌区烽火国际经营分部)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:02:09.860+08:00"
+  },
+  {
+    "name": "江岸环卫集团有限公司汽车运输公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:02:09.904+08:00"
+  },
+  {
+    "name": "顺丰速运(城中花园D区店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:02:13.364+08:00"
+  },
+  {
+    "name": "雷仕玖洲物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:02:13.407+08:00"
+  },
+  {
+    "name": "顺丰速运(洪达店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:02:16.603+08:00"
   }
 ]
