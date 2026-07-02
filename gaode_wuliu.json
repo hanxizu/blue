@@ -26548,5 +26548,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:11:45.044+08:00"
+  },
+  {
+    "name": "顺丰速运(卓刀泉路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 570,
+    "colorRatio": "15.52%",
+    "timestamp": "2026-07-03T02:11:47.717+08:00"
+  },
+  {
+    "name": "武汉凯路运输有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.06%",
+    "timestamp": "2026-07-03T02:11:47.791+08:00"
   }
 ]
