@@ -7549,5 +7549,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T10:57:47.970+08:00"
+  },
+  {
+    "name": "VIZON维象设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:57:57.065+08:00"
+  },
+  {
+    "name": "唯度空间",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:57:57.089+08:00"
+  },
+  {
+    "name": "希牛空间设计·二手房装修专家",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T10:57:59.665+08:00"
+  },
+  {
+    "name": "上海吉美装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:58:02.314+08:00"
+  },
+  {
+    "name": "上海正方建筑装饰工程有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:58:04.907+08:00"
+  },
+  {
+    "name": "上海隆域建筑装饰设计有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:58:07.530+08:00"
   }
 ]
