@@ -6919,5 +6919,50 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T00:45:30.013+08:00"
+  },
+  {
+    "name": "融辉物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:45:36.289+08:00"
+  },
+  {
+    "name": "粤发物流(洪湖西路)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.09%",
+    "timestamp": "2026-07-03T00:45:36.332+08:00"
+  },
+  {
+    "name": "文科货运",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:45:39.788+08:00"
+  },
+  {
+    "name": "日昱物流有限公司(罗湖店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:42.445+08:00"
+  },
+  {
+    "name": "上海沃飞国际货物运输有限公司深圳分公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:45:42.490+08:00"
   }
 ]
