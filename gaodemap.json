@@ -7603,5 +7603,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T10:58:07.530+08:00"
+  },
+  {
+    "name": "上海聚通装饰集团有限公司(德州路分公司)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:58:10.270+08:00"
+  },
+  {
+    "name": "上海获金建筑装饰工程有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:58:13.034+08:00"
+  },
+  {
+    "name": "上海丹诺建筑装饰工程有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:58:13.093+08:00"
+  },
+  {
+    "name": "上海贝善建筑装饰有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:58:22.071+08:00"
+  },
+  {
+    "name": "矩木空间设计事务所",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:58:22.103+08:00"
   }
 ]
