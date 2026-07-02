@@ -35386,5 +35386,23 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:52:36.147+08:00"
+  },
+  {
+    "name": "东莞市时运达货运有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:52:49.391+08:00"
+  },
+  {
+    "name": "顺丰速运(水濂山店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 514,
+    "colorRatio": "14.00%",
+    "timestamp": "2026-07-03T02:52:49.446+08:00"
   }
 ]
