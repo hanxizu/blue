@@ -36736,5 +36736,68 @@
     "colorPixels": 91,
     "colorRatio": "3.97%",
     "timestamp": "2026-07-03T01:47:55.356+08:00"
+  },
+  {
+    "name": "太浪租车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:47:58.259+08:00"
+  },
+  {
+    "name": "滴滴租买车.网约车司机服务中心",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T01:48:01.008+08:00"
+  },
+  {
+    "name": "启旭租车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:48:01.057+08:00"
+  },
+  {
+    "name": "红丰租车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:48:01.092+08:00"
+  },
+  {
+    "name": "Golden格调婚车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:48:03.714+08:00"
+  },
+  {
+    "name": "越驾租车",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:48:03.747+08:00"
+  },
+  {
+    "name": "货拉拉温州瓯海旗舰店(司机加入.租车买车)",
+    "city": "温州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:48:03.776+08:00"
   }
 ]
