@@ -19735,5 +19735,41 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:39:01.356+08:00"
+  },
+  {
+    "name": "康庆物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:01.401+08:00"
+  },
+  {
+    "name": "杭州奔赴物流有限责任公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:39:01.444+08:00"
+  },
+  {
+    "name": "臻马大件物流(杭州店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:39:01.516+08:00"
+  },
+  {
+    "name": "安能物流(杭州萧山新世纪市场园区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:39:04.230+08:00"
   }
 ]
