@@ -5434,5 +5434,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:16:09.114+08:00"
+  },
+  {
+    "name": "一嗨租车(百信广场便捷点)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:12.270+08:00"
+  },
+  {
+    "name": "千佳鑫租车滘口店",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:12.300+08:00"
+  },
+  {
+    "name": "新能源货车租赁中心",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T23:16:17.987+08:00"
+  },
+  {
+    "name": "广州宜豪汽车租赁有限公司",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:21.997+08:00"
+  },
+  {
+    "name": "行致租车",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:16:22.075+08:00"
+  },
+  {
+    "name": "宏图租车",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:16:24.509+08:00"
+  },
+  {
+    "name": "德国大众汽车租赁(广州)有限公司",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:27.203+08:00"
+  },
+  {
+    "name": "神州租车(华师地铁站自助点)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:27.240+08:00"
   }
 ]
