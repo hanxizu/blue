@@ -6667,5 +6667,41 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T00:44:32.876+08:00"
+  },
+  {
+    "name": "罗湖全进物流",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:44:36.315+08:00"
+  },
+  {
+    "name": "天下通达运物流有限公司",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:44:39.424+08:00"
+  },
+  {
+    "name": "顺丰速运(澳门新村店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:44:39.467+08:00"
+  },
+  {
+    "name": "深圳市世尔国际货运代理有限公司(惠鑫公寓D栋店)",
+    "city": "深圳市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:44:42.530+08:00"
   }
 ]
