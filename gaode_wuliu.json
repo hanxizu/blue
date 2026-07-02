@@ -25171,5 +25171,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:05:14.183+08:00"
+  },
+  {
+    "name": "安能物流(武昌市区营业部)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:17.146+08:00"
+  },
+  {
+    "name": "铭璐天兴一站式配送中心",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 51,
+    "colorRatio": "1.39%",
+    "timestamp": "2026-07-03T02:05:17.191+08:00"
+  },
+  {
+    "name": "畅顺通达物流(总部)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:20.360+08:00"
+  },
+  {
+    "name": "京东物流(环湖中路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:22.934+08:00"
+  },
+  {
+    "name": "蓝焰物流园仓储中心",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:05:23.008+08:00"
+  },
+  {
+    "name": "双双物流园",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:05:23.060+08:00"
   }
 ]
