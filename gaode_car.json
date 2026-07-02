@@ -24829,5 +24829,122 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T00:49:15.699+08:00"
+  },
+  {
+    "name": "网约车交付中心(海曙)",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:18.253+08:00"
+  },
+  {
+    "name": "网约车服务中心",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T00:49:21.326+08:00"
+  },
+  {
+    "name": "新起航租车",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:21.359+08:00"
+  },
+  {
+    "name": "天下行租车(宁波海曙店)",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:23.936+08:00"
+  },
+  {
+    "name": "神州租车(民航小区店)",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:27.057+08:00"
+  },
+  {
+    "name": "南园汽车出租公司",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:27.127+08:00"
+  },
+  {
+    "name": "凡华租车",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:29.530+08:00"
+  },
+  {
+    "name": "悟空租车(民安三江购物店)",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:32.486+08:00"
+  },
+  {
+    "name": "滴滴租车",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:32.525+08:00"
+  },
+  {
+    "name": "速达出行北仑网约车交付中心",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:35.126+08:00"
+  },
+  {
+    "name": "辉豪汽车",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:38.361+08:00"
+  },
+  {
+    "name": "首汽租车(真如中心店)",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:38.397+08:00"
+  },
+  {
+    "name": "网约车租赁中心",
+    "city": "宁波市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:49:40.936+08:00"
   }
 ]
