@@ -205,5 +205,14 @@
     "colorPixels": 505,
     "colorRatio": "13.75%",
     "timestamp": "2026-07-03T00:15:26.414+08:00"
+  },
+  {
+    "name": "EMS速递物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:15:29.130+08:00"
   }
 ]
