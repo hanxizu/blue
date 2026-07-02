@@ -133,5 +133,23 @@
     "colorPixels": 133,
     "colorRatio": "3.62%",
     "timestamp": "2026-07-03T00:15:14.388+08:00"
+  },
+  {
+    "name": "利龙联合物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 121,
+    "colorRatio": "3.30%",
+    "timestamp": "2026-07-03T00:15:14.417+08:00"
+  },
+  {
+    "name": "北京DHL联邦UPS国际快递公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 131,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T00:15:14.462+08:00"
   }
 ]
