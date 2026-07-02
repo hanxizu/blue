@@ -9844,5 +9844,77 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T00:58:07.965+08:00"
+  },
+  {
+    "name": "6188国际物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:58:14.749+08:00"
+  },
+  {
+    "name": "5505牛运亨通物流托运部",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:58:14.792+08:00"
+  },
+  {
+    "name": "东盟空运(东堤水岸店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:58:18.488+08:00"
+  },
+  {
+    "name": "优达国际物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:58:18.531+08:00"
+  },
+  {
+    "name": "纬通国际货运",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:58:18.574+08:00"
+  },
+  {
+    "name": "广州盛世通驰供应链有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:58:18.618+08:00"
+  },
+  {
+    "name": "航邦物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 9,
+    "colorRatio": "0.25%",
+    "timestamp": "2026-07-03T00:58:18.662+08:00"
+  },
+  {
+    "name": "辉煌物流(站前一街)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:58:21.537+08:00"
   }
 ]
