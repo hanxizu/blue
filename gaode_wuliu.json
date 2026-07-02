@@ -1735,5 +1735,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:19:44.575+08:00"
+  },
+  {
+    "name": "中国物流股份有限公司名酒展示厅",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:19:47.184+08:00"
+  },
+  {
+    "name": "中国物流集团科技研究院有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:19:47.226+08:00"
+  },
+  {
+    "name": "中国外运长航集团有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:19:47.271+08:00"
   }
 ]
