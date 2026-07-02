@@ -1060,5 +1060,23 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:17:34.152+08:00"
+  },
+  {
+    "name": "京东物流(茂兴中街店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:17:37.196+08:00"
+  },
+  {
+    "name": "北京铁运新世纪物流有限责任公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:17:37.230+08:00"
   }
 ]
