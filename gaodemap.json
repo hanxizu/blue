@@ -9574,5 +9574,50 @@
     "colorPixels": 91,
     "colorRatio": "3.97%",
     "timestamp": "2026-07-02T11:18:04.744+08:00"
+  },
+  {
+    "name": "红杉树大宅整装(华北总部)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-02T11:18:09.951+08:00"
+  },
+  {
+    "name": "欧雅装饰一站式整装",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T11:18:12.587+08:00"
+  },
+  {
+    "name": "京东家装(天津门店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:18:12.622+08:00"
+  },
+  {
+    "name": "家之馨装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:18:15.400+08:00"
+  },
+  {
+    "name": "业之峰装饰(红星美凯龙店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:18:19.106+08:00"
   }
 ]
