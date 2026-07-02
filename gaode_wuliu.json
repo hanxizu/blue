@@ -19852,5 +19852,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:39:24.361+08:00"
+  },
+  {
+    "name": "荣恒物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:24.438+08:00"
+  },
+  {
+    "name": "杭州石大路货运市场A区",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:27.626+08:00"
+  },
+  {
+    "name": "亚丰物流",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "2.72%",
+    "timestamp": "2026-07-03T01:39:27.668+08:00"
   }
 ]
