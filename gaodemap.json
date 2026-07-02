@@ -77,5 +77,23 @@
     "colorPixels": 216,
     "colorRatio": "5.45%",
     "timestamp": "2026-07-02T08:03:20.280+08:00"
+  },
+  {
+    "name": "苏技装饰(总部)",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 647,
+    "colorRatio": "16.34%",
+    "timestamp": "2026-07-02T08:03:20.308+08:00"
+  },
+  {
+    "name": "北京鑫广顺装修装饰有限公司",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T08:03:20.349+08:00"
   }
 ]
