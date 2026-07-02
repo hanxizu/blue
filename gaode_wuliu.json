@@ -1807,5 +1807,14 @@
     "colorPixels": 46,
     "colorRatio": "1.25%",
     "timestamp": "2026-07-03T00:20:01.141+08:00"
+  },
+  {
+    "name": "顺丰速运(嘉园路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:20:07.988+08:00"
   }
 ]
