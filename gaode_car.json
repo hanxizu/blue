@@ -11311,5 +11311,14 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T23:42:37.949+08:00"
+  },
+  {
+    "name": "宝江租车",
+    "city": "武汉市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-02T23:44:02.542+08:00"
   }
 ]
