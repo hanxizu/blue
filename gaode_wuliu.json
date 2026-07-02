@@ -8854,5 +8854,86 @@
     "colorPixels": 100,
     "colorRatio": "3.84%",
     "timestamp": "2026-07-03T00:54:47.332+08:00"
+  },
+  {
+    "name": "安顺·大件物流电瓶车摩托车托运(不接小件)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T00:54:51.765+08:00"
+  },
+  {
+    "name": "安顺·大件物流(佛山店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T00:54:51.820+08:00"
+  },
+  {
+    "name": "安顺·大件物流 摩托车 电瓶车 行李托运(广州店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T00:54:51.854+08:00"
+  },
+  {
+    "name": "豪运物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T00:54:55.496+08:00"
+  },
+  {
+    "name": "广州飞桥国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:54:55.539+08:00"
+  },
+  {
+    "name": "天龙物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:54:55.582+08:00"
+  },
+  {
+    "name": "顺丰速运(珠江国际大厦快递服务中心)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T00:54:55.626+08:00"
+  },
+  {
+    "name": "粤港汽车运输联营有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:54:58.764+08:00"
+  },
+  {
+    "name": "顺丰速运(广中路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 562,
+    "colorRatio": "15.31%",
+    "timestamp": "2026-07-03T00:55:02.915+08:00"
   }
 ]
