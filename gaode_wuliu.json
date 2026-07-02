@@ -31786,5 +31786,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:39:12.367+08:00"
+  },
+  {
+    "name": "速航国际物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:39:14.941+08:00"
+  },
+  {
+    "name": "安能物流(莞城街道店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "3.35%",
+    "timestamp": "2026-07-03T02:39:15.022+08:00"
+  },
+  {
+    "name": "广东鑫港物流有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:39:18.419+08:00"
+  },
+  {
+    "name": "顺丰速运(理想0769店)",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:39:18.528+08:00"
   }
 ]
