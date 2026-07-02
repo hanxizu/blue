@@ -26296,5 +26296,68 @@
     "colorPixels": 570,
     "colorRatio": "15.52%",
     "timestamp": "2026-07-03T02:10:23.798+08:00"
+  },
+  {
+    "name": "日昱物流(汉口北网点)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:38.226+08:00"
+  },
+  {
+    "name": "信达物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:38.282+08:00"
+  },
+  {
+    "name": "鑫金隆物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:38.335+08:00"
+  },
+  {
+    "name": "嘉楚物流汉口北分公司(汉口北南一路店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:38.388+08:00"
+  },
+  {
+    "name": "骏达货运有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:41.119+08:00"
+  },
+  {
+    "name": "武汉顺速捷物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:41.183+08:00"
+  },
+  {
+    "name": "坤达物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:10:41.359+08:00"
   }
 ]
