@@ -14596,5 +14596,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:17:04.879+08:00"
+  },
+  {
+    "name": "中通快运新成都中和",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:08.051+08:00"
+  },
+  {
+    "name": "四川物流九司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 67,
+    "colorRatio": "1.82%",
+    "timestamp": "2026-07-03T01:17:08.094+08:00"
+  },
+  {
+    "name": "顺丰速运(绿地一期店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:17:10.726+08:00"
+  },
+  {
+    "name": "菜鸟驿站(科华成都王府井购物中心店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:17:10.789+08:00"
   }
 ]
