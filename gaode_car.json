@@ -35359,5 +35359,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:39:20.597+08:00"
+  },
+  {
+    "name": "总镖头汽车租赁(济南店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:26.952+08:00"
+  },
+  {
+    "name": "易佰出行济南分公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:26.989+08:00"
+  },
+  {
+    "name": "北极星租车(遥墙机场店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:39:29.772+08:00"
+  },
+  {
+    "name": "海翼租赁",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:35.273+08:00"
+  },
+  {
+    "name": "济南旅程汽车租赁有限公司",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:35.304+08:00"
+  },
+  {
+    "name": "星河租车(万城中心店)",
+    "city": "济南市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:35.339+08:00"
   }
 ]
