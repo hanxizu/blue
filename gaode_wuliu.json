@@ -30265,5 +30265,50 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:27:41.543+08:00"
+  },
+  {
+    "name": "顺丰速运(翡翠龙庭二期店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T02:27:44.533+08:00"
+  },
+  {
+    "name": "天地华宇(西安璐妍仓储店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:27:44.586+08:00"
+  },
+  {
+    "name": "飞腾嘉运货运部",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:27:47.476+08:00"
+  },
+  {
+    "name": "上海誉宏物流有限公司(西安分公司)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:27:47.539+08:00"
+  },
+  {
+    "name": "陕西汇港物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:27:47.617+08:00"
   }
 ]
