@@ -39634,5 +39634,104 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:13:49.247+08:00"
+  },
+  {
+    "name": "沪佳物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:13:51.845+08:00"
+  },
+  {
+    "name": "南京市苏北恒通货运部",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:13:51.914+08:00"
+  },
+  {
+    "name": "上海藕塘物流有限公司(南京分公司)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:13:51.976+08:00"
+  },
+  {
+    "name": "宝莹物流",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:13:52.040+08:00"
+  },
+  {
+    "name": "顺丰速运(浦泗路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:14:09.356+08:00"
+  },
+  {
+    "name": "速德物流(解放路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:14:09.409+08:00"
+  },
+  {
+    "name": "南京宝供高新物流基地有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:14:09.462+08:00"
+  },
+  {
+    "name": "醴泉路整车分拨中心",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:14:09.514+08:00"
+  },
+  {
+    "name": "中国石化集团南京化学工业有限公司运输公司铁运分部",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:14:12.713+08:00"
+  },
+  {
+    "name": "南京龙恒飞物流货运有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 41,
+    "colorRatio": "1.12%",
+    "timestamp": "2026-07-03T03:14:12.769+08:00"
+  },
+  {
+    "name": "顺丰速运(岱山店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:14:15.553+08:00"
   }
 ]
