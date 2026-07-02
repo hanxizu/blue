@@ -4300,5 +4300,77 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T07:26:27.584+08:00"
+  },
+  {
+    "name": "顺心捷达(绥德支路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:26:27.649+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(上海)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:26:27.677+08:00"
+  },
+  {
+    "name": "顺丰速运(东高路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T07:26:27.710+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(上海)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:26:30.422+08:00"
+  },
+  {
+    "name": "顺丰速运(东高路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T07:26:30.459+08:00"
+  },
+  {
+    "name": "上海治泰国际货运代理有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:26:30.486+08:00"
+  },
+  {
+    "name": "京东物流(东高路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:26:30.521+08:00"
+  },
+  {
+    "name": "顺丰速运(东高路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T07:26:33.096+08:00"
   }
 ]
