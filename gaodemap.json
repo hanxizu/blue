@@ -6316,5 +6316,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T10:52:52.463+08:00"
+  },
+  {
+    "name": "青杉装饰集团普陀设计中心",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T10:52:55.012+08:00"
+  },
+  {
+    "name": "海域整装(浦东店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 389,
+    "colorRatio": "16.95%",
+    "timestamp": "2026-07-02T10:52:57.608+08:00"
+  },
+  {
+    "name": "好美家装潢设计中心",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:52:57.677+08:00"
+  },
+  {
+    "name": "幸赢空间设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:52:57.751+08:00"
+  },
+  {
+    "name": "上海尚城上品空间设计有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:52:57.803+08:00"
   }
 ]
