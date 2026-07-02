@@ -26395,5 +26395,41 @@
     "colorPixels": 73,
     "colorRatio": "1.99%",
     "timestamp": "2026-07-03T02:10:58.097+08:00"
+  },
+  {
+    "name": "人和昌物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:11:01.074+08:00"
+  },
+  {
+    "name": "冠达(鹏鹰)物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:11:03.704+08:00"
+  },
+  {
+    "name": "常青物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:11:03.757+08:00"
+  },
+  {
+    "name": "乾坤物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:11:06.699+08:00"
   }
 ]
