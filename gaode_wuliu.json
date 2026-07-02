@@ -19771,5 +19771,59 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T01:39:04.230+08:00"
+  },
+  {
+    "name": "诚信物流(新意路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:11.042+08:00"
+  },
+  {
+    "name": "杭州圣世特物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:11.085+08:00"
+  },
+  {
+    "name": "杭州朝阳油品运输有限公司萧山分公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:14.709+08:00"
+  },
+  {
+    "name": "顺丰速运(七古登社区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:39:14.752+08:00"
+  },
+  {
+    "name": "杭州胜辉物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:14.796+08:00"
+  },
+  {
+    "name": "杭州迪奥物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:39:14.839+08:00"
   }
 ]
