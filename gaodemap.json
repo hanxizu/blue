@@ -21076,5 +21076,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T12:38:38.221+08:00"
+  },
+  {
+    "name": "港宏宜家装饰",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:38:38.295+08:00"
+  },
+  {
+    "name": "立邦刷新服务(融景城店)",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:38:38.332+08:00"
+  },
+  {
+    "name": "重庆元格饰家装饰工程有限公司",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:38:40.816+08:00"
+  },
+  {
+    "name": "重庆美尊装饰工程有限公司",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T12:38:49.682+08:00"
+  },
+  {
+    "name": "合肥宏约深美空间营造设计",
+    "city": "重庆市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T12:38:49.711+08:00"
   }
 ]
