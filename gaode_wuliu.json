@@ -35809,5 +35809,59 @@
     "colorPixels": 560,
     "colorRatio": "15.25%",
     "timestamp": "2026-07-03T02:59:26.037+08:00"
+  },
+  {
+    "name": "驿收发快递驿站(华新巷小区店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:59:29.181+08:00"
+  },
+  {
+    "name": "日邮物流(中国有限公司南京分公司)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:59:29.225+08:00"
+  },
+  {
+    "name": "亚凯国际物流(南京)有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:59:32.477+08:00"
+  },
+  {
+    "name": "冰块运输中心(东白菜园小区店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:59:32.520+08:00"
+  },
+  {
+    "name": "顺丰速运(永庆村店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 119,
+    "colorRatio": "3.24%",
+    "timestamp": "2026-07-03T02:59:35.313+08:00"
+  },
+  {
+    "name": "顺丰速运(工业大学店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:59:39.670+08:00"
   }
 ]
