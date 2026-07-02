@@ -88,5 +88,32 @@
     "colorPixels": 88,
     "colorRatio": "3.83%",
     "timestamp": "2026-07-02T22:53:07.781+08:00"
+  },
+  {
+    "name": "汇车通租车",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-02T22:53:07.818+08:00"
+  },
+  {
+    "name": "北京租车豪车婚车租赁(快乐星球)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T22:53:07.844+08:00"
+  },
+  {
+    "name": "鸿玮汽车租赁(朝阳分公司)",
+    "city": "北京市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T22:53:07.901+08:00"
   }
 ]
