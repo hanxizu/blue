@@ -1231,5 +1231,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:18:07.505+08:00"
+  },
+  {
+    "name": "盒马收货部(芳圆里ID MALL店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:18:07.541+08:00"
+  },
+  {
+    "name": "顺丰速运(百万庄店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:18:07.576+08:00"
+  },
+  {
+    "name": "中铁快运(北京西站店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:18:07.611+08:00"
   }
 ]
