@@ -7081,5 +7081,95 @@
     "colorPixels": 94,
     "colorRatio": "4.10%",
     "timestamp": "2026-07-02T23:23:45.092+08:00"
+  },
+  {
+    "name": "骑行佳租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:45.143+08:00"
+  },
+  {
+    "name": "白北寄卖行",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T23:23:45.187+08:00"
+  },
+  {
+    "name": "途游塔汽车租赁",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:47.735+08:00"
+  },
+  {
+    "name": "优盾出行租车(成都望旅科技)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:50.899+08:00"
+  },
+  {
+    "name": "锦宏租车(科华店)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:50.936+08:00"
+  },
+  {
+    "name": "哈啰租车机场路店",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:53.411+08:00"
+  },
+  {
+    "name": "近多出行",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:23:56.075+08:00"
+  },
+  {
+    "name": "艺捷租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:58.600+08:00"
+  },
+  {
+    "name": "环宇租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T23:23:58.631+08:00"
+  },
+  {
+    "name": "逸库租车(成都店)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:24:01.113+08:00"
   }
 ]
