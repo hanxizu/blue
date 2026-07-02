@@ -15352,5 +15352,131 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:02:18.488+08:00"
+  },
+  {
+    "name": "渝乐租车(渝乐祖车)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:02:21.529+08:00"
+  },
+  {
+    "name": "海韵租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:02:21.555+08:00"
+  },
+  {
+    "name": "旭晨租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:02:24.063+08:00"
+  },
+  {
+    "name": "百安租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:02:26.791+08:00"
+  },
+  {
+    "name": "艾尚租车(艾尚壹号)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:02:29.812+08:00"
+  },
+  {
+    "name": "重庆仟瑞租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:02:29.868+08:00"
+  },
+  {
+    "name": "神州租车冠宏时代自助点(冠宏时代店)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:02:35.591+08:00"
+  },
+  {
+    "name": "小妖怪租车行",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:02:35.670+08:00"
+  },
+  {
+    "name": "重庆尊呈汽车租赁",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T00:02:35.710+08:00"
+  },
+  {
+    "name": "桔子出行(重庆分公司)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:02:41.870+08:00"
+  },
+  {
+    "name": "重庆旭驰租车",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:02:41.911+08:00"
+  },
+  {
+    "name": "滴滴租买车官方授权店(民安大道店)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:02:41.948+08:00"
+  },
+  {
+    "name": "盼达用车(力帆足球俱乐部)",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:02:44.705+08:00"
+  },
+  {
+    "name": "重庆乐游汽车租赁有限公司",
+    "city": "重庆市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:02:44.737+08:00"
   }
 ]
