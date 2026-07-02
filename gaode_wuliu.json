@@ -26638,5 +26638,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:12:14.317+08:00"
+  },
+  {
+    "name": "武汉聚兴物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:12:27.366+08:00"
+  },
+  {
+    "name": "顺丰速运(保利7期店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:12:27.419+08:00"
   }
 ]
