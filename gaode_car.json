@@ -6910,5 +6910,140 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:23:09.169+08:00"
+  },
+  {
+    "name": "携程租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:11.955+08:00"
+  },
+  {
+    "name": "神州租车(春熙路服务点)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:11.990+08:00"
+  },
+  {
+    "name": "晟瑞租车(成都店)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:14.602+08:00"
+  },
+  {
+    "name": "成都伟盛捷诚汽车租赁服务有限公司",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:17.561+08:00"
+  },
+  {
+    "name": "礼良租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:23:17.590+08:00"
+  },
+  {
+    "name": "世纪天成豪车汇婚车租赁",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:17.618+08:00"
+  },
+  {
+    "name": "柏帆租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T23:23:20.279+08:00"
+  },
+  {
+    "name": "四川祥鑫宏商务服务有限公司",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T23:23:20.314+08:00"
+  },
+  {
+    "name": "合联租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:20.340+08:00"
+  },
+  {
+    "name": "哈啰租车(车马太保-成都门店)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:22.851+08:00"
+  },
+  {
+    "name": "旅川行租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:22.880+08:00"
+  },
+  {
+    "name": "红狼租车(成都东站店)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:22.911+08:00"
+  },
+  {
+    "name": "至尚嘉和租车物流公司",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:25.928+08:00"
+  },
+  {
+    "name": "哈啰租车(桐梓林送车点)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:25.965+08:00"
+  },
+  {
+    "name": "联动云汽车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:23:28.602+08:00"
   }
 ]
