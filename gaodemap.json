@@ -6118,5 +6118,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T10:52:16.376+08:00"
+  },
+  {
+    "name": "鹿米实业沃米整装",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T10:52:19.064+08:00"
+  },
+  {
+    "name": "易路荣昕装饰(宝山总部)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:52:19.108+08:00"
+  },
+  {
+    "name": "润泰装饰设计(莘庄店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:52:22.153+08:00"
+  },
+  {
+    "name": "上海宅野装饰设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:52:22.180+08:00"
+  },
+  {
+    "name": "舒心装监理",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T10:52:22.206+08:00"
+  },
+  {
+    "name": "明月装饰集团",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:52:22.235+08:00"
   }
 ]
