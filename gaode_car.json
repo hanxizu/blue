@@ -6595,5 +6595,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:22:06.472+08:00"
+  },
+  {
+    "name": "途腾租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:22:09.350+08:00"
+  },
+  {
+    "name": "瑞程租车(成都东站店)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:22:09.407+08:00"
+  },
+  {
+    "name": "yolo有乐租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:22:12.036+08:00"
+  },
+  {
+    "name": "成都荧火租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:22:12.069+08:00"
+  },
+  {
+    "name": "东升租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-02T23:22:12.098+08:00"
+  },
+  {
+    "name": "好运行租车(共享汽车门店)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:22:15.295+08:00"
+  },
+  {
+    "name": "越乔会展租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:22:15.323+08:00"
+  },
+  {
+    "name": "锦鲤租车(双流机场店)",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:22:18.594+08:00"
   }
 ]
