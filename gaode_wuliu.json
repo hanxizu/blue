@@ -19546,5 +19546,32 @@
     "colorPixels": 7,
     "colorRatio": "0.19%",
     "timestamp": "2026-07-03T01:38:19.412+08:00"
+  },
+  {
+    "name": "顺丰速运(金草公寓店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:38:22.135+08:00"
+  },
+  {
+    "name": "中通快递(杭州新世纪不锈钢配送产业园店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:38:28.215+08:00"
+  },
+  {
+    "name": "顺丰速运(德胜路德胜巷店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:38:28.262+08:00"
   }
 ]
