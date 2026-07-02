@@ -9187,5 +9187,32 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-02T11:13:25.266+08:00"
+  },
+  {
+    "name": "同济空间设计",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:13:28.079+08:00"
+  },
+  {
+    "name": "上海隆川全态家建筑装饰工程有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:13:30.988+08:00"
+  },
+  {
+    "name": "瑞如装饰(嘉尚国际广场店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:13:33.744+08:00"
   }
 ]
