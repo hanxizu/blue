@@ -619,5 +619,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T08:29:26.176+08:00"
+  },
+  {
+    "name": "今朝装饰(天桥店)",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 761,
+    "colorRatio": "19.22%",
+    "timestamp": "2026-07-02T08:29:26.195+08:00"
+  },
+  {
+    "name": "东升装饰公司",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T08:29:26.241+08:00"
+  },
+  {
+    "name": "红杉树装饰(北京总部)",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 30,
+    "colorRatio": "0.76%",
+    "timestamp": "2026-07-02T08:29:29.932+08:00"
   }
 ]
