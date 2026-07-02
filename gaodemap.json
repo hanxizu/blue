@@ -12517,5 +12517,50 @@
     "colorPixels": 381,
     "colorRatio": "16.60%",
     "timestamp": "2026-07-02T11:29:34.689+08:00"
+  },
+  {
+    "name": "柏诺特BAINOT·全屋定制",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-02T11:29:37.312+08:00"
+  },
+  {
+    "name": "珠江装饰建材展厅",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:29:40.209+08:00"
+  },
+  {
+    "name": "印象软装",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:29:40.267+08:00"
+  },
+  {
+    "name": "平河装饰建材配送中心",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T11:29:42.841+08:00"
+  },
+  {
+    "name": "原点软装设计",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:29:42.868+08:00"
   }
 ]
