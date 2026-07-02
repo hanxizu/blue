@@ -18916,5 +18916,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:36:26.824+08:00"
+  },
+  {
+    "name": "杭州鼎鸿物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:33.176+08:00"
+  },
+  {
+    "name": "杭州奋强物流有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:33.220+08:00"
+  },
+  {
+    "name": "上海铁路局杭州货运中心艮山门营业厅",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:36.886+08:00"
+  },
+  {
+    "name": "顺丰速运(兴隆公寓店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:36:36.929+08:00"
+  },
+  {
+    "name": "中国铁路上海局集团有限公司杭州铁路物流中心",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:36.972+08:00"
+  },
+  {
+    "name": "菜鸟驿站(现代家园店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:37.016+08:00"
+  },
+  {
+    "name": "京东物流(杭州东方时代中心店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:37.085+08:00"
+  },
+  {
+    "name": "顺丰速运(丰瑞南苑店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:36:39.988+08:00"
   }
 ]
