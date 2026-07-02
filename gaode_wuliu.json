@@ -466,5 +466,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:16:06.296+08:00"
+  },
+  {
+    "name": "顺丰速运(国贸店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:16:06.340+08:00"
+  },
+  {
+    "name": "顺丰速运(光明路店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T00:16:06.369+08:00"
+  },
+  {
+    "name": "顺丰速运(恒惠店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:06.395+08:00"
+  },
+  {
+    "name": "祥通天际589国际物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "3.43%",
+    "timestamp": "2026-07-03T00:16:06.423+08:00"
+  },
+  {
+    "name": "顺丰速运(汉威大厦服务中心)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T00:16:08.808+08:00"
+  },
+  {
+    "name": "中车物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:08.844+08:00"
+  },
+  {
+    "name": "顺丰速运(国贸快递服务中心)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:16:08.885+08:00"
+  },
+  {
+    "name": "北京菜鸟物流有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:13.140+08:00"
+  },
+  {
+    "name": "天玉东圣配送中心(工体店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 114,
+    "colorRatio": "3.10%",
+    "timestamp": "2026-07-03T00:16:13.168+08:00"
   }
 ]
