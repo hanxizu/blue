@@ -268,5 +268,32 @@
     "colorPixels": 38,
     "colorRatio": "1.46%",
     "timestamp": "2026-07-03T00:15:40.021+08:00"
+  },
+  {
+    "name": "安顺·大件物流托运|摩托车托运",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T00:15:40.042+08:00"
+  },
+  {
+    "name": "兴盛达托运搬家(不收小件)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 102,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T00:15:40.061+08:00"
+  },
+  {
+    "name": "顺丰速运(聚宝店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:15:44.009+08:00"
   }
 ]
