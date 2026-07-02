@@ -19339,5 +19339,77 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:37:42.205+08:00"
+  },
+  {
+    "name": "杭州金乾国际货运代理有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:37:48.911+08:00"
+  },
+  {
+    "name": "顺丰速运(闻涛诚苑小区店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:37:48.954+08:00"
+  },
+  {
+    "name": "顺丰速运(顺驰店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:37:52.641+08:00"
+  },
+  {
+    "name": "顺丰速运(九本创意园店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:37:52.691+08:00"
+  },
+  {
+    "name": "顺丰速运(云夏连园店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:37:52.735+08:00"
+  },
+  {
+    "name": "菜鸟驿站(江南国际城店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:37:52.778+08:00"
+  },
+  {
+    "name": "顺丰速运(招商雍华里店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:37:52.822+08:00"
+  },
+  {
+    "name": "杭州运海运输有限公司",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:37:55.773+08:00"
   }
 ]
