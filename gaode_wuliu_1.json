@@ -4228,5 +4228,77 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T07:26:22.038+08:00"
+  },
+  {
+    "name": "安顺·大件托运物流(上海店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:26:22.093+08:00"
+  },
+  {
+    "name": "顺心捷达(绥德支路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:26:22.121+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(上海)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:26:22.155+08:00"
+  },
+  {
+    "name": "安顺·大件托运物流(上海店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:26:24.619+08:00"
+  },
+  {
+    "name": "顺心捷达(绥德支路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:26:24.647+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(上海)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:26:24.678+08:00"
+  },
+  {
+    "name": "顺丰速运(东高路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T07:26:24.715+08:00"
+  },
+  {
+    "name": "安顺·大件托运物流(上海店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:26:27.584+08:00"
   }
 ]
