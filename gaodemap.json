@@ -7315,5 +7315,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T10:56:50.416+08:00"
+  },
+  {
+    "name": "千州装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:56:55.908+08:00"
+  },
+  {
+    "name": "聚通装潢(浦东旗舰店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 389,
+    "colorRatio": "16.95%",
+    "timestamp": "2026-07-02T10:56:55.941+08:00"
+  },
+  {
+    "name": "星艺装饰(沪太公路辅路)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:56:59.240+08:00"
+  },
+  {
+    "name": "百姓装潢(闸北分部)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:56:59.280+08:00"
+  },
+  {
+    "name": "铭星装饰(盛夏路)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:56:59.350+08:00"
+  },
+  {
+    "name": "上海杨艺室内装饰虹口店",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T10:57:02.060+08:00"
+  },
+  {
+    "name": "缘环装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:57:02.113+08:00"
   }
 ]
