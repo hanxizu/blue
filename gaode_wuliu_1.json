@@ -1852,5 +1852,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:23:13.665+08:00"
+  },
+  {
+    "name": "顺丰速运(杨高南路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:23:13.722+08:00"
+  },
+  {
+    "name": "安能物流(上海长宁区天山路营业部)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T07:23:13.763+08:00"
+  },
+  {
+    "name": "顺丰速运(杨高南路店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T07:23:16.339+08:00"
+  },
+  {
+    "name": "安能物流(上海长宁区天山路营业部)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T07:23:16.375+08:00"
+  },
+  {
+    "name": "上海君正物流有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:23:16.406+08:00"
+  },
+  {
+    "name": "顺丰速运(龙华寺店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T07:23:16.435+08:00"
+  },
+  {
+    "name": "安能物流(上海长宁区天山路营业部)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T07:23:19.093+08:00"
   }
 ]
