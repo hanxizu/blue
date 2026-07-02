@@ -5506,5 +5506,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:16:27.240+08:00"
+  },
+  {
+    "name": "货拉拉广州荔湾旗舰店(司机加入 租车买车)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:30.007+08:00"
+  },
+  {
+    "name": "神州租车(荔雅苑店)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:32.814+08:00"
+  },
+  {
+    "name": "神州租车(梅花园地铁站服务点)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:32.841+08:00"
+  },
+  {
+    "name": "广州白云滴滴总部司机招募中心",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-02T23:16:35.655+08:00"
+  },
+  {
+    "name": "神州租车(大石地铁服务点)",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:16:35.686+08:00"
+  },
+  {
+    "name": "创业兄弟司机招聘广州店",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-02T23:16:35.719+08:00"
   }
 ]
