@@ -24244,5 +24244,59 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T00:45:38.334+08:00"
+  },
+  {
+    "name": "顺财汽车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:44.179+08:00"
+  },
+  {
+    "name": "天津万邦汽车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:44.225+08:00"
+  },
+  {
+    "name": "V Eight汽车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:44.257+08:00"
+  },
+  {
+    "name": "靓源顺汽车租赁",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:50.502+08:00"
+  },
+  {
+    "name": "环宇汽车租赁(育才路店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:50.536+08:00"
+  },
+  {
+    "name": "翔通汽车租赁(育才路店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:45:53.369+08:00"
   }
 ]
