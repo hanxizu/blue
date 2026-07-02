@@ -13885,5 +13885,50 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-02T11:51:10.965+08:00"
+  },
+  {
+    "name": "红点装饰",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T11:51:13.366+08:00"
+  },
+  {
+    "name": "仪铭装饰庐阳店(全案整装·商业工装)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-02T11:51:13.391+08:00"
+  },
+  {
+    "name": "东箭装饰集团(安徽总部)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-02T11:51:16.033+08:00"
+  },
+  {
+    "name": "天蚁美居装饰(北城店)",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-02T11:51:18.677+08:00"
+  },
+  {
+    "name": "红石榴装饰·全案设计·老房改造",
+    "city": "合肥市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-02T11:51:22.225+08:00"
   }
 ]
