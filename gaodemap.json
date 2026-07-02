@@ -10915,5 +10915,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-02T11:22:28.438+08:00"
+  },
+  {
+    "name": "然琪装饰",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:22:33.969+08:00"
+  },
+  {
+    "name": "天津市福临门装饰有限公司(津滨大道店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:22:33.998+08:00"
+  },
+  {
+    "name": "圣帮空间装修",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T11:22:37.411+08:00"
+  },
+  {
+    "name": "明智筑美(天津)装饰工程有限公司",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T11:22:37.448+08:00"
+  },
+  {
+    "name": "仟烨(天津)家居装饰有限责任公司",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T11:22:37.486+08:00"
+  },
+  {
+    "name": "天津星瑞思装饰工作室",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:22:37.520+08:00"
+  },
+  {
+    "name": "天津墨菲装饰有限公司(大直沽店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T11:22:40.044+08:00"
+  },
+  {
+    "name": "琦瑞装饰(白堤路店)",
+    "city": "天津市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T11:22:40.074+08:00"
   }
 ]
