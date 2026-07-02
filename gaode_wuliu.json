@@ -15478,5 +15478,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:20:23.141+08:00"
+  },
+  {
+    "name": "亚联车车通快运(太平盛世B区店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:20:26.204+08:00"
+  },
+  {
+    "name": "成都城投教育投资管理集团有限公司仓储物流中心",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 28,
+    "colorRatio": "0.76%",
+    "timestamp": "2026-07-03T01:20:26.248+08:00"
+  },
+  {
+    "name": "顺丰速运(广场冰淇淋店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:20:28.815+08:00"
+  },
+  {
+    "name": "顺丰速运(瑞升莲花逸都店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 491,
+    "colorRatio": "13.37%",
+    "timestamp": "2026-07-03T01:20:31.454+08:00"
   }
 ]
