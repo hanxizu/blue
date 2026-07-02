@@ -3661,5 +3661,59 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-02T23:08:31.991+08:00"
+  },
+  {
+    "name": "神州租车(罗岗华润万象汇自助点)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:34.641+08:00"
+  },
+  {
+    "name": "神州租车(龙华世贸广场服务点)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:34.667+08:00"
+  },
+  {
+    "name": "神州租车(塘朗城购物中心自助点)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:37.336+08:00"
+  },
+  {
+    "name": "一嗨租车(南山腾讯店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:37.366+08:00"
+  },
+  {
+    "name": "神州租车(大冲商务中心B座店)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:08:37.414+08:00"
+  },
+  {
+    "name": "青萍果租车(青萍果)",
+    "city": "深圳市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:08:40.435+08:00"
   }
 ]
