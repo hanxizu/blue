@@ -40669,5 +40669,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:06:38.465+08:00"
+  },
+  {
+    "name": "哈啰租车(常州武进吾悦广场店)",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:41.624+08:00"
+  },
+  {
+    "name": "蓝鲸灵租车",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:41.654+08:00"
+  },
+  {
+    "name": "张家港迈腾",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T02:06:44.606+08:00"
+  },
+  {
+    "name": "常州市阿凡达汽车租赁有限公司",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:44.642+08:00"
+  },
+  {
+    "name": "悠行租车",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:48.173+08:00"
+  },
+  {
+    "name": "凯安租车",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:51.254+08:00"
+  },
+  {
+    "name": "常州新北-阿凡达-汽车租赁",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:54.354+08:00"
+  },
+  {
+    "name": "骏倡达租车常州北站服务点",
+    "city": "常州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:06:54.413+08:00"
   }
 ]
