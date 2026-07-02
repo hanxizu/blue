@@ -9394,5 +9394,122 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-02T23:35:18.155+08:00"
+  },
+  {
+    "name": "滴滴出行官方司机服务中心",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-02T23:35:18.190+08:00"
+  },
+  {
+    "name": "网约车司机招募咨询中心",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T23:35:20.959+08:00"
+  },
+  {
+    "name": "苏州华越汽车租赁有限公司",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:35:21.006+08:00"
+  },
+  {
+    "name": "鼎亚租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:35:23.640+08:00"
+  },
+  {
+    "name": "星辉租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-02T23:35:26.284+08:00"
+  },
+  {
+    "name": "振德汽车文化",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:35:26.321+08:00"
+  },
+  {
+    "name": "超凡租车-商务用车婚车租赁",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-02T23:35:28.778+08:00"
+  },
+  {
+    "name": "枫叶租车",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:35:28.821+08:00"
+  },
+  {
+    "name": "诺力汽车租赁",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-02T23:35:28.863+08:00"
+  },
+  {
+    "name": "Kk超跑俱乐部",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:35:31.750+08:00"
+  },
+  {
+    "name": "苏州远景汽车租赁",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:35:31.793+08:00"
+  },
+  {
+    "name": "华堂汽车文化·租赁",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:35:31.828+08:00"
+  },
+  {
+    "name": "小桔租买车(苏福路店)",
+    "city": "苏州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:35:34.888+08:00"
   }
 ]
