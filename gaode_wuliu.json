@@ -42001,5 +42001,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:26:26.738+08:00"
+  },
+  {
+    "name": "顺丰速运(瀚海国际店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:26:26.781+08:00"
+  },
+  {
+    "name": "快宝驿站(假日风景花园店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:26:26.852+08:00"
+  },
+  {
+    "name": "天津众华储运有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:26:26.894+08:00"
+  },
+  {
+    "name": "兴河物流(兴盛园路)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:26:26.936+08:00"
+  },
+  {
+    "name": "顺丰速运(榆关道店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:26:29.954+08:00"
+  },
+  {
+    "name": "融辉物流",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "2.23%",
+    "timestamp": "2026-07-03T03:26:29.998+08:00"
   }
 ]
