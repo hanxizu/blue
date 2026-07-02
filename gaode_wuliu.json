@@ -41722,5 +41722,131 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T03:25:26.116+08:00"
+  },
+  {
+    "name": "金益华运业",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:29.404+08:00"
+  },
+  {
+    "name": "顺丰速运(保利店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:32.284+08:00"
+  },
+  {
+    "name": "顺丰速运(东联里小区店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:25:32.381+08:00"
+  },
+  {
+    "name": "田源盛达运输有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:34.956+08:00"
+  },
+  {
+    "name": "安泰物流(保利昆仑大厦店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:35.016+08:00"
+  },
+  {
+    "name": "智通物流",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:35.081+08:00"
+  },
+  {
+    "name": "天津市津交富港物流有限责任公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:41.473+08:00"
+  },
+  {
+    "name": "天津大田物流有限公司(微二路店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:44.452+08:00"
+  },
+  {
+    "name": "金福临物流",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:44.496+08:00"
+  },
+  {
+    "name": "顺丰速运(登州路店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T03:25:48.171+08:00"
+  },
+  {
+    "name": "顺丰速运(运通花园店)",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:25:48.252+08:00"
+  },
+  {
+    "name": "天津大田物流有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:48.326+08:00"
+  },
+  {
+    "name": "天津振越运输有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:25:48.392+08:00"
+  },
+  {
+    "name": "天津市平安物流有限公司",
+    "city": "天津市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:25:48.444+08:00"
   }
 ]
