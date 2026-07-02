@@ -22543,5 +22543,140 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:38:48.718+08:00"
+  },
+  {
+    "name": "哈啰租车(天津西站店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:38:51.615+08:00"
+  },
+  {
+    "name": "乐天租车(隆昌路店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:38:54.375+08:00"
+  },
+  {
+    "name": "嘉旭租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:38:54.413+08:00"
+  },
+  {
+    "name": "小桔租买车铁东北路店",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:38:57.080+08:00"
+  },
+  {
+    "name": "锐驰租车(西青大学城店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:38:59.934+08:00"
+  },
+  {
+    "name": "鼎盛汽车租赁(双港店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:02.609+08:00"
+  },
+  {
+    "name": "嘉丰租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T00:39:05.323+08:00"
+  },
+  {
+    "name": "侣行租车(天津站北广场店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:07.954+08:00"
+  },
+  {
+    "name": "鑫运租车(津南店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:07.988+08:00"
+  },
+  {
+    "name": "天津市露文出租汽车有限公司",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:08.026+08:00"
+  },
+  {
+    "name": "福莱锐租车",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:10.916+08:00"
+  },
+  {
+    "name": "王者租车~日租月租小时租(服装街店)",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T00:39:10.949+08:00"
+  },
+  {
+    "name": "天津润捷行网约车运营中心",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:14.066+08:00"
+  },
+  {
+    "name": "快驰网约车销售租赁中心",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:16.761+08:00"
+  },
+  {
+    "name": "雨心新能源科技有限公司",
+    "city": "天津市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:39:16.794+08:00"
   }
 ]
