@@ -16369,5 +16369,68 @@
     "colorPixels": 622,
     "colorRatio": "16.94%",
     "timestamp": "2026-07-03T01:23:48.956+08:00"
+  },
+  {
+    "name": "深圳市联程吉运物流有限公司成都分公司",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:23:59.699+08:00"
+  },
+  {
+    "name": "顺丰速运(绿野店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:23:59.750+08:00"
+  },
+  {
+    "name": "顺丰速运(纳米爱邸店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:23:59.802+08:00"
+  },
+  {
+    "name": "快捷通物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:23:59.855+08:00"
+  },
+  {
+    "name": "联本物流",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:23:59.906+08:00"
+  },
+  {
+    "name": "新杰物流(物流大道店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:24:02.476+08:00"
+  },
+  {
+    "name": "顺丰速运(春熙第一城店)",
+    "city": "成都市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:24:05.181+08:00"
   }
 ]
