@@ -31579,5 +31579,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:21:37.767+08:00"
+  },
+  {
+    "name": "中城路242号汽车租赁",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:44.083+08:00"
+  },
+  {
+    "name": "嘉禾出行汽车服务旗舰店",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:44.130+08:00"
+  },
+  {
+    "name": "冉海新能源物流车青岛销售中心",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:44.162+08:00"
+  },
+  {
+    "name": "圣富通租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T01:21:50.005+08:00"
+  },
+  {
+    "name": "鑫亿合汽车租赁",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:50.040+08:00"
+  },
+  {
+    "name": "鑫旺汽车租赁(灵海路店)",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:50.078+08:00"
+  },
+  {
+    "name": "云轻奢-AY汽车租赁",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:55.670+08:00"
+  },
+  {
+    "name": "鑫旺达租车",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:55.726+08:00"
+  },
+  {
+    "name": "青岛天一海汽车服务有限公司",
+    "city": "青岛市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:21:58.661+08:00"
   }
 ]
