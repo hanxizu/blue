@@ -25648,5 +25648,59 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T02:07:23.513+08:00"
+  },
+  {
+    "name": "湖北黑鹰物流有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:26.590+08:00"
+  },
+  {
+    "name": "大道物流(绿地国博财富中心店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:30.157+08:00"
+  },
+  {
+    "name": "湖北新华书店集团公司物流中心",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:30.219+08:00"
+  },
+  {
+    "name": "顺丰速运(太子水榭店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:07:30.285+08:00"
+  },
+  {
+    "name": "奥动换电蓝焰物流园站",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:07:30.354+08:00"
+  },
+  {
+    "name": "顺丰速运(观澜国际店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 509,
+    "colorRatio": "13.86%",
+    "timestamp": "2026-07-03T02:07:30.409+08:00"
   }
 ]
