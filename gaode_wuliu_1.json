@@ -250,5 +250,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T07:21:17.757+08:00"
+  },
+  {
+    "name": "安顺·大件物流(上海一店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T07:21:20.417+08:00"
+  },
+  {
+    "name": "旗锋国际货运(上海)有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:20.444+08:00"
+  },
+  {
+    "name": "安顺·大件托运物流(上海店)",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T07:21:20.467+08:00"
+  },
+  {
+    "name": "上海名港国际货运有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:20.493+08:00"
+  },
+  {
+    "name": "旗锋国际货运(上海)有限公司",
+    "city": "上海市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T07:21:23.021+08:00"
   }
 ]
