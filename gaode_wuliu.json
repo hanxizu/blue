@@ -38914,5 +38914,50 @@
     "colorPixels": 48,
     "colorRatio": "1.31%",
     "timestamp": "2026-07-03T03:10:09.505+08:00"
+  },
+  {
+    "name": "顺丰速运(鹂岛路店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:10:19.646+08:00"
+  },
+  {
+    "name": "南京铁振物流有限公司",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:10:19.689+08:00"
+  },
+  {
+    "name": "顺丰速运(顺翔店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T03:10:22.566+08:00"
+  },
+  {
+    "name": "南钢物流港-池南库",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T03:10:25.582+08:00"
+  },
+  {
+    "name": "顺丰速运(浦厂一村小区店)",
+    "city": "南京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T03:10:25.626+08:00"
   }
 ]
