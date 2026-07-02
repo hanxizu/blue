@@ -1816,5 +1816,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:20:07.988+08:00"
+  },
+  {
+    "name": "顺丰速运(爱这城店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:20:10.414+08:00"
+  },
+  {
+    "name": "顺丰速运(北师店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:20:10.464+08:00"
   }
 ]
