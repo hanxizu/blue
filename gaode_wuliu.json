@@ -1897,5 +1897,41 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T00:20:24.444+08:00"
+  },
+  {
+    "name": "顺丰速运(亚运村店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:20:33.177+08:00"
+  },
+  {
+    "name": "安路通物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:20:36.569+08:00"
+  },
+  {
+    "name": "翰呈物流(北京站)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:20:36.603+08:00"
+  },
+  {
+    "name": "北京祥龙三台山物流有限公司(三台山路)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:20:40.202+08:00"
   }
 ]
