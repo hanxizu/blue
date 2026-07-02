@@ -6631,5 +6631,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-02T10:53:45.679+08:00"
+  },
+  {
+    "name": "月霞装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:53:48.260+08:00"
+  },
+  {
+    "name": "透明装·极致透明化装修",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:53:54.900+08:00"
+  },
+  {
+    "name": "索菲亚衣柜橱柜全屋定制(徐汇店)",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-02T10:53:54.956+08:00"
+  },
+  {
+    "name": "上海银浜装饰",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T10:53:54.986+08:00"
+  },
+  {
+    "name": "上海卓轶建筑装修装饰有限公司",
+    "city": "上海市",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T10:53:58.111+08:00"
   }
 ]
