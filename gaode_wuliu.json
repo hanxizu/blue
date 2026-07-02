@@ -27520,5 +27520,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:16:40.597+08:00"
+  },
+  {
+    "name": "京东物流(青枫巷店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:16:43.331+08:00"
+  },
+  {
+    "name": "西安博雄物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:16:46.885+08:00"
+  },
+  {
+    "name": "鸿骏物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:16:46.928+08:00"
+  },
+  {
+    "name": "顺丰速运(湖北庄店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:16:46.971+08:00"
+  },
+  {
+    "name": "中海物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 142,
+    "colorRatio": "3.87%",
+    "timestamp": "2026-07-03T02:16:47.014+08:00"
   }
 ]
