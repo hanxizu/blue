@@ -33712,5 +33712,77 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:45:12.705+08:00"
+  },
+  {
+    "name": "英美物流东莞南城仓",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:23.689+08:00"
+  },
+  {
+    "name": "东莞市中飞货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:23.732+08:00"
+  },
+  {
+    "name": "怡龙物流",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:23.775+08:00"
+  },
+  {
+    "name": "东莞航源国际物流服务有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:45:23.818+08:00"
+  },
+  {
+    "name": "亚辰国际货运代理(东莞)有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:26.640+08:00"
+  },
+  {
+    "name": "东莞市亿诚货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:45:26.693+08:00"
+  },
+  {
+    "name": "鸿粤仓储物流B1栋",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:45:26.834+08:00"
+  },
+  {
+    "name": "镁仓科技",
+    "city": "东莞市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:45:26.959+08:00"
   }
 ]
