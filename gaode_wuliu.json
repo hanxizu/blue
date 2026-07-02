@@ -27961,5 +27961,41 @@
     "colorPixels": 22,
     "colorRatio": "0.60%",
     "timestamp": "2026-07-03T02:17:59.570+08:00"
+  },
+  {
+    "name": "宇鑫物流(北三环店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:18:06.346+08:00"
+  },
+  {
+    "name": "雷龙物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:18:06.390+08:00"
+  },
+  {
+    "name": "环岳冷链云仓(雨润仓)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:18:09.642+08:00"
+  },
+  {
+    "name": "物流平台",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:18:09.685+08:00"
   }
 ]
