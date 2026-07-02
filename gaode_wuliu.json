@@ -24271,5 +24271,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:01:35.407+08:00"
+  },
+  {
+    "name": "顺丰速运(八大家花园店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:01:38.481+08:00"
+  },
+  {
+    "name": "顺丰速运(卧龙雾化店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:01:38.525+08:00"
+  },
+  {
+    "name": "京东物流(中民·幸福里店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:42.069+08:00"
+  },
+  {
+    "name": "佳德仓行(武汉)国际物流供应链有限公司",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 170,
+    "colorRatio": "4.63%",
+    "timestamp": "2026-07-03T02:01:42.113+08:00"
+  },
+  {
+    "name": "筷子国际物流",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:01:44.894+08:00"
   }
 ]
