@@ -30661,5 +30661,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:29:35.905+08:00"
+  },
+  {
+    "name": "钜簏物流(丹尼尔奥莱国际店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:29:50.450+08:00"
+  },
+  {
+    "name": "金发卸货点",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:29:50.504+08:00"
+  },
+  {
+    "name": "安意红征物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:29:50.555+08:00"
+  },
+  {
+    "name": "双生红征物流",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:29:50.606+08:00"
+  },
+  {
+    "name": "顺丰速运(通济南坊店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 539,
+    "colorRatio": "14.68%",
+    "timestamp": "2026-07-03T02:29:50.658+08:00"
   }
 ]
