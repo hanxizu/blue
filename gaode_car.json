@@ -6127,5 +6127,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:18:48.090+08:00"
+  },
+  {
+    "name": "忆捷租车",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:18:50.879+08:00"
+  },
+  {
+    "name": "广州火车站地铁站A口-枫叶广州",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:18:57.342+08:00"
+  },
+  {
+    "name": "淘金(地铁站)-枫叶广州",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:18:57.407+08:00"
+  },
+  {
+    "name": "广州-三元里取车点-粤汽",
+    "city": "广州市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:18:57.528+08:00"
   }
 ]
