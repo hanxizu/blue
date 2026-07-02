@@ -11743,5 +11743,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T01:04:41.236+08:00"
+  },
+  {
+    "name": "顺丰速运(麓湖店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 560,
+    "colorRatio": "15.25%",
+    "timestamp": "2026-07-03T01:04:48.410+08:00"
+  },
+  {
+    "name": "百非国际物流(广州)有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 73,
+    "colorRatio": "1.99%",
+    "timestamp": "2026-07-03T01:04:48.466+08:00"
+  },
+  {
+    "name": "顺丰速运(先烈中路店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:04:51.605+08:00"
+  },
+  {
+    "name": "东宸新途国际物流",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:04:54.591+08:00"
+  },
+  {
+    "name": "广州文捷集运仓",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:04:54.658+08:00"
+  },
+  {
+    "name": "昂蓝货运",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:04:57.673+08:00"
+  },
+  {
+    "name": "顺丰速运(荔湾店)",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:04:57.736+08:00"
+  },
+  {
+    "name": "广州鑫运国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:05:00.564+08:00"
   }
 ]
