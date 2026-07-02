@@ -2059,5 +2059,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T00:21:23.768+08:00"
+  },
+  {
+    "name": "京北物流",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:21:23.803+08:00"
+  },
+  {
+    "name": "大德明达物流(新宫商业二街店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:23.838+08:00"
+  },
+  {
+    "name": "洪城物流国内专线直达",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:23.872+08:00"
+  },
+  {
+    "name": "北京富邦货运有限公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T00:21:23.924+08:00"
+  },
+  {
+    "name": "中铁快运北京丰台站营业部",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:21:26.648+08:00"
   }
 ]
