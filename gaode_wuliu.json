@@ -30049,5 +30049,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:26:30.234+08:00"
+  },
+  {
+    "name": "四季安物流西斜路店",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T02:26:30.286+08:00"
+  },
+  {
+    "name": "顺丰速运(白家口店)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T02:26:30.338+08:00"
+  },
+  {
+    "name": "云聚物流(西斜路营业部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 165,
+    "colorRatio": "4.49%",
+    "timestamp": "2026-07-03T02:26:30.391+08:00"
+  },
+  {
+    "name": "西安秦大物流(城西货运部)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:26:33.389+08:00"
+  },
+  {
+    "name": "西安诚鑫物流(佳宝小区东)",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:26:33.441+08:00"
   }
 ]
