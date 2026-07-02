@@ -29563,5 +29563,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T02:23:54.808+08:00"
+  },
+  {
+    "name": "秦傲供应链(仓储园区)服务中心",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T02:24:05.138+08:00"
+  },
+  {
+    "name": "周至309货运",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:24:05.190+08:00"
+  },
+  {
+    "name": "西安富达物流有限公司",
+    "city": "西安市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T02:24:08.212+08:00"
   }
 ]
