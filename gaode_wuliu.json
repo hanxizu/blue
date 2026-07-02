@@ -22552,5 +22552,59 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T01:56:47.538+08:00"
+  },
+  {
+    "name": "菜鸟驿站(武汉剧院村10号店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:50.574+08:00"
+  },
+  {
+    "name": "顺丰速运(金域湖庭店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:56:50.617+08:00"
+  },
+  {
+    "name": "顺丰速运(宝丽金世纪江尚店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:56:54.285+08:00"
+  },
+  {
+    "name": "福建大道成物流科技有限公司华中运营中心",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T01:56:54.327+08:00"
+  },
+  {
+    "name": "顺丰速运(南国写字楼店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:56:54.394+08:00"
+  },
+  {
+    "name": "顺丰速运(世纪江尚店)",
+    "city": "武汉市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:56:54.442+08:00"
   }
 ]
