@@ -13417,5 +13417,140 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:53:06.403+08:00"
+  },
+  {
+    "name": "租个车租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:09.357+08:00"
+  },
+  {
+    "name": "路马出行电动车租赁(北大街店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-02T23:53:11.953+08:00"
+  },
+  {
+    "name": "快行租赁",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-02T23:53:12.011+08:00"
+  },
+  {
+    "name": "多福出行网约车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:14.586+08:00"
+  },
+  {
+    "name": "会海租车(西安北站店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:14.618+08:00"
+  },
+  {
+    "name": "哈啰租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:53:14.656+08:00"
+  },
+  {
+    "name": "陕西鑫亨荣达网约车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:17.367+08:00"
+  },
+  {
+    "name": "西安新起点租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:17.403+08:00"
+  },
+  {
+    "name": "嘉健汽租汽车租赁",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:20.292+08:00"
+  },
+  {
+    "name": "哈啰租车(北二环西派国际店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:23.387+08:00"
+  },
+  {
+    "name": "驭驰出行西安租车服务中心",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:23.422+08:00"
+  },
+  {
+    "name": "泊创租车(北站店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:26.051+08:00"
+  },
+  {
+    "name": "西安十三行出租车服务部",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:29.166+08:00"
+  },
+  {
+    "name": "明野房车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:29.202+08:00"
+  },
+  {
+    "name": "小嘿象租车金箭(御井路店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:53:31.874+08:00"
   }
 ]
