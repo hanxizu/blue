@@ -340,5 +340,32 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:15:47.402+08:00"
+  },
+  {
+    "name": "007快运Express(日坛国际贸易中心B座店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 21,
+    "colorRatio": "0.57%",
+    "timestamp": "2026-07-03T00:15:49.892+08:00"
+  },
+  {
+    "name": "东方海外货柜航运(中国)有限公司北京分公司",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:15:49.924+08:00"
+  },
+  {
+    "name": "安顺·物流托运公司.摩托车托运",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 100,
+    "colorRatio": "3.84%",
+    "timestamp": "2026-07-03T00:15:54.856+08:00"
   }
 ]
