@@ -169,5 +169,23 @@
     "colorPixels": 268,
     "colorRatio": "6.77%",
     "timestamp": "2026-07-02T08:21:04.839+08:00"
+  },
+  {
+    "name": "北京今朝装饰(刘家窑总部店)",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 216,
+    "colorRatio": "5.45%",
+    "timestamp": "2026-07-02T08:21:08.820+08:00"
+  },
+  {
+    "name": "被窝整装(CBD旗舰店)",
+    "city": "沙坡头区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 647,
+    "colorRatio": "16.34%",
+    "timestamp": "2026-07-02T08:21:12.333+08:00"
   }
 ]
