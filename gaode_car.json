@@ -14560,5 +14560,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:57:36.628+08:00"
+  },
+  {
+    "name": "惠风租车(丰庆路店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:57:43.396+08:00"
+  },
+  {
+    "name": "首汽租车(捷瑞智能大厦东区店)",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:57:43.465+08:00"
+  },
+  {
+    "name": "升润租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:57:43.527+08:00"
+  },
+  {
+    "name": "源程租车",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:57:52.954+08:00"
+  },
+  {
+    "name": "家瑞租车西安站店",
+    "city": "西安市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:58:02.022+08:00"
   }
 ]
