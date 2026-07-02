@@ -628,5 +628,23 @@
     "colorPixels": 499,
     "colorRatio": "13.59%",
     "timestamp": "2026-07-03T00:16:30.376+08:00"
+  },
+  {
+    "name": "DHL中外运敦豪(三里屯店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:33.793+08:00"
+  },
+  {
+    "name": "顺丰速运(广电总局店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:16:33.828+08:00"
   }
 ]
