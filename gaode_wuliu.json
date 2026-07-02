@@ -20131,5 +20131,50 @@
     "colorPixels": 491,
     "colorRatio": "13.37%",
     "timestamp": "2026-07-03T01:40:33.646+08:00"
+  },
+  {
+    "name": "大件物流托运",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 130,
+    "colorRatio": "3.54%",
+    "timestamp": "2026-07-03T01:40:33.717+08:00"
+  },
+  {
+    "name": "顺丰速运(旺角城小驿店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T01:40:33.762+08:00"
+  },
+  {
+    "name": "德邦物流(九福路店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:40:33.805+08:00"
+  },
+  {
+    "name": "浙江新农都物流中心一区9号楼",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:40:36.470+08:00"
+  },
+  {
+    "name": "浙江新农都物流中心一区10幢",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T01:40:36.553+08:00"
   }
 ]
