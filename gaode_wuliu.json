@@ -20860,5 +20860,23 @@
     "colorPixels": 21,
     "colorRatio": "0.57%",
     "timestamp": "2026-07-03T01:43:19.673+08:00"
+  },
+  {
+    "name": "顺丰速运(水岸御庭店)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:43:30.430+08:00"
+  },
+  {
+    "name": "森宇物流(萧山分公司)",
+    "city": "杭州市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 22,
+    "colorRatio": "0.60%",
+    "timestamp": "2026-07-03T01:43:30.481+08:00"
   }
 ]
