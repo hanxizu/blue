@@ -7801,5 +7801,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-02T23:26:06.918+08:00"
+  },
+  {
+    "name": "成都环球中心送车点",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:13.190+08:00"
+  },
+  {
+    "name": "成都新会展送车点",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:13.219+08:00"
+  },
+  {
+    "name": "成都天府三街送车点",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:13.251+08:00"
+  },
+  {
+    "name": "成都超亿租车新会展送车店",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:18.956+08:00"
+  },
+  {
+    "name": "成都九眼桥店-鑫岩租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:18.991+08:00"
+  },
+  {
+    "name": "坤亿达租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:25.071+08:00"
+  },
+  {
+    "name": "逸宸租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T23:26:25.099+08:00"
+  },
+  {
+    "name": "骏义达租车",
+    "city": "成都市",
+    "keyword": "汽车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-02T23:26:25.127+08:00"
   }
 ]
