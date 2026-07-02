@@ -547,5 +547,32 @@
     "colorPixels": 114,
     "colorRatio": "3.10%",
     "timestamp": "2026-07-03T00:16:13.168+08:00"
+  },
+  {
+    "name": "顺丰速运(合生国际店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:16:16.429+08:00"
+  },
+  {
+    "name": "菜百物流中心",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T00:16:19.709+08:00"
+  },
+  {
+    "name": "顺丰速运(天天家园店)",
+    "city": "北京市",
+    "keyword": "物流",
+    "type": "VIP",
+    "colorPixels": 499,
+    "colorRatio": "13.59%",
+    "timestamp": "2026-07-03T00:16:19.743+08:00"
   }
 ]
