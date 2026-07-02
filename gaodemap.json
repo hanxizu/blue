@@ -1744,5 +1744,23 @@
     "colorPixels": 649,
     "colorRatio": "16.39%",
     "timestamp": "2026-07-02T08:47:49.435+08:00"
+  },
+  {
+    "name": "富威装饰公司",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-02T08:47:55.584+08:00"
+  },
+  {
+    "name": "溢旺盛程装饰公司",
+    "city": "北京市市辖区",
+    "keyword": "装修",
+    "type": "VIP",
+    "colorPixels": 36,
+    "colorRatio": "0.91%",
+    "timestamp": "2026-07-02T08:47:55.631+08:00"
   }
 ]
