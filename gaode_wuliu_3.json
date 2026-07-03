@@ -32182,5 +32182,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:03:28.599+08:00"
+  },
+  {
+    "name": "正大物流沈阳提货处",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:28.773+08:00"
+  },
+  {
+    "name": "万纬沈阳浑南冷链物流园",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:28.888+08:00"
+  },
+  {
+    "name": "沈阳佰汇恒昌危险品运输有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T13:03:28.997+08:00"
+  },
+  {
+    "name": "万纬沈阳浑南冷链物流园",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:31.639+08:00"
   }
 ]
