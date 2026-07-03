@@ -19465,5 +19465,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:42:07.744+08:00"
+  },
+  {
+    "name": "大田物流(浏阳河路店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:42:07.908+08:00"
+  },
+  {
+    "name": "顺丰速运(常州大件转运中心)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:42:07.983+08:00"
+  },
+  {
+    "name": "常州市天众物流园",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:08.043+08:00"
+  },
+  {
+    "name": "顺丰速运(常州大件转运中心)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:42:10.827+08:00"
   }
 ]
