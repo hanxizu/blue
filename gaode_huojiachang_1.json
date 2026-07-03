@@ -15928,5 +15928,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:26:42.653+08:00"
+  },
+  {
+    "name": "无锡慷达金属制品有限公司",
+    "city": "无锡市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:26:42.762+08:00"
+  },
+  {
+    "name": "江苏聚鸿智能物流装备有限公司",
+    "city": "无锡市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:26:42.794+08:00"
+  },
+  {
+    "name": "江阴市博世杰科技有限公司",
+    "city": "无锡市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T23:26:42.825+08:00"
   }
 ]
