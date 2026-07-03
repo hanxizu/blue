@@ -13849,5 +13849,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T19:16:09.966+08:00"
+  },
+  {
+    "name": "河南德之汇婚车出租",
+    "city": "郑州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T19:16:10.049+08:00"
+  },
+  {
+    "name": "郑州市特邦汽车租赁服务有限公司",
+    "city": "郑州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:16:10.076+08:00"
+  },
+  {
+    "name": "郑州畅租租车飞租V店",
+    "city": "郑州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:16:10.105+08:00"
+  },
+  {
+    "name": "丰元租车",
+    "city": "郑州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:16:10.134+08:00"
   }
 ]
