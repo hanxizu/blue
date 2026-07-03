@@ -3589,5 +3589,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:44:21.061+08:00"
+  },
+  {
+    "name": "重庆尤乐宠运输有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:21.104+08:00"
+  },
+  {
+    "name": "韵达物流(沃尔玛店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:44:21.135+08:00"
+  },
+  {
+    "name": "京东物流阳光职场(陆海国际中心店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:21.163+08:00"
+  },
+  {
+    "name": "韵达物流(沃尔玛店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:44:23.918+08:00"
+  },
+  {
+    "name": "京东物流阳光职场(陆海国际中心店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:23.954+08:00"
+  },
+  {
+    "name": "重庆市汽车运输(集团)有限责任公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:23.986+08:00"
+  },
+  {
+    "name": "安能物流盘溪网点(余松路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:44:24.021+08:00"
+  },
+  {
+    "name": "重庆市汽车运输(集团)有限责任公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:26.706+08:00"
   }
 ]
