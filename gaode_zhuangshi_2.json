@@ -1168,5 +1168,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T15:29:05.111+08:00"
+  },
+  {
+    "name": "新好居装饰",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:29:05.223+08:00"
+  },
+  {
+    "name": "索菲亚(弘阳家居店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T15:29:05.257+08:00"
+  },
+  {
+    "name": "内南深装饰",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:29:05.288+08:00"
+  },
+  {
+    "name": "光点广告·门头招牌·灯箱·店铺装修·文化墙形象墙·发光字·会展物料",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T15:29:08.536+08:00"
   }
 ]
