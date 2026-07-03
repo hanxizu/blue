@@ -18106,5 +18106,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T22:31:59.101+08:00"
+  },
+  {
+    "name": "官渡区金有渔家政服务部",
+    "city": "昆明市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:31:59.287+08:00"
+  },
+  {
+    "name": "云南洁畅清洗保洁有限公司",
+    "city": "昆明市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:31:59.341+08:00"
+  },
+  {
+    "name": "昆明志勤环保科技有限公司",
+    "city": "昆明市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:31:59.383+08:00"
+  },
+  {
+    "name": "云南洁畅清洗保洁有限公司",
+    "city": "昆明市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:32:02.167+08:00"
   }
 ]
