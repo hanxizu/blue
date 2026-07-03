@@ -4165,5 +4165,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:16:36.335+08:00"
+  },
+  {
+    "name": "济南君德物流有限公司",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:16:36.445+08:00"
+  },
+  {
+    "name": "济南亮航运输有限公司",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:16:36.475+08:00"
+  },
+  {
+    "name": "泓铖物流",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:16:36.515+08:00"
+  },
+  {
+    "name": "泓铖物流",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:16:39.215+08:00"
+  },
+  {
+    "name": "宇佳物流黄台灯具城",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:16:39.257+08:00"
+  },
+  {
+    "name": "宇佳物流高新飞跃大道",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:16:39.306+08:00"
+  },
+  {
+    "name": "山东盖世国际物流集团",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:16:39.348+08:00"
   }
 ]
