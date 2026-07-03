@@ -14731,5 +14731,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:32:30.264+08:00"
+  },
+  {
+    "name": "水围驿收发",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:32:32.859+08:00"
+  },
+  {
+    "name": "驿收发快递驿站(新兴村店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:32.889+08:00"
+  },
+  {
+    "name": "顺丰速运(祠堂村店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:32:32.918+08:00"
+  },
+  {
+    "name": "顺丰速运(新沙街华海店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:32.944+08:00"
+  },
+  {
+    "name": "顺丰速运(华新村店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:32:32.968+08:00"
+  },
+  {
+    "name": "顺丰速运(新沙街华海店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:35.812+08:00"
   }
 ]
