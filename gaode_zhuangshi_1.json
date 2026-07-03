@@ -28159,5 +28159,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T14:33:07.691+08:00"
+  },
+  {
+    "name": "华庭装饰(挹秀支路)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:33:07.869+08:00"
+  },
+  {
+    "name": "GANI简一(苏州吴中区工业园区红星店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T14:33:07.995+08:00"
+  },
+  {
+    "name": "苏州厚度装饰科技有限公司",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:33:08.128+08:00"
+  },
+  {
+    "name": "追梦族装饰",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:33:11.492+08:00"
   }
 ]
