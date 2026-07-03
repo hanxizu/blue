@@ -52423,5 +52423,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T17:00:17.626+08:00"
+  },
+  {
+    "name": "腾达装饰",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:00:17.927+08:00"
+  },
+  {
+    "name": "山东万景装饰",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T17:00:21.099+08:00"
   }
 ]
