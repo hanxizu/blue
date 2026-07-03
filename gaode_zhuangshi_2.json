@@ -4543,5 +4543,32 @@
     "colorPixels": 381,
     "colorRatio": "16.60%",
     "timestamp": "2026-07-03T15:35:39.530+08:00"
+  },
+  {
+    "name": "安徽华誉装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:35:39.640+08:00"
+  },
+  {
+    "name": "合肥肆季空间装饰设计有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:35:39.674+08:00"
+  },
+  {
+    "name": "合肥市创泽建筑装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:35:42.809+08:00"
   }
 ]
