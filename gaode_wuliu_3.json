@@ -6919,5 +6919,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:21:12.653+08:00"
+  },
+  {
+    "name": "永达物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:21:12.793+08:00"
+  },
+  {
+    "name": "福州鲲鹏捷运供应链管理有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:21:12.829+08:00"
+  },
+  {
+    "name": "雄迈国际物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:21:12.882+08:00"
+  },
+  {
+    "name": "富盛林物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:21:12.916+08:00"
+  },
+  {
+    "name": "雄迈国际物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:21:15.703+08:00"
   }
 ]
