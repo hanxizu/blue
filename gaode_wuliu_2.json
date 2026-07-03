@@ -15865,5 +15865,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:02:12.771+08:00"
+  },
+  {
+    "name": "景光物流(建南一路店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:02:12.887+08:00"
+  },
+  {
+    "name": "顺丰速运(水濂山店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:02:12.932+08:00"
+  },
+  {
+    "name": "顺丰速运(砖窑一横路店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:02:12.965+08:00"
+  },
+  {
+    "name": "(仅托运轿车不做物流运输)京吉顺通专业轿车托运平台(广州店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:02:15.357+08:00"
+  },
+  {
+    "name": "良安物流有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:02:15.397+08:00"
+  },
+  {
+    "name": "一汽解放(广州运力店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:02:15.431+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(东莞)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:02:15.465+08:00"
+  },
+  {
+    "name": "(仅托运轿车不做物流运输)京吉顺通专业轿车托运平台(广州店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:02:18.379+08:00"
   }
 ]
