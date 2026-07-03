@@ -33469,5 +33469,41 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T13:10:35.087+08:00"
+  },
+  {
+    "name": "菜鸟驿站(江信国际花园店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:10:35.287+08:00"
+  },
+  {
+    "name": "红谷滩中通速递(滨江分部)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:10:35.321+08:00"
+  },
+  {
+    "name": "顺丰速运(团结路小店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:10:35.350+08:00"
+  },
+  {
+    "name": "菜鸟驿站(江信国际花园店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:10:38.207+08:00"
   }
 ]
