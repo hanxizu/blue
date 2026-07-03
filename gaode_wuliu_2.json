@@ -20527,5 +20527,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:09:52.565+08:00"
+  },
+  {
+    "name": "佛山聚能货运代理有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:52.706+08:00"
+  },
+  {
+    "name": "超鹰速物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:52.827+08:00"
+  },
+  {
+    "name": "顺丰速运(季华东路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:09:52.907+08:00"
+  },
+  {
+    "name": "顺丰速运(绿地璀璨店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:09:52.966+08:00"
+  },
+  {
+    "name": "普洛斯顺德国通物流园",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:55.906+08:00"
   }
 ]
