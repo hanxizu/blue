@@ -26107,5 +26107,59 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T11:18:38.558+08:00"
+  },
+  {
+    "name": "金轮星立方滴滴货运南京驰睿司机服务中心",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:38.783+08:00"
+  },
+  {
+    "name": "圆通速递(西桥店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:38.899+08:00"
+  },
+  {
+    "name": "快递驿站",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:39.008+08:00"
+  },
+  {
+    "name": "ems中国邮政速递物流(世界贸易中心店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:41.435+08:00"
+  },
+  {
+    "name": "南京前置仓丁家庄站配送站",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:41.507+08:00"
+  },
+  {
+    "name": "菜鸟驿站(干河沿前街店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:41.580+08:00"
   }
 ]
