@@ -2545,5 +2545,32 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T07:29:01.661+08:00"
+  },
+  {
+    "name": "中华遗嘱库(北京丰台分库)",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T07:29:01.696+08:00"
+  },
+  {
+    "name": "北京睿航律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T07:29:01.721+08:00"
+  },
+  {
+    "name": "北京行谨律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T07:29:05.092+08:00"
   }
 ]
