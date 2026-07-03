@@ -41290,5 +41290,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T16:39:15.137+08:00"
+  },
+  {
+    "name": "青朗装饰·别墅大宅装修设计",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T16:39:15.397+08:00"
+  },
+  {
+    "name": "青岛山谷装饰工程有限公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:39:15.450+08:00"
+  },
+  {
+    "name": "青岛红福泉工程装饰有限公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:39:15.492+08:00"
+  },
+  {
+    "name": "青岛欧品尚家装饰工程有限公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:39:18.688+08:00"
   }
 ]
