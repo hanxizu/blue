@@ -44737,5 +44737,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:21:30.830+08:00"
+  },
+  {
+    "name": "鸿达旺运(博乐里购物广场店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:21:31.091+08:00"
+  },
+  {
+    "name": "菜鸟驿站(盐张东区店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:21:31.212+08:00"
+  },
+  {
+    "name": "丰巢快递柜(国金华府北门口丰巢柜1号柜店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:21:31.320+08:00"
+  },
+  {
+    "name": "安能物流(苏家营村宇通仓库店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:21:31.500+08:00"
+  },
+  {
+    "name": "丰巢快递柜(国金华府北门口丰巢柜1号柜店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:21:34.263+08:00"
   }
 ]
