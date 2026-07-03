@@ -30895,5 +30895,68 @@
     "colorPixels": 380,
     "colorRatio": "16.56%",
     "timestamp": "2026-07-03T16:20:21.749+08:00"
+  },
+  {
+    "name": "欧派橱柜(厦门集美店)",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:20:22.016+08:00"
+  },
+  {
+    "name": "厦门丽星兰装修有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:20:22.084+08:00"
+  },
+  {
+    "name": "福建盛世维宏装饰设计工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:20:22.137+08:00"
+  },
+  {
+    "name": "欧派橱柜(厦门集美店)",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:20:24.952+08:00"
+  },
+  {
+    "name": "厦门丽星兰装修有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:20:24.997+08:00"
+  },
+  {
+    "name": "福建盛世维宏装饰设计工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:20:25.035+08:00"
+  },
+  {
+    "name": "福建盛世维宏装饰设计工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:20:27.427+08:00"
   }
 ]
