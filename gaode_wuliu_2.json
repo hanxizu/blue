@@ -48328,5 +48328,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:55:52.482+08:00"
+  },
+  {
+    "name": "厦门小龙虾配送中心",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:52.776+08:00"
+  },
+  {
+    "name": "麦兰威典(上海)国际货运代理有限公司厦门分公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 101,
+    "colorRatio": "4.40%",
+    "timestamp": "2026-07-03T11:55:52.891+08:00"
+  },
+  {
+    "name": "利伟航(厦门)物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:55:53.003+08:00"
+  },
+  {
+    "name": "兔喜生活(厦门思明莲坂西店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:55.771+08:00"
   }
 ]
