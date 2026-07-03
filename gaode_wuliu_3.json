@@ -1762,5 +1762,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:12:22.504+08:00"
+  },
+  {
+    "name": "菜鸟驿站(郑州六厂前街中段8号店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:22.601+08:00"
+  },
+  {
+    "name": "中国邮政(火车站邮政支局)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:22.632+08:00"
+  },
+  {
+    "name": "宇鑫物流(德成街店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:25.260+08:00"
+  },
+  {
+    "name": "菜鸟驿站(郑州六厂前街中段8号店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:25.289+08:00"
+  },
+  {
+    "name": "中国邮政(火车站邮政支局)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:25.319+08:00"
+  },
+  {
+    "name": "菜鸟驿站(郑州岗坡路4号院店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:12:25.351+08:00"
+  },
+  {
+    "name": "菜鸟驿站(郑州岗坡路4号院店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:12:28.373+08:00"
   }
 ]
