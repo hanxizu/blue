@@ -30904,5 +30904,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:25:23.717+08:00"
+  },
+  {
+    "name": "京东物流(南京燕子矶站)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:25:23.907+08:00"
+  },
+  {
+    "name": "顺丰速运(麒麟门店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:25:24.026+08:00"
+  },
+  {
+    "name": "中国邮政EMS(南京市大明路北揽投部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:25:24.086+08:00"
+  },
+  {
+    "name": "中国邮政EMS(南京市大明路北揽投部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:25:26.588+08:00"
+  },
+  {
+    "name": "中国邮政(麒麟营业投递部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:25:26.624+08:00"
+  },
+  {
+    "name": "江苏诚盟物流有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:25:26.656+08:00"
+  },
+  {
+    "name": "苏果配送中心",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:25:26.689+08:00"
+  },
+  {
+    "name": "中国邮政EMS(南京市大明路北揽投部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:25:29.816+08:00"
   }
 ]
