@@ -17854,5 +17854,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:39:55.364+08:00"
+  },
+  {
+    "name": "常州交运集团中村物流中心",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:39:55.503+08:00"
+  },
+  {
+    "name": "京东物流(常州新北营业部)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:39:55.538+08:00"
+  },
+  {
+    "name": "顺丰速运(龙湖郦城店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:39:55.575+08:00"
+  },
+  {
+    "name": "常州交运集团中村物流中心",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:39:58.674+08:00"
   }
 ]
