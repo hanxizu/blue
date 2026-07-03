@@ -295,5 +295,68 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T22:47:26.618+08:00"
+  },
+  {
+    "name": "货架厂批发",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T22:47:26.658+08:00"
+  },
+  {
+    "name": "北京汇达鑫凯货架有限公司",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:47:26.688+08:00"
+  },
+  {
+    "name": "北京世纪联发货架有限公司",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:47:29.277+08:00"
+  },
+  {
+    "name": "货架厂批发",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T22:47:29.302+08:00"
+  },
+  {
+    "name": "北京汇达鑫凯货架有限公司",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:47:29.352+08:00"
+  },
+  {
+    "name": "北京永胜宏兴货架有限公司",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:47:29.390+08:00"
+  },
+  {
+    "name": "北京永胜宏兴货架有限公司",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:47:32.001+08:00"
   }
 ]
