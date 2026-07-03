@@ -23128,5 +23128,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:47:56.024+08:00"
+  },
+  {
+    "name": "南通安能物流(先锋营业部)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:47:56.233+08:00"
+  },
+  {
+    "name": "南通联众汽车运输有限公司(资生路店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:47:56.262+08:00"
+  },
+  {
+    "name": "南通市第三运输有限责任公司(和谐怡园佳苑店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:47:56.336+08:00"
+  },
+  {
+    "name": "南通联众汽车运输有限公司(资生路店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:47:59.131+08:00"
   }
 ]
