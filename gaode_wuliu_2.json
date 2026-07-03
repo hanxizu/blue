@@ -52378,5 +52378,77 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T12:02:53.297+08:00"
+  },
+  {
+    "name": "德邦快递(长沙望城区金峰园经营分部)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:02:53.575+08:00"
+  },
+  {
+    "name": "菜鸟驿站(长沙金桥未来城3栋105号店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:53.685+08:00"
+  },
+  {
+    "name": "菜鸟驿站(金桥食品城店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:53.797+08:00"
+  },
+  {
+    "name": "德邦快递(长沙望城区金峰园经营分部)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:02:56.269+08:00"
+  },
+  {
+    "name": "菜鸟驿站(长沙金桥未来城3栋105号店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:56.299+08:00"
+  },
+  {
+    "name": "菜鸟驿站(金桥食品城店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:56.333+08:00"
+  },
+  {
+    "name": "长沙恒扬渣土运输有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:56.364+08:00"
+  },
+  {
+    "name": "德邦快递(长沙望城区金峰园经营分部)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:02:59.469+08:00"
   }
 ]
