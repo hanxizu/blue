@@ -12040,5 +12040,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:27:36.717+08:00"
+  },
+  {
+    "name": "菜鸟速递(宝通路店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:36.833+08:00"
+  },
+  {
+    "name": "芳园配送公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:36.861+08:00"
+  },
+  {
+    "name": "京东物流(金杨营业部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:36.889+08:00"
+  },
+  {
+    "name": "芳园配送公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:39.402+08:00"
+  },
+  {
+    "name": "京东物流(金杨营业部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:39.446+08:00"
+  },
+  {
+    "name": "上海交运沪北物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:39.481+08:00"
+  },
+  {
+    "name": "上海丞瑞物流",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:27:39.510+08:00"
+  },
+  {
+    "name": "京东物流(金杨营业部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:42.001+08:00"
   }
 ]
