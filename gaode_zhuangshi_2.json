@@ -25009,5 +25009,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T16:11:00.456+08:00"
+  },
+  {
+    "name": "顾家家居(华厦家居店)",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:11:00.635+08:00"
+  },
+  {
+    "name": "无锡王兴幕墙装饰工程有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:11:00.702+08:00"
+  },
+  {
+    "name": "无锡本燃设计工作室",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:11:00.732+08:00"
+  },
+  {
+    "name": "无锡王兴幕墙装饰工程有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:11:03.436+08:00"
+  },
+  {
+    "name": "无锡本燃设计工作室",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:11:03.471+08:00"
+  },
+  {
+    "name": "欧派橱柜衣柜全屋定制(无锡开发区店)",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:11:03.506+08:00"
+  },
+  {
+    "name": "毕昇云图文广告(五洲博览城店)",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T16:11:06.006+08:00"
   }
 ]
