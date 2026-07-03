@@ -28708,5 +28708,41 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T11:22:20.883+08:00"
+  },
+  {
+    "name": "南京瑞美国际物流有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:22:21.082+08:00"
+  },
+  {
+    "name": "安顺大件物流全国托运(南京店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:22:21.116+08:00"
+  },
+  {
+    "name": "安能物流(苏宁环球·名都汇店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:22:21.147+08:00"
+  },
+  {
+    "name": "南京瑞美国际物流有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:22:23.921+08:00"
   }
 ]
