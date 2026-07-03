@@ -30346,5 +30346,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T16:19:28.738+08:00"
+  },
+  {
+    "name": "厦门祥建建筑装饰有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:19:28.919+08:00"
+  },
+  {
+    "name": "厦门宗信装饰工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:19:28.991+08:00"
+  },
+  {
+    "name": "厦门市蓝翔旺装饰工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:19:29.049+08:00"
+  },
+  {
+    "name": "圣都整装厦门旗舰店",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T16:19:32.241+08:00"
   }
 ]
