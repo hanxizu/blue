@@ -46744,5 +46744,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:24:37.247+08:00"
+  },
+  {
+    "name": "丰巢柜",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:24:37.517+08:00"
+  },
+  {
+    "name": "菜鸟驿站(瑞泰卡地亚店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:24:37.634+08:00"
+  },
+  {
+    "name": "中通快递(雅荷春天南区店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:24:37.750+08:00"
+  },
+  {
+    "name": "丰巢柜",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:24:40.344+08:00"
   }
 ]
