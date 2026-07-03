@@ -5722,5 +5722,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:37:25.233+08:00"
+  },
+  {
+    "name": "北京今朝装饰集团",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 149,
+    "colorRatio": "6.49%",
+    "timestamp": "2026-07-03T15:37:25.294+08:00"
+  },
+  {
+    "name": "安徽圣七装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:37:25.329+08:00"
+  },
+  {
+    "name": "合肥永林建筑装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:37:25.364+08:00"
+  },
+  {
+    "name": "安徽圣七装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:37:28.076+08:00"
+  },
+  {
+    "name": "合肥永林建筑装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:37:28.115+08:00"
+  },
+  {
+    "name": "大象验房·专业第三方装修监理(合肥店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:37:28.154+08:00"
+  },
+  {
+    "name": "安徽鑫迪鑫凯建筑装饰设计有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:37:28.187+08:00"
+  },
+  {
+    "name": "安徽鑫迪鑫凯建筑装饰设计有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:37:30.557+08:00"
   }
 ]
