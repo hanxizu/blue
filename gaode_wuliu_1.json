@@ -47653,5 +47653,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:25:57.262+08:00"
+  },
+  {
+    "name": "菜鸟驿站(紫薇·风尚店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:25:57.595+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西安三官庙店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:25:57.707+08:00"
+  },
+  {
+    "name": "顺丰速运(瑞桐便利店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T10:25:57.828+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西安三官庙店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:00.415+08:00"
+  },
+  {
+    "name": "顺丰速运(瑞桐便利店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T10:26:00.450+08:00"
+  },
+  {
+    "name": "丰巢快递柜(FED创新中心羽毛球场旁丰巢柜)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:00.480+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西航社区外招北小区店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:00.512+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西航社区外招北小区店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:02.908+08:00"
   }
 ]
