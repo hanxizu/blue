@@ -25378,5 +25378,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:51:56.969+08:00"
+  },
+  {
+    "name": "壹米嘀嗒泉州紫鑫物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 104,
+    "colorRatio": "4.53%",
+    "timestamp": "2026-07-03T12:51:57.114+08:00"
+  },
+  {
+    "name": "德邦快递(泉州丰泽区浔丰路经营分部)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:57.158+08:00"
+  },
+  {
+    "name": "中通快递(春雁街店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:57.201+08:00"
+  },
+  {
+    "name": "申通快递(妙灵路店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:57.310+08:00"
+  },
+  {
+    "name": "中通快递(春雁街店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:52:00.425+08:00"
   }
 ]
