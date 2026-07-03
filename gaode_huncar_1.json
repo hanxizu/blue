@@ -12418,5 +12418,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T19:11:51.886+08:00"
+  },
+  {
+    "name": "木兰花艺(鲜花绿植开业布置)",
+    "city": "长沙市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T19:11:51.995+08:00"
+  },
+  {
+    "name": "欣昕鲜花店(环保店)",
+    "city": "长沙市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 125,
+    "colorRatio": "5.45%",
+    "timestamp": "2026-07-03T19:11:52.033+08:00"
+  },
+  {
+    "name": "歆怡婚车",
+    "city": "长沙市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:11:55.095+08:00"
   }
 ]
