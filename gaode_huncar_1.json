@@ -1546,5 +1546,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T18:33:11.955+08:00"
+  },
+  {
+    "name": "ONLY唯一派对",
+    "city": "上海市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:33:12.000+08:00"
+  },
+  {
+    "name": "上海陆犇汽车租赁有限公司",
+    "city": "上海市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:33:12.031+08:00"
+  },
+  {
+    "name": "神州租车(上海火车站服务点)",
+    "city": "上海市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:33:12.065+08:00"
   }
 ]
