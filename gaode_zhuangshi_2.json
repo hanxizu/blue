@@ -19591,5 +19591,59 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T16:00:59.314+08:00"
+  },
+  {
+    "name": "阡陌装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:00:59.420+08:00"
+  },
+  {
+    "name": "浙江世邦建筑装饰工程有限公司",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:00:59.527+08:00"
+  },
+  {
+    "name": "厚土装饰(中兴新家园店)",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:01:02.035+08:00"
+  },
+  {
+    "name": "宁波市大鹭人奉化区店",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T16:01:02.070+08:00"
+  },
+  {
+    "name": "宁波忆空间翻新装饰设计有限公司",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:01:02.101+08:00"
+  },
+  {
+    "name": "厚土装饰(中兴新家园店)",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:01:05.021+08:00"
   }
 ]
