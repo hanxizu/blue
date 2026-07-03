@@ -14299,5 +14299,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T12:33:13.434+08:00"
+  },
+  {
+    "name": "五丰(亿邦达)物流",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:16.268+08:00"
+  },
+  {
+    "name": "菜鸟驿站(珠海前山金之园31号商店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:16.298+08:00"
+  },
+  {
+    "name": "德邦快递(珠海香洲区金鸡路经营分部)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:33:16.332+08:00"
+  },
+  {
+    "name": "京东快递(珠海上冲营业部)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:16.398+08:00"
+  },
+  {
+    "name": "德邦快递(珠海香洲区金鸡路经营分部)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:33:19.246+08:00"
   }
 ]
