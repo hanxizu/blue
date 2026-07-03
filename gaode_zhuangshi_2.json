@@ -41434,5 +41434,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:39:28.367+08:00"
+  },
+  {
+    "name": "卓禾轩装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:39:28.650+08:00"
+  },
+  {
+    "name": "里外之间国际家居",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T16:39:28.763+08:00"
+  },
+  {
+    "name": "青岛众合汇鑫装饰装饰工程有限公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:39:28.867+08:00"
+  },
+  {
+    "name": "乐住家居",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T16:39:32.138+08:00"
   }
 ]
