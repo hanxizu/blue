@@ -6568,5 +6568,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:20:49.107+08:00"
+  },
+  {
+    "name": "德邦快递(福州台江区和平路经营分部)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:20:49.215+08:00"
+  },
+  {
+    "name": "天鑫物流提货点",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:20:49.258+08:00"
+  },
+  {
+    "name": "福州艾城物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:20:49.292+08:00"
+  },
+  {
+    "name": "原子物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:20:49.324+08:00"
+  },
+  {
+    "name": "德邦快递(福州台江区和平路经营分部)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:20:52.357+08:00"
   }
 ]
