@@ -9394,5 +9394,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:53:06.570+08:00"
+  },
+  {
+    "name": "德邦快递(东莞莞城区体育横路经营分部)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:09.151+08:00"
+  },
+  {
+    "name": "京广速递城区站",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:09.230+08:00"
+  },
+  {
+    "name": "财津拼多多驿站",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:53:09.283+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:09.322+08:00"
+  },
+  {
+    "name": "娃哈哈心美饮用水配送中心",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:09.369+08:00"
+  },
+  {
+    "name": "德邦快递(东莞莞城区体育横路经营分部)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:12.690+08:00"
   }
 ]
