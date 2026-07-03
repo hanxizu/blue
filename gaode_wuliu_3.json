@@ -34000,5 +34000,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:11:15.404+08:00"
+  },
+  {
+    "name": "江西速锐供应链管理有限公司",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:11:15.569+08:00"
+  },
+  {
+    "name": "江西省美创供应链管理有限公司",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:15.676+08:00"
+  },
+  {
+    "name": "德邦快递(南昌东湖区胜利路经营分部)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:11:15.791+08:00"
+  },
+  {
+    "name": "德邦快递(南昌东湖区胜利路经营分部)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:11:18.961+08:00"
   }
 ]
