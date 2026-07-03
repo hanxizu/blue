@@ -20941,5 +20941,50 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T12:45:05.450+08:00"
+  },
+  {
+    "name": "顺丰速运(鼎川店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:45:05.669+08:00"
+  },
+  {
+    "name": "顺丰速运(城山家园店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:45:05.703+08:00"
+  },
+  {
+    "name": "南通兰卡物流有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:45:05.735+08:00"
+  },
+  {
+    "name": "运德物流",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:45:05.768+08:00"
+  },
+  {
+    "name": "顺丰速运(城山家园店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:45:08.513+08:00"
   }
 ]
