@@ -529,5 +529,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:28:11.854+08:00"
+  },
+  {
+    "name": "南京阁层空间设计事务所",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:28:11.931+08:00"
+  },
+  {
+    "name": "恒通装饰(五佰村路店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:28:11.963+08:00"
+  },
+  {
+    "name": "南京阁层空间设计事务所",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:28:14.579+08:00"
+  },
+  {
+    "name": "恒通装饰(五佰村路店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:28:14.618+08:00"
+  },
+  {
+    "name": "欧派大家居 (浦口大道店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T15:28:14.655+08:00"
+  },
+  {
+    "name": "轩彤装饰",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:28:14.689+08:00"
+  },
+  {
+    "name": "欧派大家居 (浦口大道店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T15:28:17.419+08:00"
   }
 ]
