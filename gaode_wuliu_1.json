@@ -52333,5 +52333,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:33:05.597+08:00"
+  },
+  {
+    "name": "西安聚邦物流服务中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:33:05.942+08:00"
+  },
+  {
+    "name": "明亨物流(玉祥门店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:33:06.028+08:00"
+  },
+  {
+    "name": "西安秦大物流(城西货运部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:33:06.083+08:00"
+  },
+  {
+    "name": "骏华物流(西安分公司)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:33:09.373+08:00"
   }
 ]
