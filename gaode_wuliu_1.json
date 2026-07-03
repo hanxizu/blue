@@ -21733,5 +21733,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:42:58.855+08:00"
+  },
+  {
+    "name": "四季速达",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:42:59.025+08:00"
+  },
+  {
+    "name": "德邦快递(广州海珠区怡海路经营分部)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:42:59.152+08:00"
+  },
+  {
+    "name": "德邦快递(广州海珠区宝岗路经营分部)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:42:59.272+08:00"
+  },
+  {
+    "name": "德邦快递(广州海珠区宝岗路经营分部)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:01.721+08:00"
+  },
+  {
+    "name": "广州长航物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:01.807+08:00"
+  },
+  {
+    "name": "广州酷美国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:01.876+08:00"
   }
 ]
