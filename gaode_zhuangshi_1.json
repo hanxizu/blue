@@ -20338,5 +20338,41 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-03T14:17:49.402+08:00"
+  },
+  {
+    "name": "龙飞建材装饰部(营策巷社区店)",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:17:49.504+08:00"
+  },
+  {
+    "name": "旭林装饰",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:17:49.637+08:00"
+  },
+  {
+    "name": "宇宏美家装饰有限公司",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:17:49.703+08:00"
+  },
+  {
+    "name": "旭林装饰",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:17:52.597+08:00"
   }
 ]
