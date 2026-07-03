@@ -24586,5 +24586,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:15:18.771+08:00"
+  },
+  {
+    "name": "晟驰物流(佛山站)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:15:18.935+08:00"
+  },
+  {
+    "name": "Fedex联邦快递(佛山服务站)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:15:22.112+08:00"
   }
 ]
