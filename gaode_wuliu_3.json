@@ -8062,5 +8062,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:22:45.247+08:00"
+  },
+  {
+    "name": "福建八方盛丰物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:45.338+08:00"
+  },
+  {
+    "name": "福州飞兔物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:22:45.385+08:00"
+  },
+  {
+    "name": "航鹰物流(盛丰站)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:45.412+08:00"
+  },
+  {
+    "name": "福州飞兔物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:22:48.545+08:00"
   }
 ]
