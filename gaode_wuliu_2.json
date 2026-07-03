@@ -18250,5 +18250,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:06:38.080+08:00"
+  },
+  {
+    "name": "勇哥妈妈驿站",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:06:38.209+08:00"
+  },
+  {
+    "name": "菜鸟驿站",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:38.250+08:00"
+  },
+  {
+    "name": "菜鸟驿站(广源大厦店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:38.282+08:00"
+  },
+  {
+    "name": "菜鸟驿站",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:40.977+08:00"
+  },
+  {
+    "name": "菜鸟驿站(广源大厦店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:41.014+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山祖庙镇安中三新村一号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:41.048+08:00"
+  },
+  {
+    "name": "丰巢柜",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:41.079+08:00"
+  },
+  {
+    "name": "菜鸟驿站(广源大厦店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:43.702+08:00"
   }
 ]
