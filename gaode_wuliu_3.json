@@ -5857,5 +5857,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:18:50.563+08:00"
+  },
+  {
+    "name": "吉通物流(小清河北路店)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:18:50.618+08:00"
+  },
+  {
+    "name": "高盛物联盖世基地",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:18:50.678+08:00"
+  },
+  {
+    "name": "顺丰速运(龙泰店)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:18:50.712+08:00"
+  },
+  {
+    "name": "高盛物联盖世基地",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:18:53.672+08:00"
   }
 ]
