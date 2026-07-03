@@ -3265,5 +3265,59 @@
     "colorPixels": 149,
     "colorRatio": "6.49%",
     "timestamp": "2026-07-03T15:33:39.331+08:00"
+  },
+  {
+    "name": "圣都整装合肥店",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 149,
+    "colorRatio": "6.49%",
+    "timestamp": "2026-07-03T15:33:39.451+08:00"
+  },
+  {
+    "name": "合肥美户美家装饰有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:33:39.493+08:00"
+  },
+  {
+    "name": "圣都整装合肥店",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 149,
+    "colorRatio": "6.49%",
+    "timestamp": "2026-07-03T15:33:42.103+08:00"
+  },
+  {
+    "name": "合肥美户美家装饰有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:33:42.135+08:00"
+  },
+  {
+    "name": "合肥河一装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:33:42.168+08:00"
+  },
+  {
+    "name": "合肥美户美家装饰有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:33:44.658+08:00"
   }
 ]
