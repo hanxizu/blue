@@ -20572,5 +20572,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:09:55.906+08:00"
+  },
+  {
+    "name": "德邦快递(顺德转运场)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:56.049+08:00"
+  },
+  {
+    "name": "佛山市顺安达运输有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:09:56.080+08:00"
+  },
+  {
+    "name": "万顺国际物流(塱沙路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:56.112+08:00"
+  },
+  {
+    "name": "佛山市顺安达运输有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:09:58.868+08:00"
+  },
+  {
+    "name": "万顺国际物流(塱沙路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:58.901+08:00"
+  },
+  {
+    "name": "新通国际物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:58.933+08:00"
   }
 ]
