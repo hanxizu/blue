@@ -36358,5 +36358,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:07:02.053+08:00"
+  },
+  {
+    "name": "安能物流(文昌路店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:07:02.273+08:00"
+  },
+  {
+    "name": "黑马物流(楚捷)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:07:05.286+08:00"
   }
 ]
