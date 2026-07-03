@@ -41965,5 +41965,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:16:23.759+08:00"
+  },
+  {
+    "name": "武汉江岸环卫集团有限公司汽车运输公司",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:16:24.000+08:00"
+  },
+  {
+    "name": "武汉四友物流有限公司",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:16:24.108+08:00"
+  },
+  {
+    "name": "安顺·大件物流(武汉店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T10:16:24.209+08:00"
+  },
+  {
+    "name": "安能物流(下双墩路店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:16:24.336+08:00"
+  },
+  {
+    "name": "安顺·大件物流(武汉店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T10:16:27.094+08:00"
   }
 ]
