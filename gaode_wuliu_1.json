@@ -49282,5 +49282,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:28:30.797+08:00"
+  },
+  {
+    "name": "西安贝斯特绿色物流转运中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:28:31.051+08:00"
+  },
+  {
+    "name": "建通国际物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:28:31.164+08:00"
+  },
+  {
+    "name": "西安鑫河西物流有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:28:31.278+08:00"
+  },
+  {
+    "name": "建通国际物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:28:33.954+08:00"
   }
 ]
