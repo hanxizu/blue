@@ -6847,5 +6847,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:05:03.674+08:00"
+  },
+  {
+    "name": "金发货架",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:03.757+08:00"
+  },
+  {
+    "name": "精马货架",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:05:03.789+08:00"
+  },
+  {
+    "name": "武汉佳宇华昌货架厂武汉旗舰店",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:05:03.819+08:00"
+  },
+  {
+    "name": "威润货架",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:06.129+08:00"
+  },
+  {
+    "name": "金桥货架",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:06.161+08:00"
+  },
+  {
+    "name": "武汉天信达货架",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:06.192+08:00"
+  },
+  {
+    "name": "货架厂销(东建金鼎湾店)",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:05:06.226+08:00"
+  },
+  {
+    "name": "武汉天信达货架",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:08.843+08:00"
   }
 ]
