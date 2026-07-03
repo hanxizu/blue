@@ -42154,5 +42154,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:44:35.042+08:00"
+  },
+  {
+    "name": "宁波领速报关有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:44:35.381+08:00"
+  },
+  {
+    "name": "顺丰速运(宁波青悠路店)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:44:35.497+08:00"
+  },
+  {
+    "name": "宁波卓成报关有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:44:35.674+08:00"
+  },
+  {
+    "name": "众通物流(江北分部)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:44:39.325+08:00"
   }
 ]
