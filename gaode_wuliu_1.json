@@ -31597,5 +31597,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:00:11.583+08:00"
+  },
+  {
+    "name": "胖哥快送商贸行",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:00:14.372+08:00"
+  },
+  {
+    "name": "兔喜生活(苏州姑苏仁安街8号店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:00:14.407+08:00"
+  },
+  {
+    "name": "驿收发金帝名苑店(解放西路店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:00:14.442+08:00"
+  },
+  {
+    "name": "韵达快递",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:00:14.488+08:00"
+  },
+  {
+    "name": "京东快递(新创业大厦店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:00:14.523+08:00"
+  },
+  {
+    "name": "驿收发金帝名苑店(解放西路店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:00:17.311+08:00"
   }
 ]
