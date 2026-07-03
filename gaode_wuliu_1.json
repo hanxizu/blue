@@ -37708,5 +37708,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T10:09:59.817+08:00"
+  },
+  {
+    "name": "顺丰速运(融创广场融创店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:10:00.102+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:00.204+08:00"
+  },
+  {
+    "name": "韵达快递(泰兴里店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:00.237+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:03.291+08:00"
   }
 ]
