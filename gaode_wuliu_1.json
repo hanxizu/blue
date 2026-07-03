@@ -7639,5 +7639,68 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-03T09:20:36.504+08:00"
+  },
+  {
+    "name": "厦门联合物流有限公司北京分公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:36.566+08:00"
+  },
+  {
+    "name": "中铁联合物流股份有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:36.598+08:00"
+  },
+  {
+    "name": "厦门联合物流有限公司北京分公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:39.255+08:00"
+  },
+  {
+    "name": "中铁联合物流股份有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:39.277+08:00"
+  },
+  {
+    "name": "北京迁喜鸿祥搬家有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T09:20:39.301+08:00"
+  },
+  {
+    "name": "安能物流(北京海淀区大钟寺营业部)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:20:39.327+08:00"
+  },
+  {
+    "name": "北京迁喜鸿祥搬家有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T09:20:41.978+08:00"
   }
 ]
