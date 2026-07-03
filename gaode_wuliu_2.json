@@ -19960,5 +19960,41 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T11:09:03.731+08:00"
+  },
+  {
+    "name": "安能物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:03.948+08:00"
+  },
+  {
+    "name": "桦运物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:04.013+08:00"
+  },
+  {
+    "name": "佛山安信物流中心",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:04.052+08:00"
+  },
+  {
+    "name": "顺德人人搬家搬运公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T11:09:06.957+08:00"
   }
 ]
