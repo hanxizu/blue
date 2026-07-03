@@ -41308,5 +41308,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:15:25.816+08:00"
+  },
+  {
+    "name": "鸿嵩物流(小龟山路)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:15:26.047+08:00"
+  },
+  {
+    "name": "武汉航科物流有限公司",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:15:26.168+08:00"
+  },
+  {
+    "name": "安顺.大件物流(小件勿扰)电动车摩托车托运行李托运(武汉店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:15:26.276+08:00"
+  },
+  {
+    "name": "武汉航科物流有限公司",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:15:28.935+08:00"
   }
 ]
