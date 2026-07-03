@@ -1582,5 +1582,32 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T18:34:11.317+08:00"
+  },
+  {
+    "name": "租电动车",
+    "city": "深圳市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T18:34:14.251+08:00"
+  },
+  {
+    "name": "粤星租车",
+    "city": "深圳市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-03T18:34:14.292+08:00"
+  },
+  {
+    "name": "帮达租车(商务车汽车婚车租赁)",
+    "city": "深圳市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T18:34:17.962+08:00"
   }
 ]
