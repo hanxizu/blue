@@ -19564,5 +19564,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:08:22.550+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山祖庙科恒岭南水岸12号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:22.684+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山禅城石湾华远西路59号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:25.435+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山祖庙科恒岭南水岸12号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:25.471+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山祖庙忠宝生活超市首层13店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:25.504+08:00"
+  },
+  {
+    "name": "兔喜生活快递代收点(魁奇东路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:08:25.538+08:00"
+  },
+  {
+    "name": "中通快递(南便大街店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:28.361+08:00"
   }
 ]
