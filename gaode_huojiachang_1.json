@@ -11851,5 +11851,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:16:39.854+08:00"
+  },
+  {
+    "name": "东佰巨阁楼货架厂",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:16:39.952+08:00"
+  },
+  {
+    "name": "华南货架生产基地",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:16:39.986+08:00"
+  },
+  {
+    "name": "广东金百力智能货架生产基地",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:16:40.017+08:00"
+  },
+  {
+    "name": "广东安信货架有限公司",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:16:40.053+08:00"
   }
 ]
