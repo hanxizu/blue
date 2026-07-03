@@ -15415,5 +15415,77 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T09:33:28.056+08:00"
+  },
+  {
+    "name": "菜鸟驿站(凯丰花园店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:28.148+08:00"
+  },
+  {
+    "name": "菜鸟驿站(深圳福田村牛巷坊38栋1楼店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:28.255+08:00"
+  },
+  {
+    "name": "运满满",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T09:33:28.362+08:00"
+  },
+  {
+    "name": "安能物流(兰海路店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:30.688+08:00"
+  },
+  {
+    "name": "深圳市福昌物流有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T09:33:30.715+08:00"
+  },
+  {
+    "name": "深圳远洋运输股份有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:30.751+08:00"
+  },
+  {
+    "name": "深圳市盛顺鼎国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:33:30.779+08:00"
+  },
+  {
+    "name": "深圳远洋运输股份有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:33.671+08:00"
   }
 ]
