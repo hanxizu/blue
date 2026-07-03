@@ -17899,5 +17899,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T11:06:10.300+08:00"
+  },
+  {
+    "name": "安能物流(佛山平洲营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T11:06:10.429+08:00"
+  },
+  {
+    "name": "佛山基柏纶国际货运代理有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:10.466+08:00"
+  },
+  {
+    "name": "佛山市平安运输有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:10.502+08:00"
+  },
+  {
+    "name": "佛山基柏纶国际货运代理有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:13.804+08:00"
   }
 ]
