@@ -502,5 +502,32 @@
     "colorPixels": 381,
     "colorRatio": "16.60%",
     "timestamp": "2026-07-03T15:28:08.747+08:00"
+  },
+  {
+    "name": "南京盛利室内设计工作室",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:28:08.793+08:00"
+  },
+  {
+    "name": "南京阁层空间设计事务所",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:28:08.826+08:00"
+  },
+  {
+    "name": "南京盛利室内设计工作室",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:28:11.854+08:00"
   }
 ]
