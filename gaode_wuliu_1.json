@@ -22273,5 +22273,59 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:43:46.433+08:00"
+  },
+  {
+    "name": "头等舱云仓供应链",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:43:46.543+08:00"
+  },
+  {
+    "name": "德邦快递(广州荔湾区红楼路经营分部)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:46.651+08:00"
+  },
+  {
+    "name": "头等舱云仓供应链",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:43:49.294+08:00"
+  },
+  {
+    "name": "德邦快递(广州荔湾区红楼路经营分部)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:49.330+08:00"
+  },
+  {
+    "name": "申通快递(广州西村地铁站速8优选酒店店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:49.362+08:00"
+  },
+  {
+    "name": "头等舱云仓供应链",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:43:52.882+08:00"
   }
 ]
