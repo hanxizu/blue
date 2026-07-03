@@ -16828,5 +16828,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:04:42.774+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山祖庙垂虹小区南区405号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:42.914+08:00"
+  },
+  {
+    "name": "顺丰速运(建新路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:04:42.942+08:00"
+  },
+  {
+    "name": "菜鸟驿站(金鱼街107号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:42.975+08:00"
+  },
+  {
+    "name": "兔喜快递超市(兆祥路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:45.687+08:00"
+  },
+  {
+    "name": "菜鸟驿站(岭南天地尚苑店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:45.736+08:00"
+  },
+  {
+    "name": "顺心捷达",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:45.778+08:00"
+  },
+  {
+    "name": "多多驿站",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:45.834+08:00"
   }
 ]
