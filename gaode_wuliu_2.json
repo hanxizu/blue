@@ -43603,5 +43603,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:47:53.863+08:00"
+  },
+  {
+    "name": "圆通速递",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:54.141+08:00"
+  },
+  {
+    "name": "无锡龙力行物流有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:54.251+08:00"
+  },
+  {
+    "name": "无锡亿恒岩物流有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:47:54.361+08:00"
+  },
+  {
+    "name": "圆通速递",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:57.044+08:00"
   }
 ]
