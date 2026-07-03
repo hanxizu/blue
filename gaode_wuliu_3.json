@@ -27403,5 +27403,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T12:55:45.721+08:00"
+  },
+  {
+    "name": "运发搬家",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T12:55:48.967+08:00"
+  },
+  {
+    "name": "一诺物流(菜市街店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:55:48.999+08:00"
+  },
+  {
+    "name": "大连忠进国际货运有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:55:49.029+08:00"
+  },
+  {
+    "name": "宏运货站",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:55:52.709+08:00"
   }
 ]
