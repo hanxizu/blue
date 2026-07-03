@@ -27142,5 +27142,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:51:47.478+08:00"
+  },
+  {
+    "name": "力展物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:51:47.627+08:00"
+  },
+  {
+    "name": "云聚物流(农科所店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:51:47.671+08:00"
+  },
+  {
+    "name": "成都市汽车运输(集团)公司(第五分公司)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:51:47.705+08:00"
+  },
+  {
+    "name": "金桥物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:51:51.201+08:00"
   }
 ]
