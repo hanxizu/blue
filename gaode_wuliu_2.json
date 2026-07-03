@@ -30463,5 +30463,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:24:48.606+08:00"
+  },
+  {
+    "name": "南京吉辂运输贸易有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:24:48.856+08:00"
+  },
+  {
+    "name": "南京逸品永利物流有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:24:48.969+08:00"
+  },
+  {
+    "name": "京东物流(南京浦口站)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:24:49.058+08:00"
+  },
+  {
+    "name": "紫泉物流园区",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:24:52.167+08:00"
   }
 ]
