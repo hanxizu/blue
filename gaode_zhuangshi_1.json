@@ -1195,5 +1195,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T13:43:12.030+08:00"
+  },
+  {
+    "name": "益鸟美居(闵行商圈体验店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T13:43:12.064+08:00"
+  },
+  {
+    "name": "意想装饰",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:43:12.091+08:00"
+  },
+  {
+    "name": "易路荣昕装饰(宝山总部)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:43:15.231+08:00"
   }
 ]
