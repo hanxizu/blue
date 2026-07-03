@@ -51523,5 +51523,32 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T12:01:36.236+08:00"
+  },
+  {
+    "name": "普洛斯物流园",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:36.501+08:00"
+  },
+  {
+    "name": "长沙传化公路港物流有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:36.628+08:00"
+  },
+  {
+    "name": "开福远吉物流",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:40.012+08:00"
   }
 ]
