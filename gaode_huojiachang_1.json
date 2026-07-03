@@ -18403,5 +18403,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T23:33:59.383+08:00"
+  },
+  {
+    "name": "中豫纸箱包装",
+    "city": "郑州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T23:33:59.548+08:00"
+  },
+  {
+    "name": "郑州中之源金属制品有限公司",
+    "city": "郑州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:33:59.591+08:00"
+  },
+  {
+    "name": "伟邦机械",
+    "city": "郑州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:33:59.649+08:00"
   }
 ]
