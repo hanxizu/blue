@@ -29869,5 +29869,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:56:46.138+08:00"
+  },
+  {
+    "name": "兔喜生活",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:56:46.266+08:00"
+  },
+  {
+    "name": "菜鸟驿站(柏峰珑悦府店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:56:46.380+08:00"
+  },
+  {
+    "name": "大雄物流",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:56:49.249+08:00"
   }
 ]
