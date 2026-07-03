@@ -46879,5 +46879,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:49:47.572+08:00"
+  },
+  {
+    "name": "联建兴装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:49:47.834+08:00"
+  },
+  {
+    "name": "顾家家居(福民路居然店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:49:47.945+08:00"
+  },
+  {
+    "name": "兴隆装饰(黄家门住宅小区店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:49:48.058+08:00"
+  },
+  {
+    "name": "顾家家居(福民路居然店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:49:50.725+08:00"
   }
 ]
