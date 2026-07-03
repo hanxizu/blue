@@ -8953,5 +8953,32 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T12:24:55.306+08:00"
+  },
+  {
+    "name": "尊烁天大件物流全国托运·摩托车·电动车托运温州",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:24:55.375+08:00"
+  },
+  {
+    "name": "弘尚国际物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:24:55.407+08:00"
+  },
+  {
+    "name": "温州承运国际货运有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:24:58.768+08:00"
   }
 ]
