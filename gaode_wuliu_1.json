@@ -9862,5 +9862,77 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T09:24:48.270+08:00"
+  },
+  {
+    "name": "上海万年青国际物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:48.360+08:00"
+  },
+  {
+    "name": "顺丰速运(融创外滩店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T09:24:48.414+08:00"
+  },
+  {
+    "name": "菜鸟驿站(三兴小区中兴路1394弄店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:48.444+08:00"
+  },
+  {
+    "name": "上海万年青国际物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:51.021+08:00"
+  },
+  {
+    "name": "顺丰速运(融创外滩店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T09:24:51.058+08:00"
+  },
+  {
+    "name": "菜鸟驿站(三兴小区中兴路1394弄店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:51.089+08:00"
+  },
+  {
+    "name": "上海长途汽车客运总站货运部",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:51.124+08:00"
+  },
+  {
+    "name": "菜鸟驿站(三兴小区中兴路1394弄店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:54.180+08:00"
   }
 ]
