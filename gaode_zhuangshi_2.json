@@ -15082,5 +15082,41 @@
     "colorPixels": 381,
     "colorRatio": "16.60%",
     "timestamp": "2026-07-03T15:52:42.715+08:00"
+  },
+  {
+    "name": "万泰装饰·五金(黄岩里店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:52:42.833+08:00"
+  },
+  {
+    "name": "超杰装饰(平云里店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:52:42.862+08:00"
+  },
+  {
+    "name": "和祥装饰(雅云里店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:52:42.889+08:00"
+  },
+  {
+    "name": "立邦官方(河东美凯龙专卖店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T15:52:46.549+08:00"
   }
 ]
