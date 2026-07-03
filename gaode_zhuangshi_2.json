@@ -18574,5 +18574,32 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T15:59:23.651+08:00"
+  },
+  {
+    "name": "OLO我乐·全屋定制(宁波鄞州店)",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T15:59:23.863+08:00"
+  },
+  {
+    "name": "宁波市顺邦装饰装潢有限公司",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:59:23.930+08:00"
+  },
+  {
+    "name": "宁波市兰江装饰材料有限公司(东润铭座店)",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:59:26.973+08:00"
   }
 ]
