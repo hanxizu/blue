@@ -17089,5 +17089,86 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T11:05:03.841+08:00"
+  },
+  {
+    "name": "鸿运物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:03.941+08:00"
+  },
+  {
+    "name": "中拓物流佛山邦兴达库",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:04.055+08:00"
+  },
+  {
+    "name": "佛山市顺时源运输有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:04.168+08:00"
+  },
+  {
+    "name": "鸿运物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:06.685+08:00"
+  },
+  {
+    "name": "中拓物流佛山邦兴达库",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:06.719+08:00"
+  },
+  {
+    "name": "佛山市顺时源运输有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:06.752+08:00"
+  },
+  {
+    "name": "佛山市高联船务货运有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:05:06.796+08:00"
+  },
+  {
+    "name": "广东凯立物流供应链管理有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:06.826+08:00"
+  },
+  {
+    "name": "中国邮政(同济路)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:09.770+08:00"
   }
 ]
