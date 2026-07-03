@@ -29860,5 +29860,23 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T11:23:57.159+08:00"
+  },
+  {
+    "name": "中外运化工国际物流有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:23:57.320+08:00"
+  },
+  {
+    "name": "中铁南京大桥物流基地(大华锦绣华城A块六期东)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:24:00.276+08:00"
   }
 ]
