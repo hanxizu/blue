@@ -50245,5 +50245,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:55:09.879+08:00"
+  },
+  {
+    "name": "博雅广告•门头招牌•灯箱•发光字(工厂店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T16:55:10.279+08:00"
+  },
+  {
+    "name": "蚁族装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:55:10.400+08:00"
+  },
+  {
+    "name": "郑州岳秀装饰工程有限公司",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:55:10.528+08:00"
+  },
+  {
+    "name": "棣华装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:55:13.657+08:00"
   }
 ]
