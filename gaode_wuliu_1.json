@@ -47725,5 +47725,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:26:02.908+08:00"
+  },
+  {
+    "name": "菜鸟驿站(世融·嘉城店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:03.215+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西安凯瑞公寓3号店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:26:03.342+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:03.399+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西航社区外招北小区店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:07.033+08:00"
   }
 ]
