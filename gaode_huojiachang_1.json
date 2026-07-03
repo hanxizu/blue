@@ -4939,5 +4939,32 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T22:59:55.528+08:00"
+  },
+  {
+    "name": "勇佳货架仓库",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:59:55.570+08:00"
+  },
+  {
+    "name": "微脉大楼门口货架",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T22:59:55.598+08:00"
+  },
+  {
+    "name": "杭州立恒仓储设备有限公司",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:59:58.961+08:00"
   }
 ]
