@@ -48337,5 +48337,41 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T10:27:09.135+08:00"
+  },
+  {
+    "name": "西安阳恒",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:27:09.391+08:00"
+  },
+  {
+    "name": "西安骑手·城市配送",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:27:09.502+08:00"
+  },
+  {
+    "name": "安顺·大件物流(工具电瓶车托运)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:27:09.618+08:00"
+  },
+  {
+    "name": "西安骑手·城市配送",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:27:12.217+08:00"
   }
 ]
