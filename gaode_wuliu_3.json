@@ -1654,5 +1654,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:12:13.459+08:00"
+  },
+  {
+    "name": "方圆物流(新圃街店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:16.405+08:00"
+  },
+  {
+    "name": "豫德隆物流(铭功路市场分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:16.453+08:00"
+  },
+  {
+    "name": "彤彤物流(锦荣商贸城店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:16.484+08:00"
   }
 ]
