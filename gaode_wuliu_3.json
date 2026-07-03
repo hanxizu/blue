@@ -33964,5 +33964,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:11:12.337+08:00"
+  },
+  {
+    "name": "极兔速递南昌转运中心",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:12.535+08:00"
+  },
+  {
+    "name": "江西速锐供应链管理有限公司",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:11:12.565+08:00"
+  },
+  {
+    "name": "江西省美创供应链管理有限公司",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:12.595+08:00"
+  },
+  {
+    "name": "极兔速递南昌转运中心",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:15.404+08:00"
   }
 ]
