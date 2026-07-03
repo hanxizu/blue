@@ -7702,5 +7702,59 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T09:20:41.978+08:00"
+  },
+  {
+    "name": "安能物流(北京海淀区大钟寺营业部)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:20:42.078+08:00"
+  },
+  {
+    "name": "中储粮物流有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:42.182+08:00"
+  },
+  {
+    "name": "传志物流城外城站点",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:44.790+08:00"
+  },
+  {
+    "name": "兴盛达托运搬家(不收小件)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:20:44.815+08:00"
+  },
+  {
+    "name": "永顺胜达物流",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:44.844+08:00"
+  },
+  {
+    "name": "永顺胜达物流",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:48.303+08:00"
   }
 ]
