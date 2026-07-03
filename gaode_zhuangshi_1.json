@@ -35548,5 +35548,32 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T14:48:03.294+08:00"
+  },
+  {
+    "name": "西安麦众装饰设计工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:48:03.616+08:00"
+  },
+  {
+    "name": "西安七彩匠心装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:48:03.706+08:00"
+  },
+  {
+    "name": "西安一禾空间设计",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T14:48:06.775+08:00"
   }
 ]
