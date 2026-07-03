@@ -38410,5 +38410,50 @@
     "colorPixels": 305,
     "colorRatio": "13.29%",
     "timestamp": "2026-07-03T10:11:02.475+08:00"
+  },
+  {
+    "name": "顺丰速运(武车四村店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:11:02.713+08:00"
+  },
+  {
+    "name": "三友慧商贸武昌配送中心(恒大世纪广场店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:02.749+08:00"
+  },
+  {
+    "name": "京东快递(绿缘路店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:02.856+08:00"
+  },
+  {
+    "name": "德邦快递(武汉江岸区吉庆街经营分部)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:02.966+08:00"
+  },
+  {
+    "name": "长江数联物流信息(湖北)股份有限公司",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:05.921+08:00"
   }
 ]
