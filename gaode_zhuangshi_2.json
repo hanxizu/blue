@@ -20077,5 +20077,32 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T16:01:45.434+08:00"
+  },
+  {
+    "name": "浩盛装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:01:45.559+08:00"
+  },
+  {
+    "name": "文天装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:01:45.614+08:00"
+  },
+  {
+    "name": "盛匠装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:01:48.544+08:00"
   }
 ]
