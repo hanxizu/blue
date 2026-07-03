@@ -35899,5 +35899,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T14:48:37.592+08:00"
+  },
+  {
+    "name": "陕西顺道志途装饰工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:48:37.843+08:00"
+  },
+  {
+    "name": "立邦官方(东大明宫店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T14:48:37.874+08:00"
+  },
+  {
+    "name": "索菲亚(原点国际店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T14:48:37.906+08:00"
+  },
+  {
+    "name": "立邦官方(东大明宫店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T14:48:40.621+08:00"
   }
 ]
