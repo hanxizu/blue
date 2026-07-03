@@ -8296,5 +8296,68 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:51:47.745+08:00"
+  },
+  {
+    "name": "东莞市东仕达货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:51:47.809+08:00"
+  },
+  {
+    "name": "宇飞达国际物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:47.842+08:00"
+  },
+  {
+    "name": "工会驿站电信君御旗峰菜鸟驿站",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:47.875+08:00"
+  },
+  {
+    "name": "中国邮政(旗峰路邮政所)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:47.907+08:00"
+  },
+  {
+    "name": "宇飞达国际物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:50.681+08:00"
+  },
+  {
+    "name": "工会驿站电信君御旗峰菜鸟驿站",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:50.719+08:00"
+  },
+  {
+    "name": "中国邮政(旗峰路邮政所)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:50.753+08:00"
   }
 ]
