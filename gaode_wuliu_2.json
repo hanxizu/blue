@@ -52342,5 +52342,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:02:50.013+08:00"
+  },
+  {
+    "name": "顺丰速运(富兴店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:02:50.310+08:00"
+  },
+  {
+    "name": "顺丰速运(金马路店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:02:50.437+08:00"
+  },
+  {
+    "name": "德邦快递(长沙望城区金峰园经营分部)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:02:50.553+08:00"
+  },
+  {
+    "name": "顺丰速运(金马路店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:02:53.297+08:00"
   }
 ]
