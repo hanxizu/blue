@@ -45781,5 +45781,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:23:08.357+08:00"
+  },
+  {
+    "name": "西安双生国朋货运部",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:08.624+08:00"
+  },
+  {
+    "name": "西安东翱物流B2仓库",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:08.738+08:00"
+  },
+  {
+    "name": "京东物流张家堡集配站(扬善路店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:08.848+08:00"
+  },
+  {
+    "name": "西安东翱物流B2仓库",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:11.559+08:00"
   }
 ]
