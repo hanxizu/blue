@@ -2014,5 +2014,23 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-04T07:28:08.244+08:00"
+  },
+  {
+    "name": "北京市恒圣(东城区)律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T07:28:08.322+08:00"
+  },
+  {
+    "name": "北京星来律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T07:28:11.699+08:00"
   }
 ]
