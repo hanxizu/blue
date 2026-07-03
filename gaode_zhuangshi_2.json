@@ -8629,5 +8629,32 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T15:41:45.910+08:00"
+  },
+  {
+    "name": "玖图装饰工程",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:41:45.991+08:00"
+  },
+  {
+    "name": "更好家装饰",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:41:46.042+08:00"
+  },
+  {
+    "name": "安徽紫藤装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:41:49.854+08:00"
   }
 ]
