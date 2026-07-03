@@ -35989,5 +35989,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:34:58.188+08:00"
+  },
+  {
+    "name": "韵达速递(峰汇广场店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:58.390+08:00"
+  },
+  {
+    "name": "顺丰速运(医科大学营业店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:58.493+08:00"
+  },
+  {
+    "name": "次晨达物流",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T11:34:58.607+08:00"
+  },
+  {
+    "name": "顺丰速运(迎水道店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:34:58.769+08:00"
+  },
+  {
+    "name": "顺丰速运(医科大学营业店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:01.465+08:00"
   }
 ]
