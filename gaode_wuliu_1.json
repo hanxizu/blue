@@ -41434,5 +41434,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:15:35.187+08:00"
+  },
+  {
+    "name": "京东物流",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:15:35.420+08:00"
+  },
+  {
+    "name": "安百惠物流大件物流搬家汽车电动车行李托运",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:15:38.549+08:00"
   }
 ]
