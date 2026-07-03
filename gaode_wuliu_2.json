@@ -47896,5 +47896,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:55:12.867+08:00"
+  },
+  {
+    "name": "菜鸟驿站(厦门湖里北片2号店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:13.196+08:00"
+  },
+  {
+    "name": "厦门市运输事业发展中心",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:13.247+08:00"
+  },
+  {
+    "name": "厦门水时惠到家桶装水瓶装水送水中心",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:55:13.326+08:00"
+  },
+  {
+    "name": "厦门市运输事业发展中心",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:16.404+08:00"
   }
 ]
