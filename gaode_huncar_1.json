@@ -17386,5 +17386,68 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T19:30:13.024+08:00"
+  },
+  {
+    "name": "天下行租车",
+    "city": "泉州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:30:13.164+08:00"
+  },
+  {
+    "name": "泉州福通租车",
+    "city": "泉州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-03T19:30:13.192+08:00"
+  },
+  {
+    "name": "天下行租车",
+    "city": "泉州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:30:15.870+08:00"
+  },
+  {
+    "name": "泉州福通租车",
+    "city": "泉州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-03T19:30:15.913+08:00"
+  },
+  {
+    "name": "和风婚庆婚车(八峰兰庭店)",
+    "city": "泉州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:30:15.958+08:00"
+  },
+  {
+    "name": "鹏川汽车租赁",
+    "city": "泉州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T19:30:15.993+08:00"
+  },
+  {
+    "name": "和风婚庆婚车(八峰兰庭店)",
+    "city": "泉州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:30:18.639+08:00"
   }
 ]
