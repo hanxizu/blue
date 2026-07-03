@@ -55573,5 +55573,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:26:51.706+08:00"
+  },
+  {
+    "name": "南京洁雅装饰工程有限公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:26:52.021+08:00"
+  },
+  {
+    "name": "安宸设计",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:26:52.137+08:00"
+  },
+  {
+    "name": "方木装饰·自有工人精品施工",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:26:52.247+08:00"
+  },
+  {
+    "name": "方木装饰·自有工人精品施工",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:26:54.748+08:00"
   }
 ]
