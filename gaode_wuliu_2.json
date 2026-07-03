@@ -54007,5 +54007,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:06:12.578+08:00"
+  },
+  {
+    "name": "兔喜生活(乐清路小区店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:06:12.870+08:00"
+  },
+  {
+    "name": "顺丰速运(绍兴路店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T12:06:12.927+08:00"
+  },
+  {
+    "name": "顺丰速运(国际金融服务中心)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:06:12.975+08:00"
+  },
+  {
+    "name": "顺丰速运(国际金融服务中心)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:06:16.222+08:00"
   }
 ]
