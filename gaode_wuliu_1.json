@@ -39283,5 +39283,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:12:15.522+08:00"
+  },
+  {
+    "name": "菜鸟速递(武汉青山总站)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:12:15.765+08:00"
+  },
+  {
+    "name": "圆通速递(花样年华西南)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:12:15.882+08:00"
+  },
+  {
+    "name": "极兔速递",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:12:16.003+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(武车村路店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:12:16.183+08:00"
+  },
+  {
+    "name": "韵达快递",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:12:19.451+08:00"
   }
 ]
