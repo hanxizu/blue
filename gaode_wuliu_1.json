@@ -18466,5 +18466,32 @@
     "colorPixels": 98,
     "colorRatio": "4.27%",
     "timestamp": "2026-07-03T09:38:33.864+08:00"
+  },
+  {
+    "name": "广州鑫鑫航供链有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 80,
+    "colorRatio": "3.49%",
+    "timestamp": "2026-07-03T09:38:34.011+08:00"
+  },
+  {
+    "name": "广州振英货运有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-03T09:38:34.095+08:00"
+  },
+  {
+    "name": "飞翔国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:38:37.597+08:00"
   }
 ]
