@@ -21058,5 +21058,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:45:14.871+08:00"
+  },
+  {
+    "name": "南通迅成物流有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:45:14.971+08:00"
+  },
+  {
+    "name": "顺丰速运(啬园校区南通大学店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:15.079+08:00"
+  },
+  {
+    "name": "南通检整物流中心吉马纺织品有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:15.190+08:00"
+  },
+  {
+    "name": "圆通速递(科技之家公寓店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:15.341+08:00"
+  },
+  {
+    "name": "顺丰速运(啬园校区南通大学店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:18.248+08:00"
   }
 ]
