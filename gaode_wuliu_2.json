@@ -34306,5 +34306,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:31:28.940+08:00"
+  },
+  {
+    "name": "顺丰速运(蓝鲸店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:31:29.150+08:00"
+  },
+  {
+    "name": "合肥市运输总公司合肥新亚交通运输集团",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:31:29.180+08:00"
+  },
+  {
+    "name": "安徽省港航集团有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:31:29.207+08:00"
+  },
+  {
+    "name": "顺丰速运(蓝鲸店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:31:32.605+08:00"
   }
 ]
