@@ -40858,5 +40858,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T16:38:38.472+08:00"
+  },
+  {
+    "name": "DK装饰设计公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:38:38.711+08:00"
+  },
+  {
+    "name": "圣大装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:38:38.818+08:00"
+  },
+  {
+    "name": "广友安装装饰工程有限公司(全屋定制)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:38:38.939+08:00"
+  },
+  {
+    "name": "海琳装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:38:39.122+08:00"
+  },
+  {
+    "name": "DK装饰设计公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:38:41.738+08:00"
   }
 ]
