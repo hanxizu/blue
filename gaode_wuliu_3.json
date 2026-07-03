@@ -2464,5 +2464,86 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:13:25.250+08:00"
+  },
+  {
+    "name": "万里物流(商品大世界分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:25.314+08:00"
+  },
+  {
+    "name": "腾达物流(科技市场)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:25.369+08:00"
+  },
+  {
+    "name": "方圆物流(元荣分理处凤鸣路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:25.400+08:00"
+  },
+  {
+    "name": "万里物流(商品大世界分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:28.046+08:00"
+  },
+  {
+    "name": "腾达物流(科技市场)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:28.084+08:00"
+  },
+  {
+    "name": "方圆物流(元荣分理处凤鸣路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:28.119+08:00"
+  },
+  {
+    "name": "鸿泰物流(东建材店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:13:28.154+08:00"
+  },
+  {
+    "name": "河南卓尔货物运输有限公司",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:13:28.186+08:00"
+  },
+  {
+    "name": "方圆物流(元荣分理处凤鸣路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:30.794+08:00"
   }
 ]
