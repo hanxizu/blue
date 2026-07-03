@@ -38860,5 +38860,32 @@
     "colorPixels": 305,
     "colorRatio": "13.29%",
     "timestamp": "2026-07-03T11:40:02.811+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:40:03.166+08:00"
+  },
+  {
+    "name": "宁波天圆国际物流有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:40:03.280+08:00"
+  },
+  {
+    "name": "顺丰速运(东部银泰城店)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:40:06.224+08:00"
   }
 ]
