@@ -4687,5 +4687,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:17:17.099+08:00"
+  },
+  {
+    "name": "山东盖世国际物流集团",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:17:17.168+08:00"
+  },
+  {
+    "name": "山东盖世农产品物流交易中心",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:17.200+08:00"
+  },
+  {
+    "name": "德邦物流(济南历城区洪家楼经营分部)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:17:17.233+08:00"
+  },
+  {
+    "name": "德邦物流(济南历城区工业北路经营分部)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:17:20.430+08:00"
   }
 ]
