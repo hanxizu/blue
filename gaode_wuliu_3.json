@@ -35386,5 +35386,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:14:13.519+08:00"
+  },
+  {
+    "name": "顺丰速运(胜利北街店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:14:13.815+08:00"
+  },
+  {
+    "name": "京东快递",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:14:16.532+08:00"
+  },
+  {
+    "name": "顺丰速运(胜利北街店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:14:16.582+08:00"
+  },
+  {
+    "name": "菜鸟驿站(石家庄省中医院汇丰超市店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:14:16.640+08:00"
   }
 ]
