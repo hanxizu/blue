@@ -12904,5 +12904,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:28:53.379+08:00"
+  },
+  {
+    "name": "上海德驲国际物流(嘉定总店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:28:53.547+08:00"
+  },
+  {
+    "name": "京东物流(上海真光营业部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:53.630+08:00"
+  },
+  {
+    "name": "上海阳合仓储物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:53.675+08:00"
+  },
+  {
+    "name": "上海圣欣货物运输代理有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:56.235+08:00"
+  },
+  {
+    "name": "上海德驲国际物流(嘉定总店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:28:56.265+08:00"
+  },
+  {
+    "name": "京东物流(上海真光营业部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:56.309+08:00"
+  },
+  {
+    "name": "上海阳合仓储物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:56.350+08:00"
+  },
+  {
+    "name": "上海圣欣货物运输代理有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:59.563+08:00"
   }
 ]
