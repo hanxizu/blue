@@ -8458,5 +8458,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:51:59.179+08:00"
+  },
+  {
+    "name": "菜鸟驿站(联益村时代公寓店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:51:59.316+08:00"
+  },
+  {
+    "name": "菜鸟驿站(莞城瑞景酒店店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:59.368+08:00"
+  },
+  {
+    "name": "菜鸟驿站(菊香苑39号店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:59.408+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞南城万科翡翠花园店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:52:02.779+08:00"
   }
 ]
