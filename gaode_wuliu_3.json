@@ -26530,5 +26530,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:53:31.739+08:00"
+  },
+  {
+    "name": "嘉信货物运输代理点",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:53:31.915+08:00"
+  },
+  {
+    "name": "顺茂物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:53:31.960+08:00"
+  },
+  {
+    "name": "安能物流(涵口下埭大道店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:53:32.018+08:00"
+  },
+  {
+    "name": "英豪国际物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:53:32.089+08:00"
+  },
+  {
+    "name": "和鑫物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:53:35.319+08:00"
   }
 ]
