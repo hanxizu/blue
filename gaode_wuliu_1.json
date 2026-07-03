@@ -40156,5 +40156,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:13:34.383+08:00"
+  },
+  {
+    "name": "韵达快递(武汉欢乐谷公司)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:13:34.642+08:00"
+  },
+  {
+    "name": "兔喜生活(胜利街店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:13:34.757+08:00"
+  },
+  {
+    "name": "兔喜生活(前进一路店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:13:34.861+08:00"
+  },
+  {
+    "name": "百世快递(前进四路店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:13:35.040+08:00"
+  },
+  {
+    "name": "兔喜生活(胜利街店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:13:37.686+08:00"
   }
 ]
