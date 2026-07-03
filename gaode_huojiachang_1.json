@@ -6784,5 +6784,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:04:57.433+08:00"
+  },
+  {
+    "name": "天工货架",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 80,
+    "colorRatio": "3.49%",
+    "timestamp": "2026-07-03T23:04:57.500+08:00"
+  },
+  {
+    "name": "王巢货架厂(汉口北店)",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:04:57.534+08:00"
+  },
+  {
+    "name": "天工货架",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T23:04:59.991+08:00"
+  },
+  {
+    "name": "王巢货架厂(汉口北店)",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:00.023+08:00"
+  },
+  {
+    "name": "商易货架",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:00.051+08:00"
+  },
+  {
+    "name": "冠硕货架工厂店",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:00.092+08:00"
+  },
+  {
+    "name": "宏程货架",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:03.674+08:00"
   }
 ]
