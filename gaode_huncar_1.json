@@ -12724,5 +12724,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T19:13:40.975+08:00"
+  },
+  {
+    "name": "礼运租车",
+    "city": "青岛市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:13:41.069+08:00"
+  },
+  {
+    "name": "利明租车(青岛北站店)",
+    "city": "青岛市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T19:13:41.102+08:00"
+  },
+  {
+    "name": "青岛小胡子高端婚车",
+    "city": "青岛市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T19:13:41.131+08:00"
+  },
+  {
+    "name": "仙遇婚车主持司仪(香港东路店)",
+    "city": "青岛市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:13:44.147+08:00"
   }
 ]
