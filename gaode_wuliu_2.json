@@ -25684,5 +25684,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:18:06.640+08:00"
+  },
+  {
+    "name": "沙塘园快递站",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:06.763+08:00"
+  },
+  {
+    "name": "中国邮政EMS珠江路揽投部",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:06.871+08:00"
+  },
+  {
+    "name": "华能城市花园快递柜",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:06.983+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:07.147+08:00"
+  },
+  {
+    "name": "中国邮政(鼓楼邮政支局)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:10.271+08:00"
   }
 ]
