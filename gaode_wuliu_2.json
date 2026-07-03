@@ -12868,5 +12868,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:58:06.473+08:00"
+  },
+  {
+    "name": "顺丰速运(小河沥江围店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:58:06.607+08:00"
+  },
+  {
+    "name": "秀驿物流(先锋路店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:06.651+08:00"
+  },
+  {
+    "name": "诚信快递物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:06.683+08:00"
+  },
+  {
+    "name": "秀驿物流(先锋路店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:09.352+08:00"
+  },
+  {
+    "name": "诚信快递物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:09.392+08:00"
+  },
+  {
+    "name": "东红物流(南城网点)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:09.437+08:00"
+  },
+  {
+    "name": "安能物流(新村大道店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:09.543+08:00"
   }
 ]
