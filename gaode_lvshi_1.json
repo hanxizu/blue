@@ -3220,5 +3220,23 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-04T07:30:12.980+08:00"
+  },
+  {
+    "name": "北京璟致律师事务所·24小时法律咨询(总部)",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T07:30:13.027+08:00"
+  },
+  {
+    "name": "雍行律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T07:30:16.358+08:00"
   }
 ]
