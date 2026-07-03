@@ -53692,5 +53692,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:05:46.366+08:00"
+  },
+  {
+    "name": "科利物流青岛分公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:46.702+08:00"
+  },
+  {
+    "name": "青岛易迩达物流有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:05:46.803+08:00"
+  },
+  {
+    "name": "青岛凯瑞德国际物流有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:46.876+08:00"
+  },
+  {
+    "name": "青岛凯瑞德国际物流有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:49.347+08:00"
   }
 ]
