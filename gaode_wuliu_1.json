@@ -29617,5 +29617,32 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T09:56:23.141+08:00"
+  },
+  {
+    "name": "杭州合马物流有限公司",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:56:23.331+08:00"
+  },
+  {
+    "name": "浙江胜马国际物流有限公司",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:56:23.381+08:00"
+  },
+  {
+    "name": "顺丰速运(祥大房工业区店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T09:56:26.566+08:00"
   }
 ]
