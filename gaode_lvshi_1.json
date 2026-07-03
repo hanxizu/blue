@@ -7783,5 +7783,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T07:39:24.446+08:00"
+  },
+  {
+    "name": "北京华开律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T07:39:24.528+08:00"
+  },
+  {
+    "name": "北京市同创律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-04T07:39:27.092+08:00"
+  },
+  {
+    "name": "北京共腾律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T07:39:27.119+08:00"
+  },
+  {
+    "name": "北京市同创律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-04T07:39:30.016+08:00"
   }
 ]
