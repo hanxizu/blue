@@ -646,5 +646,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:10:54.309+08:00"
+  },
+  {
+    "name": "韵达快递(六合幸福门店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:54.345+08:00"
+  },
+  {
+    "name": "兔喜生活驿站(洛河西路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:54.381+08:00"
+  },
+  {
+    "name": "顺丰速运(秦岭路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T12:10:54.411+08:00"
+  },
+  {
+    "name": "顺丰速运(秦岭路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T12:10:56.928+08:00"
+  },
+  {
+    "name": "郑州圆运装卸服务有限公司",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:57.018+08:00"
+  },
+  {
+    "name": "河南申通郑州紫金公司",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:10:57.084+08:00"
+  },
+  {
+    "name": "德邦快递(郑州二七区汝河路经营分部)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:57.146+08:00"
+  },
+  {
+    "name": "德邦快递(郑州二七区汝河路经营分部)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:00.713+08:00"
   }
 ]
