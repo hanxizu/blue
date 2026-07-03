@@ -31714,5 +31714,32 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T11:27:37.965+08:00"
+  },
+  {
+    "name": "中国邮政速递物流股份有限公司(合肥市分公司岳西路揽投部)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:27:38.158+08:00"
+  },
+  {
+    "name": "新启程物流(大件托运)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T11:27:38.229+08:00"
+  },
+  {
+    "name": "中国邮政速递物流股份有限公司(合肥市分公司岳西路揽投部)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:27:41.337+08:00"
   }
 ]
