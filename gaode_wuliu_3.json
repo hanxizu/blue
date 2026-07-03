@@ -12535,5 +12535,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:30:51.188+08:00"
+  },
+  {
+    "name": "中通快递(吉大分部)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:30:51.315+08:00"
+  },
+  {
+    "name": "顺丰速运(海虹店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:30:51.349+08:00"
+  },
+  {
+    "name": "美团配送合作商服务中心(情侣中路店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:30:51.379+08:00"
+  },
+  {
+    "name": "中通快递(吉大分部)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:30:54.248+08:00"
   }
 ]
