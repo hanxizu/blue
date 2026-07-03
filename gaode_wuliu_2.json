@@ -54529,5 +54529,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:06:58.023+08:00"
+  },
+  {
+    "name": "青岛老兵搬家",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T12:06:58.425+08:00"
+  },
+  {
+    "name": "信诚递联国际物流(同和路店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:06:58.523+08:00"
+  },
+  {
+    "name": "青鸟物流(德兴路店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:06:58.621+08:00"
+  },
+  {
+    "name": "青鸟物流(德兴路店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:07:01.525+08:00"
+  },
+  {
+    "name": "青岛商业物流公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:07:01.605+08:00"
+  },
+  {
+    "name": "青岛凯仕达供应链管理有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:07:01.662+08:00"
+  },
+  {
+    "name": "鑫港物流提货处(德丰路店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:07:01.726+08:00"
+  },
+  {
+    "name": "鑫港物流提货处(德丰路店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:07:04.198+08:00"
   }
 ]
