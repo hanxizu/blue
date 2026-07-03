@@ -6325,5 +6325,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:18:54.356+08:00"
+  },
+  {
+    "name": "顺丰速运(珠市口东街店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:54.462+08:00"
+  },
+  {
+    "name": "顺丰速运(世贸天阶店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:18:54.491+08:00"
+  },
+  {
+    "name": "汉龙物流园",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:54.518+08:00"
+  },
+  {
+    "name": "顺丰速运(天雅珠宝城店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T09:18:54.546+08:00"
+  },
+  {
+    "name": "顺丰速运(世贸天阶店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:18:57.135+08:00"
+  },
+  {
+    "name": "汉龙物流园",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:57.162+08:00"
+  },
+  {
+    "name": "顺丰速运(天雅珠宝城店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T09:18:57.187+08:00"
+  },
+  {
+    "name": "顺丰速运(祈年大街店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T09:18:57.213+08:00"
+  },
+  {
+    "name": "顺丰速运(天雅珠宝城店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T09:19:00.182+08:00"
   }
 ]
