@@ -55222,5 +55222,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:38:49.593+08:00"
+  },
+  {
+    "name": "运车网·汽车托运•重庆渝行通",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:38:49.922+08:00"
+  },
+  {
+    "name": "川农农副产品配送中心",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:49.955+08:00"
+  },
+  {
+    "name": "赛玛特物流部",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:50.069+08:00"
+  },
+  {
+    "name": "川农农副产品配送中心",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:52.978+08:00"
+  },
+  {
+    "name": "赛玛特物流部",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:53.046+08:00"
+  },
+  {
+    "name": "菜鸟驿站(重庆渝中人和街13号附3号店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:53.116+08:00"
   }
 ]
