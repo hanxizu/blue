@@ -53170,5 +53170,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T17:01:23.276+08:00"
+  },
+  {
+    "name": "京东家装(济南旗舰店)",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-03T17:01:23.616+08:00"
+  },
+  {
+    "name": "素白几何空间设计",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T17:01:23.725+08:00"
+  },
+  {
+    "name": "山东威广装饰工程有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:01:23.847+08:00"
+  },
+  {
+    "name": "素白几何空间设计",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T17:01:26.687+08:00"
   }
 ]
