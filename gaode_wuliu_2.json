@@ -28960,5 +28960,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:22:42.678+08:00"
+  },
+  {
+    "name": "运满满-大件物流-全国货运",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:22:42.882+08:00"
+  },
+  {
+    "name": "京东物流(龙福山庄店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:22:42.921+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(南京)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:22:42.954+08:00"
+  },
+  {
+    "name": "京东物流(龙福山庄店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:22:45.625+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(南京)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:22:45.656+08:00"
+  },
+  {
+    "name": "南京启宇明物流有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:22:45.686+08:00"
   }
 ]
