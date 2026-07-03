@@ -9079,5 +9079,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T12:25:08.918+08:00"
+  },
+  {
+    "name": "安能物流(温州龙霞)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:25:09.047+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(温州)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:25:09.161+08:00"
+  },
+  {
+    "name": "驮龙物流振兴货运",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:25:09.260+08:00"
+  },
+  {
+    "name": "速达大件物流托运",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T12:25:12.064+08:00"
   }
 ]
