@@ -24712,5 +24712,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:51:03.873+08:00"
+  },
+  {
+    "name": "新鑫物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:04.038+08:00"
+  },
+  {
+    "name": "中通快运晋江市分公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:51:04.148+08:00"
+  },
+  {
+    "name": "京东物流(康庄道店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:04.264+08:00"
+  },
+  {
+    "name": "三星物流园",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:06.777+08:00"
+  },
+  {
+    "name": "新鑫物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:06.816+08:00"
+  },
+  {
+    "name": "中通快运晋江市分公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:51:06.851+08:00"
+  },
+  {
+    "name": "京东物流(康庄道店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:06.885+08:00"
   }
 ]
