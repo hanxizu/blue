@@ -35296,5 +35296,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:34:03.846+08:00"
+  },
+  {
+    "name": "天津市东丽区邦威晟达物流部",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:34:04.024+08:00"
+  },
+  {
+    "name": "天津广通巨丰物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:34:04.124+08:00"
+  },
+  {
+    "name": "远俊物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:04.226+08:00"
+  },
+  {
+    "name": "天津广通巨丰物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:34:07.040+08:00"
   }
 ]
