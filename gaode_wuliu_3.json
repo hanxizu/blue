@@ -31903,5 +31903,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:03:04.558+08:00"
+  },
+  {
+    "name": "天龙物流",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:04.955+08:00"
+  },
+  {
+    "name": "沈阳市辽海冷链物流有限责任公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:03:05.077+08:00"
+  },
+  {
+    "name": "辽西物流(苏区水暖店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:05.180+08:00"
+  },
+  {
+    "name": "沈阳市辽海冷链物流有限责任公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:03:08.035+08:00"
   }
 ]
