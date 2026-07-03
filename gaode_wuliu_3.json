@@ -304,5 +304,14 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-03T12:10:22.135+08:00"
+  },
+  {
+    "name": "华福物流广东专线",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T12:10:25.332+08:00"
   }
 ]
