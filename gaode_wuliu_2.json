@@ -1051,5 +1051,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:40:50.897+08:00"
+  },
+  {
+    "name": "重庆快递",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:50.940+08:00"
+  },
+  {
+    "name": "驿收发快递驿站(火药局5号店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:50.971+08:00"
+  },
+  {
+    "name": "金达供应链管理(重庆)有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:51.003+08:00"
+  },
+  {
+    "name": "重庆优圆供应链管理有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:51.033+08:00"
+  },
+  {
+    "name": "重庆交运快递(龙头寺南广场营业部)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:54.630+08:00"
   }
 ]
