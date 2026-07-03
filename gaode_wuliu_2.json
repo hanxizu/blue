@@ -32677,5 +32677,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:28:57.759+08:00"
+  },
+  {
+    "name": "安徽其源供应链管理有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:29:00.733+08:00"
+  },
+  {
+    "name": "德邦快递(合肥包河区凌大塘经营分部)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:29:00.783+08:00"
   }
 ]
