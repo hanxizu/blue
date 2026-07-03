@@ -26386,5 +26386,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T14:30:15.394+08:00"
+  },
+  {
+    "name": "苏州迷彩装饰有限公司狮山分公司",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:30:15.628+08:00"
+  },
+  {
+    "name": "顾家家居(长江路红星店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-03T14:30:15.741+08:00"
+  },
+  {
+    "name": "江苏佳兆鑫建筑装饰工程有限公司",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:30:19.139+08:00"
   }
 ]
