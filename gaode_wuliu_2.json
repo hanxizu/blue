@@ -21814,5 +21814,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:11:36.029+08:00"
+  },
+  {
+    "name": "广东永旺物流中心",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:11:36.185+08:00"
+  },
+  {
+    "name": "三英科力金属加工物流园区",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:11:36.215+08:00"
+  },
+  {
+    "name": "货拉拉佛山南海区门店",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T11:11:36.248+08:00"
+  },
+  {
+    "name": "鲜品达智能冷链仓储物流中心",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:11:36.279+08:00"
+  },
+  {
+    "name": "三英科力金属加工物流园区",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:11:38.893+08:00"
+  },
+  {
+    "name": "货拉拉佛山南海区门店",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T11:11:38.927+08:00"
+  },
+  {
+    "name": "鲜品达智能冷链仓储物流中心",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:11:38.959+08:00"
+  },
+  {
+    "name": "陈村镇力源金属物流城F区",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:11:38.990+08:00"
+  },
+  {
+    "name": "普洛斯顺德国通物流园(A-1库)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:11:39.022+08:00"
+  },
+  {
+    "name": "鲜品达智能冷链仓储物流中心",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:11:41.742+08:00"
   }
 ]
