@@ -32299,5 +32299,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:01:11.002+08:00"
+  },
+  {
+    "name": "多多驿站",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:01:11.180+08:00"
+  },
+  {
+    "name": "顺丰速运(金洲大厦店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T10:01:11.230+08:00"
+  },
+  {
+    "name": "菜鸟驿站(何山花园南区店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:01:11.333+08:00"
+  },
+  {
+    "name": "顺丰速运(金洲大厦店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T10:01:14.220+08:00"
   }
 ]
