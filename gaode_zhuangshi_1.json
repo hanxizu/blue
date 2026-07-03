@@ -22705,5 +22705,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T14:22:59.654+08:00"
+  },
+  {
+    "name": "鸿泰装饰",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:22:59.856+08:00"
+  },
+  {
+    "name": "尚品宅配晚安家居杭州店(优享空间)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:22:59.889+08:00"
+  },
+  {
+    "name": "中建深圳装饰有限公司浙江分公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:23:03.286+08:00"
   }
 ]
