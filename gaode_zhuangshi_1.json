@@ -36745,5 +36745,23 @@
     "colorPixels": 466,
     "colorRatio": "20.31%",
     "timestamp": "2026-07-03T14:49:54.661+08:00"
+  },
+  {
+    "name": "BM装修建材图书馆",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:49:54.827+08:00"
+  },
+  {
+    "name": "陕西元合丰装饰工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:49:58.363+08:00"
   }
 ]
