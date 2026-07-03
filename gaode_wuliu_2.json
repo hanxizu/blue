@@ -39445,5 +39445,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:40:48.935+08:00"
+  },
+  {
+    "name": "均辉国际货运代理(上海)有限公司宁波分公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:40:49.191+08:00"
+  },
+  {
+    "name": "宁波北泰物流有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:40:49.300+08:00"
+  },
+  {
+    "name": "宁波港源物流有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:40:52.058+08:00"
   }
 ]
