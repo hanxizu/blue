@@ -47302,5 +47302,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:50:29.972+08:00"
+  },
+  {
+    "name": "沪上名家装饰(郑汴路店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T16:50:30.315+08:00"
+  },
+  {
+    "name": "汇安装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:50:30.355+08:00"
+  },
+  {
+    "name": "宏达装饰(民安路)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:50:30.400+08:00"
+  },
+  {
+    "name": "友之会装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:50:32.943+08:00"
+  },
+  {
+    "name": "沪上名家装饰(郑汴路店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T16:50:32.979+08:00"
+  },
+  {
+    "name": "汇安装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:50:33.029+08:00"
   }
 ]
