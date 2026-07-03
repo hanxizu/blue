@@ -25675,5 +25675,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T14:29:05.361+08:00"
+  },
+  {
+    "name": "安得装饰集团(科技家居创意园店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T14:29:05.559+08:00"
+  },
+  {
+    "name": "恋家装饰(干将西路1301号院店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:29:05.599+08:00"
+  },
+  {
+    "name": "红狐装饰",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:29:05.712+08:00"
+  },
+  {
+    "name": "恋家装饰(干将西路1301号院店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:29:08.338+08:00"
+  },
+  {
+    "name": "红狐装饰",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:29:08.374+08:00"
   }
 ]
