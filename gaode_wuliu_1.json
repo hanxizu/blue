@@ -20437,5 +20437,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:41:16.862+08:00"
+  },
+  {
+    "name": "安顺·大件物流(广州店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:41:17.002+08:00"
+  },
+  {
+    "name": "安顺·大件物流(佛山店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:41:17.028+08:00"
+  },
+  {
+    "name": "广南物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 118,
+    "colorRatio": "5.14%",
+    "timestamp": "2026-07-03T09:41:17.056+08:00"
+  },
+  {
+    "name": "安顺·大件物流(广州店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:41:20.036+08:00"
   }
 ]
