@@ -47248,5 +47248,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:54:20.389+08:00"
+  },
+  {
+    "name": "顺丰速运(屿后北里店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:54:20.750+08:00"
+  },
+  {
+    "name": "韵达快递",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:54:20.868+08:00"
+  },
+  {
+    "name": "顺丰速运(角滨路店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:54:20.974+08:00"
+  },
+  {
+    "name": "顺丰速运(角滨路店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:54:23.884+08:00"
   }
 ]
