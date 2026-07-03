@@ -15694,5 +15694,50 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T09:33:49.066+08:00"
+  },
+  {
+    "name": "安顺大件物流|工具大件物流托运(深圳总店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:33:51.894+08:00"
+  },
+  {
+    "name": "白鲸运车·汽车托运(深圳店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T09:33:51.948+08:00"
+  },
+  {
+    "name": "航通达国际货运(雷圳大厦店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:51.998+08:00"
+  },
+  {
+    "name": "宝驰捷物流(兰天路)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:52.041+08:00"
+  },
+  {
+    "name": "白鲸运车·汽车托运(深圳店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T09:33:54.767+08:00"
   }
 ]
