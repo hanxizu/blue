@@ -38698,5 +38698,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:11:25.857+08:00"
+  },
+  {
+    "name": "江岸一部中通快递",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:11:26.223+08:00"
+  },
+  {
+    "name": "联邦快递(中国)有限公司武汉分公司",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:26.274+08:00"
+  },
+  {
+    "name": "京东快递(武汉港澳站)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:26.319+08:00"
+  },
+  {
+    "name": "优速快递(江岸分店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:26.364+08:00"
+  },
+  {
+    "name": "京东快递(武汉港澳站)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:29.575+08:00"
   }
 ]
