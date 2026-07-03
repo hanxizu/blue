@@ -25351,5 +25351,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:17:39.239+08:00"
+  },
+  {
+    "name": "顺丰速运(进香河路店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T11:17:39.389+08:00"
+  },
+  {
+    "name": "江苏苏迈克斯国际物流有限公司(南京总部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:17:39.426+08:00"
+  },
+  {
+    "name": "南京福佑物流有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:17:39.534+08:00"
+  },
+  {
+    "name": "双飞华德物流",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:17:42.339+08:00"
   }
 ]
