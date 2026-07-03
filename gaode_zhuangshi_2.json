@@ -51973,5 +51973,50 @@
     "colorPixels": 381,
     "colorRatio": "16.60%",
     "timestamp": "2026-07-03T16:59:32.317+08:00"
+  },
+  {
+    "name": "元和装饰设计",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:59:32.666+08:00"
+  },
+  {
+    "name": "天元装饰设计院",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:59:32.780+08:00"
+  },
+  {
+    "name": "山东悟语装饰设计有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:59:32.894+08:00"
+  },
+  {
+    "name": "山东悟语装饰设计有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:59:35.384+08:00"
+  },
+  {
+    "name": "立邦官方(济南鲍山街道店)",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:59:35.415+08:00"
   }
 ]
