@@ -52792,5 +52792,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:33:51.500+08:00"
+  },
+  {
+    "name": "弘茂物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:33:51.777+08:00"
+  },
+  {
+    "name": "壹米滴答(西安店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T10:33:51.885+08:00"
+  },
+  {
+    "name": "陕西大件汽车运输有限责任公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:33:52.006+08:00"
+  },
+  {
+    "name": "壹米滴答(西安店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T10:33:54.885+08:00"
   }
 ]
