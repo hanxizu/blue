@@ -9502,5 +9502,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:24:21.930+08:00"
+  },
+  {
+    "name": "京东快递",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:22.055+08:00"
+  },
+  {
+    "name": "菜鸟驿站",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:22.106+08:00"
+  },
+  {
+    "name": "中国邮政(豫园邮政所)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:22.132+08:00"
+  },
+  {
+    "name": "顺丰速运(河南北路店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:24:22.163+08:00"
+  },
+  {
+    "name": "中国邮政(豫园邮政所)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:24.554+08:00"
+  },
+  {
+    "name": "顺丰速运(河南北路店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:24:24.589+08:00"
+  },
+  {
+    "name": "东浩兰生国际贸易集团",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:24.680+08:00"
+  },
+  {
+    "name": "中通快递",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:24.718+08:00"
+  },
+  {
+    "name": "菜鸟驿站",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:24.781+08:00"
+  },
+  {
+    "name": "菜鸟驿站",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:27.657+08:00"
   }
 ]
