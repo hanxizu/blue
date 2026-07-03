@@ -53197,5 +53197,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:05:06.227+08:00"
+  },
+  {
+    "name": "东方超捷国际货运代理(深圳)有限公司青岛分公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:06.519+08:00"
+  },
+  {
+    "name": "深圳市巡洋国际物流有限公司青岛分公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:05:06.627+08:00"
+  },
+  {
+    "name": "青岛乐达国际物流有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:06.736+08:00"
+  },
+  {
+    "name": "深圳市巡洋国际物流有限公司青岛分公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:05:09.547+08:00"
   }
 ]
