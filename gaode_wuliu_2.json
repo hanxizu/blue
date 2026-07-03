@@ -53854,5 +53854,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:05:59.297+08:00"
+  },
+  {
+    "name": "快递服务站(台湛路35号)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:05:59.631+08:00"
+  },
+  {
+    "name": "日通国际物流(中国)有限公司青岛分公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:59.742+08:00"
+  },
+  {
+    "name": "云递驿站快递联合服务中心(青岛市政府1号店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:59.854+08:00"
+  },
+  {
+    "name": "快递服务站(台湛路35号)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:06:03.173+08:00"
   }
 ]
