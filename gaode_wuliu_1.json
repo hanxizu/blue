@@ -10924,5 +10924,68 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:26:15.074+08:00"
+  },
+  {
+    "name": "上嘉物流",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:26:15.230+08:00"
+  },
+  {
+    "name": "涩泽物流(上海)有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:26:15.273+08:00"
+  },
+  {
+    "name": "升合物流公司(嘉定店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:26:15.309+08:00"
+  },
+  {
+    "name": "上海得翼国际货运代理有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:26:17.880+08:00"
+  },
+  {
+    "name": "上海福运多搬家服务有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T09:26:17.922+08:00"
+  },
+  {
+    "name": "上海航捷威国际物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:26:17.951+08:00"
+  },
+  {
+    "name": "上海福运多搬家服务有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T09:26:21.194+08:00"
   }
 ]
