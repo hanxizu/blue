@@ -35755,5 +35755,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:34:38.641+08:00"
+  },
+  {
+    "name": "车棚快递驿站",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:38.963+08:00"
+  },
+  {
+    "name": "天津兴达货运交易市场有限责任公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:39.091+08:00"
+  },
+  {
+    "name": "天津市豫世通物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:34:39.184+08:00"
+  },
+  {
+    "name": "建道物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:39.226+08:00"
+  },
+  {
+    "name": "天津市豫世通物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:34:41.843+08:00"
+  },
+  {
+    "name": "建道物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:41.909+08:00"
+  },
+  {
+    "name": "菜鸟驿站(平山里北区店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:41.972+08:00"
+  },
+  {
+    "name": "德邦快递(天津河西区尖山路经营分部)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:42.010+08:00"
+  },
+  {
+    "name": "圆通妈妈驿站(平山里店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:42.059+08:00"
+  },
+  {
+    "name": "圆通妈妈驿站(平山里店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:45.383+08:00"
   }
 ]
