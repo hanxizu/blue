@@ -367,5 +367,59 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-03T13:41:53.546+08:00"
+  },
+  {
+    "name": "千祥设计·家装·别墅·复式装修",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T13:41:53.588+08:00"
+  },
+  {
+    "name": "造福装饰",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:41:53.709+08:00"
+  },
+  {
+    "name": "千祥设计·家装·别墅·复式装修",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T13:41:56.452+08:00"
+  },
+  {
+    "name": "造福装饰",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:41:56.483+08:00"
+  },
+  {
+    "name": "境远装饰设计(浦东店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:41:56.516+08:00"
+  },
+  {
+    "name": "上海品筑整装旗舰店",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T13:41:59.532+08:00"
   }
 ]
