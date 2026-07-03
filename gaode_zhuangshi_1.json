@@ -44458,5 +44458,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:05:52.803+08:00"
+  },
+  {
+    "name": "广东迈维装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:05:53.110+08:00"
+  },
+  {
+    "name": "东莞缘见空间设计有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:05:55.798+08:00"
+  },
+  {
+    "name": "广东迈维装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:05:55.835+08:00"
+  },
+  {
+    "name": "兴意天花·吊顶隔墙石膏线定制(大岭山建材街)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T15:05:55.870+08:00"
+  },
+  {
+    "name": "星恒装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:05:55.903+08:00"
+  },
+  {
+    "name": "兴意天花·吊顶隔墙石膏线定制(大岭山建材街)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T15:05:58.593+08:00"
   }
 ]
