@@ -31993,5 +31993,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:28:02.134+08:00"
+  },
+  {
+    "name": "安徽万达杰诚国际货运代理有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:28:02.414+08:00"
+  },
+  {
+    "name": "京东物流(合肥天鹅湖站)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:28:02.518+08:00"
+  },
+  {
+    "name": "白鲸运车·汽车托运(合肥店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:28:02.621+08:00"
+  },
+  {
+    "name": "中通快递",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:28:06.041+08:00"
   }
 ]
