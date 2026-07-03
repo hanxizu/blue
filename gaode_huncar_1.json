@@ -6118,5 +6118,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T18:48:03.226+08:00"
+  },
+  {
+    "name": "金旺租车-婚车商务车",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T18:48:03.380+08:00"
+  },
+  {
+    "name": "途顺租车",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:03.432+08:00"
+  },
+  {
+    "name": "承喜租车",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 306,
+    "colorRatio": "13.33%",
+    "timestamp": "2026-07-03T18:48:03.489+08:00"
+  },
+  {
+    "name": "承喜租车",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 306,
+    "colorRatio": "13.33%",
+    "timestamp": "2026-07-03T18:48:05.962+08:00"
+  },
+  {
+    "name": "秦·乐高端婚车租赁",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:48:05.986+08:00"
+  },
+  {
+    "name": "汽车租赁婚庆(婚车 房车 商务车 大巴中巴 小车)",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:06.011+08:00"
+  },
+  {
+    "name": "鼎尚宏韵婚车鲜花馆",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:06.034+08:00"
+  },
+  {
+    "name": "秦·乐高端婚车租赁",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:48:08.621+08:00"
   }
 ]
