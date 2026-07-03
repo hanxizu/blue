@@ -35701,5 +35701,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T14:48:18.585+08:00"
+  },
+  {
+    "name": "陕西栖刻智能装修有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:48:18.807+08:00"
+  },
+  {
+    "name": "圣都整装家居体验馆(未央店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T14:48:18.835+08:00"
+  },
+  {
+    "name": "陕西长路建筑装饰工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:48:18.864+08:00"
+  },
+  {
+    "name": "众豪达汽车服务",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:48:21.979+08:00"
   }
 ]
