@@ -23929,5 +23929,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T14:25:08.830+08:00"
+  },
+  {
+    "name": "萧山禾时装饰",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:25:08.945+08:00"
+  },
+  {
+    "name": "旺心装饰",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:25:09.046+08:00"
+  },
+  {
+    "name": "中正装饰",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:25:09.145+08:00"
+  },
+  {
+    "name": "旺心装饰",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:25:12.104+08:00"
   }
 ]
