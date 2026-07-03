@@ -14155,5 +14155,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:33:03.880+08:00"
+  },
+  {
+    "name": "兔喜快递超市(裕富新村店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:03.989+08:00"
+  },
+  {
+    "name": "龙兴物流珠海上冲营业部",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:33:04.021+08:00"
+  },
+  {
+    "name": "新澳翔粤澳货运",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:04.053+08:00"
+  },
+  {
+    "name": "兔喜快递超市(裕富新村店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:06.768+08:00"
+  },
+  {
+    "name": "龙兴物流珠海上冲营业部",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:33:06.814+08:00"
+  },
+  {
+    "name": "新澳翔粤澳货运",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:06.857+08:00"
+  },
+  {
+    "name": "五丰(亿邦达)物流",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:06.911+08:00"
   }
 ]
