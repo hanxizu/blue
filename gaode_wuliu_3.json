@@ -36385,5 +36385,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:15:38.271+08:00"
+  },
+  {
+    "name": "货拉拉(石家庄鹿泉区培训分点)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T13:15:38.553+08:00"
+  },
+  {
+    "name": "石家庄市交投冷链物流有限公司",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:15:38.590+08:00"
+  },
+  {
+    "name": "货拉拉(石家庄鹿泉区培训分点)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T13:15:41.167+08:00"
+  },
+  {
+    "name": "石家庄市交投冷链物流有限公司",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:15:41.197+08:00"
+  },
+  {
+    "name": "石家庄转运中心",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:41.296+08:00"
+  },
+  {
+    "name": "庆隆物流(乐城店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:41.398+08:00"
   }
 ]
