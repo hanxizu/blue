@@ -1933,5 +1933,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:12:38.778+08:00"
+  },
+  {
+    "name": "大顺搬家公司",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T12:12:38.825+08:00"
+  },
+  {
+    "name": "远航物流(锦荣轻纺城店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:38.861+08:00"
+  },
+  {
+    "name": "远航物流(锦荣轻纺城店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:41.562+08:00"
+  },
+  {
+    "name": "快易通汽车托运",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T12:12:41.634+08:00"
+  },
+  {
+    "name": "四季安物流(锦荣二部)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:12:41.687+08:00"
+  },
+  {
+    "name": "远航物流(锦荣轻纺城店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:44.765+08:00"
   }
 ]
