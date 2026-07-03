@@ -12391,5 +12391,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:57:24.565+08:00"
+  },
+  {
+    "name": "启硕物流(鼎添仓)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:57:24.740+08:00"
+  },
+  {
+    "name": "华捷物流(恒正大厦店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:57:24.794+08:00"
+  },
+  {
+    "name": "南城华航物流(上坊环溪东街店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:57:24.837+08:00"
+  },
+  {
+    "name": "安能物流(贯诚花园店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:57:28.313+08:00"
   }
 ]
