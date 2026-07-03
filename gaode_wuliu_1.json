@@ -44890,5 +44890,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:21:43.854+08:00"
+  },
+  {
+    "name": "国内大件物流托运·道骐运输",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:21:44.130+08:00"
+  },
+  {
+    "name": "司机之家(未央区六村堡街道一统物流)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:21:44.241+08:00"
+  },
+  {
+    "name": "汇峰物流西安分拨中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:21:47.144+08:00"
   }
 ]
