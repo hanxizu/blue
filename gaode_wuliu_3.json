@@ -13102,5 +13102,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T12:31:36.737+08:00"
+  },
+  {
+    "name": "顺丰速运(柠溪朗晴居店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:31:36.992+08:00"
+  },
+  {
+    "name": "顺丰速运(沿河东路店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:31:37.052+08:00"
+  },
+  {
+    "name": "顺丰速运(景园店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:31:37.136+08:00"
+  },
+  {
+    "name": "顺丰速运(沿河东路店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:31:40.024+08:00"
   }
 ]
