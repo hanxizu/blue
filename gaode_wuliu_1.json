@@ -41524,5 +41524,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:15:45.370+08:00"
+  },
+  {
+    "name": "运满满",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T10:15:45.609+08:00"
+  },
+  {
+    "name": "安能物流",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:15:45.723+08:00"
+  },
+  {
+    "name": "运满满",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T10:15:48.586+08:00"
   }
 ]
