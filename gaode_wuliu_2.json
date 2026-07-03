@@ -48364,5 +48364,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:55:55.771+08:00"
+  },
+  {
+    "name": "厦门小龙虾配送中心",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:56.044+08:00"
+  },
+  {
+    "name": "麦兰威典(上海)国际货运代理有限公司厦门分公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 101,
+    "colorRatio": "4.40%",
+    "timestamp": "2026-07-03T11:55:56.085+08:00"
+  },
+  {
+    "name": "利伟航(厦门)物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:55:56.170+08:00"
+  },
+  {
+    "name": "厦门华国跨境物流公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:55:56.235+08:00"
+  },
+  {
+    "name": "利伟航(厦门)物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:55:59.209+08:00"
   }
 ]
