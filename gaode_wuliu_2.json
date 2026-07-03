@@ -24343,5 +24343,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:14:59.126+08:00"
+  },
+  {
+    "name": "星星物流《英德陶瓷运输》",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:14:59.408+08:00"
+  },
+  {
+    "name": "安能物流(溶洲上元营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:14:59.445+08:00"
+  },
+  {
+    "name": "超越物流(佛陈路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:15:02.473+08:00"
   }
 ]
