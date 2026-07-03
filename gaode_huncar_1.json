@@ -2149,5 +2149,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T18:37:18.137+08:00"
+  },
+  {
+    "name": "彩色豪车租赁",
+    "city": "广州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:37:18.220+08:00"
+  },
+  {
+    "name": "伯乐豪车俱乐部天河店",
+    "city": "广州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:37:18.256+08:00"
+  },
+  {
+    "name": "腾龙行豪车超跑租赁俱乐部",
+    "city": "广州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:37:18.284+08:00"
+  },
+  {
+    "name": "腾龙行豪车超跑租赁俱乐部",
+    "city": "广州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:37:20.811+08:00"
+  },
+  {
+    "name": "广州婚车之家租车(体育西横街店)",
+    "city": "广州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:37:20.837+08:00"
+  },
+  {
+    "name": "广州市盛马汽车租赁有限公司",
+    "city": "广州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:37:20.864+08:00"
+  },
+  {
+    "name": "星谊策划·唯禧婚礼",
+    "city": "广州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:37:20.907+08:00"
+  },
+  {
+    "name": "腾龙行豪车超跑租赁俱乐部",
+    "city": "广州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:37:24.027+08:00"
   }
 ]
