@@ -45556,5 +45556,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:22:46.994+08:00"
+  },
+  {
+    "name": "蜜罐快递柜",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:47.409+08:00"
+  },
+  {
+    "name": "妈妈驿站",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:47.444+08:00"
+  },
+  {
+    "name": "菜鸟驿站",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:47.502+08:00"
+  },
+  {
+    "name": "丰巢快递柜(风景御园店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:47.538+08:00"
+  },
+  {
+    "name": "顺心捷达快递(未央迅捷路店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:22:50.787+08:00"
+  },
+  {
+    "name": "京东物流(徐家湾站)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:50.827+08:00"
+  },
+  {
+    "name": "极兔速递(西安汉城网点)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:22:50.864+08:00"
   }
 ]
