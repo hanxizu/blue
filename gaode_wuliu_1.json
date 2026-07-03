@@ -41848,5 +41848,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T10:16:13.639+08:00"
+  },
+  {
+    "name": "捷安达物流(汉正街网点)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:16:13.874+08:00"
+  },
+  {
+    "name": "新江城物流",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:16:14.000+08:00"
+  },
+  {
+    "name": "湖北国储物流股份有限公司",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:16:14.132+08:00"
+  },
+  {
+    "name": "白鲸运车·汽车托运(武汉店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:16:17.278+08:00"
   }
 ]
