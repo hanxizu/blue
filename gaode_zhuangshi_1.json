@@ -42325,5 +42325,50 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T15:02:17.922+08:00"
+  },
+  {
+    "name": "景途汽车装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:02:18.205+08:00"
+  },
+  {
+    "name": "东莞市冠艺装饰材料有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:02:18.329+08:00"
+  },
+  {
+    "name": "广东省保安消防机电装饰工程有限公司(第三分公司)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:02:18.444+08:00"
+  },
+  {
+    "name": "景途汽车装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:02:21.180+08:00"
+  },
+  {
+    "name": "东莞市冠艺装饰材料有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:02:21.221+08:00"
   }
 ]
