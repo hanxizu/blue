@@ -53179,5 +53179,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:05:02.476+08:00"
+  },
+  {
+    "name": "深圳市巡洋国际物流有限公司青岛分公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:05:02.781+08:00"
+  },
+  {
+    "name": "润泽国际货运(时代广场店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:06.227+08:00"
   }
 ]
