@@ -15154,5 +15154,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:33:06.905+08:00"
+  },
+  {
+    "name": "菜鸟驿站(梅兴苑北区店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:07.043+08:00"
+  },
+  {
+    "name": "深圳市易脉国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:33:07.072+08:00"
+  },
+  {
+    "name": "圆通速递(龙泰苑店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:07.099+08:00"
+  },
+  {
+    "name": "菜鸟驿站(梅兴苑北区店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:09.805+08:00"
+  },
+  {
+    "name": "深圳市易脉国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:33:09.845+08:00"
+  },
+  {
+    "name": "圆通速递(龙泰苑店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:09.883+08:00"
+  },
+  {
+    "name": "菜鸟驿站(石厦东村店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:09.917+08:00"
   }
 ]
