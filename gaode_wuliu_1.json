@@ -8062,5 +8062,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:21:15.335+08:00"
+  },
+  {
+    "name": "京东物流(北京丽泽营业部)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:21:15.419+08:00"
+  },
+  {
+    "name": "安顺大件物流托运中心(北京店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:21:15.453+08:00"
+  },
+  {
+    "name": "万联易达物流科技有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:21:15.552+08:00"
+  },
+  {
+    "name": "安顺大件物流托运中心(北京店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:21:18.793+08:00"
   }
 ]
