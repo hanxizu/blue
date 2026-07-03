@@ -22894,5 +22894,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:47:36.438+08:00"
+  },
+  {
+    "name": "顺心捷达(南通通州分部)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:47:36.594+08:00"
+  },
+  {
+    "name": "南通前猛物流有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:47:36.660+08:00"
+  },
+  {
+    "name": "东升物流(花园港路店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:47:36.705+08:00"
+  },
+  {
+    "name": "东升物流(花园港路店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:47:39.420+08:00"
+  },
+  {
+    "name": "鑫发物流(永兴路店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:47:39.534+08:00"
   }
 ]
