@@ -45628,5 +45628,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:50:55.326+08:00"
+  },
+  {
+    "name": "顺丰速运(新锦路工业区店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:50:55.768+08:00"
+  },
+  {
+    "name": "无锡永庄物流(宁波专线)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:50:55.808+08:00"
+  },
+  {
+    "name": "无锡市宏昌货运有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:50:55.851+08:00"
+  },
+  {
+    "name": "顺丰速运(新锦路工业区店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:50:58.562+08:00"
+  },
+  {
+    "name": "无锡永庄物流(宁波专线)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:50:58.605+08:00"
+  },
+  {
+    "name": "无锡市宏昌货运有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:50:58.644+08:00"
+  },
+  {
+    "name": "吴氏物流",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:50:58.687+08:00"
+  },
+  {
+    "name": "无锡市宏昌货运有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:51:01.732+08:00"
   }
 ]
