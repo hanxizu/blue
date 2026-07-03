@@ -49084,5 +49084,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:28:13.789+08:00"
+  },
+  {
+    "name": "华源中源物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:28:14.054+08:00"
+  },
+  {
+    "name": "陕西富达钜簏物流(秦川路华永店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:28:14.165+08:00"
+  },
+  {
+    "name": "美团配送合作商服务中心(常青二路店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:28:14.280+08:00"
+  },
+  {
+    "name": "韵达快递(西航中心小区店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:28:14.464+08:00"
+  },
+  {
+    "name": "西安站点配送运营中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:28:18.007+08:00"
   }
 ]
