@@ -10339,5 +10339,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:26:49.538+08:00"
+  },
+  {
+    "name": "顺丰速运(前周联建小店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T12:26:49.648+08:00"
+  },
+  {
+    "name": "振丰汇邦物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:49.691+08:00"
+  },
+  {
+    "name": "浙江快贝国际物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:49.725+08:00"
+  },
+  {
+    "name": "中通快运(温州南枢纽西象锦园站)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:52.405+08:00"
+  },
+  {
+    "name": "顺丰速运(前周联建小店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T12:26:52.450+08:00"
+  },
+  {
+    "name": "振丰汇邦物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:52.484+08:00"
+  },
+  {
+    "name": "浙江快贝国际物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:52.580+08:00"
   }
 ]
