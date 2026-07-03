@@ -34486,5 +34486,32 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T13:13:01.819+08:00"
+  },
+  {
+    "name": "安能物流·大件运输·跨省搬家",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T13:13:02.046+08:00"
+  },
+  {
+    "name": "宇跃搬家·快速响应·2店",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T13:13:02.078+08:00"
+  },
+  {
+    "name": "宁泽运输有限公司",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:13:05.162+08:00"
   }
 ]
