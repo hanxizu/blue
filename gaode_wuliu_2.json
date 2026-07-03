@@ -17233,5 +17233,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:05:12.792+08:00"
+  },
+  {
+    "name": "京东快递(佛山同济营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:12.883+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山祖庙岭南天地御苑3号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:15.372+08:00"
+  },
+  {
+    "name": "京东快递(佛山同济营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:15.401+08:00"
+  },
+  {
+    "name": "京东快递柜",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:15.433+08:00"
+  },
+  {
+    "name": "丰巢快递柜(越秀岭南隽庭店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:15.463+08:00"
+  },
+  {
+    "name": "京东快递(佛山同济营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:18.458+08:00"
   }
 ]
