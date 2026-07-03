@@ -35188,5 +35188,59 @@
     "colorPixels": 372,
     "colorRatio": "16.21%",
     "timestamp": "2026-07-03T11:33:54.393+08:00"
+  },
+  {
+    "name": "安顺大件物流托运中心(天津店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:33:54.587+08:00"
+  },
+  {
+    "name": "中国邮政EMS(环湖东路)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:33:54.697+08:00"
+  },
+  {
+    "name": "顺丰速运(绥江道店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:33:54.809+08:00"
+  },
+  {
+    "name": "顺丰速运(绥江道店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:33:57.446+08:00"
+  },
+  {
+    "name": "顺心物流",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T11:33:57.492+08:00"
+  },
+  {
+    "name": "天津金远达物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:33:57.526+08:00"
   }
 ]
