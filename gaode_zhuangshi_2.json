@@ -2050,5 +2050,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T15:30:12.103+08:00"
+  },
+  {
+    "name": "乾坤装饰材料集采中心",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:30:12.140+08:00"
+  },
+  {
+    "name": "索菲亚全屋定制·装修设计·衣柜橱柜家具·南京店",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T15:30:12.169+08:00"
+  },
+  {
+    "name": "俊欧装饰",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:30:12.199+08:00"
+  },
+  {
+    "name": "尚观居装饰南京总店",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:30:15.611+08:00"
   }
 ]
