@@ -24415,5 +24415,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:15:06.147+08:00"
+  },
+  {
+    "name": "安能物流(陈村顺利路营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:15:06.325+08:00"
+  },
+  {
+    "name": "佳杰物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:15:06.370+08:00"
+  },
+  {
+    "name": "星星物流《英德陶瓷运输》",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:15:06.442+08:00"
+  },
+  {
+    "name": "安能物流(溶洲上元营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:15:06.474+08:00"
+  },
+  {
+    "name": "同发物流(北祠大街)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:15:10.004+08:00"
   }
 ]
