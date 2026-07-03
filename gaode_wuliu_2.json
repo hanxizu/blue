@@ -2545,5 +2545,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:42:53.719+08:00"
+  },
+  {
+    "name": "迪亚斯物流(红旗河沟站)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:53.763+08:00"
+  },
+  {
+    "name": "华荣货运市场",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:53.804+08:00"
+  },
+  {
+    "name": "重庆锦海捷亚中渝国际物流有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:42:53.882+08:00"
+  },
+  {
+    "name": "重庆锦海捷亚中渝国际物流有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:42:56.494+08:00"
+  },
+  {
+    "name": "京东物流(知行路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:42:56.524+08:00"
+  },
+  {
+    "name": "重庆富荣运输有限公司(长江滨江路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:56.557+08:00"
+  },
+  {
+    "name": "重庆市超强货运有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:42:56.588+08:00"
+  },
+  {
+    "name": "重庆锦海捷亚中渝国际物流有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:42:59.767+08:00"
   }
 ]
