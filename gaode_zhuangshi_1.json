@@ -979,5 +979,32 @@
     "colorPixels": 389,
     "colorRatio": "16.95%",
     "timestamp": "2026-07-03T13:42:51.145+08:00"
+  },
+  {
+    "name": "优安居装饰",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:42:51.186+08:00"
+  },
+  {
+    "name": "柚雅装饰(金桥店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:42:51.223+08:00"
+  },
+  {
+    "name": "超涛装潢设计有限公司",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:42:54.817+08:00"
   }
 ]
