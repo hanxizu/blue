@@ -8494,5 +8494,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:52:02.779+08:00"
+  },
+  {
+    "name": "丰巢快递柜(石竹花园店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:52:02.849+08:00"
+  },
+  {
+    "name": "拼多多驿站",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:52:02.955+08:00"
+  },
+  {
+    "name": "东莞工会爱心驿站(顺丰速运莞城站)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:52:03.075+08:00"
+  },
+  {
+    "name": "壹米滴答孟源物流(国汇大厦店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:52:03.246+08:00"
+  },
+  {
+    "name": "东莞工会爱心驿站(顺丰速运莞城站)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:52:05.680+08:00"
+  },
+  {
+    "name": "壹米滴答孟源物流(国汇大厦店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:52:05.728+08:00"
+  },
+  {
+    "name": "德邦快递(东莞莞城街道东城路经营分部)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:52:05.798+08:00"
   }
 ]
