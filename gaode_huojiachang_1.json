@@ -2176,5 +2176,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T22:52:11.119+08:00"
+  },
+  {
+    "name": "信达威仓储货架",
+    "city": "深圳市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:52:13.913+08:00"
+  },
+  {
+    "name": "流水线 工作台 货架",
+    "city": "深圳市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:52:13.946+08:00"
+  },
+  {
+    "name": "鸿运达铁床货架厂",
+    "city": "深圳市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:52:13.991+08:00"
+  },
+  {
+    "name": "深圳市鑫亿达货架有限公司",
+    "city": "深圳市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:52:14.016+08:00"
+  },
+  {
+    "name": "流水线 工作台 货架",
+    "city": "深圳市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:52:16.538+08:00"
   }
 ]
