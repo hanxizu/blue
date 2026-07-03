@@ -29491,5 +29491,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T09:56:11.892+08:00"
+  },
+  {
+    "name": "横塘物流园",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:56:12.062+08:00"
+  },
+  {
+    "name": "龙雀物流(青春坊小区店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:56:12.092+08:00"
+  },
+  {
+    "name": "吉发物流园",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:56:12.197+08:00"
+  },
+  {
+    "name": "吉发物流园",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:56:14.631+08:00"
+  },
+  {
+    "name": "速运杭州融辉物流",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:56:14.676+08:00"
+  },
+  {
+    "name": "亚翔国际货物运输代理有限公司",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:56:14.725+08:00"
+  },
+  {
+    "name": "和达供应链产业园",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:56:14.770+08:00"
+  },
+  {
+    "name": "亚翔国际货物运输代理有限公司",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:56:17.697+08:00"
   }
 ]
