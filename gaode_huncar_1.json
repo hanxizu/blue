@@ -8251,5 +8251,41 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T18:52:51.957+08:00"
+  },
+  {
+    "name": "银慕婚车豪车服务",
+    "city": "东莞市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:52:52.030+08:00"
+  },
+  {
+    "name": "37°爱花艺",
+    "city": "东莞市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T18:52:52.060+08:00"
+  },
+  {
+    "name": "遇花喜鲜花店",
+    "city": "东莞市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:52:52.090+08:00"
+  },
+  {
+    "name": "旺缘租车",
+    "city": "东莞市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T18:52:55.090+08:00"
   }
 ]
