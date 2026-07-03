@@ -26494,5 +26494,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:19:10.767+08:00"
+  },
+  {
+    "name": "顺丰速运(四川路店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:10.916+08:00"
+  },
+  {
+    "name": "申通快递(成贤街店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:19:13.654+08:00"
+  },
+  {
+    "name": "祥瑞配送中心",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:13.692+08:00"
+  },
+  {
+    "name": "顺丰速运(四川路店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:13.728+08:00"
+  },
+  {
+    "name": "顺丰速运(金陵中环商场快递服务中心)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:19:13.762+08:00"
+  },
+  {
+    "name": "顺丰速运(长乐路店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:17.200+08:00"
   }
 ]
