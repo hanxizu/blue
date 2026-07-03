@@ -41704,5 +41704,41 @@
     "colorPixels": 379,
     "colorRatio": "16.51%",
     "timestamp": "2026-07-03T15:01:20.562+08:00"
+  },
+  {
+    "name": "金盛泰五金装饰材料行(新创基智慧港A座店)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:01:20.886+08:00"
+  },
+  {
+    "name": "嘉华装饰(万寿路)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:01:20.946+08:00"
+  },
+  {
+    "name": "标典装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:01:21.007+08:00"
+  },
+  {
+    "name": "欧派定制·精装房旧改局改(新塘永旺店)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T15:01:24.541+08:00"
   }
 ]
