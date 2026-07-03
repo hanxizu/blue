@@ -32137,5 +32137,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:21:59.282+08:00"
+  },
+  {
+    "name": "宏达装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:21:59.505+08:00"
+  },
+  {
+    "name": "信杰装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:21:59.602+08:00"
+  },
+  {
+    "name": "嘉崇装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:21:59.633+08:00"
+  },
+  {
+    "name": "信杰装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:22:02.486+08:00"
   }
 ]
