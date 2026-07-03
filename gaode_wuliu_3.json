@@ -26836,5 +26836,59 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T12:53:54.990+08:00"
+  },
+  {
+    "name": "顺丰速运(海狮店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:53:55.110+08:00"
+  },
+  {
+    "name": "顺丰速运(梅岭店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:53:57.694+08:00"
+  },
+  {
+    "name": "顺丰速运(普照社区店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:53:57.737+08:00"
+  },
+  {
+    "name": "顺丰速运(海狮店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:53:57.787+08:00"
+  },
+  {
+    "name": "泉州市永裕渣土运输有限公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:53:57.896+08:00"
+  },
+  {
+    "name": "顺丰速运(梅岭店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:54:01.029+08:00"
   }
 ]
