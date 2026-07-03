@@ -21805,5 +21805,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T14:21:34.558+08:00"
+  },
+  {
+    "name": "新世纪装饰材料市场(秋涛北路店)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:21:34.671+08:00"
+  },
+  {
+    "name": "好山装饰材料(景华苑店)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:21:34.779+08:00"
+  },
+  {
+    "name": "杭州南北边界空间设计有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:21:34.886+08:00"
+  },
+  {
+    "name": "好山装饰材料(景华苑店)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:21:37.580+08:00"
   }
 ]
