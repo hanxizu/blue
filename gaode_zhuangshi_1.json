@@ -772,5 +772,59 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T13:42:31.376+08:00"
+  },
+  {
+    "name": "沪佳装饰(杨浦旗舰店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T13:42:31.409+08:00"
+  },
+  {
+    "name": "沪佳装饰(闵行旗舰店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 389,
+    "colorRatio": "16.95%",
+    "timestamp": "2026-07-03T13:42:31.442+08:00"
+  },
+  {
+    "name": "沪佳装饰(杨浦旗舰店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T13:42:34.200+08:00"
+  },
+  {
+    "name": "沪佳装饰(闵行旗舰店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 389,
+    "colorRatio": "16.95%",
+    "timestamp": "2026-07-03T13:42:34.256+08:00"
+  },
+  {
+    "name": "悬森装修设计(张杨路店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:42:34.315+08:00"
+  },
+  {
+    "name": "芃锦装饰",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:42:37.414+08:00"
   }
 ]
