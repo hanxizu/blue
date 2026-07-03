@@ -28798,5 +28798,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:57:40.759+08:00"
+  },
+  {
+    "name": "顺丰速运(北岗桥店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:57:40.939+08:00"
+  },
+  {
+    "name": "中通中山五公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:40.981+08:00"
+  },
+  {
+    "name": "顺丰速运",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:41.086+08:00"
+  },
+  {
+    "name": "中通中山五公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:43.581+08:00"
+  },
+  {
+    "name": "顺丰速运",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:43.657+08:00"
+  },
+  {
+    "name": "菜鸟驿站(大连绕山路19号店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:43.686+08:00"
+  },
+  {
+    "name": "顺丰速运",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:46.301+08:00"
   }
 ]
