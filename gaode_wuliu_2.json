@@ -13255,5 +13255,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:58:39.437+08:00"
+  },
+  {
+    "name": "东缘国际物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:39.562+08:00"
+  },
+  {
+    "name": "德兴物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:58:39.596+08:00"
+  },
+  {
+    "name": "骏海国际物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:39.629+08:00"
+  },
+  {
+    "name": "航鹰国际物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:39.664+08:00"
+  },
+  {
+    "name": "骏海国际物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:42.370+08:00"
+  },
+  {
+    "name": "航鹰国际物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:42.411+08:00"
+  },
+  {
+    "name": "南方物流(宏图路店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:58:42.449+08:00"
   }
 ]
