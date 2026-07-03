@@ -32236,5 +32236,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:22:08.384+08:00"
+  },
+  {
+    "name": "今全兴装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:22:08.611+08:00"
+  },
+  {
+    "name": "厦门上宅亿家装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T16:22:08.648+08:00"
+  },
+  {
+    "name": "叁月里装饰设计有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:22:08.694+08:00"
+  },
+  {
+    "name": "有家装饰(厦门分公司)",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 389,
+    "colorRatio": "16.95%",
+    "timestamp": "2026-07-03T16:22:11.083+08:00"
+  },
+  {
+    "name": "梵臣空间设计装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:22:11.116+08:00"
+  },
+  {
+    "name": "厦门槿捷装饰工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:22:11.146+08:00"
+  },
+  {
+    "name": "商装空间(厦门)装饰工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:22:11.179+08:00"
+  },
+  {
+    "name": "有家装饰(厦门分公司)",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 389,
+    "colorRatio": "16.95%",
+    "timestamp": "2026-07-03T16:22:14.154+08:00"
   }
 ]
