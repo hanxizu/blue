@@ -9349,5 +9349,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:24:09.953+08:00"
+  },
+  {
+    "name": "安顺·大件托运物流(上海店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:24:10.019+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(卢湾营业部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:10.116+08:00"
+  },
+  {
+    "name": "圆通速递(人民广场站)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:10.211+08:00"
+  },
+  {
+    "name": "安顺·大件托运物流(上海店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:24:12.725+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(卢湾营业部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:12.771+08:00"
+  },
+  {
+    "name": "圆通速递(人民广场站)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:12.817+08:00"
+  },
+  {
+    "name": "丰巢快递柜(西院区上海交通大学医学院属仁济医院店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:12.860+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(卢湾营业部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:15.782+08:00"
   }
 ]
