@@ -6226,5 +6226,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:18:45.731+08:00"
+  },
+  {
+    "name": "顺丰速运(东四店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:18:45.836+08:00"
+  },
+  {
+    "name": "中国邮政速递物流股份有限公司(复兴门南大街店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:45.862+08:00"
+  },
+  {
+    "name": "中国邮政速递物流股份有限公司(复兴门南大街店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:48.656+08:00"
+  },
+  {
+    "name": "运安能物流I跨市搬家I电动车托运I摩托车托运",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:18:48.693+08:00"
+  },
+  {
+    "name": "中国邮政速递物流有限公司(西四营业部)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:48.725+08:00"
+  },
+  {
+    "name": "顺丰速运(珠市口东街店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:48.757+08:00"
   }
 ]
