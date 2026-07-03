@@ -17746,5 +17746,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:33:07.623+08:00"
+  },
+  {
+    "name": "富华超市货架仓库",
+    "city": "郑州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:33:07.815+08:00"
+  },
+  {
+    "name": "顶奇货架厂业务处",
+    "city": "郑州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:33:07.867+08:00"
+  },
+  {
+    "name": "红叶货架厂(世贸华中万货城店)",
+    "city": "郑州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:33:07.916+08:00"
+  },
+  {
+    "name": "顶奇货架厂业务处",
+    "city": "郑州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:33:10.489+08:00"
+  },
+  {
+    "name": "红叶货架厂(世贸华中万货城店)",
+    "city": "郑州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:33:10.524+08:00"
+  },
+  {
+    "name": "寒辉货架厂(提货处)",
+    "city": "郑州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:33:10.554+08:00"
+  },
+  {
+    "name": "圣元恒业货架厂",
+    "city": "郑州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:33:10.587+08:00"
+  },
+  {
+    "name": "顶奇货架厂业务处",
+    "city": "郑州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:33:13.346+08:00"
   }
 ]
