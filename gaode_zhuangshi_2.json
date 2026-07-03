@@ -7648,5 +7648,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:40:09.587+08:00"
+  },
+  {
+    "name": "安徽大易建筑设计事务所",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:40:09.727+08:00"
+  },
+  {
+    "name": "银领焕新家·房屋翻新·局部改造",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T15:40:09.765+08:00"
+  },
+  {
+    "name": "安徽昱创规划设计有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:40:09.810+08:00"
+  },
+  {
+    "name": "安徽昱创规划设计有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:40:12.854+08:00"
   }
 ]
