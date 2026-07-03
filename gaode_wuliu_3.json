@@ -19987,5 +19987,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:42:50.384+08:00"
+  },
+  {
+    "name": "豪凯物流园",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:50.527+08:00"
+  },
+  {
+    "name": "一诺物流",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:50.570+08:00"
+  },
+  {
+    "name": "常州正雄物流有限公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:42:50.634+08:00"
+  },
+  {
+    "name": "一诺物流",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:53.442+08:00"
   }
 ]
