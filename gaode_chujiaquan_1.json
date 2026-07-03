@@ -17935,5 +17935,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T22:30:45.540+08:00"
+  },
+  {
+    "name": "沐沐清洁家政服务",
+    "city": "沈阳市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:30:45.668+08:00"
+  },
+  {
+    "name": "云洁管家",
+    "city": "沈阳市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:30:45.698+08:00"
+  },
+  {
+    "name": "美杰家政服务",
+    "city": "沈阳市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:30:45.725+08:00"
+  },
+  {
+    "name": "吉祥亿家夯元店",
+    "city": "沈阳市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:30:48.608+08:00"
   }
 ]
