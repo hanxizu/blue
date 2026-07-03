@@ -22912,5 +22912,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T23:53:23.156+08:00"
+  },
+  {
+    "name": "沈阳天海货架制造有限公司",
+    "city": "沈阳市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:53:23.256+08:00"
+  },
+  {
+    "name": "沈阳鹏龙货架制造有限公司",
+    "city": "沈阳市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:53:23.284+08:00"
+  },
+  {
+    "name": "沈阳捷之达现代办公家具有限公司",
+    "city": "沈阳市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T23:53:23.315+08:00"
+  },
+  {
+    "name": "沈阳恒创仓储物资",
+    "city": "沈阳市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:53:26.311+08:00"
   }
 ]
