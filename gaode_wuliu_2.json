@@ -32767,5 +32767,59 @@
     "colorPixels": 305,
     "colorRatio": "13.29%",
     "timestamp": "2026-07-03T11:29:07.632+08:00"
+  },
+  {
+    "name": "朝阳物流(汤口路)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:29:07.918+08:00"
+  },
+  {
+    "name": "合肥海俊源物流有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:29:08.004+08:00"
+  },
+  {
+    "name": "合肥市金润物流有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:29:08.041+08:00"
+  },
+  {
+    "name": "合肥海俊源物流有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:29:10.876+08:00"
+  },
+  {
+    "name": "合肥市金润物流有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:29:10.991+08:00"
+  },
+  {
+    "name": "北人物流",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:29:11.206+08:00"
   }
 ]
