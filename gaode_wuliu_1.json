@@ -52306,5 +52306,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:33:02.469+08:00"
+  },
+  {
+    "name": "明亨物流(西站二营业部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:33:02.752+08:00"
+  },
+  {
+    "name": "西安聚邦物流服务中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:33:02.867+08:00"
+  },
+  {
+    "name": "明亨物流(西站二营业部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:33:05.597+08:00"
   }
 ]
