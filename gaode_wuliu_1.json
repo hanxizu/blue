@@ -24307,5 +24307,68 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:47:43.804+08:00"
+  },
+  {
+    "name": "安顺.大件物流(工具设备托运家具物流)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:47:43.942+08:00"
+  },
+  {
+    "name": "京东亚洲一号成都天府物流园(一期)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:43.983+08:00"
+  },
+  {
+    "name": "安顺·大件物流配送中心(三店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:47:46.433+08:00"
+  },
+  {
+    "name": "安顺.大件物流(工具设备托运家具物流)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:47:46.462+08:00"
+  },
+  {
+    "name": "京东亚洲一号成都天府物流园(一期)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:46.491+08:00"
+  },
+  {
+    "name": "力展物流(华阳配送中心)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:46.517+08:00"
+  },
+  {
+    "name": "京东亚洲一号成都天府物流园(一期)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:49.565+08:00"
   }
 ]
