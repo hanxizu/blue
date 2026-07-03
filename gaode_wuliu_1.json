@@ -47041,5 +47041,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:25:04.990+08:00"
+  },
+  {
+    "name": "菜鸟驿站(九如御小区东区店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:25:05.261+08:00"
+  },
+  {
+    "name": "顺丰速运(凤城四路店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T10:25:05.372+08:00"
+  },
+  {
+    "name": "顺丰速运(New BlockB区店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:25:05.491+08:00"
+  },
+  {
+    "name": "京东物流(西安太和营业部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:25:08.842+08:00"
   }
 ]
