@@ -12121,5 +12121,68 @@
     "colorPixels": 89,
     "colorRatio": "3.88%",
     "timestamp": "2026-07-03T19:11:18.117+08:00"
+  },
+  {
+    "name": "迪达婚车·商务·自驾",
+    "city": "长沙市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:11:18.226+08:00"
+  },
+  {
+    "name": "鑫乐缘婚庆婚车(望城店)",
+    "city": "长沙市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T19:11:18.252+08:00"
+  },
+  {
+    "name": "鑫乐缘婚庆婚车(中华岭店)",
+    "city": "长沙市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T19:11:18.280+08:00"
+  },
+  {
+    "name": "鑫乐缘婚庆婚车(望城店)",
+    "city": "长沙市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T19:11:21.029+08:00"
+  },
+  {
+    "name": "鑫乐缘婚庆婚车(中华岭店)",
+    "city": "长沙市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T19:11:21.067+08:00"
+  },
+  {
+    "name": "歆怡婚车",
+    "city": "长沙市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:11:21.098+08:00"
+  },
+  {
+    "name": "歆怡婚车",
+    "city": "长沙市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:11:23.762+08:00"
   }
 ]
