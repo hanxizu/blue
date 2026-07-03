@@ -49840,5 +49840,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:59:05.867+08:00"
+  },
+  {
+    "name": "湖南工商大学物流中心",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:06.120+08:00"
+  },
+  {
+    "name": "天弘物流专业汽车托运",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:59:06.228+08:00"
+  },
+  {
+    "name": "万乡通物流",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:59:06.344+08:00"
+  },
+  {
+    "name": "中鑫宇物流整车零担轿车托运大件运输",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:59:09.531+08:00"
   }
 ]
