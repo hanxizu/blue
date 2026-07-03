@@ -51091,5 +51091,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:31:08.190+08:00"
+  },
+  {
+    "name": "宝路通物流(武德路店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:31:08.486+08:00"
+  },
+  {
+    "name": "西安春晖物流有限责任公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:31:08.599+08:00"
+  },
+  {
+    "name": "天易达物流公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:31:08.718+08:00"
+  },
+  {
+    "name": "腾达物流(陕西安居东)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:31:12.064+08:00"
   }
 ]
