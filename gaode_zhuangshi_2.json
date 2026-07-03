@@ -14425,5 +14425,41 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T15:51:41.758+08:00"
+  },
+  {
+    "name": "同德利装饰",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:51:41.874+08:00"
+  },
+  {
+    "name": "优佳装饰(长江里14号楼店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:51:41.902+08:00"
+  },
+  {
+    "name": "慧硕装饰(日华里店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:51:41.933+08:00"
+  },
+  {
+    "name": "龙牌石膏板销冠旗舰店(天津乐卡克建材)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T15:51:44.952+08:00"
   }
 ]
