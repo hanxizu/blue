@@ -14857,5 +14857,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:32:42.137+08:00"
+  },
+  {
+    "name": "顺丰速运(天吉大厦店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T09:32:42.263+08:00"
+  },
+  {
+    "name": "顺丰速运(田面新村店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:42.306+08:00"
+  },
+  {
+    "name": "顺丰速运(海外装饰大厦店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T09:32:42.334+08:00"
+  },
+  {
+    "name": "顺丰速运(海外装饰大厦店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T09:32:45.097+08:00"
+  },
+  {
+    "name": "顺丰速运(福田村祠堂坊店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:45.214+08:00"
   }
 ]
