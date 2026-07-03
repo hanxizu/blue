@@ -34045,5 +34045,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:03:45.542+08:00"
+  },
+  {
+    "name": "苏州德坤物流(高新区高架桥店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:03:45.880+08:00"
+  },
+  {
+    "name": "安顺大件物流全国托运-不接小件-50公斤起接",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:03:45.969+08:00"
+  },
+  {
+    "name": "苏州桐雅物流有限公司",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:03:46.003+08:00"
+  },
+  {
+    "name": "苏州桐雅物流有限公司",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:03:49.282+08:00"
   }
 ]
