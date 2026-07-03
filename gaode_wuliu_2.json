@@ -3481,5 +3481,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:44:12.287+08:00"
+  },
+  {
+    "name": "天利(宏仁)物流",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:12.368+08:00"
+  },
+  {
+    "name": "芜湖安得物流股份有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:12.399+08:00"
+  },
+  {
+    "name": "重庆新急驰物流有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:44:12.432+08:00"
+  },
+  {
+    "name": "芜湖安得物流股份有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:15.279+08:00"
+  },
+  {
+    "name": "重庆新急驰物流有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:44:15.314+08:00"
   }
 ]
