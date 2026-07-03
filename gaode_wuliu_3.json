@@ -15991,5 +15991,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:36:26.425+08:00"
+  },
+  {
+    "name": "货拉拉(嘉兴南湖区门店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T12:36:26.521+08:00"
+  },
+  {
+    "name": "中外运敦豪(嘉兴服务中心)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:26.633+08:00"
+  },
+  {
+    "name": "快递超市",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:36:29.534+08:00"
   }
 ]
