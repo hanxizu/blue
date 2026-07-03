@@ -20617,5 +20617,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:44:38.722+08:00"
+  },
+  {
+    "name": "安能物流(中天路店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:44:38.863+08:00"
+  },
+  {
+    "name": "南通俊诚危险品运输有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:44:38.896+08:00"
+  },
+  {
+    "name": "安能物流(中天路店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:44:41.544+08:00"
+  },
+  {
+    "name": "南通俊诚危险品运输有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:44:41.615+08:00"
+  },
+  {
+    "name": "南通新干线国际货运代理有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:44:41.643+08:00"
+  },
+  {
+    "name": "江苏中远海运国际货运有限公司(南通分公司)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:44:41.672+08:00"
+  },
+  {
+    "name": "南通俊诚危险品运输有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:44:44.459+08:00"
   }
 ]
