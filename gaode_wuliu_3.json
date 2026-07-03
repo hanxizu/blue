@@ -7153,5 +7153,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:21:30.216+08:00"
+  },
+  {
+    "name": "中国邮政EMS(黎明揽投部)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:21:30.275+08:00"
+  },
+  {
+    "name": "菜鸟驿站(广安城店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:21:30.382+08:00"
+  },
+  {
+    "name": "丰巢快递柜(福屿新村店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:21:30.493+08:00"
+  },
+  {
+    "name": "中通快递",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:21:30.534+08:00"
+  },
+  {
+    "name": "菜鸟驿站(广安城店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:21:33.526+08:00"
   }
 ]
