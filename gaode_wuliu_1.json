@@ -40525,5 +40525,50 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T10:14:09.149+08:00"
+  },
+  {
+    "name": "顺丰速运(徐家棚店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:14:09.564+08:00"
+  },
+  {
+    "name": "菜鸟驿站(武汉长健里社区10号店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:14:09.668+08:00"
+  },
+  {
+    "name": "丰巢柜(钻石大厦店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:14:09.783+08:00"
+  },
+  {
+    "name": "顺丰速运(徐家棚店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:14:12.470+08:00"
+  },
+  {
+    "name": "菜鸟驿站(武汉长健里社区10号店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:14:12.509+08:00"
   }
 ]
