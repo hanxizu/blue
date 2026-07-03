@@ -48193,5 +48193,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T10:26:55.336+08:00"
+  },
+  {
+    "name": "金三环物流(北三环大明宫店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:55.699+08:00"
+  },
+  {
+    "name": "西安聚盟公路港",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:55.828+08:00"
+  },
+  {
+    "name": "中铁物资西安立诚物流中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:55.986+08:00"
+  },
+  {
+    "name": "西安邦友仓储配送中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:26:59.051+08:00"
   }
 ]
