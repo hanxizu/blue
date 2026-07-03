@@ -33559,5 +33559,77 @@
     "colorPixels": 305,
     "colorRatio": "13.29%",
     "timestamp": "2026-07-03T13:10:41.218+08:00"
+  },
+  {
+    "name": "顺丰速运(欧尚公馆店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:10:41.352+08:00"
+  },
+  {
+    "name": "顺丰速运(礼步湖店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:10:41.454+08:00"
+  },
+  {
+    "name": "顺丰速运(长堎新村店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:10:41.549+08:00"
+  },
+  {
+    "name": "顺丰速运(欧尚公馆店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:10:44.132+08:00"
+  },
+  {
+    "name": "顺丰速运(礼步湖店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:10:44.169+08:00"
+  },
+  {
+    "name": "顺丰速运(长堎新村店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:10:44.200+08:00"
+  },
+  {
+    "name": "南昌市新建区道路运输服务中心",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:10:44.230+08:00"
+  },
+  {
+    "name": "顺丰速运(欧尚公馆店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:10:47.517+08:00"
   }
 ]
