@@ -14119,5 +14119,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:22:30.844+08:00"
+  },
+  {
+    "name": "杰德货架厂",
+    "city": "天津市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:22:30.969+08:00"
+  },
+  {
+    "name": "货架大全",
+    "city": "天津市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:22:31.001+08:00"
+  },
+  {
+    "name": "恒业货架",
+    "city": "天津市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:22:31.031+08:00"
+  },
+  {
+    "name": "恒业货架",
+    "city": "天津市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:22:33.978+08:00"
   }
 ]
