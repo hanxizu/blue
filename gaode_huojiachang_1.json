@@ -19393,5 +19393,23 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T23:42:45.730+08:00"
+  },
+  {
+    "name": "火星货架",
+    "city": "珠海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:42:46.057+08:00"
+  },
+  {
+    "name": "火星货架",
+    "city": "珠海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:42:49.206+08:00"
   }
 ]
