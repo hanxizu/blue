@@ -47563,5 +47563,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:54:46.072+08:00"
+  },
+  {
+    "name": "厦门象屿太平综合物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:54:46.434+08:00"
+  },
+  {
+    "name": "鹭航程大件运输(中外运裕雄综合楼店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:54:46.522+08:00"
+  },
+  {
+    "name": "厦门飞航物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:54:46.551+08:00"
+  },
+  {
+    "name": "鹭航程大件运输(中外运裕雄综合楼店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:54:49.562+08:00"
   }
 ]
