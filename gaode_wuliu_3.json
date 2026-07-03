@@ -367,5 +367,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:10:31.217+08:00"
+  },
+  {
+    "name": "京东物流(中原新城学府一号店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:31.260+08:00"
+  },
+  {
+    "name": "郑州云链物流供应有限公司",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:10:31.294+08:00"
+  },
+  {
+    "name": "飞腾物流",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:33.781+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(郑州店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:10:33.826+08:00"
+  },
+  {
+    "name": "交运物流(秦岭路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:33.899+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(郑州店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:10:36.797+08:00"
   }
 ]
