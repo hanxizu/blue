@@ -13318,5 +13318,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:31:55.510+08:00"
+  },
+  {
+    "name": "申通快递(珠海吉大分公司)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:31:55.595+08:00"
+  },
+  {
+    "name": "顺丰速运(金泉花园店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:31:55.709+08:00"
+  },
+  {
+    "name": "顺丰速运(明珠山庄店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:31:55.820+08:00"
+  },
+  {
+    "name": "申通快递(珠海吉大分公司)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:31:58.341+08:00"
+  },
+  {
+    "name": "顺丰速运(金泉花园店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:31:58.452+08:00"
+  },
+  {
+    "name": "顺丰速运(明珠山庄店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:31:58.514+08:00"
   }
 ]
