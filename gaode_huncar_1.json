@@ -5290,5 +5290,41 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T18:44:59.374+08:00"
+  },
+  {
+    "name": "侣行租车(无锡站店)",
+    "city": "苏州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:44:59.452+08:00"
+  },
+  {
+    "name": "苏州卡优汽车租赁有限公司",
+    "city": "苏州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:44:59.492+08:00"
+  },
+  {
+    "name": "以琳租车(姑苏区苏锦街道店)",
+    "city": "苏州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:44:59.520+08:00"
+  },
+  {
+    "name": "近在远方花店(苏州中心店)",
+    "city": "苏州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T18:45:02.474+08:00"
   }
 ]
