@@ -11320,5 +11320,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:55:53.680+08:00"
+  },
+  {
+    "name": "联歌仓储配送中心",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:55:53.770+08:00"
+  },
+  {
+    "name": "东莞市环捷通国际货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:55:53.797+08:00"
+  },
+  {
+    "name": "共好物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:55:53.827+08:00"
+  },
+  {
+    "name": "安能物流(莞城街道店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T10:55:53.859+08:00"
+  },
+  {
+    "name": "大件物流全国托运",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:55:57.076+08:00"
   }
 ]
