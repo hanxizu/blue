@@ -33073,5 +33073,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:29:36.562+08:00"
+  },
+  {
+    "name": "速达大件物流托运",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T11:29:36.750+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(合肥)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:29:36.863+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(合肥)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:29:39.428+08:00"
+  },
+  {
+    "name": "安能中顺货运物流(合肥瑶海店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:29:39.560+08:00"
+  },
+  {
+    "name": "驰久物流(五金城南门店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:29:39.598+08:00"
   }
 ]
