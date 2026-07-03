@@ -7585,5 +7585,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:50:54.734+08:00"
+  },
+  {
+    "name": "中通快运(莞城网点)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:50:54.844+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞南城红山路十巷1号店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:54.877+08:00"
+  },
+  {
+    "name": "信达物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:54.909+08:00"
+  },
+  {
+    "name": "东莞市粤通运输有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:54.941+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞南城红山路十巷1号店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:57.725+08:00"
+  },
+  {
+    "name": "信达物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:57.760+08:00"
   }
 ]
