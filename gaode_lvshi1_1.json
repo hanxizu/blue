@@ -781,5 +781,32 @@
     "colorPixels": 122,
     "colorRatio": "5.32%",
     "timestamp": "2026-07-04T07:56:44.464+08:00"
+  },
+  {
+    "name": "鼎胜律师团队·法律咨询",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-04T07:56:44.498+08:00"
+  },
+  {
+    "name": "上海择平律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 33,
+    "colorRatio": "1.44%",
+    "timestamp": "2026-07-04T07:56:44.527+08:00"
+  },
+  {
+    "name": "上海律师法律咨询团队(静安店)",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T07:56:48.010+08:00"
   }
 ]
