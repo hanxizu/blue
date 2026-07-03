@@ -48211,5 +48211,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T11:55:41.545+08:00"
+  },
+  {
+    "name": "运满满-大件物流-全国货运",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:55:41.886+08:00"
+  },
+  {
+    "name": "越航物流(汇金城店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:41.962+08:00"
+  },
+  {
+    "name": "深圳市海桥物流有限公司厦门分公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:42.071+08:00"
+  },
+  {
+    "name": "深圳市海桥物流有限公司厦门分公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:45.096+08:00"
   }
 ]
