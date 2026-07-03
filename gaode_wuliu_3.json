@@ -26422,5 +26422,68 @@
     "colorPixels": 88,
     "colorRatio": "3.83%",
     "timestamp": "2026-07-03T12:53:22.585+08:00"
+  },
+  {
+    "name": "泉州林海物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:53:22.740+08:00"
+  },
+  {
+    "name": "安能物流(杏秀路店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:53:22.777+08:00"
+  },
+  {
+    "name": "顺丰速运(普贤路店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T12:53:22.912+08:00"
+  },
+  {
+    "name": "泉州林海物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:53:25.510+08:00"
+  },
+  {
+    "name": "安能物流(杏秀路店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:53:25.583+08:00"
+  },
+  {
+    "name": "顺丰速运(普贤路店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T12:53:25.613+08:00"
+  },
+  {
+    "name": "安能物流(杏坂店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:53:25.642+08:00"
   }
 ]
