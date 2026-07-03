@@ -25144,5 +25144,59 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T12:51:37.446+08:00"
+  },
+  {
+    "name": "泉州准联云仓管理有限公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:51:37.601+08:00"
+  },
+  {
+    "name": "泉州市弘旺渣土运输有限公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:37.640+08:00"
+  },
+  {
+    "name": "隆信物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:37.758+08:00"
+  },
+  {
+    "name": "圣鑫物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:51:37.866+08:00"
+  },
+  {
+    "name": "泉州准联云仓管理有限公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:51:40.438+08:00"
+  },
+  {
+    "name": "泉州市弘旺渣土运输有限公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:40.548+08:00"
   }
 ]
