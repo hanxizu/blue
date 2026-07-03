@@ -47941,5 +47941,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:26:27.798+08:00"
+  },
+  {
+    "name": "陕西海业供应链管理有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:28.051+08:00"
+  },
+  {
+    "name": "西安同辉物流有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T10:26:28.164+08:00"
+  },
+  {
+    "name": "顺丰速运(草滩九路店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:28.279+08:00"
+  },
+  {
+    "name": "顺丰速运(西安沣东转运中心)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:26:31.856+08:00"
   }
 ]
