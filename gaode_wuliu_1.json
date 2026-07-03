@@ -6982,5 +6982,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:19:44.006+08:00"
+  },
+  {
+    "name": "圆通速递(中国船级社皇城根小区店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:44.057+08:00"
+  },
+  {
+    "name": "中通快递(光明桥分部)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:44.177+08:00"
+  },
+  {
+    "name": "申通快递(平安商务写字楼店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:44.240+08:00"
+  },
+  {
+    "name": "中通快递(光明桥分部)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:46.995+08:00"
+  },
+  {
+    "name": "申通快递(平安商务写字楼店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:47.026+08:00"
   }
 ]
