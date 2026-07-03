@@ -23470,5 +23470,50 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-03T14:24:19.323+08:00"
+  },
+  {
+    "name": "仁爱装饰设计工程(杭州)有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:24:19.448+08:00"
+  },
+  {
+    "name": "都都装饰(集团总部)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T14:24:19.555+08:00"
+  },
+  {
+    "name": "都都装饰(集团总部)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T14:24:22.281+08:00"
+  },
+  {
+    "name": "杭州诺诺玻璃铝合金装饰有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T14:24:22.314+08:00"
+  },
+  {
+    "name": "杭州力豪装饰",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:24:22.361+08:00"
   }
 ]
