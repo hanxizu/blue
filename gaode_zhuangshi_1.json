@@ -24505,5 +24505,32 @@
     "colorPixels": 466,
     "colorRatio": "20.31%",
     "timestamp": "2026-07-03T14:26:01.858+08:00"
+  },
+  {
+    "name": "顾家家居(佳好佳综合店)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 389,
+    "colorRatio": "16.95%",
+    "timestamp": "2026-07-03T14:26:02.023+08:00"
+  },
+  {
+    "name": "美琪装饰",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:26:02.131+08:00"
+  },
+  {
+    "name": "千亿装饰",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:26:05.538+08:00"
   }
 ]
