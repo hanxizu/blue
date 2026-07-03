@@ -37555,5 +37555,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T10:09:46.571+08:00"
+  },
+  {
+    "name": "中通服供应链(湖北分公司)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:09:46.889+08:00"
+  },
+  {
+    "name": "湖北长源物流有限公司",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:09:46.922+08:00"
+  },
+  {
+    "name": "福建大道成物流科技有限公司华中运营中心",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:09:46.954+08:00"
+  },
+  {
+    "name": "中通服供应链(湖北分公司)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:09:49.752+08:00"
   }
 ]
