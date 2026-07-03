@@ -30058,5 +30058,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:59:24.156+08:00"
+  },
+  {
+    "name": "顺丰速运(华乐店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:59:24.313+08:00"
+  },
+  {
+    "name": "安然物流",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:59:26.859+08:00"
+  },
+  {
+    "name": "顺丰速运(华乐店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:59:26.892+08:00"
+  },
+  {
+    "name": "顺丰速运(虎滩路店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:59:26.992+08:00"
+  },
+  {
+    "name": "顺丰速运(杨柳街店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:59:27.021+08:00"
+  },
+  {
+    "name": "顺丰速运(华乐店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:59:29.561+08:00"
   }
 ]
