@@ -27853,5 +27853,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:21:03.836+08:00"
+  },
+  {
+    "name": "顺丰速运(丰富路店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:21:03.993+08:00"
+  },
+  {
+    "name": "韵达快递(大树根店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:06.525+08:00"
+  },
+  {
+    "name": "中国邮政(锁金村邮政所)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:06.558+08:00"
+  },
+  {
+    "name": "顺丰速运(丰富路店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:21:06.588+08:00"
+  },
+  {
+    "name": "菜鸟驿站(南京鼓楼南秀村23号店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:06.622+08:00"
+  },
+  {
+    "name": "菜鸟驿站(南京华侨路81号店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:06.660+08:00"
+  },
+  {
+    "name": "菜鸟驿站(南京鼓楼南秀村23号店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:09.275+08:00"
   }
 ]
