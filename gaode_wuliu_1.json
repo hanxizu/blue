@@ -14785,5 +14785,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:32:35.812+08:00"
+  },
+  {
+    "name": "顺丰速运(华新村店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:32:35.913+08:00"
+  },
+  {
+    "name": "深圳市蓝洋通国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:32:35.953+08:00"
+  },
+  {
+    "name": "深圳市国通货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:32:35.981+08:00"
+  },
+  {
+    "name": "顺丰速运(华新村店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:32:39.117+08:00"
   }
 ]
