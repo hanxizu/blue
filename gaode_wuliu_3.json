@@ -23011,5 +23011,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:47:45.780+08:00"
+  },
+  {
+    "name": "南通鑫铃物流有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:47:45.963+08:00"
+  },
+  {
+    "name": "天红物流",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:47:46.003+08:00"
+  },
+  {
+    "name": "福盛物流",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:47:46.040+08:00"
+  },
+  {
+    "name": "南通鑫铃物流有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:47:48.883+08:00"
   }
 ]
