@@ -55132,5 +55132,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:26:07.925+08:00"
+  },
+  {
+    "name": "金陵慕尚全屋定制(红星美凯龙店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T15:26:08.290+08:00"
+  },
+  {
+    "name": "道诺装饰",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:26:08.396+08:00"
+  },
+  {
+    "name": "南京舍艺装饰设计有限公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:26:10.921+08:00"
   }
 ]
