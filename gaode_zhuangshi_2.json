@@ -37618,5 +37618,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T16:31:48.810+08:00"
+  },
+  {
+    "name": "点石家装(梅溪湖店)",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T16:31:49.134+08:00"
+  },
+  {
+    "name": "美舍装饰",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:31:49.200+08:00"
+  },
+  {
+    "name": "精勤装饰",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:31:49.274+08:00"
+  },
+  {
+    "name": "湖南旭帆装饰设计有限公司",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:31:52.219+08:00"
   }
 ]
