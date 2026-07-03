@@ -39058,5 +39058,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:40:19.159+08:00"
+  },
+  {
+    "name": "鑫乔元国际物流",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:40:19.431+08:00"
+  },
+  {
+    "name": "宁波国际物流发展股份有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:40:19.542+08:00"
+  },
+  {
+    "name": "宁波港泰国际物流有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:40:19.653+08:00"
+  },
+  {
+    "name": "宁波麦尔国际货运代理有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:40:19.819+08:00"
+  },
+  {
+    "name": "宁波麦尔国际货运代理有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:40:22.572+08:00"
+  },
+  {
+    "name": "宁波天运国际物流有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:40:22.623+08:00"
   }
 ]
