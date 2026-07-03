@@ -24271,5 +24271,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:47:39.739+08:00"
+  },
+  {
+    "name": "顺心全国大件物流运输",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T09:47:39.982+08:00"
+  },
+  {
+    "name": "中通快递(双桂社区36号院店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:40.016+08:00"
+  },
+  {
+    "name": "中国邮政速递物流股份有限公司成都市分公司孵化园营业部",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:40.091+08:00"
+  },
+  {
+    "name": "安顺·大件物流配送中心(三店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:47:43.804+08:00"
   }
 ]
