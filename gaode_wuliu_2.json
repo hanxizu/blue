@@ -1969,5 +1969,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:42:03.582+08:00"
+  },
+  {
+    "name": "观音桥主题邮局",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:03.672+08:00"
+  },
+  {
+    "name": "菜鸟驿站(重庆渝中火药局街2号店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:03.719+08:00"
+  },
+  {
+    "name": "安能物流重庆观音桥营业部",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:42:03.751+08:00"
+  },
+  {
+    "name": "观音桥主题邮局",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:06.269+08:00"
+  },
+  {
+    "name": "菜鸟驿站(重庆渝中火药局街2号店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:06.344+08:00"
+  },
+  {
+    "name": "安能物流重庆观音桥营业部",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:42:06.384+08:00"
+  },
+  {
+    "name": "菜鸟驿站(御庭苑店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:06.453+08:00"
+  },
+  {
+    "name": "观音桥主题邮局",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:09.973+08:00"
   }
 ]
