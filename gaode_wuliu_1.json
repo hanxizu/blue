@@ -10078,5 +10078,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:25:05.351+08:00"
+  },
+  {
+    "name": "上海雀巢静安配送中心(静安康鑫家园店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:25:05.487+08:00"
+  },
+  {
+    "name": "菜鸟速递-(上海静安昌化站Z)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:25:05.589+08:00"
+  },
+  {
+    "name": "中通快递",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:25:05.615+08:00"
+  },
+  {
+    "name": "长治路邮政所",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:25:08.053+08:00"
+  },
+  {
+    "name": "上海雀巢静安配送中心(静安康鑫家园店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:25:08.082+08:00"
+  },
+  {
+    "name": "菜鸟速递-(上海静安昌化站Z)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:25:08.107+08:00"
+  },
+  {
+    "name": "中通快递",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:25:08.131+08:00"
+  },
+  {
+    "name": "荷瑞国际物流(上海)有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:25:08.159+08:00"
+  },
+  {
+    "name": "菜鸟速递-(上海静安昌化站Z)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:25:11.232+08:00"
   }
 ]
