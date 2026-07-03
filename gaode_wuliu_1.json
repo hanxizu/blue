@@ -38365,5 +38365,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:10:59.345+08:00"
+  },
+  {
+    "name": "幸福垸物流园",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:59.574+08:00"
+  },
+  {
+    "name": "顺丰速运(劳动街1附2店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:10:59.611+08:00"
+  },
+  {
+    "name": "顺丰速运(武车四村店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:10:59.722+08:00"
+  },
+  {
+    "name": "三友慧商贸武昌配送中心(恒大世纪广场店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:59.837+08:00"
+  },
+  {
+    "name": "顺丰速运(劳动街1附2店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:11:02.475+08:00"
   }
 ]
