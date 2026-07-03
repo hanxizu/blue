@@ -19681,5 +19681,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:42:25.404+08:00"
+  },
+  {
+    "name": "顺丰速运(钟楼大件店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:42:25.544+08:00"
+  },
+  {
+    "name": "强盛物流(人民东路店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:25.578+08:00"
+  },
+  {
+    "name": "安能物流(陈渡新苑店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:25.613+08:00"
+  },
+  {
+    "name": "邦嘉运输",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:25.646+08:00"
+  },
+  {
+    "name": "顺丰速运(钟楼大件店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:42:28.254+08:00"
+  },
+  {
+    "name": "强盛物流(人民东路店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:28.284+08:00"
+  },
+  {
+    "name": "安能物流(陈渡新苑店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:28.314+08:00"
+  },
+  {
+    "name": "邦嘉运输",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:28.343+08:00"
+  },
+  {
+    "name": "品亚物流",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:28.374+08:00"
+  },
+  {
+    "name": "品亚物流",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:31.409+08:00"
   }
 ]
