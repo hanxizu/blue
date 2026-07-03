@@ -32686,5 +32686,32 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T16:22:46.419+08:00"
+  },
+  {
+    "name": "匠心美家装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:22:46.643+08:00"
+  },
+  {
+    "name": "厦门晨益装饰工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T16:22:46.753+08:00"
+  },
+  {
+    "name": "匠心美家装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:22:49.506+08:00"
   }
 ]
