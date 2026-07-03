@@ -14398,5 +14398,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T19:18:13.744+08:00"
+  },
+  {
+    "name": "济南金先生租车·婚车服务有限公司",
+    "city": "济南市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:18:13.854+08:00"
+  },
+  {
+    "name": "友良租车",
+    "city": "济南市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T19:18:13.887+08:00"
+  },
+  {
+    "name": "领途租车济南东站店",
+    "city": "济南市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T19:18:13.916+08:00"
+  },
+  {
+    "name": "济南优程汽车租赁有限公司",
+    "city": "济南市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:18:13.944+08:00"
   }
 ]
