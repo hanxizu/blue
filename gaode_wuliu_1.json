@@ -48445,5 +48445,77 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T10:27:18.509+08:00"
+  },
+  {
+    "name": "西安朱雀农副产品物流中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:27:18.802+08:00"
+  },
+  {
+    "name": "中通冷链陕西省公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:27:18.897+08:00"
+  },
+  {
+    "name": "蚁链陕西富达(国亨一部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:27:18.957+08:00"
+  },
+  {
+    "name": "中通冷链陕西省公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:27:21.515+08:00"
+  },
+  {
+    "name": "蚁链陕西富达(国亨一部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:27:21.554+08:00"
+  },
+  {
+    "name": "西安万星商贸有限责任公司仓储分公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:27:21.592+08:00"
+  },
+  {
+    "name": "西安浐灞国际会展公用型保税仓库",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:27:21.628+08:00"
+  },
+  {
+    "name": "蚁链陕西富达(国亨一部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:27:24.262+08:00"
   }
 ]
