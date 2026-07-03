@@ -33487,5 +33487,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:02:54.267+08:00"
+  },
+  {
+    "name": "江苏全程物流有限公司",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:02:54.637+08:00"
+  },
+  {
+    "name": "安顺·大件物流公司(苏州店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:02:54.692+08:00"
+  },
+  {
+    "name": "安能物流(奥星电子产业园店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:02:54.768+08:00"
+  },
+  {
+    "name": "安顺·大件物流公司(苏州店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:02:57.282+08:00"
   }
 ]
