@@ -24613,5 +24613,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:48:10.491+08:00"
+  },
+  {
+    "name": "成都正远物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:48:10.613+08:00"
+  },
+  {
+    "name": "云聚物流(华丰食品城营业部)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:48:10.747+08:00"
+  },
+  {
+    "name": "三河物流园",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:48:10.814+08:00"
+  },
+  {
+    "name": "云聚物流(华丰食品城营业部)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:48:13.441+08:00"
+  },
+  {
+    "name": "三河物流园",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:48:13.476+08:00"
+  },
+  {
+    "name": "天府新区成都片区保税物流中心(B型)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:13.506+08:00"
   }
 ]
