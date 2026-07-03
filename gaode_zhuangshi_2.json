@@ -30958,5 +30958,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:20:27.427+08:00"
+  },
+  {
+    "name": "鸿森装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:20:27.686+08:00"
+  },
+  {
+    "name": "嘉林装饰(加州花园店)",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:20:27.723+08:00"
+  },
+  {
+    "name": "佰辉装饰工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:20:27.755+08:00"
+  },
+  {
+    "name": "福建盛世维宏装饰设计工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:20:31.015+08:00"
   }
 ]
