@@ -47599,5 +47599,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T11:54:49.562+08:00"
+  },
+  {
+    "name": "厦门飞航物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:54:49.848+08:00"
+  },
+  {
+    "name": "厦门荙运运输有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:54:49.967+08:00"
+  },
+  {
+    "name": "厦门程运航物流",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:54:50.077+08:00"
+  },
+  {
+    "name": "鹭航程大件运输(中外运裕雄综合楼店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:54:52.733+08:00"
   }
 ]
