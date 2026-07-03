@@ -27709,5 +27709,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:56:14.650+08:00"
+  },
+  {
+    "name": "大连思铂瑞国际物流有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:56:14.789+08:00"
+  },
+  {
+    "name": "大连邮政速递物流公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:14.894+08:00"
+  },
+  {
+    "name": "快递驿站驿收发(银寰花园店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:15.004+08:00"
+  },
+  {
+    "name": "小兵快递驿站(丰登街店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:56:15.173+08:00"
+  },
+  {
+    "name": "大连邮政速递物流公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:17.850+08:00"
   }
 ]
