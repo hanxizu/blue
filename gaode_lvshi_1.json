@@ -2509,5 +2509,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T07:28:58.142+08:00"
+  },
+  {
+    "name": "申浩(北京)律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T07:28:58.181+08:00"
+  },
+  {
+    "name": "北京泽霄律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T07:28:58.206+08:00"
+  },
+  {
+    "name": "北京康诰律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T07:28:58.241+08:00"
+  },
+  {
+    "name": "北京京凌律师事务所(银河SOHO购物中心D座店)",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T07:29:01.661+08:00"
   }
 ]
