@@ -43972,5 +43972,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:19:17.640+08:00"
+  },
+  {
+    "name": "中铁快运(汉口站营业部)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:19:18.040+08:00"
+  },
+  {
+    "name": "顺丰速运(唐家墩店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:19:18.152+08:00"
+  },
+  {
+    "name": "顺丰速运(阅马场店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T10:19:18.255+08:00"
+  },
+  {
+    "name": "顺丰速运(唐家墩店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:19:20.929+08:00"
   }
 ]
