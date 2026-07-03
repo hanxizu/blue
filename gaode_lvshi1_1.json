@@ -1276,5 +1276,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T07:57:49.594+08:00"
+  },
+  {
+    "name": "己任律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T07:57:49.637+08:00"
+  },
+  {
+    "name": "上海市汇业律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T07:57:49.665+08:00"
+  },
+  {
+    "name": "北京市集佳律师事务所上海分所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T07:57:49.691+08:00"
+  },
+  {
+    "name": "法律咨询中心",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T07:57:52.701+08:00"
   }
 ]
