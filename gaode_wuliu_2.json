@@ -50443,5 +50443,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:59:59.225+08:00"
+  },
+  {
+    "name": "德邦快递(长沙岳麓区茶子山中路经营分部)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:59:59.511+08:00"
+  },
+  {
+    "name": "菜鸟驿站(金星景园小区店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:59.619+08:00"
+  },
+  {
+    "name": "菜鸟驿站(嘉明苑店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:59.655+08:00"
+  },
+  {
+    "name": "菜鸟驿站(嘉明苑店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:02.414+08:00"
+  },
+  {
+    "name": "菜鸟驿站(银馨家园B区店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:02.467+08:00"
   }
 ]
