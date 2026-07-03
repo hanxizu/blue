@@ -27871,5 +27871,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:56:27.058+08:00"
+  },
+  {
+    "name": "大连凤缘货运有限公司(大连分公司)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:56:27.297+08:00"
+  },
+  {
+    "name": "大连晟辉运业有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:56:27.412+08:00"
+  },
+  {
+    "name": "中联泛和(大连)国际物流有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:27.589+08:00"
+  },
+  {
+    "name": "大连晟辉运业有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:56:30.401+08:00"
   }
 ]
