@@ -5308,5 +5308,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T21:35:14.994+08:00"
+  },
+  {
+    "name": "乐品家政(吴中店)",
+    "city": "苏州市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T21:35:15.109+08:00"
+  },
+  {
+    "name": "伟伟家电维修",
+    "city": "苏州市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T21:35:15.165+08:00"
+  },
+  {
+    "name": "久发检品",
+    "city": "苏州市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T21:35:15.215+08:00"
+  },
+  {
+    "name": "净入除甲醛连锁(郑和西路店)",
+    "city": "苏州市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T21:35:18.299+08:00"
   }
 ]
