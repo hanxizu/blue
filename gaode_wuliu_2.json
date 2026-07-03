@@ -43747,5 +43747,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T11:48:07.066+08:00"
+  },
+  {
+    "name": "德邦快递(无锡新吴区永乐东路经营分部)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:48:07.427+08:00"
+  },
+  {
+    "name": "ZOCI·无锡家悦祥和搬家",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T11:48:07.492+08:00"
+  },
+  {
+    "name": "顺丰速运(南湖大道店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:48:07.589+08:00"
+  },
+  {
+    "name": "ZOCI·无锡家悦祥和搬家",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T11:48:10.339+08:00"
   }
 ]
