@@ -27988,5 +27988,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:56:36.438+08:00"
+  },
+  {
+    "name": "驿收发快递驿站(工五巷店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:36.605+08:00"
+  },
+  {
+    "name": "大连佳晟货运有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:56:36.722+08:00"
+  },
+  {
+    "name": "大连通速达物流有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:36.820+08:00"
+  },
+  {
+    "name": "菜鸟驿站(大连市中航国际集贤街2号店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:39.525+08:00"
+  },
+  {
+    "name": "驿收发快递驿站(工五巷店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:39.577+08:00"
+  },
+  {
+    "name": "大连佳晟货运有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:56:39.618+08:00"
   }
 ]
