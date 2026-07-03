@@ -25306,5 +25306,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:51:50.390+08:00"
+  },
+  {
+    "name": "正龙物流园",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:50.538+08:00"
+  },
+  {
+    "name": "晋江豪迈物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:50.573+08:00"
+  },
+  {
+    "name": "壹米嘀嗒泉州紫鑫物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 104,
+    "colorRatio": "4.53%",
+    "timestamp": "2026-07-03T12:51:50.675+08:00"
+  },
+  {
+    "name": "晋江豪迈物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:53.822+08:00"
   }
 ]
