@@ -34558,5 +34558,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:31:53.690+08:00"
+  },
+  {
+    "name": "顺丰速运(安美街店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T11:31:53.877+08:00"
+  },
+  {
+    "name": "顺丰速运(合肥瑶海火车站店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:31:53.911+08:00"
+  },
+  {
+    "name": "永辉超市(世纪金源滨湖)收货处",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:31:54.027+08:00"
+  },
+  {
+    "name": "安徽省港航集团有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:31:57.131+08:00"
   }
 ]
