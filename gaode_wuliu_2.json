@@ -20185,5 +20185,41 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T11:09:23.778+08:00"
+  },
+  {
+    "name": "京东物流(佛山祖庙营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:23.914+08:00"
+  },
+  {
+    "name": "龙兴物流(佛山大道中店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:23.945+08:00"
+  },
+  {
+    "name": "京东物流(东街一巷店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:23.977+08:00"
+  },
+  {
+    "name": "京东物流(佛山祖庙营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:26.836+08:00"
   }
 ]
