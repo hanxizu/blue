@@ -27835,5 +27835,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:56:23.993+08:00"
+  },
+  {
+    "name": "中铁快运(大连站营业部)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:24.201+08:00"
+  },
+  {
+    "name": "大连凤缘货运有限公司(大连分公司)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:56:24.234+08:00"
+  },
+  {
+    "name": "大连晟辉运业有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:56:24.265+08:00"
+  },
+  {
+    "name": "中铁快运(大连站营业部)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:27.058+08:00"
   }
 ]
