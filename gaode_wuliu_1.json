@@ -45178,5 +45178,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:22:11.025+08:00"
+  },
+  {
+    "name": "速达·大件物流托运上门取件",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T10:22:11.368+08:00"
+  },
+  {
+    "name": "陕西领航速达物流运输有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:11.472+08:00"
+  },
+  {
+    "name": "安顺.大件物流(小件勿扰)电动车摩托车托运行李托运(西安店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:22:11.583+08:00"
+  },
+  {
+    "name": "陕西领航速达物流运输有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:14.353+08:00"
   }
 ]
