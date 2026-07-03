@@ -20338,5 +20338,86 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T11:09:36.676+08:00"
+  },
+  {
+    "name": "京广速递",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:36.835+08:00"
+  },
+  {
+    "name": "极兔快递(佛山桂城叠滘网点)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:09:36.884+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山石湾绿茵鸣苑17号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:36.944+08:00"
+  },
+  {
+    "name": "京广速递",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:39.469+08:00"
+  },
+  {
+    "name": "极兔快递(佛山桂城叠滘网点)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:09:39.508+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山石湾绿茵鸣苑17号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:39.544+08:00"
+  },
+  {
+    "name": "京东物流(佛山平洲营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:39.579+08:00"
+  },
+  {
+    "name": "佛山市学伟货运代理有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:39.613+08:00"
+  },
+  {
+    "name": "佛山市鞍浦物流有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:43.020+08:00"
   }
 ]
