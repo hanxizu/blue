@@ -38842,5 +38842,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T14:53:29.314+08:00"
+  },
+  {
+    "name": "俊远装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:53:29.609+08:00"
+  },
+  {
+    "name": "永发装饰(安仁坊店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:53:29.698+08:00"
+  },
+  {
+    "name": "迎春装饰部(水电宾馆家属院店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:53:29.748+08:00"
+  },
+  {
+    "name": "西安裕丰装饰材料有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:53:33.206+08:00"
   }
 ]
