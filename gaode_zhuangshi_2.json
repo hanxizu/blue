@@ -9466,5 +9466,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:43:03.740+08:00"
+  },
+  {
+    "name": "达成门窗装饰部",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:43:03.815+08:00"
+  },
+  {
+    "name": "安徽梵邦装饰",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T15:43:03.850+08:00"
+  },
+  {
+    "name": "广思广告装饰",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:43:03.929+08:00"
+  },
+  {
+    "name": "甲特装饰",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T15:43:07.436+08:00"
   }
 ]
