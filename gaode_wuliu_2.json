@@ -18781,5 +18781,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:07:19.723+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山祖庙尚辉苑9号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:19.858+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山祖庙同福大街3号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:19.909+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山市禅城区汾江西路4号)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:19.984+08:00"
+  },
+  {
+    "name": "物产中大物流投资集团有限公司佛山分公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:07:23.877+08:00"
   }
 ]
