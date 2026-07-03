@@ -196,5 +196,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:09:15.507+08:00"
+  },
+  {
+    "name": "捷丰南港理货场站",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:09:15.550+08:00"
+  },
+  {
+    "name": "青岛港前湾港区保税物流中心有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:09:15.587+08:00"
+  },
+  {
+    "name": "菜鸟驿站(青岛金水路1号潜院南门店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:09:15.620+08:00"
+  },
+  {
+    "name": "长荣三期重箱站",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:09:18.614+08:00"
   }
 ]
