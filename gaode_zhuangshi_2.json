@@ -32434,5 +32434,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:22:24.531+08:00"
+  },
+  {
+    "name": "三和会装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:22:24.731+08:00"
+  },
+  {
+    "name": "索菲亚全屋定制·装修设计·衣柜橱柜家具·厦门店",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T16:22:24.768+08:00"
+  },
+  {
+    "name": "诚川装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:22:24.796+08:00"
+  },
+  {
+    "name": "艺格装饰工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:22:24.824+08:00"
+  },
+  {
+    "name": "立邦官方(江头建材店)",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:22:27.863+08:00"
   }
 ]
