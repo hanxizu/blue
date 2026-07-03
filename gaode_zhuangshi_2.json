@@ -16396,5 +16396,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:56:08.520+08:00"
+  },
+  {
+    "name": "亚厦蘑菇加装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:56:11.048+08:00"
+  },
+  {
+    "name": "甬城尚品装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:56:11.080+08:00"
+  },
+  {
+    "name": "宁波鹏锦装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:56:11.112+08:00"
+  },
+  {
+    "name": "荣观装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:56:11.142+08:00"
+  },
+  {
+    "name": "宁波鹏锦装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:56:13.856+08:00"
   }
 ]
