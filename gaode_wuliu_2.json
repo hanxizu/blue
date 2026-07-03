@@ -5758,5 +5758,59 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:47:14.647+08:00"
+  },
+  {
+    "name": "晓毕物流(老顶坡店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:47:14.701+08:00"
+  },
+  {
+    "name": "悦茂剑波物流",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:47:17.359+08:00"
+  },
+  {
+    "name": "普洛斯(重庆)物流园2期礼嘉园区",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:47:17.388+08:00"
+  },
+  {
+    "name": "晓毕物流(老顶坡店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:47:17.418+08:00"
+  },
+  {
+    "name": "中易达物流",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:47:17.451+08:00"
+  },
+  {
+    "name": "悦茂剑波物流",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:47:20.527+08:00"
   }
 ]
