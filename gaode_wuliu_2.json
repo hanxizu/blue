@@ -35008,5 +35008,50 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T11:33:38.530+08:00"
+  },
+  {
+    "name": "安顺大件物流托运中心(天津2店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:33:38.739+08:00"
+  },
+  {
+    "name": "天津市西青区邦威鹏达物流部",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:33:38.849+08:00"
+  },
+  {
+    "name": "鸿发物流",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:33:38.954+08:00"
+  },
+  {
+    "name": "安顺大件物流托运中心(天津2店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:33:41.511+08:00"
+  },
+  {
+    "name": "天津市西青区邦威鹏达物流部",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:33:41.595+08:00"
   }
 ]
