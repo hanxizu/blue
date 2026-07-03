@@ -25009,5 +25009,77 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T14:26:52.808+08:00"
+  },
+  {
+    "name": "杭州萧山杨超远装饰材料商行(花城名苑东区店)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:26:52.979+08:00"
+  },
+  {
+    "name": "华美广告装饰",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:26:53.043+08:00"
+  },
+  {
+    "name": "杭州森斯坦装饰材料有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:26:53.076+08:00"
+  },
+  {
+    "name": "杭州艺之家装饰设计工程有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:26:55.652+08:00"
+  },
+  {
+    "name": "顶丰装饰专业办公室空间装修(顶丰国际商业空间装修)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:26:55.684+08:00"
+  },
+  {
+    "name": "杭州恒腾装饰工程有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:26:55.715+08:00"
+  },
+  {
+    "name": "杭州东家室内设计有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:26:55.745+08:00"
+  },
+  {
+    "name": "杭州艺之家装饰设计工程有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:26:58.660+08:00"
   }
 ]
