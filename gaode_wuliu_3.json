@@ -32812,5 +32812,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:04:20.562+08:00"
+  },
+  {
+    "name": "长吉物流(深得线店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:20.776+08:00"
+  },
+  {
+    "name": "义乌商通物流(沈阳五爱市场提货店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:20.808+08:00"
+  },
+  {
+    "name": "顺丰速运(银河店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:04:20.911+08:00"
+  },
+  {
+    "name": "长吉物流(深得线店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:23.589+08:00"
   }
 ]
