@@ -38491,5 +38491,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:11:09.202+08:00"
+  },
+  {
+    "name": "多多快递驿站",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:09.440+08:00"
+  },
+  {
+    "name": "德邦快递(武汉黄陂区汉口北经营分部)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:09.473+08:00"
+  },
+  {
+    "name": "武汉增益冷链物流集团有限公司",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:11:09.505+08:00"
+  },
+  {
+    "name": "武汉沐宸供应链管理有限公司",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:09.538+08:00"
+  },
+  {
+    "name": "德邦快递(武汉黄陂区汉口北经营分部)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:12.272+08:00"
   }
 ]
