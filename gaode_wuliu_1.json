@@ -7396,5 +7396,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:20:15.692+08:00"
+  },
+  {
+    "name": "中储粮物流有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:15.754+08:00"
+  },
+  {
+    "name": "京东物流(北京金地站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:15.780+08:00"
+  },
+  {
+    "name": "晟茂物流产业集团有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:20:15.807+08:00"
+  },
+  {
+    "name": "京东物流(北京金地站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:18.533+08:00"
+  },
+  {
+    "name": "晟茂物流产业集团有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:20:18.571+08:00"
+  },
+  {
+    "name": "DHL Fedex UPS EMS国际快递揽收处",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:20:18.605+08:00"
+  },
+  {
+    "name": "北京祥龙三台山物流有限公司(三台山路)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:18.635+08:00"
+  },
+  {
+    "name": "DHL Fedex UPS EMS国际快递揽收处",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:20:21.421+08:00"
   }
 ]
