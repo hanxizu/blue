@@ -45214,5 +45214,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:22:14.353+08:00"
+  },
+  {
+    "name": "安顺.大件物流(小件勿扰)电动车摩托车托运行李托运(西安店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:22:14.620+08:00"
+  },
+  {
+    "name": "西安恒亿物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:22:14.725+08:00"
+  },
+  {
+    "name": "陕西叭叭达物流有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:14.832+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(西安)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:22:17.677+08:00"
   }
 ]
