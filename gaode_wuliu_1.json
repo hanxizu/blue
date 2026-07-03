@@ -22930,5 +22930,59 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T09:44:42.752+08:00"
+  },
+  {
+    "name": "国枫物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:44:42.877+08:00"
+  },
+  {
+    "name": "吉鸿物流(康乐西街店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:44:45.400+08:00"
+  },
+  {
+    "name": "盛辉物流(嘉忠物流中心店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:44:45.426+08:00"
+  },
+  {
+    "name": "国枫物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:44:45.453+08:00"
+  },
+  {
+    "name": "广州神话物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:44:45.479+08:00"
+  },
+  {
+    "name": "吉鸿物流(康乐西街店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:44:48.753+08:00"
   }
 ]
