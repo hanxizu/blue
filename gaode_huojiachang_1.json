@@ -9484,5 +9484,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T23:11:32.986+08:00"
+  },
+  {
+    "name": "大昌货架(石美樊鄚海一巷店)",
+    "city": "东莞市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:11:33.058+08:00"
+  },
+  {
+    "name": "三森货架",
+    "city": "东莞市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:11:33.090+08:00"
+  },
+  {
+    "name": "厂房装修仓储货架",
+    "city": "东莞市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:11:33.126+08:00"
+  },
+  {
+    "name": "众发货架厂",
+    "city": "东莞市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T23:11:54.606+08:00"
   }
 ]
