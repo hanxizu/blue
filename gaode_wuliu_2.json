@@ -556,5 +556,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:40:13.113+08:00"
+  },
+  {
+    "name": "菜鸟驿站(宏华半岛利园店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:13.150+08:00"
+  },
+  {
+    "name": "菜鸟驿站(阳光购物广场店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:13.182+08:00"
+  },
+  {
+    "name": "菜鸟驿站(城市经典店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:13.216+08:00"
+  },
+  {
+    "name": "丰巢智能柜(金陵大厦B栋大门旁丰巢柜2号柜店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:15.596+08:00"
+  },
+  {
+    "name": "顺丰速运(解放碑店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T10:40:15.634+08:00"
+  },
+  {
+    "name": "廉洁货运",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:15.670+08:00"
+  },
+  {
+    "name": "菜鸟驿站(城市领地店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:15.721+08:00"
+  },
+  {
+    "name": "顺丰速运(解放碑店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T10:40:18.668+08:00"
   }
 ]
