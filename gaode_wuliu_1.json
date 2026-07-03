@@ -50776,5 +50776,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:30:42.392+08:00"
+  },
+  {
+    "name": "韵达快递(西安三桥晨韵公司阿房路分部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:42.737+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西安福星苑南门店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:42.841+08:00"
+  },
+  {
+    "name": "陕西商储物流六村堡物流园南区(西北门)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:42.951+08:00"
+  },
+  {
+    "name": "陕西商储物流六村堡物流园东区(西门)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:43.119+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西安福星苑南门店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:45.858+08:00"
   }
 ]
