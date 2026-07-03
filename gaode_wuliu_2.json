@@ -53449,5 +53449,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:05:25.942+08:00"
+  },
+  {
+    "name": "宁波同泽国际物流有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:26.403+08:00"
+  },
+  {
+    "name": "青岛昊宇通国际货运代理有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:26.489+08:00"
+  },
+  {
+    "name": "青岛众鑫旺达国际物流有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:05:26.532+08:00"
+  },
+  {
+    "name": "青岛海隆达物流有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:26.633+08:00"
+  },
+  {
+    "name": "青岛昊宇通国际货运代理有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:29.432+08:00"
   }
 ]
