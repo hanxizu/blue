@@ -25099,5 +25099,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:48:48.937+08:00"
+  },
+  {
+    "name": "菜鸟驿站(城市春天店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:49.136+08:00"
+  },
+  {
+    "name": "成都老兵搬家总部(全城可搬)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:48:49.175+08:00"
+  },
+  {
+    "name": "菜鸟驿站(城市春天店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:52.054+08:00"
   }
 ]
