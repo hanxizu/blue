@@ -43441,5 +43441,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:04:14.158+08:00"
+  },
+  {
+    "name": "顾家家居(华美乐店)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-03T15:04:14.393+08:00"
+  },
+  {
+    "name": "季美装饰工程(东莞)有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:04:14.501+08:00"
+  },
+  {
+    "name": "东莞市德森装饰设计工程有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:04:14.612+08:00"
+  },
+  {
+    "name": "季美装饰工程(东莞)有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:04:17.349+08:00"
   }
 ]
