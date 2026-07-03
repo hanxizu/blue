@@ -5533,5 +5533,59 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-03T23:02:07.393+08:00"
+  },
+  {
+    "name": "蓝天货架工厂店",
+    "city": "苏州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T23:02:07.443+08:00"
+  },
+  {
+    "name": "常熟市宝来货架厂",
+    "city": "苏州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T23:02:07.477+08:00"
+  },
+  {
+    "name": "常熟市宝来货架厂",
+    "city": "苏州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T23:02:10.142+08:00"
+  },
+  {
+    "name": "无锡钢材建材批发市场",
+    "city": "苏州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T23:02:10.185+08:00"
+  },
+  {
+    "name": "星润货架厂",
+    "city": "苏州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:02:10.221+08:00"
+  },
+  {
+    "name": "常熟市宝来货架厂",
+    "city": "苏州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T23:02:12.745+08:00"
   }
 ]
