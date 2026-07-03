@@ -48175,5 +48175,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:55:38.085+08:00"
+  },
+  {
+    "name": "安顺·大件物流托运中心(设备托运摩托车托运厦门五店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:55:38.461+08:00"
+  },
+  {
+    "name": "厦门卡拉物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:38.532+08:00"
+  },
+  {
+    "name": "厦门泉龙商通国际物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:55:38.579+08:00"
+  },
+  {
+    "name": "厦门泉龙商通国际物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:55:41.545+08:00"
   }
 ]
