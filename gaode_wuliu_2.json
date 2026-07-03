@@ -34270,5 +34270,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:31:25.772+08:00"
+  },
+  {
+    "name": "永丰物流园",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:31:25.975+08:00"
+  },
+  {
+    "name": "顺丰速运(滨江花月店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:31:26.097+08:00"
+  },
+  {
+    "name": "德邦快递·客服本部(电商园三期会务中心店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:31:26.212+08:00"
+  },
+  {
+    "name": "德邦快递·客服本部(电商园三期会务中心店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:31:28.940+08:00"
   }
 ]
