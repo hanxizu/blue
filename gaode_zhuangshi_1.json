@@ -36727,5 +36727,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T14:49:51.643+08:00"
+  },
+  {
+    "name": "欣厚丰建材装饰有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:49:54.616+08:00"
+  },
+  {
+    "name": "今朝装饰北郊店",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 466,
+    "colorRatio": "20.31%",
+    "timestamp": "2026-07-03T14:49:54.661+08:00"
   }
 ]
