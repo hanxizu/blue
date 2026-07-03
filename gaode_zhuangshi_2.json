@@ -49849,5 +49849,41 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T16:54:30.298+08:00"
+  },
+  {
+    "name": "大鸿涂装饰(郑州总店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:54:30.712+08:00"
+  },
+  {
+    "name": "中旗装饰企业",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:54:30.799+08:00"
+  },
+  {
+    "name": "南方装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:54:30.839+08:00"
+  },
+  {
+    "name": "元兴装饰(泰宏建业商业中心三区店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:54:34.600+08:00"
   }
 ]
