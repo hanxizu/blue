@@ -475,5 +475,68 @@
     "colorPixels": 389,
     "colorRatio": "16.95%",
     "timestamp": "2026-07-03T13:42:05.519+08:00"
+  },
+  {
+    "name": "上海汉家装潢设计",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:42:05.557+08:00"
+  },
+  {
+    "name": "幸赢装饰·斐格设计工作室(徐汇店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:42:05.595+08:00"
+  },
+  {
+    "name": "上海汉家装潢设计",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:42:08.123+08:00"
+  },
+  {
+    "name": "幸赢装饰·斐格设计工作室(徐汇店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:42:08.153+08:00"
+  },
+  {
+    "name": "上海玛格精品定制(1号店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T13:42:08.180+08:00"
+  },
+  {
+    "name": "上海强易装潢工程有限公司",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:42:08.207+08:00"
+  },
+  {
+    "name": "星杰国际设计·别墅大宅装修(陆家嘴分公司)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:42:11.109+08:00"
   }
 ]
