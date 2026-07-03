@@ -36718,5 +36718,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:30:24.931+08:00"
+  },
+  {
+    "name": "立邦官方(涧塘市场专卖店)",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:30:25.181+08:00"
+  },
+  {
+    "name": "湖南纯艺装饰设计工程有限公司",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:30:25.252+08:00"
+  },
+  {
+    "name": "无野设计",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:30:25.325+08:00"
+  },
+  {
+    "name": "复兴天花装饰工程",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:30:28.356+08:00"
   }
 ]
