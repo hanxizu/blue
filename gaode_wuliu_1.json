@@ -41452,5 +41452,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T10:15:38.549+08:00"
+  },
+  {
+    "name": "日昱物流",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:15:38.751+08:00"
+  },
+  {
+    "name": "创捷·平安达物流(五彩正巷)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:15:38.841+08:00"
+  },
+  {
+    "name": "京东物流",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:15:38.956+08:00"
+  },
+  {
+    "name": "创捷·平安达物流(五彩正巷)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:15:41.733+08:00"
   }
 ]
