@@ -25234,5 +25234,32 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T14:27:13.706+08:00"
+  },
+  {
+    "name": "杭州汉永装饰材料有限公司(西溪花园·白荻苑店)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:27:13.948+08:00"
+  },
+  {
+    "name": "穗华石膏装饰(古墩路店)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:27:14.025+08:00"
+  },
+  {
+    "name": "窗间艺术窗帘软装",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T14:27:17.156+08:00"
   }
 ]
