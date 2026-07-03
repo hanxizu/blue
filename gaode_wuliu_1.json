@@ -40453,5 +40453,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:14:01.575+08:00"
+  },
+  {
+    "name": "湖北顺丰江岸业务部(工会驿站)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:14:01.882+08:00"
+  },
+  {
+    "name": "顺丰速运(万象店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T10:14:01.928+08:00"
+  },
+  {
+    "name": "顺丰速运(徐家棚店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:14:01.990+08:00"
+  },
+  {
+    "name": "京东快递(武汉大智路揽收营业部)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:14:05.909+08:00"
   }
 ]
