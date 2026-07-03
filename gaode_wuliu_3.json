@@ -1987,5 +1987,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:12:44.765+08:00"
+  },
+  {
+    "name": "快易通汽车托运",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T12:12:44.812+08:00"
+  },
+  {
+    "name": "四季安物流(锦荣二部)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:12:44.847+08:00"
+  },
+  {
+    "name": "快易通汽车托运",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T12:12:47.449+08:00"
+  },
+  {
+    "name": "四季安物流(锦荣二部)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:12:47.481+08:00"
+  },
+  {
+    "name": "安能物流(佳河园店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:47.516+08:00"
+  },
+  {
+    "name": "四季安物流(锦荣二部)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:12:50.151+08:00"
   }
 ]
