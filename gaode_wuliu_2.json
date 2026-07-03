@@ -50344,5 +50344,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:59:49.706+08:00"
+  },
+  {
+    "name": "顺丰速运(北京御园店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:59:49.984+08:00"
+  },
+  {
+    "name": "顺丰速运(工商学院店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:59:50.103+08:00"
+  },
+  {
+    "name": "湖南新世卓跃供应链有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:52.559+08:00"
+  },
+  {
+    "name": "顺丰速运(北京御园店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:59:52.591+08:00"
+  },
+  {
+    "name": "顺丰速运(工商学院店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:59:52.624+08:00"
+  },
+  {
+    "name": "顺丰速运(西城龙庭店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:52.656+08:00"
+  },
+  {
+    "name": "顺丰速运(西城龙庭店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:55.678+08:00"
   }
 ]
