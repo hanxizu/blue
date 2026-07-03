@@ -27889,5 +27889,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:53:57.972+08:00"
+  },
+  {
+    "name": "杭州市行政服务中心交通运输局窗口",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:53:58.163+08:00"
+  },
+  {
+    "name": "中国邮政(江锦路邮政支局)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:53:58.272+08:00"
+  },
+  {
+    "name": "杭州市行政服务中心交通运输局窗口",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:54:00.969+08:00"
+  },
+  {
+    "name": "中国邮政(江锦路邮政支局)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:54:01.011+08:00"
   }
 ]
