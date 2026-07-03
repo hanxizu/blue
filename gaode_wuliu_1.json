@@ -45934,5 +45934,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:23:21.579+08:00"
+  },
+  {
+    "name": "顺丰速运(老兵二站西门店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:23:21.847+08:00"
+  },
+  {
+    "name": "顺丰速运(保利中达广场店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:23:21.956+08:00"
+  },
+  {
+    "name": "成山收货部",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:22.067+08:00"
+  },
+  {
+    "name": "顺丰速运(老兵二站西门店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:23:24.622+08:00"
   }
 ]
