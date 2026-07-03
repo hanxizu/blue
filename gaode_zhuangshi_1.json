@@ -49822,5 +49822,68 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T15:15:54.563+08:00"
+  },
+  {
+    "name": "金稻田装饰",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:15:54.888+08:00"
+  },
+  {
+    "name": "比邻装饰·翻新装修(荔湾西门口店)",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T15:15:54.921+08:00"
+  },
+  {
+    "name": "得福装饰(民园店)",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:15:55.032+08:00"
+  },
+  {
+    "name": "兴发装饰材料(华艺店)",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:15:58.469+08:00"
+  },
+  {
+    "name": "法宝隆墙板源头工厂·新型建材·护墙板",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T15:15:58.510+08:00"
+  },
+  {
+    "name": "华艺装饰材料物流城南区4座",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:15:58.546+08:00"
+  },
+  {
+    "name": "法宝隆墙板源头工厂·新型建材·护墙板",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T15:16:01.014+08:00"
   }
 ]
