@@ -2203,5 +2203,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:42:23.581+08:00"
+  },
+  {
+    "name": "顺丰速运(洋河北路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:23.641+08:00"
+  },
+  {
+    "name": "重庆创意快递有限公司南坪东路分公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:26.152+08:00"
+  },
+  {
+    "name": "顺丰速运(洋河北路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:26.184+08:00"
+  },
+  {
+    "name": "顺丰速运(五红路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:42:26.217+08:00"
+  },
+  {
+    "name": "顺丰速运(光华观府国际店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:42:26.250+08:00"
+  },
+  {
+    "name": "顺丰速运(五红路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:42:28.893+08:00"
   }
 ]
