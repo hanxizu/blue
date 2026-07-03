@@ -13048,5 +13048,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:29:05.103+08:00"
+  },
+  {
+    "name": "通用技术集团国际物流有限公司上海分公司仓库(南门)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:29:05.235+08:00"
+  },
+  {
+    "name": "菜鸟速递(上海浦东花木站)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:29:05.263+08:00"
+  },
+  {
+    "name": "菜鸟驿站(上海浦东南新六村518号店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:29:05.292+08:00"
+  },
+  {
+    "name": "安顺·大件托运物流(上海店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:29:05.321+08:00"
+  },
+  {
+    "name": "菜鸟速递(上海浦东花木站)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:29:07.904+08:00"
+  },
+  {
+    "name": "菜鸟驿站(上海浦东南新六村518号店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:29:07.934+08:00"
+  },
+  {
+    "name": "安顺·大件托运物流(上海店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:29:07.964+08:00"
+  },
+  {
+    "name": "顺丰驿站",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:29:07.996+08:00"
+  },
+  {
+    "name": "菜鸟速递(上海浦东花木站)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:29:11.569+08:00"
   }
 ]
