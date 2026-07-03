@@ -30607,5 +30607,59 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T13:01:17.272+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(沈阳)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T13:01:17.404+08:00"
+  },
+  {
+    "name": "恒运物流",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:17.512+08:00"
+  },
+  {
+    "name": "东方德利运输有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:17.621+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(沈阳)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T13:01:20.214+08:00"
+  },
+  {
+    "name": "恒运物流",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:20.249+08:00"
+  },
+  {
+    "name": "东方德利运输有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:20.282+08:00"
   }
 ]
