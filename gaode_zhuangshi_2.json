@@ -35872,5 +35872,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:29:02.474+08:00"
+  },
+  {
+    "name": "湖南北岭建筑装饰工程有限公司",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:29:02.953+08:00"
+  },
+  {
+    "name": "京东家装(长沙门店)",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:29:02.987+08:00"
+  },
+  {
+    "name": "宏盛装饰建材(加州阳光东组团店)",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T16:29:03.017+08:00"
+  },
+  {
+    "name": "鸿扬家装(星沙店长沙装修旗舰店)",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-03T16:29:06.542+08:00"
   }
 ]
