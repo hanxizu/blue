@@ -36538,5 +36538,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:07:14.517+08:00"
+  },
+  {
+    "name": "苏州博腾物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:07:14.814+08:00"
+  },
+  {
+    "name": "龙圣达物流(凯明)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:07:17.798+08:00"
   }
 ]
