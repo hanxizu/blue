@@ -2986,5 +2986,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T22:54:52.848+08:00"
+  },
+  {
+    "name": "苏星仓储货架厂",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T22:54:52.885+08:00"
+  },
+  {
+    "name": "兴联货架工厂",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:54:52.915+08:00"
+  },
+  {
+    "name": "兴联货架工厂",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:54:55.779+08:00"
+  },
+  {
+    "name": "广州市新云宇货架有限公司",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:54:55.805+08:00"
+  },
+  {
+    "name": "佰以达货架",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:54:55.833+08:00"
+  },
+  {
+    "name": "恒发电动卷闸门业",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T22:54:55.873+08:00"
   }
 ]
