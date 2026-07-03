@@ -40849,5 +40849,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:42:42.486+08:00"
+  },
+  {
+    "name": "宁波薪羽空运有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:42:42.791+08:00"
+  },
+  {
+    "name": "宁波北站新货场",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:42:42.898+08:00"
+  },
+  {
+    "name": "顺丰速运(阪急快递服务中心)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:42:43.004+08:00"
+  },
+  {
+    "name": "顺丰速运(创业T2店)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:42:43.150+08:00"
+  },
+  {
+    "name": "宁波薪羽空运有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:42:46.176+08:00"
   }
 ]
