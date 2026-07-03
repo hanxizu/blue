@@ -11365,5 +11365,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:16:04.973+08:00"
+  },
+  {
+    "name": "佛山市镇昌货架有限公司",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:16:05.096+08:00"
+  },
+  {
+    "name": "佛山市智博货架",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:16:05.125+08:00"
+  },
+  {
+    "name": "星辰图(佛山)货架制造有限公司",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:16:05.171+08:00"
+  },
+  {
+    "name": "东佰巨阁楼货架厂",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:16:05.210+08:00"
+  },
+  {
+    "name": "星辰图(佛山)货架制造有限公司",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:16:07.939+08:00"
+  },
+  {
+    "name": "东佰巨阁楼货架厂",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:16:07.982+08:00"
   }
 ]
