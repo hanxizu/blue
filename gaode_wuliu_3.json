@@ -2275,5 +2275,86 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:13:10.209+08:00"
+  },
+  {
+    "name": "诚信物流(张庄分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:10.334+08:00"
+  },
+  {
+    "name": "鸿泰物流(东明路分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:10.394+08:00"
+  },
+  {
+    "name": "方圆物流(勤工路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:10.446+08:00"
+  },
+  {
+    "name": "万里物流(凤鸣路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:10.527+08:00"
+  },
+  {
+    "name": "万里物流(凤鸣路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:13.087+08:00"
+  },
+  {
+    "name": "正和物流(张庄分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:13.138+08:00"
+  },
+  {
+    "name": "京东物流(祭城实业公司家属院店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:13.170+08:00"
+  },
+  {
+    "name": "安能物流(郑平公路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:13:13.204+08:00"
+  },
+  {
+    "name": "正和物流(张庄分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:16.276+08:00"
   }
 ]
