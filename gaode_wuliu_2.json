@@ -44377,5 +44377,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:48:59.639+08:00"
+  },
+  {
+    "name": "上海铁路物流中心无锡营业部",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:00.010+08:00"
+  },
+  {
+    "name": "顺丰速运(无锡硕放转运中心)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:49:00.046+08:00"
+  },
+  {
+    "name": "江苏佳利达国际物流股份有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:49:00.092+08:00"
+  },
+  {
+    "name": "上海铁路物流中心无锡营业部",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:02.898+08:00"
   }
 ]
