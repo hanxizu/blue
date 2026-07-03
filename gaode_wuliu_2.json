@@ -44989,5 +44989,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:49:57.354+08:00"
+  },
+  {
+    "name": "顺丰速运(苏南硕放机场快递服务中心)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T11:49:57.603+08:00"
+  },
+  {
+    "name": "中国邮政速递物流股份有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:57.711+08:00"
+  },
+  {
+    "name": "无锡市滨锡起重运输有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:57.824+08:00"
+  },
+  {
+    "name": "港中旅华贸国际物流股份有限公司(无锡分公司)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:50:01.290+08:00"
   }
 ]
