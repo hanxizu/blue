@@ -19258,5 +19258,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:39:40.673+08:00"
+  },
+  {
+    "name": "3AD Keur khadim cargo",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:39:40.793+08:00"
+  },
+  {
+    "name": "京东物流(广州荔湾营业部)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:40.819+08:00"
+  },
+  {
+    "name": "顺丰速运(西郊大厦店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:39:40.847+08:00"
+  },
+  {
+    "name": "3AD Keur khadim cargo",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:39:43.413+08:00"
+  },
+  {
+    "name": "京东物流(广州荔湾营业部)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:43.469+08:00"
+  },
+  {
+    "name": "顺丰速运(西郊大厦店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:39:43.515+08:00"
+  },
+  {
+    "name": "顺丰速运(一德路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:39:43.581+08:00"
+  },
+  {
+    "name": "顺丰速运(西郊大厦店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:39:46.700+08:00"
   }
 ]
