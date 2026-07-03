@@ -979,5 +979,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:11:22.492+08:00"
+  },
+  {
+    "name": "菜鸟驿站(郑州新生活超市隔壁店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:22.549+08:00"
+  },
+  {
+    "name": "兔喜快递超市(西耿河家园店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:22.596+08:00"
+  },
+  {
+    "name": "菜鸟收货店",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:22.640+08:00"
+  },
+  {
+    "name": "兔喜快递超市(西耿河家园店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:25.361+08:00"
+  },
+  {
+    "name": "菜鸟收货店",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:25.400+08:00"
+  },
+  {
+    "name": "京东物流郑州南环站",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:25.437+08:00"
+  },
+  {
+    "name": "河南创新物流(步行街商贸城店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:11:25.472+08:00"
+  },
+  {
+    "name": "兔喜快递超市(西耿河家园店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:28.078+08:00"
   }
 ]
