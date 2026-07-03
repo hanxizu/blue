@@ -52117,5 +52117,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:02:29.673+08:00"
+  },
+  {
+    "name": "顺丰速运(雷锋镇店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T12:02:30.029+08:00"
+  },
+  {
+    "name": "兴盛优选物流园区",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:30.071+08:00"
+  },
+  {
+    "name": "湖南省亲和力旅游运输有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:30.115+08:00"
+  },
+  {
+    "name": "兴盛优选物流园区",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:33.128+08:00"
   }
 ]
