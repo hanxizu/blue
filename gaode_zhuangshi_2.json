@@ -52342,5 +52342,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T17:00:11.318+08:00"
+  },
+  {
+    "name": "华达装饰",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:00:11.671+08:00"
+  },
+  {
+    "name": "济南永琰欧艺装饰工程有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:00:11.785+08:00"
+  },
+  {
+    "name": "48快装旧房翻新(济南店)",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T17:00:11.897+08:00"
+  },
+  {
+    "name": "48快装旧房翻新(济南店)",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T17:00:14.603+08:00"
   }
 ]
