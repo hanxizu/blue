@@ -27394,5 +27394,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T09:52:10.231+08:00"
+  },
+  {
+    "name": "京东物流(天府集配站)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:52:10.377+08:00"
+  },
+  {
+    "name": "京东物流(春熙路营业部)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:52:10.408+08:00"
+  },
+  {
+    "name": "安顺·大件物流托运(工具设备托运)(一店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:52:10.516+08:00"
+  },
+  {
+    "name": "成都大件物流公司",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:52:13.113+08:00"
+  },
+  {
+    "name": "巴蜀物流工会驿站",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:52:13.168+08:00"
+  },
+  {
+    "name": "民航二所危险品运输技术中心",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:52:13.234+08:00"
   }
 ]
