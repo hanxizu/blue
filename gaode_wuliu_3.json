@@ -4462,5 +4462,68 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T12:16:59.984+08:00"
+  },
+  {
+    "name": "丰巢快递柜(洪山路店)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:00.071+08:00"
+  },
+  {
+    "name": "丰巢快递柜(华创观礼中心店)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:00.117+08:00"
+  },
+  {
+    "name": "东丰巢快递柜",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:00.149+08:00"
+  },
+  {
+    "name": "东丰巢快递柜",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:02.854+08:00"
+  },
+  {
+    "name": "文熙物流(工业南路营业部)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:02.924+08:00"
+  },
+  {
+    "name": "山东盖世农产品物流交易中心",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:02.969+08:00"
+  },
+  {
+    "name": "顺丰速运(云锦湖店)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:17:03.013+08:00"
   }
 ]
