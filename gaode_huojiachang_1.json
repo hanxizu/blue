@@ -8170,5 +8170,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:07:30.649+08:00"
+  },
+  {
+    "name": "中天货架西北配货中心厂价直销(西北配货中心)",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:07:30.711+08:00"
+  },
+  {
+    "name": "货架批发",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:07:30.738+08:00"
+  },
+  {
+    "name": "陕西宇之龙货架制造有限公司",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:07:30.764+08:00"
+  },
+  {
+    "name": "陕西省西安市莲湖区龙腾超市货架(国亨市场C区店)",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:07:33.325+08:00"
+  },
+  {
+    "name": "中天货架西北配货中心厂价直销(西北配货中心)",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:07:33.352+08:00"
+  },
+  {
+    "name": "货架批发",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:07:33.385+08:00"
+  },
+  {
+    "name": "陕西宇之龙货架制造有限公司",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:07:33.414+08:00"
+  },
+  {
+    "name": "陕西宇之龙货架制造有限公司",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:07:35.994+08:00"
   }
 ]
