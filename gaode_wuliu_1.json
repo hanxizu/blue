@@ -37339,5 +37339,41 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T10:09:26.658+08:00"
+  },
+  {
+    "name": "武汉铁路物流中心",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:09:26.887+08:00"
+  },
+  {
+    "name": "菜鸟驿站(车站街道华清社区店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:09:27.000+08:00"
+  },
+  {
+    "name": "顺丰速运(华中通信广场快递服务中心)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T10:09:27.116+08:00"
+  },
+  {
+    "name": "菜鸟驿站(天悦外滩金融中心A栋店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:09:30.108+08:00"
   }
 ]
