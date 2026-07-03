@@ -8404,5 +8404,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:51:53.770+08:00"
+  },
+  {
+    "name": "妈妈驿站(鸿福西路店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:53.867+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:56.638+08:00"
+  },
+  {
+    "name": "妈妈驿站(鸿福西路店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:56.673+08:00"
+  },
+  {
+    "name": "菜鸟驿站(联益村时代公寓店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:51:56.709+08:00"
+  },
+  {
+    "name": "菜鸟驿站(莞城瑞景酒店店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:56.741+08:00"
+  },
+  {
+    "name": "妈妈驿站(鸿福西路店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:59.179+08:00"
   }
 ]
