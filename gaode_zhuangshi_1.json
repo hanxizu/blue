@@ -20239,5 +20239,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T14:17:39.532+08:00"
+  },
+  {
+    "name": "G1全案设计",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T14:17:39.720+08:00"
+  },
+  {
+    "name": "建新装饰工程部(战旗东路6号院店)",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:17:39.754+08:00"
+  },
+  {
+    "name": "家和美装饰(洪河大道北路)",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:17:39.789+08:00"
+  },
+  {
+    "name": "老杨装修",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:17:43.285+08:00"
   }
 ]
