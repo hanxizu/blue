@@ -10393,5 +10393,41 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T09:25:28.486+08:00"
+  },
+  {
+    "name": "敦豪全球货运公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:25:28.642+08:00"
+  },
+  {
+    "name": "上海旗展国际货物运输代理有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:25:28.675+08:00"
+  },
+  {
+    "name": "菜鸟驿站(和源馨苑东区店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:25:28.733+08:00"
+  },
+  {
+    "name": "敦豪全球货运公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:25:31.593+08:00"
   }
 ]
