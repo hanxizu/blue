@@ -19978,5 +19978,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T09:40:36.119+08:00"
+  },
+  {
+    "name": "光大物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:40:36.237+08:00"
+  },
+  {
+    "name": "韵达快递(大新路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:40:36.314+08:00"
+  },
+  {
+    "name": "丰巢智能柜(广信黄田小区管理处门正对面2号丰巢柜店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:40:36.377+08:00"
+  },
+  {
+    "name": "速腾快递(天成路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:40:36.420+08:00"
+  },
+  {
+    "name": "丰巢智能柜(广信黄田小区管理处门正对面2号丰巢柜店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:40:39.216+08:00"
   }
 ]
