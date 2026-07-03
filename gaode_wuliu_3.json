@@ -5056,5 +5056,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:17:46.405+08:00"
+  },
+  {
+    "name": "泺口站货场",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:48.963+08:00"
+  },
+  {
+    "name": "山东交运物流集团有限公司储运事业部",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:48.997+08:00"
+  },
+  {
+    "name": "济南前进物流郑州河南直达往返专线",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:17:49.030+08:00"
+  },
+  {
+    "name": "滨河物流(小清河北路)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:49.062+08:00"
+  },
+  {
+    "name": "山东交运物流集团有限公司储运事业部",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:52.196+08:00"
   }
 ]
