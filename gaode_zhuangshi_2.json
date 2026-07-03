@@ -33955,5 +33955,50 @@
     "colorPixels": 147,
     "colorRatio": "6.41%",
     "timestamp": "2026-07-03T16:25:54.467+08:00"
+  },
+  {
+    "name": "长沙奥瀚装饰",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:25:54.715+08:00"
+  },
+  {
+    "name": "美迪装饰(河西店)",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:25:54.750+08:00"
+  },
+  {
+    "name": "艾尚装饰(保利·西海岸A区店)",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:25:54.854+08:00"
+  },
+  {
+    "name": "长沙奥瀚装饰",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:25:57.500+08:00"
+  },
+  {
+    "name": "美迪装饰(河西店)",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:25:57.543+08:00"
   }
 ]
