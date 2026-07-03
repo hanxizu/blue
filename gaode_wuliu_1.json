@@ -16036,5 +16036,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T09:34:21.314+08:00"
+  },
+  {
+    "name": "中颜物流",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:34:21.455+08:00"
+  },
+  {
+    "name": "伟光联国际物流(伟光联物流大厦店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:34:21.508+08:00"
+  },
+  {
+    "name": "货马达(深圳)物流科技有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:34:21.566+08:00"
+  },
+  {
+    "name": "深圳美狮物流网络科技有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:34:21.726+08:00"
+  },
+  {
+    "name": "货马达(深圳)物流科技有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:34:24.452+08:00"
   }
 ]
