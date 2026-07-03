@@ -48166,5 +48166,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:26:52.366+08:00"
+  },
+  {
+    "name": "西安邦友仓储配送中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:26:52.629+08:00"
+  },
+  {
+    "name": "金三环物流(北三环大明宫店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:52.705+08:00"
+  },
+  {
+    "name": "西安邦友仓储配送中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:26:55.336+08:00"
   }
 ]
