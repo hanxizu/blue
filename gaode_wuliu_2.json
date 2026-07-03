@@ -952,5 +952,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:40:42.070+08:00"
+  },
+  {
+    "name": "丰巢快递柜(广璐大厦店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:42.118+08:00"
+  },
+  {
+    "name": "创美兄弟标牌配货中心(解放碑步行街店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:42.159+08:00"
+  },
+  {
+    "name": "重庆融佑供应链管理有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:42.204+08:00"
+  },
+  {
+    "name": "丰巢快递柜(广璐大厦店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:44.643+08:00"
+  },
+  {
+    "name": "创美兄弟标牌配货中心(解放碑步行街店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:44.713+08:00"
+  },
+  {
+    "name": "重庆融佑供应链管理有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:44.742+08:00"
+  },
+  {
+    "name": "行李寄存快递仓储站",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T10:40:44.771+08:00"
+  },
+  {
+    "name": "行李寄存快递仓储站",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T10:40:47.436+08:00"
   }
 ]
