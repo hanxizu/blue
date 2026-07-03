@@ -31444,5 +31444,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:59:59.744+08:00"
+  },
+  {
+    "name": "中通快递(金阊分部)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:00:02.564+08:00"
+  },
+  {
+    "name": "丰巢智能柜(三元三村南门桥头东侧丰巢柜店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:00:02.612+08:00"
+  },
+  {
+    "name": "丰巢快递柜(万通大厦店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:00:02.660+08:00"
+  },
+  {
+    "name": "安顺大件物流全国托运-不接小件-50斤起接",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T10:00:02.703+08:00"
+  },
+  {
+    "name": "驿收发快递驿站(名馨花园店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:00:02.744+08:00"
+  },
+  {
+    "name": "丰巢快递柜(万通大厦店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:00:05.429+08:00"
   }
 ]
