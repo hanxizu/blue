@@ -40381,5 +40381,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:13:55.166+08:00"
+  },
+  {
+    "name": "汉口北货运中心B11号楼",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:13:55.405+08:00"
+  },
+  {
+    "name": "京东快递(武汉大智路揽收营业部)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:13:55.516+08:00"
+  },
+  {
+    "name": "湖北顺丰江岸业务部(工会驿站)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:13:55.627+08:00"
+  },
+  {
+    "name": "汉口北货运中心B11号楼",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:13:58.475+08:00"
   }
 ]
