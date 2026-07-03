@@ -41236,5 +41236,50 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T10:15:19.706+08:00"
+  },
+  {
+    "name": "金三角物流理货区",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:15:19.980+08:00"
+  },
+  {
+    "name": "祥宇航物流大件设备搬家工地宠物电动车",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T10:15:20.054+08:00"
+  },
+  {
+    "name": "汉来中通总部(黄陂街店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:15:20.151+08:00"
+  },
+  {
+    "name": "祥宇航物流大件设备搬家工地宠物电动车",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T10:15:22.703+08:00"
+  },
+  {
+    "name": "汉来中通总部(黄陂街店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:15:22.740+08:00"
   }
 ]
