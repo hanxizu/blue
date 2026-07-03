@@ -21256,5 +21256,50 @@
     "colorPixels": 146,
     "colorRatio": "6.36%",
     "timestamp": "2026-07-03T14:20:34.689+08:00"
+  },
+  {
+    "name": "亚加装饰",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T14:20:34.832+08:00"
+  },
+  {
+    "name": "浙江金邸装饰工程有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:20:34.871+08:00"
+  },
+  {
+    "name": "浙江金邸装饰工程有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:20:37.549+08:00"
+  },
+  {
+    "name": "索菲亚衣柜橱柜全屋定制(杭州欧亚达店)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T14:20:37.583+08:00"
+  },
+  {
+    "name": "中博美家总部(美好生活创造中心)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T14:20:40.112+08:00"
   }
 ]
