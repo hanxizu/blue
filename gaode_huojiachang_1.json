@@ -898,5 +898,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T22:49:25.495+08:00"
+  },
+  {
+    "name": "鑫达金属",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:49:25.560+08:00"
+  },
+  {
+    "name": "上海久固隆货架有限公司(上海仓)",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:25.599+08:00"
+  },
+  {
+    "name": "上海学州货架有限公司",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:49:25.627+08:00"
+  },
+  {
+    "name": "上海固腾货架有限公司",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:25.661+08:00"
+  },
+  {
+    "name": "上海久固隆货架有限公司(上海仓)",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:28.417+08:00"
+  },
+  {
+    "name": "上海学州货架有限公司",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:49:28.482+08:00"
+  },
+  {
+    "name": "上海固腾货架有限公司",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:28.518+08:00"
   }
 ]
