@@ -124,5 +124,68 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T18:30:13.461+08:00"
+  },
+  {
+    "name": "盛通租车",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T18:30:13.488+08:00"
+  },
+  {
+    "name": "北京租车(朝阳店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T18:30:13.514+08:00"
+  },
+  {
+    "name": "北京租车(朝阳店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T18:30:15.843+08:00"
+  },
+  {
+    "name": "北京租车豪车婚车租赁(快乐星球)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T18:30:15.879+08:00"
+  },
+  {
+    "name": "京西情思缘&婚纱·婚礼文化(利德衡大厦店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T18:30:15.911+08:00"
+  },
+  {
+    "name": "金喜来婚纱婚庆",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:30:15.938+08:00"
+  },
+  {
+    "name": "京西情思缘&婚纱·婚礼文化(利德衡大厦店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T18:30:18.798+08:00"
   }
 ]
