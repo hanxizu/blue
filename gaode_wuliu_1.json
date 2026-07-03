@@ -51964,5 +51964,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:32:31.480+08:00"
+  },
+  {
+    "name": "中通快递(西安未央一部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:32:31.762+08:00"
+  },
+  {
+    "name": "京东快递(西安六村堡营业部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:32:31.799+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西安夹城堡村店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:32:31.926+08:00"
+  },
+  {
+    "name": "圆通速递(扬善路店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:32:34.915+08:00"
   }
 ]
