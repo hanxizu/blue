@@ -34,5 +34,68 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T22:47:08.041+08:00"
+  },
+  {
+    "name": "永高机械公司",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:47:08.082+08:00"
+  },
+  {
+    "name": "北京固泰隆货架有限公司",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:47:08.113+08:00"
+  },
+  {
+    "name": "仓储货架工厂店",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:47:08.165+08:00"
+  },
+  {
+    "name": "北京固泰隆货架有限公司",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:47:10.747+08:00"
+  },
+  {
+    "name": "仓储货架工厂店",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:47:10.783+08:00"
+  },
+  {
+    "name": "永泰机械公司",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:47:10.819+08:00"
+  },
+  {
+    "name": "北京固泰隆货架有限公司",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:47:13.291+08:00"
   }
 ]
