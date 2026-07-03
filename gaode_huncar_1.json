@@ -19366,5 +19366,32 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T19:36:38.648+08:00"
+  },
+  {
+    "name": "悦顿租车",
+    "city": "昆明市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:36:38.779+08:00"
+  },
+  {
+    "name": "蓝途租车",
+    "city": "昆明市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T19:36:38.822+08:00"
+  },
+  {
+    "name": "尊客租车",
+    "city": "昆明市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T19:36:38.873+08:00"
   }
 ]
