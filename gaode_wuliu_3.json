@@ -1375,5 +1375,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:11:52.361+08:00"
+  },
+  {
+    "name": "创新物流(锦荣分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:52.399+08:00"
+  },
+  {
+    "name": "达发物流(第50营业部)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:52.431+08:00"
+  },
+  {
+    "name": "众旺物流(新天地通讯大厦店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:11:52.463+08:00"
+  },
+  {
+    "name": "创新物流(锦荣分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:55.048+08:00"
+  },
+  {
+    "name": "达发物流(第50营业部)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:55.158+08:00"
+  },
+  {
+    "name": "众旺物流(新天地通讯大厦店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:11:55.192+08:00"
+  },
+  {
+    "name": "京东物流(郑州光彩站)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:55.225+08:00"
+  },
+  {
+    "name": "京东物流(郑州光彩站)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:58.307+08:00"
   }
 ]
