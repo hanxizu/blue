@@ -16090,5 +16090,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:36:36.160+08:00"
+  },
+  {
+    "name": "菜鸟驿站(百妙公寓店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:36.300+08:00"
+  },
+  {
+    "name": "嘉兴睿通物流有限公司",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:36:36.331+08:00"
+  },
+  {
+    "name": "嘉兴市誉川物流有限公司",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:36:36.364+08:00"
+  },
+  {
+    "name": "菜鸟驿站(百妙公寓店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:39.000+08:00"
+  },
+  {
+    "name": "嘉兴睿通物流有限公司",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:36:39.059+08:00"
+  },
+  {
+    "name": "嘉兴市誉川物流有限公司",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:36:39.089+08:00"
+  },
+  {
+    "name": "浙江高登捷诺国际物流有限公司",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:39.122+08:00"
+  },
+  {
+    "name": "浙江高登捷诺国际物流有限公司",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:41.686+08:00"
   }
 ]
