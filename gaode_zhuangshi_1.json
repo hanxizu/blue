@@ -37906,5 +37906,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T14:51:55.653+08:00"
+  },
+  {
+    "name": "圣都整装家居体验馆(未央店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T14:51:55.919+08:00"
+  },
+  {
+    "name": "顾家家居一体化整家旗舰店",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T14:51:55.955+08:00"
+  },
+  {
+    "name": "绿藤装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:51:55.991+08:00"
+  },
+  {
+    "name": "顾家家居一体化整家旗舰店",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T14:51:58.650+08:00"
+  },
+  {
+    "name": "绿藤装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:51:58.686+08:00"
   }
 ]
