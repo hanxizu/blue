@@ -493,5 +493,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:10:42.437+08:00"
+  },
+  {
+    "name": "郑州市二七区道路运输服务中心",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:42.474+08:00"
+  },
+  {
+    "name": "贰仟家物流(火车站分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:42.508+08:00"
+  },
+  {
+    "name": "郑州东站圃田货场",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:42.543+08:00"
+  },
+  {
+    "name": "郑州市二七区道路运输服务中心",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:45.003+08:00"
+  },
+  {
+    "name": "贰仟家物流(火车站分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:45.037+08:00"
+  },
+  {
+    "name": "郑州东站圃田货场",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:45.079+08:00"
+  },
+  {
+    "name": "郑州国丰物流",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:10:45.134+08:00"
+  },
+  {
+    "name": "贰仟家物流(火车站分理处)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:47.876+08:00"
   }
 ]
