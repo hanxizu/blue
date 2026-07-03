@@ -45349,5 +45349,32 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T10:22:28.225+08:00"
+  },
+  {
+    "name": "菜鸟驿站",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:28.486+08:00"
+  },
+  {
+    "name": "快宝驿站",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:28.594+08:00"
+  },
+  {
+    "name": "快宝驿站",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:31.349+08:00"
   }
 ]
