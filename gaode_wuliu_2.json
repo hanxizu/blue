@@ -1789,5 +1789,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:41:47.778+08:00"
+  },
+  {
+    "name": "京东物流(石油路营业部)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:41:47.824+08:00"
+  },
+  {
+    "name": "菜鸟驿站(万丰花园店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:41:47.860+08:00"
+  },
+  {
+    "name": "菜鸟驿站(宏基大厦店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:41:47.896+08:00"
+  },
+  {
+    "name": "菜鸟驿站(重庆大井巷11号店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:41:51.408+08:00"
   }
 ]
