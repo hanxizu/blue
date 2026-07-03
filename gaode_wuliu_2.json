@@ -21949,5 +21949,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:11:44.857+08:00"
+  },
+  {
+    "name": "南梦国际物流有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:11:45.049+08:00"
+  },
+  {
+    "name": "佛山市顺德区尊程汽车运输有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:11:45.188+08:00"
+  },
+  {
+    "name": "佛山市宏彪物流运输有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:11:45.374+08:00"
+  },
+  {
+    "name": "佛山市新粤宁物流有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:11:48.336+08:00"
   }
 ]
