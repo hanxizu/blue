@@ -28105,5 +28105,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:56:45.781+08:00"
+  },
+  {
+    "name": "双兴街邮政所",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:45.948+08:00"
+  },
+  {
+    "name": "菜鸟驿站(大连工华东巷13号店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:46.009+08:00"
+  },
+  {
+    "name": "菜鸟驿站(大连北岗街25号楼店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:46.060+08:00"
+  },
+  {
+    "name": "菜鸟驿站(大连工华东巷13号店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:48.625+08:00"
+  },
+  {
+    "name": "菜鸟驿站(大连北岗街25号楼店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:48.662+08:00"
+  },
+  {
+    "name": "门到门物流大连甘井子站",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:48.768+08:00"
+  },
+  {
+    "name": "大连安顺达货运",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:48.805+08:00"
   }
 ]
