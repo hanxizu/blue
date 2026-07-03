@@ -3598,5 +3598,41 @@
     "colorPixels": 91,
     "colorRatio": "3.97%",
     "timestamp": "2026-07-03T22:55:43.613+08:00"
+  },
+  {
+    "name": "广州凯裕纸箱有限公司",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T22:55:43.689+08:00"
+  },
+  {
+    "name": "名创货架公司(西南门)",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:43.720+08:00"
+  },
+  {
+    "name": "顺兴卷闸门业(广州花都狮岭店)",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:55:43.759+08:00"
+  },
+  {
+    "name": "广州鑫强货架有限公司",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T22:55:46.730+08:00"
   }
 ]
