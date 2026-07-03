@@ -13579,5 +13579,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:29:49.089+08:00"
+  },
+  {
+    "name": "港鑫物流(港迎路)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:29:49.185+08:00"
+  },
+  {
+    "name": "安能物流(浦东保税网点)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:29:52.380+08:00"
   }
 ]
