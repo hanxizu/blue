@@ -11473,5 +11473,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T19:05:02.270+08:00"
+  },
+  {
+    "name": "顺澜租车",
+    "city": "无锡市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:05:02.380+08:00"
+  },
+  {
+    "name": "佳缘婚车租赁",
+    "city": "无锡市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T19:05:05.257+08:00"
+  },
+  {
+    "name": "顺澜租车",
+    "city": "无锡市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:05:05.297+08:00"
   }
 ]
