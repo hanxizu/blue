@@ -42856,5 +42856,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:17:39.971+08:00"
+  },
+  {
+    "name": "武汉愚公物流(长风路店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:17:40.279+08:00"
+  },
+  {
+    "name": "雷仕玖洲物流",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:17:40.399+08:00"
+  },
+  {
+    "name": "湖北汽车运输有限公司",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:17:40.521+08:00"
+  },
+  {
+    "name": "雷仕玖洲物流",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:17:43.263+08:00"
   }
 ]
