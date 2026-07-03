@@ -23227,5 +23227,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:48:02.143+08:00"
+  },
+  {
+    "name": "旺邦物流",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:48:04.857+08:00"
+  },
+  {
+    "name": "顺丰速运(时代商城店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:48:04.908+08:00"
+  },
+  {
+    "name": "通农物流冷链配送中心(粮油交易区店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:48:04.945+08:00"
+  },
+  {
+    "name": "凤凰物流园",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:48:04.971+08:00"
+  },
+  {
+    "name": "通农物流冷链配送中心(粮油交易区店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:48:07.601+08:00"
   }
 ]
