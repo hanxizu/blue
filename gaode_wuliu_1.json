@@ -14164,5 +14164,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:31:47.042+08:00"
+  },
+  {
+    "name": "深圳市华展国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:47.177+08:00"
+  },
+  {
+    "name": "深圳市兆航物流有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:47.206+08:00"
+  },
+  {
+    "name": "顺丰速运(莲花村站店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:31:47.232+08:00"
+  },
+  {
+    "name": "畅迅达国际物流",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:31:50.718+08:00"
   }
 ]
