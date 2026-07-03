@@ -45439,5 +45439,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:22:37.635+08:00"
+  },
+  {
+    "name": "速递易柜",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:37.891+08:00"
+  },
+  {
+    "name": "西安市道路运输驾驶员从业资格业务大厅",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:37.998+08:00"
+  },
+  {
+    "name": "丰巢快递柜(长和·上尚郡店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:38.107+08:00"
+  },
+  {
+    "name": "白鲸运车·汽车托运(西安店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:22:41.126+08:00"
   }
 ]
