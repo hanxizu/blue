@@ -26638,5 +26638,32 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T09:51:04.902+08:00"
+  },
+  {
+    "name": "安顺·大件物流配送中心(五店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:51:05.110+08:00"
+  },
+  {
+    "name": "川徽物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:51:05.155+08:00"
+  },
+  {
+    "name": "白鲸运车(成都店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:51:08.557+08:00"
   }
 ]
