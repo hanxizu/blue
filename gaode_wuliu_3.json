@@ -34513,5 +34513,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:13:05.162+08:00"
+  },
+  {
+    "name": "博宏物流(华新路店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:13:05.308+08:00"
+  },
+  {
+    "name": "石家庄燕赵旅游汽车运输集团有限公司",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:13:05.411+08:00"
+  },
+  {
+    "name": "河北明远物流有限公司",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:13:05.508+08:00"
+  },
+  {
+    "name": "转瞬达国际货运代理(石家庄)有限公司",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:13:08.503+08:00"
   }
 ]
