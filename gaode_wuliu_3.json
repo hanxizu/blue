@@ -20680,5 +20680,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T12:44:44.459+08:00"
+  },
+  {
+    "name": "南通新干线国际货运代理有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:44:44.643+08:00"
+  },
+  {
+    "name": "江苏中远海运国际货运有限公司(南通分公司)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:44:44.688+08:00"
+  },
+  {
+    "name": "南通恒实物流",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:44:44.730+08:00"
+  },
+  {
+    "name": "江苏中远海运国际货运有限公司(南通分公司)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:44:47.435+08:00"
+  },
+  {
+    "name": "南通恒实物流",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:44:47.475+08:00"
   }
 ]
