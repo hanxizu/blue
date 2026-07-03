@@ -28780,5 +28780,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:22:26.979+08:00"
+  },
+  {
+    "name": "上海括易国际物流有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:22:27.281+08:00"
+  },
+  {
+    "name": "安顺·大件物流托运(南京店-全国往返)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:22:27.392+08:00"
+  },
+  {
+    "name": "邮政速递物流(中华门揽投部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:22:27.501+08:00"
+  },
+  {
+    "name": "安顺·大件物流托运(南京店-全国往返)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:22:30.087+08:00"
   }
 ]
