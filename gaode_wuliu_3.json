@@ -2356,5 +2356,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:13:16.276+08:00"
+  },
+  {
+    "name": "京东物流(祭城实业公司家属院店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:16.322+08:00"
+  },
+  {
+    "name": "安能物流(郑平公路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:13:16.356+08:00"
+  },
+  {
+    "name": "荣庆物流",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:16.390+08:00"
+  },
+  {
+    "name": "京东物流(祭城实业公司家属院店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:19.028+08:00"
+  },
+  {
+    "name": "安能物流(郑平公路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:13:19.067+08:00"
+  },
+  {
+    "name": "荣庆物流",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:19.102+08:00"
+  },
+  {
+    "name": "宇鑫物流(赛博数码港店)大件运输电瓶车托运",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:13:19.136+08:00"
+  },
+  {
+    "name": "安能物流(郑平公路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:13:21.858+08:00"
   }
 ]
