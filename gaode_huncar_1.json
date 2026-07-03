@@ -97,5 +97,32 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T18:30:10.419+08:00"
+  },
+  {
+    "name": "盛通租车",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T18:30:10.475+08:00"
+  },
+  {
+    "name": "北京租车(朝阳店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T18:30:10.533+08:00"
+  },
+  {
+    "name": "北京商务服务租车(通州店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T18:30:13.461+08:00"
   }
 ]
