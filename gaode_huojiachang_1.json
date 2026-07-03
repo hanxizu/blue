@@ -12013,5 +12013,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:17:49.880+08:00"
+  },
+  {
+    "name": "欧利特货架",
+    "city": "南京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:17:49.991+08:00"
+  },
+  {
+    "name": "南京万亚货架制造有限公司",
+    "city": "南京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:17:50.023+08:00"
+  },
+  {
+    "name": "南京浩之德货架制造有限公司",
+    "city": "南京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:17:50.060+08:00"
+  },
+  {
+    "name": "南京世岐货架型材制造有限公司",
+    "city": "南京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:17:50.102+08:00"
+  },
+  {
+    "name": "南京浩之德货架制造有限公司",
+    "city": "南京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:17:53.076+08:00"
   }
 ]
