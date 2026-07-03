@@ -7963,5 +7963,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T10:51:20.957+08:00"
+  },
+  {
+    "name": "顺丰速运(智汇城店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T10:51:21.021+08:00"
+  },
+  {
+    "name": "菜鸟驿站(时尚岛·蓝钻店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:51:21.056+08:00"
+  },
+  {
+    "name": "菜鸟驿站(豪岗星辉小学店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:21.124+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东成楼店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:24.034+08:00"
   }
 ]
