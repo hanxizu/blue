@@ -20590,5 +20590,14 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:43:35.240+08:00"
+  },
+  {
+    "name": "南通运发物流",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T12:44:35.616+08:00"
   }
 ]
