@@ -30913,5 +30913,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:01:42.168+08:00"
+  },
+  {
+    "name": "京东物流(碧桂园公园里七期店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:42.410+08:00"
+  },
+  {
+    "name": "辽西物流(下河湾店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:42.490+08:00"
+  },
+  {
+    "name": "辽西物流(下河湾店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:45.127+08:00"
+  },
+  {
+    "name": "京东快递(沈阳卓越营业部)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:45.187+08:00"
+  },
+  {
+    "name": "顺丰速运(全运路万达店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T13:01:45.231+08:00"
+  },
+  {
+    "name": "驿收发快递驿站(沈阳全运万达广场店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:45.271+08:00"
+  },
+  {
+    "name": "顺丰速运(全运路万达店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T13:01:48.261+08:00"
   }
 ]
