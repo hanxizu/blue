@@ -12472,5 +12472,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:28:11.313+08:00"
+  },
+  {
+    "name": "上海宝湾国际物流中心",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:11.407+08:00"
+  },
+  {
+    "name": "上海昌煜国际物流有限公司(江泉库)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:11.508+08:00"
+  },
+  {
+    "name": "上海量华物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:11.609+08:00"
+  },
+  {
+    "name": "上海佳禾国际物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:13.985+08:00"
+  },
+  {
+    "name": "上海喜嘉国际物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:14.016+08:00"
+  },
+  {
+    "name": "上海公兴搬家公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T09:28:14.046+08:00"
+  },
+  {
+    "name": "上海泽佳物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:14.071+08:00"
+  },
+  {
+    "name": "上海佳禾国际物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:17.213+08:00"
   }
 ]
