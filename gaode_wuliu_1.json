@@ -15118,5 +15118,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T09:33:03.602+08:00"
+  },
+  {
+    "name": "中通快递(安得街店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:03.694+08:00"
+  },
+  {
+    "name": "菜鸟驿站(梅兴苑北区店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:03.722+08:00"
+  },
+  {
+    "name": "深圳市易脉国际物流有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:33:03.825+08:00"
+  },
+  {
+    "name": "中通快递(安得街店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:33:06.905+08:00"
   }
 ]
