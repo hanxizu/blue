@@ -20626,5 +20626,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:09:58.933+08:00"
+  },
+  {
+    "name": "龙兴物流(南区五路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:09:59.052+08:00"
+  },
+  {
+    "name": "新通国际物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:10:01.647+08:00"
+  },
+  {
+    "name": "龙兴物流(南区五路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:10:01.681+08:00"
+  },
+  {
+    "name": "安能物流(张槎镇店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:10:01.716+08:00"
+  },
+  {
+    "name": "龙兴物流(张槎下塱店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:10:01.745+08:00"
+  },
+  {
+    "name": "新通国际物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:10:04.744+08:00"
   }
 ]
