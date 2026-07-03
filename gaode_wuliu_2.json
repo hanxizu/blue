@@ -3661,5 +3661,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:44:26.706+08:00"
+  },
+  {
+    "name": "安能物流盘溪网点(余松路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:44:26.755+08:00"
+  },
+  {
+    "name": "重庆伟帆物流有限公司(发货区)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:44:26.785+08:00"
+  },
+  {
+    "name": "京东物流(重庆南滨西路站)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:26.816+08:00"
+  },
+  {
+    "name": "重庆伟帆物流有限公司(发货区)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:44:29.633+08:00"
+  },
+  {
+    "name": "京东物流(重庆南滨西路站)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:29.674+08:00"
+  },
+  {
+    "name": "顺丰速运(重庆金石同城转运站)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:44:29.711+08:00"
   }
 ]
