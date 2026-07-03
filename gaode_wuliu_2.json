@@ -38149,5 +38149,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:38:04.998+08:00"
+  },
+  {
+    "name": "华明物流(奥森总部)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:38:05.229+08:00"
+  },
+  {
+    "name": "华福物流(西青部)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:38:05.263+08:00"
+  },
+  {
+    "name": "一鸣物流(沈阳专线)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:38:05.296+08:00"
+  },
+  {
+    "name": "天津聚义物流",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:38:07.998+08:00"
+  },
+  {
+    "name": "华明物流(奥森总部)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:38:08.039+08:00"
   }
 ]
