@@ -26746,5 +26746,32 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T14:30:50.877+08:00"
+  },
+  {
+    "name": "铁桦建筑装饰",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:30:51.071+08:00"
+  },
+  {
+    "name": "OLO我乐·全屋定制(仲英大道店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T14:30:51.104+08:00"
+  },
+  {
+    "name": "沃德装饰",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:30:53.994+08:00"
   }
 ]
