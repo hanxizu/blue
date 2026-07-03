@@ -44863,5 +44863,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:49:43.265+08:00"
+  },
+  {
+    "name": "JDL京东物流(无锡硕放机场枢纽)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:43.512+08:00"
+  },
+  {
+    "name": "安顺·大件物流公司(无锡店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:49:43.622+08:00"
+  },
+  {
+    "name": "安顺·大件物流公司(无锡店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:49:46.300+08:00"
   }
 ]
