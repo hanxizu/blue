@@ -30238,5 +30238,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:57:13.392+08:00"
+  },
+  {
+    "name": "顺丰速运(三农云博港店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T09:57:15.880+08:00"
+  },
+  {
+    "name": "京东物流(九横路店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:57:15.911+08:00"
+  },
+  {
+    "name": "杭州全富物流有限公司",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:57:15.941+08:00"
+  },
+  {
+    "name": "杭州龙飞物流",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:57:15.977+08:00"
+  },
+  {
+    "name": "康庆物流",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:57:16.050+08:00"
+  },
+  {
+    "name": "杭州全富物流有限公司",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:57:19.314+08:00"
   }
 ]
