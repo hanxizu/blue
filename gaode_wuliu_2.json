@@ -18007,5 +18007,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:06:16.875+08:00"
+  },
+  {
+    "name": "深国际智慧物流港|佛山·南海",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:19.787+08:00"
+  },
+  {
+    "name": "乐从世海钢材物流中心",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:19.825+08:00"
+  },
+  {
+    "name": "佛山市金诚宝仓储物流有限公司仓管工作室",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:19.860+08:00"
+  },
+  {
+    "name": "佛山市旭腾物流有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:06:19.894+08:00"
   }
 ]
