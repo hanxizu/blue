@@ -3040,5 +3040,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T22:54:55.873+08:00"
+  },
+  {
+    "name": "佰以达货架",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:54:58.253+08:00"
+  },
+  {
+    "name": "恒发电动卷闸门业",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T22:54:58.292+08:00"
+  },
+  {
+    "name": "佳钛宝货架厂",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T22:54:58.333+08:00"
+  },
+  {
+    "name": "佳钛宝货架厂",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T22:55:01.001+08:00"
   }
 ]
