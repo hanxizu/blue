@@ -18853,5 +18853,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:07:26.995+08:00"
+  },
+  {
+    "name": "德邦快递(佛山南海区桂澜路经营分部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:07:27.121+08:00"
+  },
+  {
+    "name": "伦德货运(佛山大道北)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:27.162+08:00"
+  },
+  {
+    "name": "极兔速递",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:07:27.193+08:00"
+  },
+  {
+    "name": "伦德货运(佛山大道北)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:30.473+08:00"
   }
 ]
