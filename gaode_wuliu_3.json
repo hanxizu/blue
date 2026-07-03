@@ -10420,5 +10420,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:26:55.841+08:00"
+  },
+  {
+    "name": "金邦盛德国际物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:55.960+08:00"
+  },
+  {
+    "name": "温州冬晨供应链管理股份有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:56.009+08:00"
+  },
+  {
+    "name": "申通快递",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:56.042+08:00"
+  },
+  {
+    "name": "极兔速递(温州鹿城水心网点)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:56.074+08:00"
+  },
+  {
+    "name": "极兔速递(温州鹿城水心网点)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:58.701+08:00"
+  },
+  {
+    "name": "余姚专线物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:58.762+08:00"
+  },
+  {
+    "name": "顺丰速运(瓯北店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:26:58.803+08:00"
+  },
+  {
+    "name": "韵达快运(温州分拨中心)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:58.877+08:00"
   }
 ]
