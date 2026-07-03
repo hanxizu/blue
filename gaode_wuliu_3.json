@@ -35260,5 +35260,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:14:04.387+08:00"
+  },
+  {
+    "name": "兔喜生活快递代收点",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:14:04.580+08:00"
+  },
+  {
+    "name": "兔喜生活超市",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:14:04.612+08:00"
+  },
+  {
+    "name": "兔喜快递超市(宏业花园店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:14:04.641+08:00"
+  },
+  {
+    "name": "兔喜生活快递代收点",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:14:07.145+08:00"
+  },
+  {
+    "name": "兔喜生活超市",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:14:07.201+08:00"
+  },
+  {
+    "name": "兔喜快递超市(宏业花园店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:14:07.254+08:00"
+  },
+  {
+    "name": "菜鸟驿站(光华里店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:14:07.304+08:00"
+  },
+  {
+    "name": "兔喜快递超市(宏业花园店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:14:10.490+08:00"
   }
 ]
