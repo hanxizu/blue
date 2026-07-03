@@ -43783,5 +43783,59 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T11:48:10.339+08:00"
+  },
+  {
+    "name": "顺丰速运(南湖大道店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:48:10.568+08:00"
+  },
+  {
+    "name": "顺丰速运",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:48:10.671+08:00"
+  },
+  {
+    "name": "京东服务家苏南服务中心",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:48:10.719+08:00"
+  },
+  {
+    "name": "顺丰速运(南湖大道店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:48:13.282+08:00"
+  },
+  {
+    "name": "顺丰速运",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:48:13.315+08:00"
+  },
+  {
+    "name": "京东服务家苏南服务中心",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:48:13.352+08:00"
   }
 ]
