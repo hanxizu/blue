@@ -33028,5 +33028,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T13:04:40.379+08:00"
+  },
+  {
+    "name": "顺丰速运(金叶店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:04:40.612+08:00"
+  },
+  {
+    "name": "顺丰速运(马路湾店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:04:40.709+08:00"
+  },
+  {
+    "name": "顺丰速运(解放店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:04:40.753+08:00"
+  },
+  {
+    "name": "顺丰速运(解放店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:04:44.052+08:00"
   }
 ]
