@@ -11302,5 +11302,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:26:44.467+08:00"
+  },
+  {
+    "name": "新华传媒物流中心",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:26:44.549+08:00"
+  },
+  {
+    "name": "大众物流运输公司(长寿路)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:26:44.577+08:00"
+  },
+  {
+    "name": "上海物流仓储分配中心",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:26:44.705+08:00"
+  },
+  {
+    "name": "大众物流运输公司(长寿路)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:26:47.567+08:00"
   }
 ]
