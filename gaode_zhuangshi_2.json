@@ -45421,5 +45421,59 @@
     "colorPixels": 381,
     "colorRatio": "16.60%",
     "timestamp": "2026-07-03T16:46:01.082+08:00"
+  },
+  {
+    "name": "城阳装饰城",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:46:01.387+08:00"
+  },
+  {
+    "name": "索菲亚(市北居然店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T16:46:01.503+08:00"
+  },
+  {
+    "name": "欧派橱柜(青岛高科园装饰城店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:46:04.673+08:00"
+  },
+  {
+    "name": "城阳装饰城",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:46:04.719+08:00"
+  },
+  {
+    "name": "索菲亚(市北居然店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T16:46:04.765+08:00"
+  },
+  {
+    "name": "欧派橱柜(青岛高科园装饰城店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:46:07.950+08:00"
   }
 ]
