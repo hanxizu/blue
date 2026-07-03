@@ -15298,5 +15298,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T19:22:04.885+08:00"
+  },
+  {
+    "name": "168豪车租赁",
+    "city": "温州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:22:04.985+08:00"
+  },
+  {
+    "name": "优咖租车(温州店)",
+    "city": "温州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:22:05.013+08:00"
+  },
+  {
+    "name": "久久婚车",
+    "city": "温州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:22:05.048+08:00"
+  },
+  {
+    "name": "麦瑞婚车",
+    "city": "温州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T19:22:08.088+08:00"
   }
 ]
