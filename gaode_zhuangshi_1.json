@@ -38527,5 +38527,41 @@
     "colorPixels": 149,
     "colorRatio": "6.49%",
     "timestamp": "2026-07-03T14:52:57.871+08:00"
+  },
+  {
+    "name": "创艺空间装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:52:58.163+08:00"
+  },
+  {
+    "name": "向阳装饰(向荣街店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:52:58.274+08:00"
+  },
+  {
+    "name": "永宏装饰部(向荣小区店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:52:58.385+08:00"
+  },
+  {
+    "name": "六合广告装饰(明光国际花卉电商创业园店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:53:01.648+08:00"
   }
 ]
