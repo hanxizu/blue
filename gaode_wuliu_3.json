@@ -13723,5 +13723,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:32:26.700+08:00"
+  },
+  {
+    "name": "珠海市辰通物流有限公司(轿车托运)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:32:26.837+08:00"
+  },
+  {
+    "name": "菜鸟驿站(珠海拱北花园大厦1单元店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:26.872+08:00"
+  },
+  {
+    "name": "顺丰速运(胡湾路店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:26.904+08:00"
+  },
+  {
+    "name": "珠海市辰通物流有限公司(轿车托运)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:32:30.020+08:00"
   }
 ]
