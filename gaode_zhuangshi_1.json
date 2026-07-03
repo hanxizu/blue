@@ -54961,5 +54961,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:25:51.041+08:00"
+  },
+  {
+    "name": "南京采臣装饰工程有限公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:25:51.439+08:00"
+  },
+  {
+    "name": "顾家家居(浦口大道红星店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-03T15:25:51.544+08:00"
+  },
+  {
+    "name": "欧派橱柜衣柜全屋定制(南京月星店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T15:25:53.949+08:00"
+  },
+  {
+    "name": "鼎力装饰",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:25:53.981+08:00"
+  },
+  {
+    "name": "南京广成室内空间设计事务所",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:25:54.013+08:00"
+  },
+  {
+    "name": "南京大境空间设计(雨花店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:25:54.055+08:00"
+  },
+  {
+    "name": "欧派橱柜衣柜全屋定制(南京月星店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T15:25:57.217+08:00"
   }
 ]
