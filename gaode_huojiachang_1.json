@@ -8638,5 +8638,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T23:08:15.145+08:00"
+  },
+  {
+    "name": "陕西宇之龙货架制造有限公司(北门)",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:08:15.236+08:00"
+  },
+  {
+    "name": "陕西宇之龙货架制造有限公司停车场",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:08:15.279+08:00"
+  },
+  {
+    "name": "西安永帆办公家具有限公司",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:08:18.224+08:00"
+  },
+  {
+    "name": "陕西宇之龙货架制造有限公司(北门)",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:08:18.282+08:00"
   }
 ]
