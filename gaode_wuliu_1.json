@@ -54898,5 +54898,32 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T10:38:17.362+08:00"
+  },
+  {
+    "name": "顺丰速运(曾家岩店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:38:17.658+08:00"
+  },
+  {
+    "name": "菜鸟驿站(里面店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:17.772+08:00"
+  },
+  {
+    "name": "菜鸟驿站(静园小区店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:20.808+08:00"
   }
 ]
