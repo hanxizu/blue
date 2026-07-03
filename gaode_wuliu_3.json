@@ -4021,5 +4021,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:16:24.010+08:00"
+  },
+  {
+    "name": "山东智通供应链有限公司",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:16:24.160+08:00"
+  },
+  {
+    "name": "济南九尚供应链有限公司",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:16:24.285+08:00"
+  },
+  {
+    "name": "安能物流(济南高新历城营业部)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:16:24.319+08:00"
+  },
+  {
+    "name": "济南九尚供应链有限公司",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:16:26.779+08:00"
+  },
+  {
+    "name": "安能物流(济南高新历城营业部)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:16:26.816+08:00"
+  },
+  {
+    "name": "京东物流(济南智远营业部)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:16:26.852+08:00"
+  },
+  {
+    "name": "货拉拉济南历城区门店",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T12:16:26.892+08:00"
+  },
+  {
+    "name": "货拉拉济南历城区门店",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T12:16:30.133+08:00"
   }
 ]
