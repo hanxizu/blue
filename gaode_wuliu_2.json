@@ -9871,5 +9871,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:53:43.061+08:00"
+  },
+  {
+    "name": "东莞市亿航国际物流有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T10:53:43.151+08:00"
+  },
+  {
+    "name": "泰滔物流园",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:43.229+08:00"
+  },
+  {
+    "name": "华博国际物流园",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:43.263+08:00"
+  },
+  {
+    "name": "泰滔物流园",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:46.083+08:00"
   }
 ]
