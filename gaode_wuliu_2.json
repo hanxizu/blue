@@ -27295,5 +27295,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:20:19.332+08:00"
+  },
+  {
+    "name": "申通快递(户部街点)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:19.530+08:00"
+  },
+  {
+    "name": "中国邮政(南京市中央门揽投部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:19.643+08:00"
+  },
+  {
+    "name": "多多驿站",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:19.754+08:00"
+  },
+  {
+    "name": "中国邮政(中山北路邮政支局)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:20:22.943+08:00"
   }
 ]
