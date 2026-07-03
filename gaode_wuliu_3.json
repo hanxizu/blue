@@ -13057,5 +13057,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T12:31:33.264+08:00"
+  },
+  {
+    "name": "万德隆物流(石花西路店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:31:33.347+08:00"
+  },
+  {
+    "name": "顺丰速运(富华店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:31:33.462+08:00"
+  },
+  {
+    "name": "顺丰速运(柠溪朗晴居店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:31:33.574+08:00"
+  },
+  {
+    "name": "顺丰速运(沿河东路店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:31:33.750+08:00"
+  },
+  {
+    "name": "顺丰速运(富华店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:31:36.737+08:00"
   }
 ]
