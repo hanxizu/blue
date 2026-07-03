@@ -47230,5 +47230,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:10:16.797+08:00"
+  },
+  {
+    "name": "领航者广告中心(工厂店)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 125,
+    "colorRatio": "5.45%",
+    "timestamp": "2026-07-03T15:10:17.086+08:00"
+  },
+  {
+    "name": "创帘窗帘厂",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T15:10:17.191+08:00"
+  },
+  {
+    "name": "厚沙家居装饰材料城",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:10:20.244+08:00"
+  },
+  {
+    "name": "领航者广告中心(工厂店)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 125,
+    "colorRatio": "5.45%",
+    "timestamp": "2026-07-03T15:10:20.292+08:00"
+  },
+  {
+    "name": "创帘窗帘厂",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T15:10:20.339+08:00"
   }
 ]
