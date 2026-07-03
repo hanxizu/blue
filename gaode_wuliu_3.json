@@ -31588,5 +31588,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T13:02:37.229+08:00"
+  },
+  {
+    "name": "金杯物流(仓储东一街店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:02:37.548+08:00"
+  },
+  {
+    "name": "顺丰速运(沈阳古城转运中心)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T13:02:37.591+08:00"
+  },
+  {
+    "name": "安博沈阳浑南物流中心",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:02:37.623+08:00"
+  },
+  {
+    "name": "金杯物流(仓储东一街店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:02:40.340+08:00"
   }
 ]
