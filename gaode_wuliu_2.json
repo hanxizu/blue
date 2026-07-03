@@ -26296,5 +26296,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:18:54.826+08:00"
+  },
+  {
+    "name": "菜鸟驿站",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:55.077+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:55.188+08:00"
+  },
+  {
+    "name": "菜鸟驿站(太平桥南小区南区店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:55.238+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:58.177+08:00"
   }
 ]
