@@ -28168,5 +28168,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T09:54:22.383+08:00"
+  },
+  {
+    "name": "中国物流-中国铁物杭州经营中心",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:54:22.569+08:00"
+  },
+  {
+    "name": "杭州速达运输有限公司",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:54:22.601+08:00"
+  },
+  {
+    "name": "臻马物流(发大件小件勿扰)-杭州三店",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:54:22.639+08:00"
+  },
+  {
+    "name": "运满满-大件物流-全国货运",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:54:25.461+08:00"
   }
 ]
