@@ -35719,5 +35719,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:14:41.183+08:00"
+  },
+  {
+    "name": "顺丰速运(恒辉商务店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:14:41.448+08:00"
+  },
+  {
+    "name": "丰巢自提柜",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:14:41.511+08:00"
+  },
+  {
+    "name": "丰巢快递柜(近水楼台大门口丰巢柜店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:14:41.587+08:00"
+  },
+  {
+    "name": "菜鸟驿站(光华生活小区店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:14:41.622+08:00"
+  },
+  {
+    "name": "丰巢快递柜(近水楼台大门口丰巢柜店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:14:44.819+08:00"
   }
 ]
