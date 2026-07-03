@@ -11662,5 +11662,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:27:10.483+08:00"
+  },
+  {
+    "name": "德邦物流(上海徐汇区柳州路经营分部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:10.586+08:00"
+  },
+  {
+    "name": "上海千亚国际货物运输代理有限公司总部",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:10.625+08:00"
+  },
+  {
+    "name": "顺丰速运(北翟路大件店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T09:27:10.655+08:00"
+  },
+  {
+    "name": "德邦物流(上海宝山区华灵路经营分部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:27:10.683+08:00"
+  },
+  {
+    "name": "上海千亚国际货物运输代理有限公司总部",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:13.126+08:00"
+  },
+  {
+    "name": "顺丰速运(北翟路大件店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T09:27:13.153+08:00"
+  },
+  {
+    "name": "德邦物流(上海宝山区华灵路经营分部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:27:13.209+08:00"
+  },
+  {
+    "name": "京东物流(军官公寓店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:13.249+08:00"
+  },
+  {
+    "name": "顺丰速运(北翟路大件店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T09:27:15.989+08:00"
   }
 ]
