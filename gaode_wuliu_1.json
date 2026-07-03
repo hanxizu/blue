@@ -54286,5 +54286,77 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T10:36:14.709+08:00"
+  },
+  {
+    "name": "顺丰速运(新广路店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:36:15.028+08:00"
+  },
+  {
+    "name": "聚盟共建分拨中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:36:15.146+08:00"
+  },
+  {
+    "name": "顺丰速运(洒金桥店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T10:36:15.264+08:00"
+  },
+  {
+    "name": "聚盟共建分拨中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:36:17.815+08:00"
+  },
+  {
+    "name": "顺丰速运(洒金桥店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T10:36:17.855+08:00"
+  },
+  {
+    "name": "陕西新华发行集团西北出版物物流配送中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:36:17.885+08:00"
+  },
+  {
+    "name": "中铁快运(西安站营业部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:36:17.917+08:00"
+  },
+  {
+    "name": "陕西新华发行集团西北出版物物流配送中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:36:21.019+08:00"
   }
 ]
