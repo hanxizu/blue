@@ -23740,5 +23740,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:46:52.130+08:00"
+  },
+  {
+    "name": "优远物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:46:52.300+08:00"
+  },
+  {
+    "name": "成都市佳好运输服务有限公司",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:46:52.331+08:00"
+  },
+  {
+    "name": "成都到到物流有限公司",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:46:52.363+08:00"
+  },
+  {
+    "name": "安顺·大件物流全国托运(成都店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:46:55.225+08:00"
   }
 ]
