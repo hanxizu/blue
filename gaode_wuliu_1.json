@@ -18007,5 +18007,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T09:36:53.008+08:00"
+  },
+  {
+    "name": "顺丰速运(惠恒大厦店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:36:53.125+08:00"
+  },
+  {
+    "name": "安顺·大件物流全国托运(深圳2店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:36:53.151+08:00"
+  },
+  {
+    "name": "臻马物流(发大件小件勿扰)-深圳二店",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:36:53.180+08:00"
+  },
+  {
+    "name": "安顺·大件物流全国托运(深圳2店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:36:55.889+08:00"
+  },
+  {
+    "name": "臻马物流(发大件小件勿扰)-深圳二店",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:36:55.921+08:00"
+  },
+  {
+    "name": "圆通速递(罗湖商业城店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:36:55.952+08:00"
+  },
+  {
+    "name": "申通快递(福田口岸商业广场店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:36:55.984+08:00"
+  },
+  {
+    "name": "圆通速递(罗湖商业城店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:36:58.573+08:00"
   }
 ]
