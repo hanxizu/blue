@@ -7999,5 +7999,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:51:24.034+08:00"
+  },
+  {
+    "name": "中国邮政(东一环邮局)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:24.106+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞南城东方华府1号店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:24.191+08:00"
+  },
+  {
+    "name": "兔喜快递超市(澳南店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:24.241+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞南城东方华府1号店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:51:27.158+08:00"
   }
 ]
