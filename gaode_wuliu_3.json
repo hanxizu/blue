@@ -21283,5 +21283,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:45:30.529+08:00"
+  },
+  {
+    "name": "申通快递",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:30.704+08:00"
+  },
+  {
+    "name": "韵达快递",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:30.740+08:00"
+  },
+  {
+    "name": "顺丰速运(通富南路店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:30.771+08:00"
+  },
+  {
+    "name": "顺丰快递",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:30.804+08:00"
+  },
+  {
+    "name": "韵达快递",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:33.723+08:00"
   }
 ]
