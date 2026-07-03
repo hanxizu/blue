@@ -18493,5 +18493,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:40:44.697+08:00"
+  },
+  {
+    "name": "上海强焱国际物流常州分公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:40:44.918+08:00"
+  },
+  {
+    "name": "壹米滴答(常州分拨中心)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:47.786+08:00"
+  },
+  {
+    "name": "常州五度鲜物流科技有限公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:47.816+08:00"
+  },
+  {
+    "name": "上海强焱国际物流常州分公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:40:47.921+08:00"
   }
 ]
