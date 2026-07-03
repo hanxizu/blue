@@ -28897,5 +28897,41 @@
     "colorPixels": 381,
     "colorRatio": "16.60%",
     "timestamp": "2026-07-03T14:34:17.135+08:00"
+  },
+  {
+    "name": "红衫建屋装饰(相城店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:34:17.332+08:00"
+  },
+  {
+    "name": "48快装旧房翻新(苏州店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:34:17.362+08:00"
+  },
+  {
+    "name": "众辉装饰",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:34:17.394+08:00"
+  },
+  {
+    "name": "欧派橱柜衣柜·精装房·毛坯·局改·整装硬装(相城大道店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T14:34:20.502+08:00"
   }
 ]
