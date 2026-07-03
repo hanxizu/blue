@@ -24946,5 +24946,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:48:37.335+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西派国际店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:37.458+08:00"
+  },
+  {
+    "name": "招商局物流集团成都有限公司",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:37.498+08:00"
+  },
+  {
+    "name": "成都市兴子轿车物流有限公司",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:48:37.533+08:00"
+  },
+  {
+    "name": "招商局物流集团成都有限公司",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:40.307+08:00"
+  },
+  {
+    "name": "成都市兴子轿车物流有限公司",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:48:40.354+08:00"
   }
 ]
