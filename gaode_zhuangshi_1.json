@@ -27781,5 +27781,32 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T14:32:31.436+08:00"
+  },
+  {
+    "name": "高禾设计",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:32:31.659+08:00"
+  },
+  {
+    "name": "苏州木免装饰",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:32:31.772+08:00"
+  },
+  {
+    "name": "美玲装饰部(滨河花苑一期店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:32:35.237+08:00"
   }
 ]
