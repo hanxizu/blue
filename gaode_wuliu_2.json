@@ -11905,5 +11905,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:56:42.324+08:00"
+  },
+  {
+    "name": "国通货运中心(康怡医院东南)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:56:42.543+08:00"
+  },
+  {
+    "name": "恒盛物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:56:42.638+08:00"
+  },
+  {
+    "name": "掌柜物流(恒正大厦店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:56:42.726+08:00"
+  },
+  {
+    "name": "国通货运中心(康怡医院东南)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:56:45.558+08:00"
   }
 ]
