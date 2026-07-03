@@ -37240,5 +37240,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T14:50:46.754+08:00"
+  },
+  {
+    "name": "红星装饰材料城",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:50:47.128+08:00"
+  },
+  {
+    "name": "美巢集团陕西装饰材料有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:50:50.615+08:00"
   }
 ]
