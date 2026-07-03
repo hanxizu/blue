@@ -14623,5 +14623,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:00:30.521+08:00"
+  },
+  {
+    "name": "东莞市畅安货物运输服务有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:00:30.650+08:00"
+  },
+  {
+    "name": "泰邦物流(建南一路店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:00:30.683+08:00"
+  },
+  {
+    "name": "丰华物流(水濂山路)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:00:30.713+08:00"
+  },
+  {
+    "name": "佳宏达物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:00:33.813+08:00"
   }
 ]
