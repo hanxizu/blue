@@ -36637,5 +36637,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:07:23.906+08:00"
+  },
+  {
+    "name": "顺丰速运(齐门北大街店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:07:24.367+08:00"
+  },
+  {
+    "name": "安平物流园",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:07:24.399+08:00"
+  },
+  {
+    "name": "苏州浩隆起重吊装运输有限公司",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:07:24.432+08:00"
+  },
+  {
+    "name": "中外运敦豪国际航空快件有限公司(苏州分公司)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:07:26.934+08:00"
+  },
+  {
+    "name": "苏州安诚顺起重吊装运输有限公司",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:07:27.011+08:00"
   }
 ]
