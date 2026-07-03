@@ -6253,5 +6253,32 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T12:19:26.413+08:00"
+  },
+  {
+    "name": "中铁快运济南站营业部(济南铁道大厦店)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:19:26.474+08:00"
+  },
+  {
+    "name": "兔兔快运(泺祥新区南)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:19:26.590+08:00"
+  },
+  {
+    "name": "黄岗冷链",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:19:26.700+08:00"
   }
 ]
