@@ -1276,5 +1276,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T13:43:20.669+08:00"
+  },
+  {
+    "name": "夏氏工匠装饰设计工程有限公司",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T13:43:20.707+08:00"
+  },
+  {
+    "name": "上海上筑装饰有限公司",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:43:20.735+08:00"
+  },
+  {
+    "name": "上海上筑装饰有限公司",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:43:23.264+08:00"
+  },
+  {
+    "name": "揽铭装饰",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T13:43:23.326+08:00"
+  },
+  {
+    "name": "壹佰全案设计丨高端定制(徐汇店)",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:43:23.376+08:00"
+  },
+  {
+    "name": "上海觉木装饰设计工程有限公司",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:43:23.436+08:00"
+  },
+  {
+    "name": "上海上筑装饰有限公司",
+    "city": "上海市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:43:26.454+08:00"
   }
 ]
