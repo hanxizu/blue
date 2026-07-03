@@ -7954,5 +7954,77 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:21:06.222+08:00"
+  },
+  {
+    "name": "京东物流(元大都城垣遗址公园店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:21:06.299+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(北京1店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:21:06.329+08:00"
+  },
+  {
+    "name": "京东物流(北京来广营集配站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:21:06.357+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(北京1店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:21:08.905+08:00"
+  },
+  {
+    "name": "京东物流(北京来广营集配站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:21:08.931+08:00"
+  },
+  {
+    "name": "北京京利达物流有限公司(京开高速店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:21:08.958+08:00"
+  },
+  {
+    "name": "安顺大件物流工具托运摩托车托运",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:21:08.988+08:00"
+  },
+  {
+    "name": "安顺大件物流工具托运摩托车托运",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:21:11.501+08:00"
   }
 ]
