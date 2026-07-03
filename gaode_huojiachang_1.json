@@ -4174,5 +4174,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T22:57:35.029+08:00"
+  },
+  {
+    "name": "义乌货架大丰(库房)",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T22:57:35.072+08:00"
+  },
+  {
+    "name": "鹏鑫货架厂",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T22:57:35.099+08:00"
+  },
+  {
+    "name": "宏兴货架厂(郫都厂区)",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:57:35.132+08:00"
+  },
+  {
+    "name": "鹏鑫货架厂",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T22:57:37.975+08:00"
+  },
+  {
+    "name": "宏兴货架厂(郫都厂区)",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:57:38.007+08:00"
+  },
+  {
+    "name": "黑熊货柜货架厂",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:57:38.037+08:00"
   }
 ]
