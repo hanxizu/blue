@@ -24208,5 +24208,68 @@
     "colorPixels": 380,
     "colorRatio": "16.56%",
     "timestamp": "2026-07-03T09:47:34.325+08:00"
+  },
+  {
+    "name": "顺丰速运(大源中央公园店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:47:34.456+08:00"
+  },
+  {
+    "name": "顺丰速运(南创业路店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:47:34.491+08:00"
+  },
+  {
+    "name": "DHL国际快递(益新大道店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:34.533+08:00"
+  },
+  {
+    "name": "顺丰速运(南创业路店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:47:37.149+08:00"
+  },
+  {
+    "name": "DHL国际快递(益新大道店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:37.185+08:00"
+  },
+  {
+    "name": "顺心全国大件物流运输",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T09:47:37.220+08:00"
+  },
+  {
+    "name": "DHL国际快递(益新大道店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:39.739+08:00"
   }
 ]
