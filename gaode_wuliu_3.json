@@ -31021,5 +31021,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:01:51.409+08:00"
+  },
+  {
+    "name": "快递分拣驿站",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:51.587+08:00"
+  },
+  {
+    "name": "银塔馨苑韵达快递超市(沈营大街店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:51.697+08:00"
+  },
+  {
+    "name": "顺丰速运(盛融店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:01:51.804+08:00"
+  },
+  {
+    "name": "银塔馨苑韵达快递超市(沈营大街店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:54.244+08:00"
+  },
+  {
+    "name": "顺丰速运(盛融店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:01:54.300+08:00"
+  },
+  {
+    "name": "顺丰速运(智慧店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:01:54.336+08:00"
+  },
+  {
+    "name": "顺丰快递",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:54.371+08:00"
+  },
+  {
+    "name": "顺丰速运(智慧店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:01:57.298+08:00"
   }
 ]
