@@ -12877,5 +12877,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T07:47:39.458+08:00"
+  },
+  {
+    "name": "北京因诺律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T07:47:39.562+08:00"
+  },
+  {
+    "name": "北京家理律师事务所婚姻家事严选店",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T07:47:39.592+08:00"
+  },
+  {
+    "name": "北京正尊律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T07:47:39.620+08:00"
+  },
+  {
+    "name": "北京市京师律师事务所(总部承接各类案件)",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T07:47:42.683+08:00"
   }
 ]
