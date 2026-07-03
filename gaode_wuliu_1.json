@@ -29140,5 +29140,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T09:55:39.988+08:00"
+  },
+  {
+    "name": "杭州市邮政局商务投递局",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:55:40.179+08:00"
+  },
+  {
+    "name": "韵达超市",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:55:40.217+08:00"
+  },
+  {
+    "name": "韵达超市",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:55:43.383+08:00"
   }
 ]
