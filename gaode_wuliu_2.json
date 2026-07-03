@@ -48004,5 +48004,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:55:22.697+08:00"
+  },
+  {
+    "name": "天马集运仓",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:22.945+08:00"
+  },
+  {
+    "name": "互利安物流",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:22.990+08:00"
+  },
+  {
+    "name": "德邦物流(厦门思明区曾厝垵经营分部)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:23.101+08:00"
+  },
+  {
+    "name": "互利安物流",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:55:25.865+08:00"
   }
 ]
