@@ -6082,5 +6082,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T18:48:00.177+08:00"
+  },
+  {
+    "name": "西安乐载汽车服务有限公司",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T18:48:00.249+08:00"
+  },
+  {
+    "name": "慧才婚车租赁",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:48:00.279+08:00"
+  },
+  {
+    "name": "西安捷泰汽车租赁服务有限公司",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:00.322+08:00"
+  },
+  {
+    "name": "西安捷泰汽车租赁服务有限公司",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:03.226+08:00"
   }
 ]
