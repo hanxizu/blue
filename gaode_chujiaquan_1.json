@@ -13831,5 +13831,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T22:13:06.545+08:00"
+  },
+  {
+    "name": "卓高美缝济南总店",
+    "city": "济南市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:13:06.653+08:00"
+  },
+  {
+    "name": "福到家家政(领秀城店)",
+    "city": "济南市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:13:06.685+08:00"
+  },
+  {
+    "name": "金诺环保",
+    "city": "济南市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:13:06.718+08:00"
+  },
+  {
+    "name": "荃净环保CMA检测甲醛治理",
+    "city": "济南市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:13:09.691+08:00"
   }
 ]
