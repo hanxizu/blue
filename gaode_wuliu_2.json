@@ -27133,5 +27133,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:20:06.439+08:00"
+  },
+  {
+    "name": "点点配送",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:20:06.594+08:00"
+  },
+  {
+    "name": "南京吉韵轿车托运(西南门)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:06.628+08:00"
+  },
+  {
+    "name": "京东物流(南京莲花站)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:06.748+08:00"
+  },
+  {
+    "name": "申通快递南京南站公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:20:10.227+08:00"
   }
 ]
