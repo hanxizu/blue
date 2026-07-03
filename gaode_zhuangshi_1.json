@@ -54574,5 +54574,32 @@
     "colorPixels": 381,
     "colorRatio": "16.60%",
     "timestamp": "2026-07-03T15:25:15.305+08:00"
+  },
+  {
+    "name": "飞林装饰(莫愁新寓迎春里店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:25:15.663+08:00"
+  },
+  {
+    "name": "南京融筑建筑装饰有限公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:25:15.775+08:00"
+  },
+  {
+    "name": "立邦官方(鼓楼金桥装饰城店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T15:25:18.672+08:00"
   }
 ]
