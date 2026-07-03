@@ -43774,5 +43774,41 @@
     "colorPixels": 160,
     "colorRatio": "6.97%",
     "timestamp": "2026-07-03T15:04:48.053+08:00"
+  },
+  {
+    "name": "永盛装饰材料(中华阁店)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:04:48.325+08:00"
+  },
+  {
+    "name": "索菲亚衣柜橱柜全屋定制(威尼斯店)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T15:04:48.367+08:00"
+  },
+  {
+    "name": "卓众装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:04:48.422+08:00"
+  },
+  {
+    "name": "欧派定制·新房装修·旧改(威尼斯店)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T15:04:51.354+08:00"
   }
 ]
