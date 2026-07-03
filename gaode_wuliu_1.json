@@ -23812,5 +23812,77 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T09:46:58.387+08:00"
+  },
+  {
+    "name": "成都到到物流有限公司",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:46:58.535+08:00"
+  },
+  {
+    "name": "顺丰速运(普得先锋店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:46:58.573+08:00"
+  },
+  {
+    "name": "焰旺烟花快运超市",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:46:58.675+08:00"
+  },
+  {
+    "name": "成都到到物流有限公司",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:47:01.259+08:00"
+  },
+  {
+    "name": "顺丰速运(普得先锋店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:47:01.296+08:00"
+  },
+  {
+    "name": "焰旺烟花快运超市",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:01.330+08:00"
+  },
+  {
+    "name": "安顺.大件物流托运(成都店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:47:01.364+08:00"
+  },
+  {
+    "name": "焰旺烟花快运超市",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:04.077+08:00"
   }
 ]
