@@ -16513,5 +16513,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:04:16.528+08:00"
+  },
+  {
+    "name": "佛山凯瑞国际货物代理有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:04:16.626+08:00"
+  },
+  {
+    "name": "安顺·大件物流(佛山店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T11:04:16.737+08:00"
+  },
+  {
+    "name": "信丰物流(工业路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:16.843+08:00"
+  },
+  {
+    "name": "华海国际物流(佛山分公司)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:19.819+08:00"
   }
 ]
