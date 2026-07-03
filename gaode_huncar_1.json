@@ -5470,5 +5470,86 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T18:46:13.338+08:00"
+  },
+  {
+    "name": "囍程婚车(汉阳店)",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:46:13.397+08:00"
+  },
+  {
+    "name": "极光超跑",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T18:46:13.433+08:00"
+  },
+  {
+    "name": "保时达婚庆租车",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:46:13.473+08:00"
+  },
+  {
+    "name": "极光超跑",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T18:46:16.180+08:00"
+  },
+  {
+    "name": "保时达婚庆租车",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:46:16.215+08:00"
+  },
+  {
+    "name": "驰骋婚车(武汉店)",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:46:16.241+08:00"
+  },
+  {
+    "name": "嘟嘟汽车婚车租赁",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T18:46:16.267+08:00"
+  },
+  {
+    "name": "武汉大囍婚车",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:46:16.292+08:00"
+  },
+  {
+    "name": "嘟嘟汽车婚车租赁",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T18:46:18.617+08:00"
   }
 ]
