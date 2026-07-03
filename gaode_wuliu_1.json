@@ -28339,5 +28339,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:54:38.040+08:00"
+  },
+  {
+    "name": "速达大件全国托运(小件不接)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:54:38.197+08:00"
+  },
+  {
+    "name": "浙江亲和货运代理有限公司",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:54:38.234+08:00"
+  },
+  {
+    "name": "极兔物流",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:54:38.349+08:00"
+  },
+  {
+    "name": "极兔物流",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:54:41.537+08:00"
   }
 ]
