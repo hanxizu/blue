@@ -31642,5 +31642,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:27:32.153+08:00"
+  },
+  {
+    "name": "华邦世贸城快递柜",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:27:32.352+08:00"
+  },
+  {
+    "name": "多多驿站",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:27:32.466+08:00"
+  },
+  {
+    "name": "顺丰速运(龙图店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:27:32.568+08:00"
+  },
+  {
+    "name": "多多驿站",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:27:35.213+08:00"
+  },
+  {
+    "name": "顺丰速运(龙图店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:27:35.252+08:00"
+  },
+  {
+    "name": "安顺大件物流全国托运",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T11:27:35.289+08:00"
+  },
+  {
+    "name": "安顺大件物流托运",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T11:27:35.325+08:00"
+  },
+  {
+    "name": "安顺大件物流托运",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T11:27:37.965+08:00"
   }
 ]
