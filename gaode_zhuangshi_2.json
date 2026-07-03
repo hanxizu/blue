@@ -5686,5 +5686,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:37:21.737+08:00"
+  },
+  {
+    "name": "北京今朝装饰集团",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 149,
+    "colorRatio": "6.49%",
+    "timestamp": "2026-07-03T15:37:21.821+08:00"
+  },
+  {
+    "name": "安徽圣七装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:37:21.904+08:00"
+  },
+  {
+    "name": "合肥永林建筑装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:37:21.988+08:00"
+  },
+  {
+    "name": "安徽天思建筑装饰设计工程有限公司(名郡生活广场首座店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:37:25.233+08:00"
   }
 ]
