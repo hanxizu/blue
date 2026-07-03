@@ -16234,5 +16234,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:36:47.977+08:00"
+  },
+  {
+    "name": "嘉兴畅顺物流有限公司",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:48.100+08:00"
+  },
+  {
+    "name": "欧西爱司物流上海有限公司(嘉兴分公司)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:48.141+08:00"
+  },
+  {
+    "name": "安顺大件物流托运(嘉兴全区店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:36:48.174+08:00"
+  },
+  {
+    "name": "浙线物流",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:48.207+08:00"
+  },
+  {
+    "name": "欧西爱司物流上海有限公司(嘉兴分公司)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:50.980+08:00"
+  },
+  {
+    "name": "安顺大件物流托运(嘉兴全区店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:36:51.031+08:00"
   }
 ]
