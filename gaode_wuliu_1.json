@@ -23560,5 +23560,41 @@
     "colorPixels": 89,
     "colorRatio": "3.88%",
     "timestamp": "2026-07-03T09:46:36.096+08:00"
+  },
+  {
+    "name": "运多车 摩托车电动车打木架",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T09:46:36.216+08:00"
+  },
+  {
+    "name": "成都创响物流有限公司",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:46:36.243+08:00"
+  },
+  {
+    "name": "大森林全球物流(成都分公司)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:46:36.273+08:00"
+  },
+  {
+    "name": "中智供应链智库",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:46:39.791+08:00"
   }
 ]
