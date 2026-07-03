@@ -8026,5 +8026,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:21:11.501+08:00"
+  },
+  {
+    "name": "北京群联物流有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:21:11.636+08:00"
+  },
+  {
+    "name": "安顺·大件物流全国托运(北京公司)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T09:21:11.666+08:00"
+  },
+  {
+    "name": "京东物流(万丰路店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:21:11.703+08:00"
+  },
+  {
+    "name": "京东物流(万丰路店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:21:15.335+08:00"
   }
 ]
