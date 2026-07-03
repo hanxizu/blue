@@ -22561,5 +22561,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:47:12.580+08:00"
+  },
+  {
+    "name": "顺丰速运(星盛花园店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:47:12.825+08:00"
+  },
+  {
+    "name": "南通鑫杰物流有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:47:12.952+08:00"
+  },
+  {
+    "name": "顺丰速运(南通兴东航空转运中心)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:47:13.063+08:00"
+  },
+  {
+    "name": "顺丰速运(星盛花园店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:47:15.674+08:00"
   }
 ]
