@@ -17656,5 +17656,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:36:19.383+08:00"
+  },
+  {
+    "name": "清风物流",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:36:19.497+08:00"
+  },
+  {
+    "name": "佰胜物流",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:36:19.534+08:00"
+  },
+  {
+    "name": "深圳卓英国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:36:19.563+08:00"
+  },
+  {
+    "name": "佰胜物流",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:36:21.971+08:00"
+  },
+  {
+    "name": "深圳卓英国际货运代理有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:36:22.003+08:00"
+  },
+  {
+    "name": "德邦快递(深圳罗湖区水贝珠宝市场经营分部)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:36:22.128+08:00"
+  },
+  {
+    "name": "佰胜物流",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:36:25.468+08:00"
   }
 ]
