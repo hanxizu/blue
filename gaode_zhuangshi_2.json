@@ -22885,5 +22885,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T16:07:58.046+08:00"
+  },
+  {
+    "name": "百安居装修(锡山旗舰店)",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T16:07:58.156+08:00"
+  },
+  {
+    "name": "嘉衍设计装饰工程有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:07:58.267+08:00"
+  },
+  {
+    "name": "精寻空间设计",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:07:58.380+08:00"
+  },
+  {
+    "name": "嘉衍设计装饰工程有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:08:01.005+08:00"
+  },
+  {
+    "name": "精寻空间设计",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:08:01.047+08:00"
   }
 ]
