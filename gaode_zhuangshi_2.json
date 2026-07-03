@@ -47149,5 +47149,23 @@
     "colorPixels": 381,
     "colorRatio": "16.60%",
     "timestamp": "2026-07-03T16:50:14.679+08:00"
+  },
+  {
+    "name": "京运装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:50:14.947+08:00"
+  },
+  {
+    "name": "立邦官方(香江生活馆)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:50:17.734+08:00"
   }
 ]
