@@ -55087,5 +55087,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T10:38:36.594+08:00"
+  },
+  {
+    "name": "重庆星邦物流有限公司(外滩)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:36.897+08:00"
+  },
+  {
+    "name": "安能物流菜园坝营业部",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:36.989+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(重庆1店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:38:37.026+08:00"
+  },
+  {
+    "name": "安能物流菜园坝营业部",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:39.664+08:00"
   }
 ]
