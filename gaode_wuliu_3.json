@@ -9790,5 +9790,41 @@
     "colorPixels": 305,
     "colorRatio": "13.29%",
     "timestamp": "2026-07-03T12:26:04.704+08:00"
+  },
+  {
+    "name": "美团配送合作商服务中心(前景佳园店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:04.852+08:00"
+  },
+  {
+    "name": "菜鸟速递(温州林河站)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:04.904+08:00"
+  },
+  {
+    "name": "菜鸟驿站(锦东家园店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:05.015+08:00"
+  },
+  {
+    "name": "美团配送合作商服务中心(前景佳园店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:07.866+08:00"
   }
 ]
