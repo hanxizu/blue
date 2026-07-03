@@ -51199,5 +51199,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:31:18.881+08:00"
+  },
+  {
+    "name": "西安亮阳(原全通物流)货运部",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:31:19.356+08:00"
+  },
+  {
+    "name": "西安科捷物流有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:31:19.433+08:00"
+  },
+  {
+    "name": "京东物流(西安北辰集配站)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:31:19.490+08:00"
+  },
+  {
+    "name": "京东物流(西安北辰集配站)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:31:22.847+08:00"
   }
 ]
