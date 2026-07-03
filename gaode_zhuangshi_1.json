@@ -38050,5 +38050,59 @@
     "colorPixels": 380,
     "colorRatio": "16.56%",
     "timestamp": "2026-07-03T14:52:08.291+08:00"
+  },
+  {
+    "name": "立邦官方(枣园街道专卖店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T14:52:08.513+08:00"
+  },
+  {
+    "name": "乾鑫装饰部",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:52:08.546+08:00"
+  },
+  {
+    "name": "广发布艺奥莱·窗帘源头工厂(选材中心)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T14:52:11.057+08:00"
+  },
+  {
+    "name": "双诚装饰·设计整装",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:52:11.104+08:00"
+  },
+  {
+    "name": "玮创装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:52:11.159+08:00"
+  },
+  {
+    "name": "天旭建筑装饰工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:52:11.291+08:00"
   }
 ]
