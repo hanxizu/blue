@@ -37699,5 +37699,32 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T14:51:34.847+08:00"
+  },
+  {
+    "name": "友缘成鑫装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:51:35.171+08:00"
+  },
+  {
+    "name": "陕西懂装修设计有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:51:35.247+08:00"
+  },
+  {
+    "name": "西安一禾空间设计",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T14:51:38.316+08:00"
   }
 ]
