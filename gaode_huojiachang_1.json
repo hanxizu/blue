@@ -14461,5 +14461,41 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T23:23:02.824+08:00"
+  },
+  {
+    "name": "盛思阳(天津)自动化设备有限公司",
+    "city": "天津市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:23:02.944+08:00"
+  },
+  {
+    "name": "天津万事达物流装备有限公司",
+    "city": "天津市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:23:02.980+08:00"
+  },
+  {
+    "name": "天津好助友智能物流装备有限公司",
+    "city": "天津市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:23:03.013+08:00"
+  },
+  {
+    "name": "一鸣不锈钢制品加工厂",
+    "city": "天津市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T23:23:05.986+08:00"
   }
 ]
