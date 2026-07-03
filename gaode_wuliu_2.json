@@ -20221,5 +20221,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:09:26.836+08:00"
+  },
+  {
+    "name": "龙兴物流(佛山大道中店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:26.966+08:00"
+  },
+  {
+    "name": "京东物流(东街一巷店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:27.004+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山禅城祖庙普君北路10号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:27.049+08:00"
+  },
+  {
+    "name": "京选快送超市(叠滘路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:27.168+08:00"
+  },
+  {
+    "name": "安顺·大件物流(佛山店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T11:09:30.113+08:00"
   }
 ]
