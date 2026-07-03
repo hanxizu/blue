@@ -13921,5 +13921,32 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T19:17:37.594+08:00"
+  },
+  {
+    "name": "喜嫁婚车俱乐部",
+    "city": "济南市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T19:17:37.696+08:00"
+  },
+  {
+    "name": "济南金先生租车·婚车服务有限公司",
+    "city": "济南市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:17:37.726+08:00"
+  },
+  {
+    "name": "头号玩家超跑豪车租赁(旗舰店)",
+    "city": "济南市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T19:17:41.613+08:00"
   }
 ]
