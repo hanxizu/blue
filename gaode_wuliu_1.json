@@ -25747,5 +25747,59 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:49:47.278+08:00"
+  },
+  {
+    "name": "迪亚斯物流(伏龙安置小区店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:49:47.470+08:00"
+  },
+  {
+    "name": "荆州安恒物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:49:47.507+08:00"
+  },
+  {
+    "name": "藏捷物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 117,
+    "colorRatio": "5.10%",
+    "timestamp": "2026-07-03T09:49:47.541+08:00"
+  },
+  {
+    "name": "迪亚斯物流(伏龙安置小区店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:49:50.217+08:00"
+  },
+  {
+    "name": "荆州安恒物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:49:50.253+08:00"
+  },
+  {
+    "name": "藏捷物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 117,
+    "colorRatio": "5.10%",
+    "timestamp": "2026-07-03T09:49:50.287+08:00"
   }
 ]
