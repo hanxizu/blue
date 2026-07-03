@@ -8269,5 +8269,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:22:59.610+08:00"
+  },
+  {
+    "name": "兴顺(东山)物流园",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:59.753+08:00"
+  },
+  {
+    "name": "福州晋安区和鑫物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:59.800+08:00"
+  },
+  {
+    "name": "安能物流(福州市区一部营业部)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:59.839+08:00"
+  },
+  {
+    "name": "福州晋安区和鑫物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:23:02.273+08:00"
+  },
+  {
+    "name": "安能物流(福州市区一部营业部)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:23:02.326+08:00"
+  },
+  {
+    "name": "佳广物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:23:02.396+08:00"
+  },
+  {
+    "name": "福州燕清物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:23:02.469+08:00"
+  },
+  {
+    "name": "福建大全物流公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:23:02.578+08:00"
+  },
+  {
+    "name": "福州燕清物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:23:05.285+08:00"
   }
 ]
