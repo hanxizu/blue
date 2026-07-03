@@ -24676,5 +24676,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:15:28.797+08:00"
+  },
+  {
+    "name": "晟驰物流(佛山站)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:15:29.002+08:00"
+  },
+  {
+    "name": "顺丰速运(创业一路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:15:29.113+08:00"
+  },
+  {
+    "name": "顺丰速运(创业一路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:15:31.736+08:00"
+  },
+  {
+    "name": "同城搬家搬厂搬运公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T11:15:31.768+08:00"
+  },
+  {
+    "name": "顺德人人搬家搬运公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T11:15:31.798+08:00"
+  },
+  {
+    "name": "顺丰速运(创业一路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:15:34.862+08:00"
   }
 ]
