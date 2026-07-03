@@ -52882,5 +52882,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T17:00:59.961+08:00"
+  },
+  {
+    "name": "济南万泰装饰(复星国际社区店)",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:01:00.244+08:00"
+  },
+  {
+    "name": "亦之木建筑装饰工程有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T17:01:00.324+08:00"
+  },
+  {
+    "name": "济南一世芳华装饰工程有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T17:01:00.423+08:00"
+  },
+  {
+    "name": "亦之木建筑装饰工程有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T17:01:03.193+08:00"
   }
 ]
