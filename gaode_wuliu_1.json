@@ -14200,5 +14200,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T09:31:50.718+08:00"
+  },
+  {
+    "name": "安顺-大件物流(深圳店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 125,
+    "colorRatio": "5.45%",
+    "timestamp": "2026-07-03T09:31:50.796+08:00"
+  },
+  {
+    "name": "宇琳国际物流",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:50.911+08:00"
+  },
+  {
+    "name": "全程安能供应链",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:31:51.011+08:00"
+  },
+  {
+    "name": "宇琳国际物流",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:53.549+08:00"
+  },
+  {
+    "name": "全程安能供应链",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:31:53.670+08:00"
+  },
+  {
+    "name": "深圳市猛达速递有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:53.700+08:00"
+  },
+  {
+    "name": "深圳市东旺物流有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:31:57.441+08:00"
   }
 ]
