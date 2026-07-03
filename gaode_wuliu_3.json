@@ -2041,5 +2041,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:12:50.151+08:00"
+  },
+  {
+    "name": "安能物流(佳河园店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:50.220+08:00"
+  },
+  {
+    "name": "郑州富兴搬家服务有限公司",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T12:12:50.248+08:00"
+  },
+  {
+    "name": "郑州云链物流供应有限公司",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:12:52.972+08:00"
+  },
+  {
+    "name": "豫德隆物流(漓江路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:53.009+08:00"
+  },
+  {
+    "name": "创新物流(南阳路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:12:53.076+08:00"
+  },
+  {
+    "name": "豫德隆物流(漓江路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:55.763+08:00"
   }
 ]
