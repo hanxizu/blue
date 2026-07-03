@@ -9790,5 +9790,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:24:42.412+08:00"
+  },
+  {
+    "name": "上海市物流学会",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:42.507+08:00"
+  },
+  {
+    "name": "上海市道路运输事业发展中心",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:42.544+08:00"
+  },
+  {
+    "name": "兔喜快递超市(淡水小区店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:42.572+08:00"
+  },
+  {
+    "name": "上海市道路运输事业发展中心",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:45.017+08:00"
+  },
+  {
+    "name": "兔喜快递超市(淡水小区店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:45.080+08:00"
+  },
+  {
+    "name": "顺丰速运(宝昌路店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:24:45.150+08:00"
+  },
+  {
+    "name": "上海万年青国际物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:45.184+08:00"
+  },
+  {
+    "name": "顺丰速运(宝昌路店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:24:48.270+08:00"
   }
 ]
