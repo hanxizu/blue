@@ -7306,5 +7306,41 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T10:50:30.495+08:00"
+  },
+  {
+    "name": "安能物流(桥头镇店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:50:30.558+08:00"
+  },
+  {
+    "name": "正利物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:30.639+08:00"
+  },
+  {
+    "name": "顺丰速运(东方华府三期店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:50:30.678+08:00"
+  },
+  {
+    "name": "保时运通全球物流(深圳)有限公司东莞分公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:50:34.145+08:00"
   }
 ]
