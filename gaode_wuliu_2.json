@@ -1897,5 +1897,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:41:57.136+08:00"
+  },
+  {
+    "name": "菜鸟驿站(重庆渝中蔡家石堡23栋店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:41:57.244+08:00"
+  },
+  {
+    "name": "顺丰速运(火药局5号店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:41:57.276+08:00"
+  },
+  {
+    "name": "丰巢快递柜(维丰创意绿苑店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:41:57.308+08:00"
+  },
+  {
+    "name": "顺丰速运(火药局5号店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:41:59.982+08:00"
+  },
+  {
+    "name": "丰巢快递柜(维丰创意绿苑店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:00.023+08:00"
+  },
+  {
+    "name": "丰巢快递柜(培唐路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:00.067+08:00"
+  },
+  {
+    "name": "菜鸟驿站(浩景雅苑店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:00.105+08:00"
+  },
+  {
+    "name": "京东物流(文华怡景店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:03.582+08:00"
   }
 ]
