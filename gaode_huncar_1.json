@@ -13021,5 +13021,59 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T19:15:06.692+08:00"
+  },
+  {
+    "name": "驰驿豪车租赁有限公司",
+    "city": "郑州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:15:06.775+08:00"
+  },
+  {
+    "name": "出租婚车",
+    "city": "郑州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T19:15:09.275+08:00"
+  },
+  {
+    "name": "驰驿豪车租赁有限公司",
+    "city": "郑州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:15:09.317+08:00"
+  },
+  {
+    "name": "郑州笑笑豪车租赁有限公司",
+    "city": "郑州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T19:15:09.363+08:00"
+  },
+  {
+    "name": "郑州鼎迅汽车租赁",
+    "city": "郑州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-03T19:15:09.409+08:00"
+  },
+  {
+    "name": "郑州笑笑豪车租赁有限公司",
+    "city": "郑州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T19:15:12.140+08:00"
   }
 ]
