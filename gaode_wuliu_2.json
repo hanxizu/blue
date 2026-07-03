@@ -43144,5 +43144,41 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T11:47:14.221+08:00"
+  },
+  {
+    "name": "菜鸟驿站(无锡市人民政府店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:14.467+08:00"
+  },
+  {
+    "name": "快递驿站",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:14.579+08:00"
+  },
+  {
+    "name": "菜鸟驿站(无锡市人民政府店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:17.218+08:00"
+  },
+  {
+    "name": "快递驿站",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:17.253+08:00"
   }
 ]
