@@ -43648,5 +43648,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:42:57.353+08:00"
+  },
+  {
+    "name": "宜家装饰材料店(善化路店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:42:57.647+08:00"
+  },
+  {
+    "name": "青岛九间房设计有限公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:42:57.749+08:00"
+  },
+  {
+    "name": "青岛超维空间设计有限公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:42:57.862+08:00"
+  },
+  {
+    "name": "青岛九间房设计有限公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:43:00.551+08:00"
   }
 ]
