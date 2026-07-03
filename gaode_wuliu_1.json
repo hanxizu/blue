@@ -15010,5 +15010,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:32:54.726+08:00"
+  },
+  {
+    "name": "中国邮政(新顺邮政所)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:54.818+08:00"
+  },
+  {
+    "name": "菜鸟驿站(裕林花园店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:54.846+08:00"
+  },
+  {
+    "name": "顺丰速运(梅华路店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:32:54.872+08:00"
+  },
+  {
+    "name": "菜鸟驿站(裕林花园店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:57.687+08:00"
+  },
+  {
+    "name": "顺丰速运(梅华路店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:32:57.725+08:00"
   }
 ]
