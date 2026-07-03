@@ -50821,5 +50821,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:00:28.927+08:00"
+  },
+  {
+    "name": "菜鸟驿站(岳北和苑店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:29.265+08:00"
+  },
+  {
+    "name": "中通快递(咸嘉新村分部)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:29.311+08:00"
+  },
+  {
+    "name": "兔喜快递超市(英才园居住小区店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:29.363+08:00"
+  },
+  {
+    "name": "兔喜快递超市(英才园居住小区店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:32.159+08:00"
+  },
+  {
+    "name": "行李寄送行李托运站(五一广场地铁站)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T12:00:32.218+08:00"
+  },
+  {
+    "name": "习管家综合物流配送中心",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:00:32.300+08:00"
   }
 ]
