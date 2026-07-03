@@ -51424,5 +51424,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T12:01:25.608+08:00"
+  },
+  {
+    "name": "速度物流",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:25.870+08:00"
+  },
+  {
+    "name": "安能物流(长沙火车站营业部)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:01:25.994+08:00"
+  },
+  {
+    "name": "吉通物流(滩头坪路店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:26.070+08:00"
+  },
+  {
+    "name": "速度物流",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:28.945+08:00"
   }
 ]
