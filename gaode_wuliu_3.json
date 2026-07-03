@@ -36601,5 +36601,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:15:56.039+08:00"
+  },
+  {
+    "name": "京东物流(石家庄桥西营业部)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:56.398+08:00"
+  },
+  {
+    "name": "安能物流百世(方村店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:15:56.424+08:00"
+  },
+  {
+    "name": "致祥仓储物流园",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:56.449+08:00"
+  },
+  {
+    "name": "北京铁路局石家庄货运中心正定货场",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:56.476+08:00"
+  },
+  {
+    "name": "安能物流百世(方村店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:15:59.053+08:00"
+  },
+  {
+    "name": "致祥仓储物流园",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:59.157+08:00"
+  },
+  {
+    "name": "北京铁路局石家庄货运中心正定货场",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:59.261+08:00"
   }
 ]
