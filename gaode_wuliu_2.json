@@ -44575,5 +44575,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:49:16.933+08:00"
+  },
+  {
+    "name": "安能物流河埒口营业部",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:49:17.207+08:00"
+  },
+  {
+    "name": "无锡新港物流发展有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:17.320+08:00"
+  },
+  {
+    "name": "泰德物流有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:17.429+08:00"
+  },
+  {
+    "name": "安能物流河埒口营业部",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:49:20.515+08:00"
   }
 ]
