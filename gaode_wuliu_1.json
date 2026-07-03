@@ -19618,5 +19618,32 @@
     "colorPixels": 379,
     "colorRatio": "16.51%",
     "timestamp": "2026-07-03T09:40:07.813+08:00"
+  },
+  {
+    "name": "顺丰速运(光复中路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:40:07.931+08:00"
+  },
+  {
+    "name": "顺丰速运(盘福路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:40:07.975+08:00"
+  },
+  {
+    "name": "顺丰速运(光复中路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:40:11.004+08:00"
   }
 ]
