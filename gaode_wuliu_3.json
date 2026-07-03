@@ -23776,5 +23776,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T12:49:50.725+08:00"
+  },
+  {
+    "name": "安能物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T12:49:53.437+08:00"
+  },
+  {
+    "name": "泉州市德化闽运通物流公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:49:53.492+08:00"
+  },
+  {
+    "name": "鑫宇物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:49:53.546+08:00"
+  },
+  {
+    "name": "鸿达物流(泉州营业部)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:49:53.600+08:00"
+  },
+  {
+    "name": "泉州市德化闽运通物流公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:49:56.118+08:00"
   }
 ]
