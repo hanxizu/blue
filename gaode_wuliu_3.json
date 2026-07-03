@@ -36304,5 +36304,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T13:15:31.755+08:00"
+  },
+  {
+    "name": "安能物流(段高路店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:31.964+08:00"
+  },
+  {
+    "name": "石家庄凯世物流基地",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:32.074+08:00"
+  },
+  {
+    "name": "安顺·大件物流(石家庄店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T13:15:32.178+08:00"
+  },
+  {
+    "name": "安顺·大件物流(石家庄店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T13:15:34.932+08:00"
   }
 ]
