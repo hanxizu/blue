@@ -628,5 +628,41 @@
     "colorPixels": 380,
     "colorRatio": "16.56%",
     "timestamp": "2026-07-03T10:40:18.668+08:00"
+  },
+  {
+    "name": "廉洁货运",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:18.704+08:00"
+  },
+  {
+    "name": "菜鸟驿站(城市领地店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:18.785+08:00"
+  },
+  {
+    "name": "丰巢智能柜(和信大厦东大门南侧丰巢速递易柜店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:18.819+08:00"
+  },
+  {
+    "name": "中通快递重庆渝中朝天门分公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:22.124+08:00"
   }
 ]
