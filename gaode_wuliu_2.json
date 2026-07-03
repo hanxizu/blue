@@ -33496,5 +33496,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T11:30:16.751+08:00"
+  },
+  {
+    "name": "安顺大件物流托运",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T11:30:16.919+08:00"
+  },
+  {
+    "name": "安徽远洋运输有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:30:16.951+08:00"
+  },
+  {
+    "name": "漕冲物流园",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:30:17.063+08:00"
+  },
+  {
+    "name": "安徽远洋运输有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:30:20.012+08:00"
   }
 ]
