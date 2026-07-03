@@ -9628,5 +9628,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:24:30.698+08:00"
+  },
+  {
+    "name": "京东物流(江宁路906弄小区店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:30.756+08:00"
+  },
+  {
+    "name": "元泰国际货运(中国)有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:30.861+08:00"
+  },
+  {
+    "name": "申通快递",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:24:30.961+08:00"
+  },
+  {
+    "name": "京东物流(江宁路906弄小区店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:34.097+08:00"
   }
 ]
