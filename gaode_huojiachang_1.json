@@ -10636,5 +10636,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:14:50.090+08:00"
+  },
+  {
+    "name": "创亿货架",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T23:14:50.239+08:00"
+  },
+  {
+    "name": "金硕货架(佛山店)",
+    "city": "佛山市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:15:11.815+08:00"
   }
 ]
