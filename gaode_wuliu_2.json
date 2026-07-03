@@ -33532,5 +33532,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:30:20.012+08:00"
+  },
+  {
+    "name": "漕冲物流园",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:30:20.187+08:00"
+  },
+  {
+    "name": "丰裕物流",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:30:20.222+08:00"
+  },
+  {
+    "name": "安顺大件物流托运(合肥10店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:30:20.334+08:00"
+  },
+  {
+    "name": "安顺大件物流托运(合肥10店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:30:22.870+08:00"
+  },
+  {
+    "name": "盛元物流(五金城)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:30:22.914+08:00"
+  },
+  {
+    "name": "百信物流(尧渡河路店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:30:22.973+08:00"
+  },
+  {
+    "name": "大河物流",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:30:23.011+08:00"
+  },
+  {
+    "name": "安顺大件物流托运(合肥10店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:30:26.298+08:00"
   }
 ]
