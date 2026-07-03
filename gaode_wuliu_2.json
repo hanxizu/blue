@@ -49390,5 +49390,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:57:17.714+08:00"
+  },
+  {
+    "name": "厦门奇运物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:57:18.026+08:00"
+  },
+  {
+    "name": "厦门志捷国际物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:57:18.118+08:00"
+  },
+  {
+    "name": "菜鸟驿站(殿前三路店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:57:18.222+08:00"
+  },
+  {
+    "name": "厦门奇运物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:57:20.943+08:00"
   }
 ]
