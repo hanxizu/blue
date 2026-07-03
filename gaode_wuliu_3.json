@@ -18961,5 +18961,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:41:21.639+08:00"
+  },
+  {
+    "name": "菜鸟驿站(常州外滩一号商铺D4-108店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:21.769+08:00"
+  },
+  {
+    "name": "德邦快递(常州新北区珠江路经营分部)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:41:21.801+08:00"
+  },
+  {
+    "name": "菜鸟驿站(青竹苑C区店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:21.834+08:00"
+  },
+  {
+    "name": "菜鸟驿站(常州外滩一号商铺D4-108店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:24.528+08:00"
+  },
+  {
+    "name": "德邦快递(常州新北区珠江路经营分部)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:41:24.622+08:00"
+  },
+  {
+    "name": "菜鸟驿站(青竹苑C区店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:24.654+08:00"
   }
 ]
