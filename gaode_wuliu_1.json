@@ -53044,5 +53044,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:34:16.540+08:00"
+  },
+  {
+    "name": "明亨物流(米秦路营业部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:34:16.816+08:00"
+  },
+  {
+    "name": "西安邦友仓储配送中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:34:16.918+08:00"
+  },
+  {
+    "name": "鑫腾达物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:34:17.027+08:00"
+  },
+  {
+    "name": "西安邦友仓储配送中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:34:19.876+08:00"
   }
 ]
