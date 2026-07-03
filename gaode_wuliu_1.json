@@ -14038,5 +14038,68 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-03T09:31:36.022+08:00"
+  },
+  {
+    "name": "钻从科技物流(深圳)有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:31:36.138+08:00"
+  },
+  {
+    "name": "丰巢快递柜(信息枢纽大厦店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:36.165+08:00"
+  },
+  {
+    "name": "丰巢快递柜(信息枢纽大厦店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:38.661+08:00"
+  },
+  {
+    "name": "百世快运·大件物流托运",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:31:38.693+08:00"
+  },
+  {
+    "name": "顺丰驿站",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:38.725+08:00"
+  },
+  {
+    "name": "丰巢快递柜(深圳市民中心店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:38.774+08:00"
+  },
+  {
+    "name": "顺丰驿站",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:41.660+08:00"
   }
 ]
