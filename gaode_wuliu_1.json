@@ -24865,5 +24865,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:48:31.099+08:00"
+  },
+  {
+    "name": "京东快递成都高新营业部(谢威中心店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:31.245+08:00"
+  },
+  {
+    "name": "菜鸟驿站(锦馨家园店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:31.288+08:00"
+  },
+  {
+    "name": "申通快递新北营业部",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:48:31.317+08:00"
+  },
+  {
+    "name": "菜鸟驿站(蜀都中心店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:31.346+08:00"
+  },
+  {
+    "name": "菜鸟驿站(锦馨家园店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:34.041+08:00"
+  },
+  {
+    "name": "申通快递新北营业部",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:48:34.067+08:00"
+  },
+  {
+    "name": "菜鸟驿站(蜀都中心店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:34.100+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西派国际店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:34.128+08:00"
   }
 ]
