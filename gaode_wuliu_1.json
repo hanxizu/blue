@@ -19906,5 +19906,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T09:40:29.672+08:00"
+  },
+  {
+    "name": "广州经纬猫物流服务有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:40:29.791+08:00"
+  },
+  {
+    "name": "广州海志国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:40:29.867+08:00"
+  },
+  {
+    "name": "光大物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:40:29.920+08:00"
+  },
+  {
+    "name": "广州海志国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:40:33.080+08:00"
   }
 ]
