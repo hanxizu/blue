@@ -12661,5 +12661,59 @@
     "colorPixels": 147,
     "colorRatio": "6.41%",
     "timestamp": "2026-07-03T15:49:09.955+08:00"
+  },
+  {
+    "name": "天津尼佳装饰工程有限公司",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:49:10.123+08:00"
+  },
+  {
+    "name": "百家居装饰(孤山路店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:49:10.158+08:00"
+  },
+  {
+    "name": "天津中电芬琳建筑装饰工程有限公司",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:49:10.186+08:00"
+  },
+  {
+    "name": "百家居装饰(孤山路店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:49:12.885+08:00"
+  },
+  {
+    "name": "天津中电芬琳建筑装饰工程有限公司",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:49:12.927+08:00"
+  },
+  {
+    "name": "天津中仕建筑装饰工程有限公司",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:49:12.966+08:00"
   }
 ]
