@@ -47680,5 +47680,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:54:56.423+08:00"
+  },
+  {
+    "name": "厦门程运航物流",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:54:56.671+08:00"
+  },
+  {
+    "name": "弘联通(厦门)物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:54:56.778+08:00"
+  },
+  {
+    "name": "IPC港务物流嵩屿堆场",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:54:56.889+08:00"
+  },
+  {
+    "name": "隆捷物流",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:54:57.017+08:00"
+  },
+  {
+    "name": "厦门程运航物流",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:54:59.451+08:00"
+  },
+  {
+    "name": "弘联通(厦门)物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:54:59.495+08:00"
   }
 ]
