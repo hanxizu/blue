@@ -2635,5 +2635,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:31:06.415+08:00"
+  },
+  {
+    "name": "风起软装窗帘墙布工厂店",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T15:31:06.455+08:00"
+  },
+  {
+    "name": "金宝装饰城",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:31:06.487+08:00"
+  },
+  {
+    "name": "金盛装饰城",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:31:08.809+08:00"
+  },
+  {
+    "name": "圣蒂诺墙布窗帘(绿光软装)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T15:31:08.859+08:00"
+  },
+  {
+    "name": "新麒麟装饰城(悦民公寓店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:31:08.901+08:00"
+  },
+  {
+    "name": "金盛装饰城",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:31:12.029+08:00"
   }
 ]
