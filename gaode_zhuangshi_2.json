@@ -3319,5 +3319,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:33:44.658+08:00"
+  },
+  {
+    "name": "合肥河一装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:33:44.715+08:00"
+  },
+  {
+    "name": "华然装饰旗舰店",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T15:33:44.750+08:00"
+  },
+  {
+    "name": "安徽太璞环境艺术设计有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:33:47.902+08:00"
   }
 ]
