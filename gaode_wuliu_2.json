@@ -4237,5 +4237,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:45:12.031+08:00"
+  },
+  {
+    "name": "南坪西路安能物流",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:45:12.077+08:00"
+  },
+  {
+    "name": "四锦物流(观音桥农产品批发市场店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:45:12.109+08:00"
+  },
+  {
+    "name": "快鹿物流",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:45:12.142+08:00"
+  },
+  {
+    "name": "融辉物流(重庆盘溪站)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:45:15.469+08:00"
   }
 ]
