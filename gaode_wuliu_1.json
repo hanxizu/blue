@@ -39580,5 +39580,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T10:12:44.308+08:00"
+  },
+  {
+    "name": "顺丰速运(武昌万象城服务中心)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:12:44.552+08:00"
+  },
+  {
+    "name": "菜鸟驿站(武汉淌湖二村75号消防对面店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:12:44.667+08:00"
+  },
+  {
+    "name": "顺丰速运(劳动街店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:12:44.781+08:00"
+  },
+  {
+    "name": "菜鸟驿站(武汉淌湖二村75号消防对面店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:12:47.427+08:00"
   }
 ]
