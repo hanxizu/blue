@@ -35917,5 +35917,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T11:34:51.834+08:00"
+  },
+  {
+    "name": "天津市龙汉达物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:52.146+08:00"
+  },
+  {
+    "name": "顺丰速运(西康路店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:34:52.189+08:00"
+  },
+  {
+    "name": "韵达速递(峰汇广场店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:52.220+08:00"
+  },
+  {
+    "name": "天津市龙汉达物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:54.860+08:00"
   }
 ]
