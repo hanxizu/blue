@@ -44242,5 +44242,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:44:00.970+08:00"
+  },
+  {
+    "name": "华美宜嘉装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:44:01.220+08:00"
+  },
+  {
+    "name": "大洋装饰(东大洋店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:44:01.329+08:00"
+  },
+  {
+    "name": "青岛原创设计·设计事务所",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T16:44:01.395+08:00"
+  },
+  {
+    "name": "大洋装饰(东大洋店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:44:04.168+08:00"
   }
 ]
