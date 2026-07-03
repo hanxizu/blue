@@ -817,5 +817,86 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T22:49:19.977+08:00"
+  },
+  {
+    "name": "上海市汉武货架设备厂",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:20.014+08:00"
+  },
+  {
+    "name": "昌明货架有限公司",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:20.070+08:00"
+  },
+  {
+    "name": "云梯货架",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:20.098+08:00"
+  },
+  {
+    "name": "上海市汉武货架设备厂",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:22.779+08:00"
+  },
+  {
+    "name": "昌明货架有限公司",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:22.809+08:00"
+  },
+  {
+    "name": "云梯货架",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:22.858+08:00"
+  },
+  {
+    "name": "鑫达金属",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:49:22.897+08:00"
+  },
+  {
+    "name": "上海久固隆货架有限公司(上海仓)",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:22.921+08:00"
+  },
+  {
+    "name": "云梯货架",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:25.495+08:00"
   }
 ]
