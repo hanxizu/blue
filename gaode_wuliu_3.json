@@ -31480,5 +31480,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T13:02:28.387+08:00"
+  },
+  {
+    "name": "五洲城物流园",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:02:28.748+08:00"
+  },
+  {
+    "name": "中储发展(沈阳)物流有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:02:28.807+08:00"
+  },
+  {
+    "name": "安博沈阳浑南物流中心",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:02:28.881+08:00"
+  },
+  {
+    "name": "中储发展(沈阳)物流有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:02:31.714+08:00"
   }
 ]
