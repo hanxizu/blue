@@ -46078,5 +46078,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T16:48:32.250+08:00"
+  },
+  {
+    "name": "郑州云刚装饰工程有限公司",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:48:32.561+08:00"
+  },
+  {
+    "name": "郑州锦家装饰装修有限公司",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:48:32.671+08:00"
+  },
+  {
+    "name": "河南康居贝贝装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T16:48:32.785+08:00"
+  },
+  {
+    "name": "郑州云刚装饰工程有限公司",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:48:35.238+08:00"
+  },
+  {
+    "name": "郑州锦家装饰装修有限公司",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:48:35.282+08:00"
   }
 ]
