@@ -30220,5 +30220,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:59:40.056+08:00"
+  },
+  {
+    "name": "京东快递(大连甘驰营业部)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:59:40.260+08:00"
+  },
+  {
+    "name": "菜鸟驿站(大连浪花街64号店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:59:40.370+08:00"
+  },
+  {
+    "name": "菜鸟驿站(大连金新路22号店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:59:40.481+08:00"
+  },
+  {
+    "name": "辽宁省邮政速递物流有限公司航空邮件交换站",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:59:43.494+08:00"
   }
 ]
