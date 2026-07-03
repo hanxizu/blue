@@ -19033,5 +19033,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:41:28.060+08:00"
+  },
+  {
+    "name": "江苏凌家塘物流中心",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:28.207+08:00"
+  },
+  {
+    "name": "江苏铁丰物流有限公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:28.238+08:00"
+  },
+  {
+    "name": "顺丰速运(集散中心)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:41:28.269+08:00"
+  },
+  {
+    "name": "江苏铁丰物流有限公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:31.089+08:00"
   }
 ]
