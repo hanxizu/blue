@@ -50587,5 +50587,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:30:26.054+08:00"
+  },
+  {
+    "name": "陕西省物流集团商储物流(北门)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:26.328+08:00"
+  },
+  {
+    "name": "西安经建渣土清运有限责任公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:26.440+08:00"
+  },
+  {
+    "name": "驿收发快递驿站(天朗·御湖店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:30:26.551+08:00"
+  },
+  {
+    "name": "西安福好搬家",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:26.738+08:00"
+  },
+  {
+    "name": "驿收发快递驿站(天朗·御湖店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:30:29.586+08:00"
   }
 ]
