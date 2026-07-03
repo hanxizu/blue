@@ -13381,5 +13381,32 @@
     "colorPixels": 88,
     "colorRatio": "3.83%",
     "timestamp": "2026-07-03T23:21:28.435+08:00"
+  },
+  {
+    "name": "国弘货架",
+    "city": "天津市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:21:28.541+08:00"
+  },
+  {
+    "name": "万能货架",
+    "city": "天津市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:21:28.572+08:00"
+  },
+  {
+    "name": "倩云货架",
+    "city": "天津市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:21:32.349+08:00"
   }
 ]
