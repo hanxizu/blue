@@ -14218,5 +14218,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:59:55.402+08:00"
+  },
+  {
+    "name": "安能物流(康怡医院东南国通货运中心店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:59:55.495+08:00"
+  },
+  {
+    "name": "创鑫物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:59:58.704+08:00"
   }
 ]
