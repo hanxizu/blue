@@ -10717,5 +10717,14 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T09:25:52.547+08:00"
+  },
+  {
+    "name": "京东物流(上海东方路站)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:25:55.679+08:00"
   }
 ]
