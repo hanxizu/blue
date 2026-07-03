@@ -32992,5 +32992,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:04:36.991+08:00"
+  },
+  {
+    "name": "高校物流港",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:37.613+08:00"
+  },
+  {
+    "name": "顺丰速运(南塔店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:04:37.684+08:00"
+  },
+  {
+    "name": "顺丰速运(长青店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:04:37.726+08:00"
+  },
+  {
+    "name": "顺丰速运(长青店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:04:40.379+08:00"
   }
 ]
