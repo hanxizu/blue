@@ -32182,5 +32182,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:01:00.658+08:00"
+  },
+  {
+    "name": "江苏亦迅供应链管理有限公司苏州分公司",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:01:00.923+08:00"
+  },
+  {
+    "name": "中通快递(滨河路)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:01:00.951+08:00"
+  },
+  {
+    "name": "德邦快递(苏州金阊区金门路经营分部)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:01:01.037+08:00"
+  },
+  {
+    "name": "德邦快递(苏州金阊区金门路经营分部)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:01:04.406+08:00"
   }
 ]
