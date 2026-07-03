@@ -3175,5 +3175,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T22:55:09.180+08:00"
+  },
+  {
+    "name": "广州市铭豪货架有限公司",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:09.217+08:00"
+  },
+  {
+    "name": "广州顶全货架有限公司",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:12.106+08:00"
+  },
+  {
+    "name": "广州市铭豪货架有限公司",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:12.136+08:00"
+  },
+  {
+    "name": "佛山市祺润雅货架有限公司",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:12.163+08:00"
+  },
+  {
+    "name": "广州久源货架有限公司",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:55:12.192+08:00"
   }
 ]
