@@ -17989,5 +17989,32 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T19:32:09.961+08:00"
+  },
+  {
+    "name": "壹路顺租车",
+    "city": "大连市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:32:10.063+08:00"
+  },
+  {
+    "name": "万通·婚纱摄影·鲜花礼仪",
+    "city": "大连市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:32:10.120+08:00"
+  },
+  {
+    "name": "大连环亚租车",
+    "city": "大连市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T19:32:13.266+08:00"
   }
 ]
