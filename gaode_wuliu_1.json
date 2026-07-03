@@ -32524,5 +32524,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:01:30.554+08:00"
+  },
+  {
+    "name": "缔盛(苏州)供应链管理服务有限公司",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:01:30.958+08:00"
+  },
+  {
+    "name": "苏州凯马交付中心",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:01:31.027+08:00"
+  },
+  {
+    "name": "顺丰速运(港务路店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:01:31.131+08:00"
+  },
+  {
+    "name": "韵达快递(泰南苑店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:01:31.304+08:00"
+  },
+  {
+    "name": "苏州凯马交付中心",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:01:33.969+08:00"
   }
 ]
