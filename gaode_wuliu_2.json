@@ -51046,5 +51046,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:00:48.351+08:00"
+  },
+  {
+    "name": "湖南中远海运集装箱运输有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:00:48.649+08:00"
+  },
+  {
+    "name": "丹鸟物流(长沙西湖站)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:48.704+08:00"
+  },
+  {
+    "name": "万纬长沙开福冷链物流园",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:00:48.742+08:00"
+  },
+  {
+    "name": "丹鸟物流(长沙西湖站)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:51.702+08:00"
   }
 ]
