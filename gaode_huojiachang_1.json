@@ -21004,5 +21004,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:48:06.880+08:00"
+  },
+  {
+    "name": "南通瑞煌货架厂",
+    "city": "南通市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:48:07.014+08:00"
+  },
+  {
+    "name": "天扬货架厂",
+    "city": "南通市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T23:48:07.045+08:00"
+  },
+  {
+    "name": "南通市金山货架有限公司(西南门)",
+    "city": "南通市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:48:07.073+08:00"
+  },
+  {
+    "name": "鑫旺货架厂",
+    "city": "南通市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:48:10.168+08:00"
   }
 ]
