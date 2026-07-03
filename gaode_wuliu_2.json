@@ -25234,5 +25234,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T11:17:28.835+08:00"
+  },
+  {
+    "name": "韵达老虎桥营业点",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:17:28.984+08:00"
+  },
+  {
+    "name": "顺丰速运(鸡鸣山庄店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:17:29.072+08:00"
+  },
+  {
+    "name": "百世汇通(玄武二部文昌分部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:17:29.101+08:00"
+  },
+  {
+    "name": "亚凯国际物流(南京)有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:17:32.162+08:00"
   }
 ]
