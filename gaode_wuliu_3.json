@@ -5650,5 +5650,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:18:32.857+08:00"
+  },
+  {
+    "name": "安能物流(济南黄台站点)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:18:32.913+08:00"
+  },
+  {
+    "name": "上海澳鑫物流",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:18:35.340+08:00"
+  },
+  {
+    "name": "鑫亮物流",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:18:35.398+08:00"
+  },
+  {
+    "name": "长吉物流",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:18:35.479+08:00"
+  },
+  {
+    "name": "安能物流(济南黄台站点)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:18:35.550+08:00"
+  },
+  {
+    "name": "天禹物流(新黄路店)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:18:35.597+08:00"
+  },
+  {
+    "name": "鑫亮物流",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:18:38.128+08:00"
   }
 ]
