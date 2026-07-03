@@ -25711,5 +25711,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T09:49:43.988+08:00"
+  },
+  {
+    "name": "德快物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:49:44.212+08:00"
+  },
+  {
+    "name": "安顺大件物流托运公司(成都店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:49:44.326+08:00"
+  },
+  {
+    "name": "迪亚斯物流(伏龙安置小区店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:49:44.434+08:00"
+  },
+  {
+    "name": "安顺大件物流托运公司(成都店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:49:47.278+08:00"
   }
 ]
