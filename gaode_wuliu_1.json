@@ -9259,5 +9259,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:24:00.334+08:00"
+  },
+  {
+    "name": "上海狮赛国际物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:00.542+08:00"
+  },
+  {
+    "name": "大广发物流(上海分公司)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:00.698+08:00"
+  },
+  {
+    "name": "上海狮赛国际物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:03.199+08:00"
+  },
+  {
+    "name": "大广发物流(上海分公司)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:03.242+08:00"
+  },
+  {
+    "name": "上海嘉瀛物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T09:24:03.273+08:00"
+  },
+  {
+    "name": "大广发物流(上海分公司)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:05.714+08:00"
   }
 ]
