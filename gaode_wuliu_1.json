@@ -25459,5 +25459,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:49:21.540+08:00"
+  },
+  {
+    "name": "安能物流(怡心协和营业厅)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:49:21.718+08:00"
+  },
+  {
+    "name": "绵阳东方物流有限公司(航雅路店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:49:21.751+08:00"
+  },
+  {
+    "name": "阔展物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:49:21.847+08:00"
+  },
+  {
+    "name": "安能物流(怡心协和营业厅)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:49:24.898+08:00"
   }
 ]
