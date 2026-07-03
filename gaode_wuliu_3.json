@@ -21544,5 +21544,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:45:49.084+08:00"
+  },
+  {
+    "name": "兔喜快递超市(天一·惠泽苑店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:49.288+08:00"
+  },
+  {
+    "name": "南通速浩物流有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:49.341+08:00"
+  },
+  {
+    "name": "江苏中景国际货运代理有限公司",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:49.373+08:00"
+  },
+  {
+    "name": "顺丰速运(开发区店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:45:49.406+08:00"
+  },
+  {
+    "name": "顺丰速运(开发区店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:45:52.191+08:00"
+  },
+  {
+    "name": "京东物流(南通崇川站)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:52.221+08:00"
+  },
+  {
+    "name": "铭源物流",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:52.261+08:00"
+  },
+  {
+    "name": "顺丰速运(小海花园店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T12:45:52.296+08:00"
+  },
+  {
+    "name": "铭源物流",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:45:55.120+08:00"
   }
 ]
