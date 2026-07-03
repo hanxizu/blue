@@ -5416,5 +5416,59 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T18:46:08.058+08:00"
+  },
+  {
+    "name": "囍程婚车(汉阳店)",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:46:08.125+08:00"
+  },
+  {
+    "name": "京诚租车",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T18:46:10.708+08:00"
+  },
+  {
+    "name": "囍程婚车(汉阳店)",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:46:10.747+08:00"
+  },
+  {
+    "name": "极光超跑",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T18:46:10.787+08:00"
+  },
+  {
+    "name": "保时达婚庆租车",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:46:10.824+08:00"
+  },
+  {
+    "name": "京诚租车",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T18:46:13.338+08:00"
   }
 ]
