@@ -33397,5 +33397,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T16:23:59.237+08:00"
+  },
+  {
+    "name": "创美广告",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T16:23:59.454+08:00"
+  },
+  {
+    "name": "格丽美广告装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:23:59.485+08:00"
+  },
+  {
+    "name": "盛发不锈钢装饰(兴园雅苑店)",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:23:59.517+08:00"
+  },
+  {
+    "name": "厦门九鼎建筑装饰设计工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:24:02.619+08:00"
   }
 ]
