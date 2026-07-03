@@ -25423,5 +25423,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:52:00.425+08:00"
+  },
+  {
+    "name": "申通快递(妙灵路店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:52:00.574+08:00"
+  },
+  {
+    "name": "正龙物流园",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:52:00.611+08:00"
+  },
+  {
+    "name": "泉州宏盛物流(东云路店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:52:00.719+08:00"
+  },
+  {
+    "name": "泉州宏盛物流(东云路店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:52:03.401+08:00"
+  },
+  {
+    "name": "鸿运物流城",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:52:03.452+08:00"
+  },
+  {
+    "name": "臻马物流(发大件小件勿扰)-泉州店",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:52:03.487+08:00"
+  },
+  {
+    "name": "吉安明顺物流(江西专线)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:52:03.540+08:00"
+  },
+  {
+    "name": "吉安明顺物流(江西专线)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:52:06.232+08:00"
   }
 ]
