@@ -26314,5 +26314,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T14:30:08.210+08:00"
+  },
+  {
+    "name": "航盛车业(新区店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:30:08.472+08:00"
+  },
+  {
+    "name": "盛世和家装饰-吴江分公司",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T14:30:08.522+08:00"
+  },
+  {
+    "name": "清洲建筑装饰·全屋整装(苏州集团总部)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:30:08.625+08:00"
+  },
+  {
+    "name": "苏橙壹号装饰 (总店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T14:30:12.146+08:00"
   }
 ]
