@@ -47410,5 +47410,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T16:50:38.920+08:00"
+  },
+  {
+    "name": "几何整装(西区旗舰店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-03T16:50:39.270+08:00"
+  },
+  {
+    "name": "郑州忆禾装饰有限公司",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:50:39.354+08:00"
+  },
+  {
+    "name": "河南千幻装饰工程有限公司",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:50:39.423+08:00"
+  },
+  {
+    "name": "郑州筑巢装饰设计工程有限公司",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:50:42.768+08:00"
   }
 ]
