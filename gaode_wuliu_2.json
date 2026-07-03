@@ -29545,5 +29545,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:23:32.620+08:00"
+  },
+  {
+    "name": "泰邦物流园",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:23:32.804+08:00"
+  },
+  {
+    "name": "京东物流-南京善桥站",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:23:32.853+08:00"
+  },
+  {
+    "name": "中铁快运(南京南站店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:23:35.525+08:00"
+  },
+  {
+    "name": "泰邦物流园",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:23:35.585+08:00"
+  },
+  {
+    "name": "京东物流-南京善桥站",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:23:35.651+08:00"
   }
 ]
