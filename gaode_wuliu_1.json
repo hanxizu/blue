@@ -24064,5 +24064,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:47:20.376+08:00"
+  },
+  {
+    "name": "兔喜快递超市(生物研究所综合服务中心)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:47:20.610+08:00"
+  },
+  {
+    "name": "德邦快递(成都武侯区广和一街经营分部)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:47:20.650+08:00"
+  },
+  {
+    "name": "(30kg以下不接)壹路通汽车托运大件物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:47:20.692+08:00"
+  },
+  {
+    "name": "(30kg以下不接)壹路通汽车托运大件物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:47:23.625+08:00"
   }
 ]
