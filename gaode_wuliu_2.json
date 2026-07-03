@@ -11626,5 +11626,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:56:19.716+08:00"
+  },
+  {
+    "name": "达宏物流(厚街仓库)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:56:19.829+08:00"
+  },
+  {
+    "name": "东莞市灏森物流有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:56:19.873+08:00"
+  },
+  {
+    "name": "军城物流(厚街分拨中心)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:56:19.904+08:00"
+  },
+  {
+    "name": "广东浮华国际物流有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:56:19.937+08:00"
+  },
+  {
+    "name": "东莞市华极物流有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:56:22.919+08:00"
   }
 ]
