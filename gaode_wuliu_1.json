@@ -20104,5 +20104,59 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T09:40:48.144+08:00"
+  },
+  {
+    "name": "京东物流(海城花苑店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:40:48.270+08:00"
+  },
+  {
+    "name": "安顺·大件物流 摩托车 电瓶车 行李托运(广州店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:40:48.298+08:00"
+  },
+  {
+    "name": "安顺·大件物流 摩托车 电瓶车 行李托运(广州店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:40:50.989+08:00"
+  },
+  {
+    "name": "广州振英货运有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:40:51.054+08:00"
+  },
+  {
+    "name": "广州柬埔寨金边货运代理服务部",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:40:51.084+08:00"
+  },
+  {
+    "name": "广州振英货运有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:40:53.506+08:00"
   }
 ]
