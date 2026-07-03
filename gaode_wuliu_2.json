@@ -19789,5 +19789,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T11:08:43.792+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山平洲平胜麻洪村54号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:43.930+08:00"
+  },
+  {
+    "name": "百世汇通(沿海馨庭店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:43.960+08:00"
+  },
+  {
+    "name": "广东省邮政速递物流有限公司佛山禅城分公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:43.990+08:00"
+  },
+  {
+    "name": "顺丰速运(九鼎国际店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:08:47.639+08:00"
   }
 ]
