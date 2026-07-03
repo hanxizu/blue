@@ -10420,5 +10420,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:54:31.286+08:00"
+  },
+  {
+    "name": "广东唯客路供应链物流有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:54:31.427+08:00"
+  },
+  {
+    "name": "安博东莞石排物流中心",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:54:31.468+08:00"
+  },
+  {
+    "name": "顺丰速运(上东国际店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:54:31.539+08:00"
+  },
+  {
+    "name": "中泓国际货运代理(东莞)有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:54:34.972+08:00"
   }
 ]
