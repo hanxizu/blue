@@ -22867,5 +22867,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:44:39.744+08:00"
+  },
+  {
+    "name": "广利物流提货处",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:44:39.920+08:00"
+  },
+  {
+    "name": "京东物流(华苑大厦店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:44:39.947+08:00"
+  },
+  {
+    "name": "吉鸿物流(康乐西街店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:44:39.984+08:00"
+  },
+  {
+    "name": "广利物流提货处",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:44:42.646+08:00"
+  },
+  {
+    "name": "京东物流(华苑大厦店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:44:42.683+08:00"
+  },
+  {
+    "name": "吉鸿物流(康乐西街店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:44:42.718+08:00"
+  },
+  {
+    "name": "盛辉物流(嘉忠物流中心店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:44:42.752+08:00"
   }
 ]
