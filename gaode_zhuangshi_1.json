@@ -20590,5 +20590,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T14:18:10.587+08:00"
+  },
+  {
+    "name": "彩兔装饰·别墅大宅整装(成都旗舰店)",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T14:18:10.817+08:00"
+  },
+  {
+    "name": "成都市简意工程设计有限公司",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:18:10.875+08:00"
+  },
+  {
+    "name": "千艺广告装饰图文(保利心语观园国际店)三期",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:18:10.997+08:00"
+  },
+  {
+    "name": "雅舍布艺窗帘(V客东都1期店)",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T14:18:14.349+08:00"
   }
 ]
