@@ -36385,5 +36385,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:35:30.296+08:00"
+  },
+  {
+    "name": "菜鸟速递(天津尖山站)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:30.496+08:00"
+  },
+  {
+    "name": "京东快递(天津姚村营业部)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:30.526+08:00"
+  },
+  {
+    "name": "韵达快递",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:30.557+08:00"
+  },
+  {
+    "name": "菜鸟速递(天津尖山站)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:33.238+08:00"
+  },
+  {
+    "name": "京东快递(天津姚村营业部)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:33.271+08:00"
+  },
+  {
+    "name": "韵达快递",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:33.306+08:00"
+  },
+  {
+    "name": "天津物流正远物流-全国大件货物托运-整车零担配货",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:35:33.337+08:00"
+  },
+  {
+    "name": "快递超市",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:37.128+08:00"
   }
 ]
