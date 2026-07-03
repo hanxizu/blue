@@ -9169,5 +9169,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:25:15.101+08:00"
+  },
+  {
+    "name": "顺丰速运(滨江中浦路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T12:25:15.252+08:00"
+  },
+  {
+    "name": "温州外运物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:17.994+08:00"
+  },
+  {
+    "name": "京东物流(南塘二组团店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:18.029+08:00"
+  },
+  {
+    "name": "顺丰速运(滨江中浦路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T12:25:18.067+08:00"
+  },
+  {
+    "name": "温州旭东物流(乌仁路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:18.101+08:00"
   }
 ]
