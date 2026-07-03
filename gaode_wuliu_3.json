@@ -34756,5 +34756,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:13:23.597+08:00"
+  },
+  {
+    "name": "鑫磊物流(向阳路营业部)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:13:23.871+08:00"
+  },
+  {
+    "name": "安能物流(北新街店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:13:23.906+08:00"
+  },
+  {
+    "name": "鑫磊物流(向阳路营业部)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:13:26.843+08:00"
   }
 ]
