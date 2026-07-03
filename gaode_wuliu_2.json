@@ -52000,5 +52000,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:02:19.776+08:00"
+  },
+  {
+    "name": "湖南众瑞军武运输有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:20.104+08:00"
+  },
+  {
+    "name": "鑫通物流",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:20.219+08:00"
+  },
+  {
+    "name": "顺丰速运(朝阳广场店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T12:02:20.328+08:00"
+  },
+  {
+    "name": "顺丰速运(晚报大道店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:02:20.467+08:00"
+  },
+  {
+    "name": "鑫通物流",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:23.106+08:00"
   }
 ]
