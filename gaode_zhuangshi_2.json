@@ -1834,5 +1834,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:29:56.861+08:00"
+  },
+  {
+    "name": "南京雨都建筑装饰工程有限公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:29:56.907+08:00"
+  },
+  {
+    "name": "东宸居装饰有限公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:29:56.939+08:00"
+  },
+  {
+    "name": "阔达装饰",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:29:56.968+08:00"
+  },
+  {
+    "name": "南京业衡装饰工程有限公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:29:57.002+08:00"
+  },
+  {
+    "name": "一塑一宅装饰(卡子门红星美凯龙店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:30:00.306+08:00"
   }
 ]
