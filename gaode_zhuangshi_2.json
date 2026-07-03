@@ -11446,5 +11446,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T15:47:16.706+08:00"
+  },
+  {
+    "name": "万顺家庭装饰(新颖里店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:47:16.818+08:00"
+  },
+  {
+    "name": "显赫装饰",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T15:47:16.853+08:00"
+  },
+  {
+    "name": "MAjOR名家(河西本色匠心涂装中心)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:47:16.883+08:00"
+  },
+  {
+    "name": "显赫装饰",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T15:47:19.905+08:00"
   }
 ]
