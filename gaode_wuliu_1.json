@@ -5812,5 +5812,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:18:11.586+08:00"
+  },
+  {
+    "name": "搬家兔-搬家公司(北京店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 125,
+    "colorRatio": "5.45%",
+    "timestamp": "2026-07-03T09:18:11.630+08:00"
+  },
+  {
+    "name": "盒马鲜生配送站(乐成中心B座店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:11.656+08:00"
+  },
+  {
+    "name": "国家电投集团共享服务有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:14.237+08:00"
+  },
+  {
+    "name": "搬家兔-搬家公司(北京店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 125,
+    "colorRatio": "5.45%",
+    "timestamp": "2026-07-03T09:18:14.347+08:00"
+  },
+  {
+    "name": "盒马鲜生配送站(乐成中心B座店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:14.374+08:00"
+  },
+  {
+    "name": "菜鸟速递(北京龙潭站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:14.397+08:00"
+  },
+  {
+    "name": "盒马鲜生配送站(乐成中心B座店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:17.368+08:00"
   }
 ]
