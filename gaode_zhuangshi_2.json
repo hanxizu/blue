@@ -50353,5 +50353,41 @@
     "colorPixels": 85,
     "colorRatio": "3.70%",
     "timestamp": "2026-07-03T16:55:20.006+08:00"
+  },
+  {
+    "name": "美住换新装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:55:20.354+08:00"
+  },
+  {
+    "name": "聚塔装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:55:20.429+08:00"
+  },
+  {
+    "name": "鹏翔装饰(德亿时代城店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:55:20.544+08:00"
+  },
+  {
+    "name": "泽铭装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:55:24.069+08:00"
   }
 ]
