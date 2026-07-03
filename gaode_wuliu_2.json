@@ -45358,5 +45358,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:50:32.311+08:00"
+  },
+  {
+    "name": "无锡新杰物流",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:50:32.773+08:00"
+  },
+  {
+    "name": "顺丰速运(墙宅路店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:50:32.893+08:00"
+  },
+  {
+    "name": "金南物流(金山路店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:50:33.009+08:00"
+  },
+  {
+    "name": "无锡新杰物流",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:50:35.978+08:00"
   }
 ]
