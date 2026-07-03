@@ -43990,5 +43990,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T16:43:33.314+08:00"
+  },
+  {
+    "name": "壹品尚家装饰(王沙路店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:43:33.538+08:00"
+  },
+  {
+    "name": "M77美学木作(青岛体验中心)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T16:43:33.657+08:00"
+  },
+  {
+    "name": "盛祥宜家装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:43:33.777+08:00"
+  },
+  {
+    "name": "日晟装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:43:37.348+08:00"
   }
 ]
