@@ -45637,5 +45637,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:22:54.331+08:00"
+  },
+  {
+    "name": "陕西省物流集团商储物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:54.581+08:00"
+  },
+  {
+    "name": "京东物流(西安雨润站)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:54.688+08:00"
+  },
+  {
+    "name": "河北陆合物流有限公司西安第一分公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:54.782+08:00"
+  },
+  {
+    "name": "京东物流(西安雨润站)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:22:57.617+08:00"
   }
 ]
