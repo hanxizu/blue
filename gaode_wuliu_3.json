@@ -30778,5 +30778,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:01:29.958+08:00"
+  },
+  {
+    "name": "沈阳超越达物流设备有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:32.653+08:00"
+  },
+  {
+    "name": "沈阳市鑫邮冷链物流有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:32.693+08:00"
+  },
+  {
+    "name": "白塔堡物流中心",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:32.732+08:00"
+  },
+  {
+    "name": "中铁物流集团(嘉华新城西区店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:01:32.776+08:00"
+  },
+  {
+    "name": "白塔堡物流中心",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:35.906+08:00"
   }
 ]
