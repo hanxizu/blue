@@ -19231,5 +19231,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T12:41:46.276+08:00"
+  },
+  {
+    "name": "安顺大件物流托运中心(常州二店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:41:46.434+08:00"
+  },
+  {
+    "name": "常州市物流产业集团有限公司多式联运分公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:46.480+08:00"
+  },
+  {
+    "name": "上海擎齐物流",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:46.533+08:00"
+  },
+  {
+    "name": "上海擎齐物流",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:49.357+08:00"
   }
 ]
