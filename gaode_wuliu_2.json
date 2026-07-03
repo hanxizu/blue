@@ -34846,5 +34846,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:33:23.173+08:00"
+  },
+  {
+    "name": "天津市老扬州物流股份有限公司天津北辰分公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T11:33:23.322+08:00"
+  },
+  {
+    "name": "思多而特运输公司(天津分公司)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:33:23.433+08:00"
+  },
+  {
+    "name": "安顺·大件物流",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T11:33:23.555+08:00"
+  },
+  {
+    "name": "思多而特运输公司(天津分公司)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:33:26.271+08:00"
+  },
+  {
+    "name": "安顺·大件物流",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T11:33:26.309+08:00"
   }
 ]
