@@ -18376,5 +18376,41 @@
     "colorPixels": 377,
     "colorRatio": "16.43%",
     "timestamp": "2026-07-03T19:33:43.383+08:00"
+  },
+  {
+    "name": "沈阳途顺租车",
+    "city": "沈阳市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:33:43.522+08:00"
+  },
+  {
+    "name": "五一租车(浑南店)",
+    "city": "沈阳市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:33:43.559+08:00"
+  },
+  {
+    "name": "汇爱鲜花婚庆租车",
+    "city": "沈阳市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T19:33:43.602+08:00"
+  },
+  {
+    "name": "世通租车",
+    "city": "沈阳市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T19:33:46.549+08:00"
   }
 ]
