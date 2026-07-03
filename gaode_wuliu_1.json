@@ -24784,5 +24784,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:48:22.117+08:00"
+  },
+  {
+    "name": "顺丰快递",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:24.665+08:00"
+  },
+  {
+    "name": "鲜嘉冷链双流营业部",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:24.704+08:00"
+  },
+  {
+    "name": "中通快递(蜀都中心分部)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:24.732+08:00"
+  },
+  {
+    "name": "京东快递(成都石羊场营业部)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:24.761+08:00"
+  },
+  {
+    "name": "京东快递(成都石羊场营业部)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:27.735+08:00"
   }
 ]
