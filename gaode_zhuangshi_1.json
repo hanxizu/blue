@@ -36817,5 +36817,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T14:50:04.253+08:00"
+  },
+  {
+    "name": "峰光无限装饰公司(北郊总部)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T14:50:04.479+08:00"
+  },
+  {
+    "name": "西安卓越航装饰工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:50:04.517+08:00"
+  },
+  {
+    "name": "陕西大明不锈钢装饰工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:50:07.899+08:00"
   }
 ]
