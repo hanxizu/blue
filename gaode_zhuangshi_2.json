@@ -14920,5 +14920,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:52:27.780+08:00"
+  },
+  {
+    "name": "顾家家居(京津路红星店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T15:52:27.933+08:00"
+  },
+  {
+    "name": "久嘉装饰",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:52:28.019+08:00"
+  },
+  {
+    "name": "居尚装饰(宜川北里店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:52:28.060+08:00"
+  },
+  {
+    "name": "久嘉装饰",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:52:30.631+08:00"
+  },
+  {
+    "name": "居尚装饰(宜川北里店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:52:30.669+08:00"
+  },
+  {
+    "name": "友缘装饰(振德里店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:52:30.706+08:00"
+  },
+  {
+    "name": "友缘装饰(振德里店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:52:33.682+08:00"
   }
 ]
