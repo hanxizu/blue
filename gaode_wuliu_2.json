@@ -43243,5 +43243,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:47:23.391+08:00"
+  },
+  {
+    "name": "云贵川长途客运驻无锡办事处",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:23.664+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(无锡)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:47:23.715+08:00"
+  },
+  {
+    "name": "京东物流(无锡高浪营业部)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:23.774+08:00"
+  },
+  {
+    "name": "京东物流(无锡高浪营业部)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:26.983+08:00"
   }
 ]
