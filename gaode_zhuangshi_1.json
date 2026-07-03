@@ -38491,5 +38491,41 @@
     "colorPixels": 149,
     "colorRatio": "6.49%",
     "timestamp": "2026-07-03T14:52:53.300+08:00"
+  },
+  {
+    "name": "创艺空间装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:52:53.528+08:00"
+  },
+  {
+    "name": "向阳装饰(向荣街店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:52:53.595+08:00"
+  },
+  {
+    "name": "永宏装饰部(向荣小区店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:52:53.729+08:00"
+  },
+  {
+    "name": "西安峰光鸣铸装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 149,
+    "colorRatio": "6.49%",
+    "timestamp": "2026-07-03T14:52:57.871+08:00"
   }
 ]
