@@ -2329,5 +2329,68 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T10:42:35.165+08:00"
+  },
+  {
+    "name": "顺丰速运(长安丽都外包店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:42:35.225+08:00"
+  },
+  {
+    "name": "顺丰速运(威斯丁店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:42:35.262+08:00"
+  },
+  {
+    "name": "顺丰速运(环球购物中心快递服务中心)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:42:35.292+08:00"
+  },
+  {
+    "name": "顺丰速运(威斯丁店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:42:38.042+08:00"
+  },
+  {
+    "name": "顺丰速运(环球购物中心快递服务中心)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:42:38.098+08:00"
+  },
+  {
+    "name": "联际快运(重庆金岛医院东南)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:38.156+08:00"
+  },
+  {
+    "name": "重庆江北四部仓库",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:38.211+08:00"
   }
 ]
