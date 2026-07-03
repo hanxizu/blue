@@ -52270,5 +52270,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:02:42.946+08:00"
+  },
+  {
+    "name": "中国邮政(车站中路邮政所)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:43.267+08:00"
+  },
+  {
+    "name": "顺丰速运(富兴店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:02:43.390+08:00"
+  },
+  {
+    "name": "顺丰速运(金马路店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:02:43.503+08:00"
+  },
+  {
+    "name": "中国邮政(车站中路邮政所)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:46.212+08:00"
   }
 ]
