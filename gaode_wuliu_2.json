@@ -36574,5 +36574,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T11:35:47.806+08:00"
+  },
+  {
+    "name": "安顺·大件物流全国托运(天津公司)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T11:35:48.072+08:00"
+  },
+  {
+    "name": "全程物流西青保税仓(兴华八支路)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:48.117+08:00"
+  },
+  {
+    "name": "天津万鑫顺亿货物运输服务有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:48.191+08:00"
+  },
+  {
+    "name": "天津海天启航国际货运代理有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:52.096+08:00"
   }
 ]
