@@ -38050,5 +38050,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:10:33.034+08:00"
+  },
+  {
+    "name": "安顺·大件物流(行李托运家具家电托运摩托车电瓶车支持上门取货武汉1店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:10:33.195+08:00"
+  },
+  {
+    "name": "中通快递(京汉花园店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:33.306+08:00"
+  },
+  {
+    "name": "菜鸟驿站(洞庭社区店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:33.406+08:00"
+  },
+  {
+    "name": "中通快递(京汉花园店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:36.161+08:00"
   }
 ]
