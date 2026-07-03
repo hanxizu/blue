@@ -6280,5 +6280,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:18:48.757+08:00"
+  },
+  {
+    "name": "运安能物流I跨市搬家I电动车托运I摩托车托运",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:18:51.255+08:00"
+  },
+  {
+    "name": "中国邮政速递物流有限公司(西四营业部)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:51.305+08:00"
+  },
+  {
+    "name": "顺丰速运(珠市口东街店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:51.327+08:00"
+  },
+  {
+    "name": "顺丰速运(世贸天阶店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:18:51.382+08:00"
+  },
+  {
+    "name": "中国邮政速递物流有限公司(西四营业部)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:54.356+08:00"
   }
 ]
