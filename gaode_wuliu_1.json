@@ -39652,5 +39652,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:12:50.697+08:00"
+  },
+  {
+    "name": "顺丰速运(南国写字楼店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:12:51.100+08:00"
+  },
+  {
+    "name": "顺丰速运(新华店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:12:51.209+08:00"
+  },
+  {
+    "name": "顺丰速运(国金店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 372,
+    "colorRatio": "16.21%",
+    "timestamp": "2026-07-03T10:12:51.291+08:00"
+  },
+  {
+    "name": "顺丰速运(宝丽金世纪江尚店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:12:54.011+08:00"
   }
 ]
