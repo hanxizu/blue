@@ -22300,5 +22300,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:51:36.297+08:00"
+  },
+  {
+    "name": "金辉货架厂工厂",
+    "city": "大连市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:51:36.498+08:00"
+  },
+  {
+    "name": "大连晟达仓储设备货架厂",
+    "city": "大连市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:51:36.529+08:00"
+  },
+  {
+    "name": "大连超越货架厂",
+    "city": "大连市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:51:36.569+08:00"
+  },
+  {
+    "name": "大连超越货架厂(北门)",
+    "city": "大连市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:51:36.602+08:00"
+  },
+  {
+    "name": "大连雨辰伟业货架制造厂",
+    "city": "大连市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:51:39.627+08:00"
   }
 ]
