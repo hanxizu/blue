@@ -53620,5 +53620,41 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T17:02:09.944+08:00"
+  },
+  {
+    "name": "山东新邦装饰有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:02:10.364+08:00"
+  },
+  {
+    "name": "业之峰装饰超级新物种大店",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 387,
+    "colorRatio": "16.86%",
+    "timestamp": "2026-07-03T17:02:10.429+08:00"
+  },
+  {
+    "name": "济南福邸装饰工程有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:02:10.485+08:00"
+  },
+  {
+    "name": "美禾传媒·广告设计",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T17:02:13.720+08:00"
   }
 ]
