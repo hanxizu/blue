@@ -13345,5 +13345,32 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-03T23:20:30.246+08:00"
+  },
+  {
+    "name": "合肥华祥货架制造有限公司地上停车场",
+    "city": "合肥市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:20:30.331+08:00"
+  },
+  {
+    "name": "安徽沛宇机械设备有限公司",
+    "city": "合肥市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:20:30.362+08:00"
+  },
+  {
+    "name": "峰登楼梯工厂店",
+    "city": "合肥市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T23:20:30.401+08:00"
   }
 ]
