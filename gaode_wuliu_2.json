@@ -39139,5 +39139,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:40:25.796+08:00"
+  },
+  {
+    "name": "宁波东亿国际物流有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:40:25.994+08:00"
+  },
+  {
+    "name": "宁波长之恒物流有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:40:26.107+08:00"
+  },
+  {
+    "name": "宁波利格国际物流有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:40:26.222+08:00"
+  },
+  {
+    "name": "宁波盈鑫国际货运代理有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:40:26.385+08:00"
+  },
+  {
+    "name": "宁波东亿国际物流有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:40:28.890+08:00"
   }
 ]
