@@ -13390,5 +13390,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:32:02.110+08:00"
+  },
+  {
+    "name": "菜鸟驿站(珠海市白莲路46号店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:02.225+08:00"
+  },
+  {
+    "name": "菜鸟驿站(珠海香洲荣景园九九便利店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:02.280+08:00"
+  },
+  {
+    "name": "菜鸟驿站(珠海华南名宇2号门130号店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:02.318+08:00"
+  },
+  {
+    "name": "菜鸟驿站(珠海市白莲路46号店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:04.933+08:00"
+  },
+  {
+    "name": "菜鸟驿站(珠海香洲荣景园九九便利店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:04.971+08:00"
+  },
+  {
+    "name": "菜鸟驿站(珠海华南名宇2号门130号店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:05.005+08:00"
+  },
+  {
+    "name": "珠海站周财行李寄存",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:32:05.042+08:00"
+  },
+  {
+    "name": "中通快递(星晴公寓店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:05.076+08:00"
+  },
+  {
+    "name": "菜鸟驿站(珠海华南名宇2号门130号店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:08.099+08:00"
   }
 ]
