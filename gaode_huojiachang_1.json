@@ -7306,5 +7306,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T23:05:34.629+08:00"
+  },
+  {
+    "name": "湖北大鑫货架厂",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:34.692+08:00"
+  },
+  {
+    "name": "鑫隆机械公司",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:05:34.722+08:00"
+  },
+  {
+    "name": "湖北晨邦隆货架厂",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:34.751+08:00"
+  },
+  {
+    "name": "武汉嘉沃德货架工厂",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:34.781+08:00"
+  },
+  {
+    "name": "武汉嘉沃德货架工厂",
+    "city": "武汉市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:05:38.453+08:00"
   }
 ]
