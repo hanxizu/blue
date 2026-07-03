@@ -39931,5 +39931,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T14:55:21.236+08:00"
+  },
+  {
+    "name": "大明宫建材家居·钻石店",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T14:55:21.482+08:00"
+  },
+  {
+    "name": "立邦快乐装饰材料有限公司(武德路店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:55:21.586+08:00"
+  },
+  {
+    "name": "盛世嘉园装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:55:21.705+08:00"
   }
 ]
