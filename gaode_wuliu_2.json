@@ -817,5 +817,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:40:33.198+08:00"
+  },
+  {
+    "name": "五江花园韵达快递超市",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:40:33.253+08:00"
+  },
+  {
+    "name": "菜鸟驿站(金汤大厦店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:33.285+08:00"
+  },
+  {
+    "name": "重庆万兴快运(长江滨江路)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:33.318+08:00"
+  },
+  {
+    "name": "拼多多驿站",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:33.351+08:00"
+  },
+  {
+    "name": "重庆万兴快运(长江滨江路)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:36.051+08:00"
+  },
+  {
+    "name": "拼多多驿站",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:36.088+08:00"
+  },
+  {
+    "name": "菜鸟驿站(鲤鱼池一支路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:36.125+08:00"
+  },
+  {
+    "name": "圆通妈妈驿站(鲤鱼池四村店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:36.161+08:00"
+  },
+  {
+    "name": "拼多多驿站",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:39.060+08:00"
   }
 ]
