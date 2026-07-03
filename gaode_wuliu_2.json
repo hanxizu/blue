@@ -36925,5 +36925,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:36:21.620+08:00"
+  },
+  {
+    "name": "天津中远海运集装箱运输有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:36:21.836+08:00"
+  },
+  {
+    "name": "顺心物流",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T11:36:21.876+08:00"
+  },
+  {
+    "name": "圆通极兔韵达申通快递",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:36:21.911+08:00"
+  },
+  {
+    "name": "EMS(环湖东路店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:36:25.352+08:00"
   }
 ]
