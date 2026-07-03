@@ -45340,5 +45340,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:07:16.470+08:00"
+  },
+  {
+    "name": "明浩装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:07:16.745+08:00"
+  },
+  {
+    "name": "亚群防水装饰工程有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T15:07:16.868+08:00"
+  },
+  {
+    "name": "广东南国鼎峰装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:07:16.984+08:00"
+  },
+  {
+    "name": "枫格装饰(嘉湖山庄嘉富苑店)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:07:19.980+08:00"
   }
 ]
