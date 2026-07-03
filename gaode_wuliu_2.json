@@ -32065,5 +32065,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:28:09.056+08:00"
+  },
+  {
+    "name": "白鲸运车·汽车托运(合肥店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:28:09.240+08:00"
+  },
+  {
+    "name": "中通快递(合作化南路高架出口店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:28:09.345+08:00"
+  },
+  {
+    "name": "白鲸运车·汽车托运(合肥店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:28:11.857+08:00"
+  },
+  {
+    "name": "中通快递(合作化南路高架出口店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:28:11.923+08:00"
+  },
+  {
+    "name": "菜鸟驿站(合肥国宾台对面西城店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:28:11.961+08:00"
+  },
+  {
+    "name": "中通快递",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:28:11.999+08:00"
+  },
+  {
+    "name": "菜鸟驿站(合肥国宾台对面西城店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:28:14.955+08:00"
   }
 ]
