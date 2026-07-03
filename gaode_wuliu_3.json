@@ -15208,5 +15208,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:35:24.114+08:00"
+  },
+  {
+    "name": "京东快递(南湖新嘉营业部)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:24.232+08:00"
+  },
+  {
+    "name": "德邦快递",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:24.263+08:00"
+  },
+  {
+    "name": "浙江嘉信元达物流有限公司",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:26.870+08:00"
+  },
+  {
+    "name": "嘉兴康杰物流有限公司",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:35:26.968+08:00"
+  },
+  {
+    "name": "京东快递(南湖新嘉营业部)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:27.035+08:00"
+  },
+  {
+    "name": "德邦快递",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:27.084+08:00"
+  },
+  {
+    "name": "驿收发隆腾广场店",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:35:27.122+08:00"
   }
 ]
