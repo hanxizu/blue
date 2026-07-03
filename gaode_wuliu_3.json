@@ -29527,5 +29527,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:58:43.221+08:00"
+  },
+  {
+    "name": "顺丰速运(星河店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:58:43.419+08:00"
+  },
+  {
+    "name": "升运物流园",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:58:43.466+08:00"
+  },
+  {
+    "name": "大连升运物流园区",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:58:43.529+08:00"
+  },
+  {
+    "name": "升运物流园",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:58:46.279+08:00"
   }
 ]
