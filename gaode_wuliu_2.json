@@ -17341,5 +17341,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:05:21.468+08:00"
+  },
+  {
+    "name": "顺丰速运(季华园店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:05:21.593+08:00"
+  },
+  {
+    "name": "顺丰速运岭南影萌路营业点(绿影西街店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:21.637+08:00"
+  },
+  {
+    "name": "工会邮爱驿站(佛山朝安邮政快递小哥红色驿站)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:21.669+08:00"
+  },
+  {
+    "name": "顺丰速运(季华园店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:05:24.261+08:00"
+  },
+  {
+    "name": "顺丰速运岭南影萌路营业点(绿影西街店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:24.298+08:00"
+  },
+  {
+    "name": "工会邮爱驿站(佛山朝安邮政快递小哥红色驿站)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:24.405+08:00"
+  },
+  {
+    "name": "全一快递(绿景二路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:24.512+08:00"
   }
 ]
