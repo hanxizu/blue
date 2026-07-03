@@ -46807,5 +46807,50 @@
     "colorPixels": 379,
     "colorRatio": "16.51%",
     "timestamp": "2026-07-03T16:49:40.811+08:00"
+  },
+  {
+    "name": "宏达装饰(黄河食品城A区78号)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:49:41.138+08:00"
+  },
+  {
+    "name": "郑州绿舍装饰工程有限公司",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:49:41.251+08:00"
+  },
+  {
+    "name": "立邦官方(香江云海店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:49:41.363+08:00"
+  },
+  {
+    "name": "浩林装饰(湖光新苑店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:49:43.907+08:00"
+  },
+  {
+    "name": "联建兴装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:49:43.975+08:00"
   }
 ]
