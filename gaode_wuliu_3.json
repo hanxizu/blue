@@ -24667,5 +24667,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:51:00.845+08:00"
+  },
+  {
+    "name": "紫京航空物流(晋江机场宠物服务中心)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:51:00.998+08:00"
+  },
+  {
+    "name": "三星物流园",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:01.054+08:00"
+  },
+  {
+    "name": "新鑫物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:01.123+08:00"
+  },
+  {
+    "name": "紫京航空物流(晋江机场宠物服务中心)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:51:03.836+08:00"
+  },
+  {
+    "name": "三星物流园",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:51:03.873+08:00"
   }
 ]
