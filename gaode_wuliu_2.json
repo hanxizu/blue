@@ -30625,5 +30625,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:25:02.471+08:00"
+  },
+  {
+    "name": "汕头龙南物流南京办事处",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:25:02.632+08:00"
+  },
+  {
+    "name": "南京长客集团",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:25:02.757+08:00"
+  },
+  {
+    "name": "京东物流(南京中央门站)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:25:02.881+08:00"
+  },
+  {
+    "name": "泰禾物流有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:25:06.231+08:00"
   }
 ]
