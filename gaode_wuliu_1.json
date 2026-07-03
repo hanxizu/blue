@@ -44782,5 +44782,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:21:34.263+08:00"
+  },
+  {
+    "name": "安能物流(苏家营村宇通仓库店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:21:34.513+08:00"
+  },
+  {
+    "name": "中通快运物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:21:34.618+08:00"
+  },
+  {
+    "name": "盛泽物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:21:34.730+08:00"
+  },
+  {
+    "name": "中通快运物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:21:37.483+08:00"
   }
 ]
