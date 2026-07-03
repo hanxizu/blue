@@ -17629,5 +17629,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:36:16.045+08:00"
+  },
+  {
+    "name": "胖哥物流",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:36:16.129+08:00"
+  },
+  {
+    "name": "中铁十七局深圳物流枢纽二标项目部",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:36:16.231+08:00"
+  },
+  {
+    "name": "蓝星博美国专线坂田国际中心服务站",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:36:19.383+08:00"
   }
 ]
