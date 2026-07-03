@@ -22327,5 +22327,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T09:43:52.882+08:00"
+  },
+  {
+    "name": "德邦快递(广州荔湾区红楼路经营分部)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:53.071+08:00"
+  },
+  {
+    "name": "申通快递(广州西村地铁站速8优选酒店店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:53.100+08:00"
+  },
+  {
+    "name": "德邦快递(广州荔湾区红楼路经营分部)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:55.632+08:00"
+  },
+  {
+    "name": "申通快递(广州西村地铁站速8优选酒店店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:55.674+08:00"
+  },
+  {
+    "name": "汇盛物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:55.713+08:00"
+  },
+  {
+    "name": "安顺·大件物流(佛山店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:43:55.743+08:00"
+  },
+  {
+    "name": "安顺·大件物流(佛山店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:43:58.549+08:00"
   }
 ]
