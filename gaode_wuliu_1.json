@@ -13309,5 +13309,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:29:26.940+08:00"
+  },
+  {
+    "name": "安顺大件物流托运中心-50公斤起运260(上海一店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:29:27.013+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(上海)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:29:27.047+08:00"
+  },
+  {
+    "name": "上海思锐供应链管理有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:29:27.080+08:00"
+  },
+  {
+    "name": "上海烟草集团有限责任公司上海烟草储运公司物流运输部",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:29:30.240+08:00"
   }
 ]
