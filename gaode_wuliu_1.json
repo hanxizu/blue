@@ -47329,5 +47329,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:25:29.719+08:00"
+  },
+  {
+    "name": "上药控股(陕西)物流中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:25:29.993+08:00"
+  },
+  {
+    "name": "陕西新祥瑞物流运输有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:25:30.086+08:00"
+  },
+  {
+    "name": "中储发展股份有限公司西安物流中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:25:30.143+08:00"
+  },
+  {
+    "name": "天际物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:25:33.923+08:00"
   }
 ]
