@@ -8485,5 +8485,59 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T12:23:15.520+08:00"
+  },
+  {
+    "name": "中铁快运(福州站营业部)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:23:15.589+08:00"
+  },
+  {
+    "name": "福鼎福龙物流(原海峡)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:23:18.156+08:00"
+  },
+  {
+    "name": "顺丰速运(浦上店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:23:18.200+08:00"
+  },
+  {
+    "name": "中铁快运(福州站营业部)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:23:18.237+08:00"
+  },
+  {
+    "name": "顺丰速运(叶厦路店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:23:18.267+08:00"
+  },
+  {
+    "name": "中铁快运(福州站营业部)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:23:21.004+08:00"
   }
 ]
