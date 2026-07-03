@@ -46006,5 +46006,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:23:28.411+08:00"
+  },
+  {
+    "name": "菜鸟驿站(万科·金域华府店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:28.652+08:00"
+  },
+  {
+    "name": "顺丰速运(老兵二期南门店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:28.760+08:00"
+  },
+  {
+    "name": "顺丰速运(首创国际城店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:23:28.864+08:00"
+  },
+  {
+    "name": "顺丰速运(首创国际城店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:23:31.453+08:00"
   }
 ]
