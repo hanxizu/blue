@@ -9448,5 +9448,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:53:12.690+08:00"
+  },
+  {
+    "name": "京广速递城区站",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:12.801+08:00"
+  },
+  {
+    "name": "财津拼多多驿站",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:53:12.832+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:12.863+08:00"
+  },
+  {
+    "name": "娃哈哈心美饮用水配送中心",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:12.892+08:00"
+  },
+  {
+    "name": "中通快递(百世快运简沙洲店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:53:16.369+08:00"
   }
 ]
