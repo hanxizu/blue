@@ -25531,5 +25531,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:49:28.515+08:00"
+  },
+  {
+    "name": "安顺.大件物流托运(成都店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:49:28.749+08:00"
+  },
+  {
+    "name": "泰宜鑫储运中心",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:49:28.863+08:00"
+  },
+  {
+    "name": "新牛马托运部",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:49:29.105+08:00"
+  },
+  {
+    "name": "安顺.大件物流托运(成都店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:49:32.054+08:00"
   }
 ]
