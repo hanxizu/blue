@@ -26053,5 +26053,14 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T11:18:32.117+08:00"
+  },
+  {
+    "name": "淮矿航运",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:35.351+08:00"
   }
 ]
