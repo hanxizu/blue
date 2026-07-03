@@ -2590,5 +2590,23 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T18:38:54.628+08:00"
+  },
+  {
+    "name": "悟空租车(成都东站店)",
+    "city": "成都市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:38:54.719+08:00"
+  },
+  {
+    "name": "兴盛租车(青羊总店)",
+    "city": "成都市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T18:38:58.056+08:00"
   }
 ]
