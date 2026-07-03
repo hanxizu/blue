@@ -592,5 +592,41 @@
     "colorPixels": 147,
     "colorRatio": "6.41%",
     "timestamp": "2026-07-03T15:28:17.419+08:00"
+  },
+  {
+    "name": "轩彤装饰",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:28:17.514+08:00"
+  },
+  {
+    "name": "南京鲁班装饰科技有限公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:28:17.543+08:00"
+  },
+  {
+    "name": "驰远装饰(东升沿一小区店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:28:17.571+08:00"
+  },
+  {
+    "name": "欧派大家居 (浦口大道店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T15:28:20.581+08:00"
   }
 ]
