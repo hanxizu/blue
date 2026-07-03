@@ -54043,5 +54043,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:06:16.222+08:00"
+  },
+  {
+    "name": "顺丰速运(台东步行街快递服务中心)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T12:06:16.644+08:00"
+  },
+  {
+    "name": "顺丰速运(东海西路店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:06:16.743+08:00"
+  },
+  {
+    "name": "星马快送超市(青岛店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:06:16.852+08:00"
+  },
+  {
+    "name": "星马快送超市(青岛店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:06:19.688+08:00"
+  },
+  {
+    "name": "中国邮政(南京路邮政支局)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:06:19.730+08:00"
+  },
+  {
+    "name": "菜鸟驿站(青岛洪泽湖路11号店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:06:19.774+08:00"
+  },
+  {
+    "name": "菜鸟驿站(青岛江西路79号店)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:06:19.806+08:00"
+  },
+  {
+    "name": "中国邮政(南京路邮政支局)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:06:22.747+08:00"
   }
 ]
