@@ -26350,5 +26350,41 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T14:30:12.146+08:00"
+  },
+  {
+    "name": "信之恋装饰",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:30:12.332+08:00"
+  },
+  {
+    "name": "国豪装饰苏州设计研究院",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:30:12.424+08:00"
+  },
+  {
+    "name": "苏州迷彩装饰有限公司狮山分公司",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:30:12.463+08:00"
+  },
+  {
+    "name": "国豪装饰苏州设计研究院",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:30:15.394+08:00"
   }
 ]
