@@ -3787,5 +3787,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T12:16:03.650+08:00"
+  },
+  {
+    "name": "济南勤勤物流",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:16:03.691+08:00"
+  },
+  {
+    "name": "济南成凯吊装运输有限公司",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:16:06.485+08:00"
+  },
+  {
+    "name": "济南勤勤物流",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:16:06.584+08:00"
+  },
+  {
+    "name": "圆通速递(龙景路店)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:16:06.618+08:00"
+  },
+  {
+    "name": "兔喜生活",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:16:06.657+08:00"
   }
 ]
