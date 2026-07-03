@@ -7513,5 +7513,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:21:58.363+08:00"
+  },
+  {
+    "name": "顺丰速运(金泉路店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:21:58.475+08:00"
+  },
+  {
+    "name": "顺丰速运(文庭里店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:21:58.524+08:00"
+  },
+  {
+    "name": "顺丰速运(锦鸿佳园店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:21:58.557+08:00"
+  },
+  {
+    "name": "顺丰速运(鳌兴佳园店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:21:58.588+08:00"
+  },
+  {
+    "name": "顺丰速运(文庭里店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:01.063+08:00"
+  },
+  {
+    "name": "顺丰速运(锦鸿佳园店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:22:01.094+08:00"
+  },
+  {
+    "name": "顺丰速运(鳌兴佳园店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:22:01.126+08:00"
+  },
+  {
+    "name": "盛辉物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:01.158+08:00"
+  },
+  {
+    "name": "盛辉物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:04.458+08:00"
   }
 ]
