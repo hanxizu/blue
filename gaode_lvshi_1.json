@@ -9718,5 +9718,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T07:42:50.143+08:00"
+  },
+  {
+    "name": "朝外街道公共法律服务站",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T07:42:50.214+08:00"
+  },
+  {
+    "name": "法学家(高端法律智库)",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T07:42:50.243+08:00"
+  },
+  {
+    "name": "北京市盛廷律师事务所(丰台所)",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T07:42:50.279+08:00"
+  },
+  {
+    "name": "北京市盛廷律师事务所(丰台所)",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T07:42:52.789+08:00"
+  },
+  {
+    "name": "北京谦进律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T07:42:52.816+08:00"
+  },
+  {
+    "name": "北京家理律师事务所·东城分所·婚姻家事",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T07:42:52.844+08:00"
+  },
+  {
+    "name": "北京谦进律师事务所",
+    "city": "北京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T07:42:55.225+08:00"
   }
 ]
