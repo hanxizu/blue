@@ -36790,5 +36790,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:36:08.292+08:00"
+  },
+  {
+    "name": "奥森物流A区",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:36:08.693+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(天津1店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:36:08.769+08:00"
+  },
+  {
+    "name": "鑫圣物流(天鸿大厦店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:36:08.832+08:00"
+  },
+  {
+    "name": "三源运输公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:36:11.977+08:00"
   }
 ]
