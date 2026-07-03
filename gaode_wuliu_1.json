@@ -16270,5 +16270,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:34:36.121+08:00"
+  },
+  {
+    "name": "深圳市扬宇运通国际物流(碧清园店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:34:36.390+08:00"
+  },
+  {
+    "name": "飞力达物流(桃花路)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:34:36.563+08:00"
+  },
+  {
+    "name": "深港台物流(华美大厦店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:34:36.594+08:00"
+  },
+  {
+    "name": "深圳市扬宇运通国际物流(碧清园店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:34:39.481+08:00"
   }
 ]
