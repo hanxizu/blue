@@ -17683,5 +17683,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:39:40.541+08:00"
+  },
+  {
+    "name": "常州公路运输集团有限公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:39:40.715+08:00"
+  },
+  {
+    "name": "文源路转运站(典雅花园店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:39:40.752+08:00"
+  },
+  {
+    "name": "常州公路运输集团有限公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:39:43.574+08:00"
   }
 ]
