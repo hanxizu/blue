@@ -38347,5 +38347,32 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T14:52:37.405+08:00"
+  },
+  {
+    "name": "西安华葵装饰(高新店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T14:52:37.674+08:00"
+  },
+  {
+    "name": "西安苏南国际原创设计中心",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:52:37.722+08:00"
+  },
+  {
+    "name": "志邦家居(未央首创禧悦里店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 389,
+    "colorRatio": "16.95%",
+    "timestamp": "2026-07-03T14:52:41.304+08:00"
   }
 ]
