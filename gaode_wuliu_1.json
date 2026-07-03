@@ -7090,5 +7090,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:19:52.635+08:00"
+  },
+  {
+    "name": "京汉运输集团",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:52.705+08:00"
+  },
+  {
+    "name": "京东物流(北京顶秀站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:52.731+08:00"
+  },
+  {
+    "name": "中国物流集团有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:52.754+08:00"
+  },
+  {
+    "name": "北京市商业储运有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:55.627+08:00"
+  },
+  {
+    "name": "京汉运输集团",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:55.671+08:00"
   }
 ]
