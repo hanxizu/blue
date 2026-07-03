@@ -49876,5 +49876,86 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T11:59:09.531+08:00"
+  },
+  {
+    "name": "长沙润海物流有限责任公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:59:09.903+08:00"
+  },
+  {
+    "name": "途汇物流有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:10.005+08:00"
+  },
+  {
+    "name": "行优达配送服务中心岳麓区营业部(宇洋西海广场店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:10.051+08:00"
+  },
+  {
+    "name": "长沙润海物流有限责任公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:59:12.563+08:00"
+  },
+  {
+    "name": "途汇物流有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:12.595+08:00"
+  },
+  {
+    "name": "行优达配送服务中心岳麓区营业部(宇洋西海广场店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:12.628+08:00"
+  },
+  {
+    "name": "长沙市美意达物流服务有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:12.661+08:00"
+  },
+  {
+    "name": "徐小阳汽车托运",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:59:12.695+08:00"
+  },
+  {
+    "name": "徐小阳汽车托运",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:59:15.493+08:00"
   }
 ]
