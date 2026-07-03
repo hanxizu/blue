@@ -43522,5 +43522,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T11:47:46.829+08:00"
+  },
+  {
+    "name": "京东快递(无锡华庄站)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:47.080+08:00"
+  },
+  {
+    "name": "顺丰速运(凤凰璟园店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:47:47.154+08:00"
+  },
+  {
+    "name": "丰巢快递柜(朗诗新郡三期62单元丰巢柜3号柜)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:47.263+08:00"
+  },
+  {
+    "name": "兔喜生活(德先路店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:47.368+08:00"
+  },
+  {
+    "name": "兔喜生活(德先路店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:50.692+08:00"
   }
 ]
