@@ -27169,5 +27169,86 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:20:10.227+08:00"
+  },
+  {
+    "name": "南京润彩管理有限公司圆通快递",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:10.430+08:00"
+  },
+  {
+    "name": "河马配送站",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:10.471+08:00"
+  },
+  {
+    "name": "驿收发(永庆村店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:10.503+08:00"
+  },
+  {
+    "name": "申通快递南京南站公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:20:13.095+08:00"
+  },
+  {
+    "name": "南京润彩管理有限公司圆通快递",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:13.129+08:00"
+  },
+  {
+    "name": "河马配送站",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:13.158+08:00"
+  },
+  {
+    "name": "驿收发(永庆村店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:13.193+08:00"
+  },
+  {
+    "name": "申通快递(户部街点)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:20:13.224+08:00"
+  },
+  {
+    "name": "申通快递南京南站公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:20:16.234+08:00"
   }
 ]
