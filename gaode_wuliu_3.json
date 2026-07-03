@@ -10942,5 +10942,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:27:41.639+08:00"
+  },
+  {
+    "name": "浙江定生物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:27:41.807+08:00"
+  },
+  {
+    "name": "温州亚泰物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:41.840+08:00"
+  },
+  {
+    "name": "正泰智能物流中心",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:41.878+08:00"
+  },
+  {
+    "name": "浙江定生物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:27:44.682+08:00"
   }
 ]
