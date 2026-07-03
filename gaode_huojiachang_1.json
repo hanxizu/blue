@@ -4795,5 +4795,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T22:58:25.624+08:00"
+  },
+  {
+    "name": "诚信装饰部",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:58:25.712+08:00"
+  },
+  {
+    "name": "成都迈特龙货架有限公司(南门)",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:58:25.777+08:00"
+  },
+  {
+    "name": "成都融增货架有限公司(南门)",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:58:25.831+08:00"
+  },
+  {
+    "name": "帐篷篷布货架推拉篷(成都黑哥商贸有限公司)",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:58:28.816+08:00"
   }
 ]
