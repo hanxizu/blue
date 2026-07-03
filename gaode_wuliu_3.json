@@ -27754,5 +27754,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:56:17.850+08:00"
+  },
+  {
+    "name": "快递驿站驿收发(银寰花园店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:17.997+08:00"
+  },
+  {
+    "name": "小兵快递驿站(丰登街店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:56:18.034+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(景润小区店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:18.145+08:00"
+  },
+  {
+    "name": "中国电信快递驿站",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:56:18.255+08:00"
+  },
+  {
+    "name": "小兵快递驿站(丰登街店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:56:20.858+08:00"
   }
 ]
