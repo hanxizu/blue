@@ -27304,5 +27304,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:14:13.193+08:00"
+  },
+  {
+    "name": "顾家家居(华厦家居店)",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:14:13.495+08:00"
+  },
+  {
+    "name": "海圆装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:14:13.529+08:00"
+  },
+  {
+    "name": "金泰装饰(万力装饰城B区店)",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:14:13.571+08:00"
+  },
+  {
+    "name": "海圆装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:14:16.244+08:00"
+  },
+  {
+    "name": "金泰装饰(万力装饰城B区店)",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:14:16.278+08:00"
+  },
+  {
+    "name": "欧耀装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:14:16.311+08:00"
+  },
+  {
+    "name": "承天装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:14:16.345+08:00"
+  },
+  {
+    "name": "迈步装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:14:18.920+08:00"
   }
 ]
