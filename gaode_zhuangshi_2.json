@@ -39121,5 +39121,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:34:22.600+08:00"
+  },
+  {
+    "name": "闽裕建材(雨花店)石膏板轻钢龙骨",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T16:34:22.942+08:00"
+  },
+  {
+    "name": "装饰建材店(扬帆小区店)",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:34:23.027+08:00"
+  },
+  {
+    "name": "湖南东岸建材批发大市场",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:34:23.076+08:00"
+  },
+  {
+    "name": "装饰建材店(扬帆小区店)",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:34:25.816+08:00"
+  },
+  {
+    "name": "湖南东岸建材批发大市场",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:34:25.853+08:00"
+  },
+  {
+    "name": "星沙众鑫建材大市场",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:34:25.916+08:00"
   }
 ]
