@@ -1861,5 +1861,50 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T12:12:32.163+08:00"
+  },
+  {
+    "name": "青岛海骏物流有限公司(郑州分公司)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:32.238+08:00"
+  },
+  {
+    "name": "物流学院南门物流",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:32.286+08:00"
+  },
+  {
+    "name": "郑飞汽车运输公司",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:32.337+08:00"
+  },
+  {
+    "name": "壹米滴答·大件物流·100公斤起发·不收小件·不查快递(郑州店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:12:35.140+08:00"
+  },
+  {
+    "name": "青岛海骏物流有限公司(郑州分公司)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:35.185+08:00"
   }
 ]
