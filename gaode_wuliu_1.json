@@ -34189,5 +34189,41 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T10:03:59.051+08:00"
+  },
+  {
+    "name": "小鑫鑫物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:03:59.307+08:00"
+  },
+  {
+    "name": "保隆物流(一力苏州物流园23幢店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:03:59.412+08:00"
+  },
+  {
+    "name": "国晟通物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:03:59.527+08:00"
+  },
+  {
+    "name": "苏州环宏物流有限公司",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:04:02.607+08:00"
   }
 ]
