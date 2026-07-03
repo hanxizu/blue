@@ -42127,5 +42127,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:44:31.628+08:00"
+  },
+  {
+    "name": "顺丰速运(宁波青悠路店)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:44:32.007+08:00"
+  },
+  {
+    "name": "宁波卓成报关有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:44:32.036+08:00"
+  },
+  {
+    "name": "千一物流(中官路店)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:44:35.042+08:00"
   }
 ]
