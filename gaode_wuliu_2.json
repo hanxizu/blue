@@ -28816,5 +28816,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T11:22:30.087+08:00"
+  },
+  {
+    "name": "邮政速递物流(中华门揽投部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:22:30.277+08:00"
+  },
+  {
+    "name": "京东物流(南京红山站)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:22:30.317+08:00"
+  },
+  {
+    "name": "日通国际物流(中国)有限公司南京分公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:22:30.357+08:00"
+  },
+  {
+    "name": "安顺·大件物流托运(南京店-全国往返)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:22:33.443+08:00"
   }
 ]
