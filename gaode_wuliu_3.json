@@ -19573,5 +19573,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:42:16.986+08:00"
+  },
+  {
+    "name": "有则物流",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:17.112+08:00"
+  },
+  {
+    "name": "大正大件运输",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:17.174+08:00"
+  },
+  {
+    "name": "永康任氏物流",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:17.203+08:00"
+  },
+  {
+    "name": "大正大件运输",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:19.843+08:00"
+  },
+  {
+    "name": "永康任氏物流",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:19.881+08:00"
+  },
+  {
+    "name": "盛邦物流园",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:19.919+08:00"
+  },
+  {
+    "name": "顺丰速运(钟楼大件店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:42:19.954+08:00"
+  },
+  {
+    "name": "永康任氏物流",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:42:22.329+08:00"
   }
 ]
