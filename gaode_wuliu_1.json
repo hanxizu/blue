@@ -11743,5 +11743,50 @@
     "colorPixels": 305,
     "colorRatio": "13.29%",
     "timestamp": "2026-07-03T09:27:15.989+08:00"
+  },
+  {
+    "name": "德邦物流(上海宝山区华灵路经营分部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:27:16.123+08:00"
+  },
+  {
+    "name": "京东物流(军官公寓店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:16.230+08:00"
+  },
+  {
+    "name": "上海金刚冷链物流有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:16.335+08:00"
+  },
+  {
+    "name": "德邦物流(上海宝山区华灵路经营分部)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:27:18.963+08:00"
+  },
+  {
+    "name": "京东物流(军官公寓店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:27:18.991+08:00"
   }
 ]
