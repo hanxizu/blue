@@ -18826,5 +18826,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:39:07.799+08:00"
+  },
+  {
+    "name": "顺丰速运(德政中路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:39:07.915+08:00"
+  },
+  {
+    "name": "广州市正顺物流(越秀店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:08.030+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(广州)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:39:08.145+08:00"
+  },
+  {
+    "name": "广州市正顺物流(越秀店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:10.947+08:00"
   }
 ]
