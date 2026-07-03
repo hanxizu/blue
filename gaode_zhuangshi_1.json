@@ -44305,5 +44305,32 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T15:05:36.593+08:00"
+  },
+  {
+    "name": "梅兴装饰材料",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:05:37.049+08:00"
+  },
+  {
+    "name": "东莞鲁班装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T15:05:37.099+08:00"
+  },
+  {
+    "name": "浩森装饰工程",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T15:05:40.289+08:00"
   }
 ]
