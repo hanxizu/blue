@@ -20959,5 +20959,23 @@
     "colorPixels": 373,
     "colorRatio": "16.25%",
     "timestamp": "2026-07-03T16:03:09.457+08:00"
+  },
+  {
+    "name": "都都装饰(鄞州姜山分公司)",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T16:03:09.583+08:00"
+  },
+  {
+    "name": "杰城设计装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:03:12.837+08:00"
   }
 ]
