@@ -47095,5 +47095,32 @@
     "colorPixels": 373,
     "colorRatio": "16.25%",
     "timestamp": "2026-07-03T16:50:08.078+08:00"
+  },
+  {
+    "name": "河南欧坊装饰装修工程有限公司",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:50:08.374+08:00"
+  },
+  {
+    "name": "欧派整家定制(凤凰店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:50:08.410+08:00"
+  },
+  {
+    "name": "庆民装饰工程有限公司",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:50:11.707+08:00"
   }
 ]
