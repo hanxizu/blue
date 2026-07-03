@@ -42406,5 +42406,59 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T11:45:02.057+08:00"
+  },
+  {
+    "name": "伊妙国际物流",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:45:02.304+08:00"
+  },
+  {
+    "name": "腾龙速通物流",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:45:02.424+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(宁波)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:45:02.526+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(宁波)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:45:05.002+08:00"
+  },
+  {
+    "name": "宁波千一物流",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:45:05.037+08:00"
+  },
+  {
+    "name": "陆深物流(简尚公寓东)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:45:05.072+08:00"
   }
 ]
