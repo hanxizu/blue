@@ -31309,5 +31309,23 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T11:27:01.074+08:00"
+  },
+  {
+    "name": "速达大件物流托运",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T11:27:01.242+08:00"
+  },
+  {
+    "name": "滴滴送货(司机注册服务)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:27:04.731+08:00"
   }
 ]
