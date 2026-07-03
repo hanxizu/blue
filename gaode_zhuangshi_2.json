@@ -43234,5 +43234,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:42:15.017+08:00"
+  },
+  {
+    "name": "朗正广告装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:42:15.351+08:00"
+  },
+  {
+    "name": "顾家家居(青岛居然之家店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T16:42:19.156+08:00"
   }
 ]
