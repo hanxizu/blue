@@ -10069,5 +10069,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:26:26.451+08:00"
+  },
+  {
+    "name": "顺丰速运(炬光园炬新路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T12:26:26.527+08:00"
+  },
+  {
+    "name": "顺丰速运(瓯开店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:26:26.654+08:00"
+  },
+  {
+    "name": "建雄小件物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:26.720+08:00"
+  },
+  {
+    "name": "顺丰速运(瓯开店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:26:29.597+08:00"
   }
 ]
