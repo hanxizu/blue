@@ -4471,5 +4471,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T22:57:57.764+08:00"
+  },
+  {
+    "name": "成都永宏达商贸有限公司",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:57:57.844+08:00"
+  },
+  {
+    "name": "美点金属加工中心激光切割钣金表面喷塑",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T22:57:57.892+08:00"
+  },
+  {
+    "name": "帐篷篷布货架推拉篷(成都黑哥商贸有限公司)",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:57:57.924+08:00"
+  },
+  {
+    "name": "美点金属加工中心激光切割钣金表面喷塑",
+    "city": "成都市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T22:58:00.788+08:00"
   }
 ]
