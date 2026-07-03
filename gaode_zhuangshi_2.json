@@ -6343,5 +6343,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:38:24.437+08:00"
+  },
+  {
+    "name": "卓力广告",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T15:38:24.501+08:00"
+  },
+  {
+    "name": "立邦装饰家园",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:38:24.536+08:00"
+  },
+  {
+    "name": "立邦装饰家园",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:38:27.298+08:00"
+  },
+  {
+    "name": "KD定制家居(政务区红星美凯龙商场)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:38:27.329+08:00"
+  },
+  {
+    "name": "顾家家居(青阳路直营融合大店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T15:38:29.797+08:00"
   }
 ]
