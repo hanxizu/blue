@@ -32452,5 +32452,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:03:51.444+08:00"
+  },
+  {
+    "name": "辽西物流(浑南区施家寨营业部)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:03:51.631+08:00"
+  },
+  {
+    "name": "长吉物流(玉屏路店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:51.710+08:00"
+  },
+  {
+    "name": "长吉物流(竞赛路店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:51.758+08:00"
+  },
+  {
+    "name": "京东物流(沈阳经纬营业部)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:51.816+08:00"
+  },
+  {
+    "name": "长吉物流(玉屏路店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:54.775+08:00"
   }
 ]
