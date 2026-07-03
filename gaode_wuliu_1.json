@@ -28573,5 +28573,50 @@
     "colorPixels": 380,
     "colorRatio": "16.56%",
     "timestamp": "2026-07-03T09:54:57.211+08:00"
+  },
+  {
+    "name": "顺丰速运(东宝翠轩店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:54:57.417+08:00"
+  },
+  {
+    "name": "千一物流(杭州萧山广宇建筑工程有限公司店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:54:57.453+08:00"
+  },
+  {
+    "name": "中晟运车·汽车托运(杭州店)不运货",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T09:54:57.546+08:00"
+  },
+  {
+    "name": "顺丰速运(东宝翠轩店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:55:00.206+08:00"
+  },
+  {
+    "name": "千一物流(杭州萧山广宇建筑工程有限公司店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:55:00.254+08:00"
   }
 ]
