@@ -8350,5 +8350,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:23:05.285+08:00"
+  },
+  {
+    "name": "福建大全物流公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:23:05.345+08:00"
+  },
+  {
+    "name": "福建顺宇国际物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:23:05.378+08:00"
+  },
+  {
+    "name": "文强物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:23:05.487+08:00"
+  },
+  {
+    "name": "盛唐物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:23:05.550+08:00"
+  },
+  {
+    "name": "盛唐物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:23:09.254+08:00"
   }
 ]
