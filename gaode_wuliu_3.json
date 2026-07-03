@@ -1447,5 +1447,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:11:58.307+08:00"
+  },
+  {
+    "name": "河南飞快物流有限公司",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:11:58.412+08:00"
+  },
+  {
+    "name": "国丰物流",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:58.473+08:00"
+  },
+  {
+    "name": "菜鸟驿站(长城康桥华城店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:11:58.517+08:00"
+  },
+  {
+    "name": "菜鸟驿站(长城康桥华城店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:12:01.930+08:00"
   }
 ]
