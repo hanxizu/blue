@@ -12724,5 +12724,59 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T09:28:35.342+08:00"
+  },
+  {
+    "name": "德威集装箱运输有限公司德威堆场.物流中心",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:35.448+08:00"
+  },
+  {
+    "name": "畅联物流(港迎路)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:35.500+08:00"
+  },
+  {
+    "name": "上海高桥石化化工运输有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:35.528+08:00"
+  },
+  {
+    "name": "畅联物流(港迎路)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:38.255+08:00"
+  },
+  {
+    "name": "上海高桥石化化工运输有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:38.319+08:00"
+  },
+  {
+    "name": "安东商品轿车铁路运输有限公司(华江支路)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:28:38.366+08:00"
   }
 ]
