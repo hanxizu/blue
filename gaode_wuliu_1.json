@@ -35917,5 +35917,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:06:28.901+08:00"
+  },
+  {
+    "name": "天华物流(苏州传化公路港店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:06:29.209+08:00"
+  },
+  {
+    "name": "寒山物流园",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:06:29.326+08:00"
+  },
+  {
+    "name": "苏州海茗物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:06:29.440+08:00"
+  },
+  {
+    "name": "天华物流(苏州传化公路港店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:06:32.173+08:00"
   }
 ]
