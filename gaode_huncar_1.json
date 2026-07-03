@@ -19456,5 +19456,32 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-03T19:38:07.692+08:00"
+  },
+  {
+    "name": "创达租车",
+    "city": "南昌市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:38:07.851+08:00"
+  },
+  {
+    "name": "云南小八租车",
+    "city": "南昌市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T19:38:07.875+08:00"
+  },
+  {
+    "name": "行途租车",
+    "city": "南昌市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T19:38:29.331+08:00"
   }
 ]
