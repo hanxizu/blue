@@ -11230,5 +11230,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:28:04.839+08:00"
+  },
+  {
+    "name": "温州市统益物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:28:04.914+08:00"
+  },
+  {
+    "name": "永嘉昊盛运输",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:28:05.018+08:00"
+  },
+  {
+    "name": "跨越速运温州潘桥分拨中心",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:28:05.124+08:00"
+  },
+  {
+    "name": "永嘉昊盛运输",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:28:07.944+08:00"
   }
 ]
