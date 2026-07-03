@@ -13939,5 +13939,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T12:32:44.329+08:00"
+  },
+  {
+    "name": "韵达快递广东珠海公司总部",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:44.519+08:00"
+  },
+  {
+    "name": "德邦快递(珠海香洲区中珠新村经营分部)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:32:44.580+08:00"
+  },
+  {
+    "name": "圆通速递(梅华西路)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:44.613+08:00"
+  },
+  {
+    "name": "德邦快递(珠海香洲区中珠新村经营分部)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:32:47.651+08:00"
   }
 ]
