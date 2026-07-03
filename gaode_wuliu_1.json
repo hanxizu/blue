@@ -53296,5 +53296,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:34:39.793+08:00"
+  },
+  {
+    "name": "安顺·大件物流(工具电瓶车托运)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:34:40.097+08:00"
+  },
+  {
+    "name": "宇鑫物流(北三环店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:34:40.217+08:00"
+  },
+  {
+    "name": "瑾昀物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:34:40.339+08:00"
+  },
+  {
+    "name": "安顺·大件物流(工具电瓶车托运)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:34:42.877+08:00"
   }
 ]
