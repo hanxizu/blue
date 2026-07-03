@@ -17620,5 +17620,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:39:34.024+08:00"
+  },
+  {
+    "name": "常州润和转运有限公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:39:34.265+08:00"
+  },
+  {
+    "name": "唐山秦皇岛承德专线",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:39:37.524+08:00"
   }
 ]
