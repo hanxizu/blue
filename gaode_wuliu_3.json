@@ -23452,5 +23452,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:48:24.413+08:00"
+  },
+  {
+    "name": "凤凰物流园",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:48:24.538+08:00"
+  },
+  {
+    "name": "铭源物流",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:48:24.646+08:00"
+  },
+  {
+    "name": "南通宝湾国际物流园",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:48:24.756+08:00"
+  },
+  {
+    "name": "通农物流冷链配送中心(粮油交易区店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:48:27.956+08:00"
   }
 ]
