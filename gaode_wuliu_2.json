@@ -18925,5 +18925,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:07:34.319+08:00"
+  },
+  {
+    "name": "顺丰快递柜",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:34.462+08:00"
+  },
+  {
+    "name": "丰巢快递柜(金华园公寓店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:34.495+08:00"
+  },
+  {
+    "name": "韵达快递超市(佛山市禅城区季华店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:34.528+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山市第一人民医院1号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:34.560+08:00"
+  },
+  {
+    "name": "韵达快递超市(佛山市禅城区季华店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:37.193+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山市第一人民医院1号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:37.258+08:00"
+  },
+  {
+    "name": "丰巢快递柜(兴华商场店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:37.290+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山祖庙杨堂新村33号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:37.319+08:00"
   }
 ]
