@@ -7531,5 +7531,77 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:20:27.077+08:00"
+  },
+  {
+    "name": "北京铁运新世纪物流有限责任公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:27.165+08:00"
+  },
+  {
+    "name": "速达物流公司工具托运摩托车托运",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:20:27.214+08:00"
+  },
+  {
+    "name": "京东物流(北京广通站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:27.242+08:00"
+  },
+  {
+    "name": "速达物流公司工具托运摩托车托运",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:20:29.869+08:00"
+  },
+  {
+    "name": "京东物流(北京广通站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:29.906+08:00"
+  },
+  {
+    "name": "中国远洋物流有限公司(朝阳北路)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:29.935+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(北大营投点)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:29.966+08:00"
+  },
+  {
+    "name": "京东物流(北京广通站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:32.785+08:00"
   }
 ]
