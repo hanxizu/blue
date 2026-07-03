@@ -3067,5 +3067,50 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T15:33:15.117+08:00"
+  },
+  {
+    "name": "陈哥老房翻新",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T15:33:15.181+08:00"
+  },
+  {
+    "name": "合肥东易日盛装修公司(百利中心店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:33:15.231+08:00"
+  },
+  {
+    "name": "久匠装饰(合肥店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:33:18.056+08:00"
+  },
+  {
+    "name": "安徽京斋装饰装修设计有限责任公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:33:18.089+08:00"
+  },
+  {
+    "name": "凯旋装饰(装修 设计 全屋定制)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T15:33:18.123+08:00"
   }
 ]
