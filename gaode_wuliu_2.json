@@ -55690,5 +55690,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:08:39.114+08:00"
+  },
+  {
+    "name": "京东物流(青岛市北集配站)",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:08:39.412+08:00"
+  },
+  {
+    "name": "外运汉江路站",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:08:39.536+08:00"
+  },
+  {
+    "name": "港捷丰南站",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:08:39.647+08:00"
+  },
+  {
+    "name": "城阳浩宇物流",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:08:42.859+08:00"
   }
 ]
