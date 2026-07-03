@@ -9115,5 +9115,59 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T12:25:12.064+08:00"
+  },
+  {
+    "name": "安能物流(温州龙霞)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:25:12.145+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(温州)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:25:12.178+08:00"
+  },
+  {
+    "name": "驮龙物流振兴货运",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:25:12.211+08:00"
+  },
+  {
+    "name": "驮龙物流振兴货运",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:25:15.027+08:00"
+  },
+  {
+    "name": "温州外运物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:15.065+08:00"
+  },
+  {
+    "name": "京东物流(南塘二组团店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:15.101+08:00"
   }
 ]
