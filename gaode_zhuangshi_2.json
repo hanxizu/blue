@@ -23524,5 +23524,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:08:55.634+08:00"
+  },
+  {
+    "name": "无锡臻工装饰工程有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:08:55.776+08:00"
+  },
+  {
+    "name": "涂美装饰有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:08:55.810+08:00"
+  },
+  {
+    "name": "无锡市江南装饰工程有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:08:55.933+08:00"
+  },
+  {
+    "name": "涂美装饰有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:08:58.963+08:00"
   }
 ]
