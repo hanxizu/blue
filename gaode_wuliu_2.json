@@ -45871,5 +45871,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T11:51:17.652+08:00"
+  },
+  {
+    "name": "顺丰速运(锡山区荟聚店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:51:18.006+08:00"
+  },
+  {
+    "name": "顺丰速运(紫金新城店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:51:18.126+08:00"
+  },
+  {
+    "name": "圆通速递(新锦路店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:51:18.235+08:00"
+  },
+  {
+    "name": "顺丰速运(紫金新城店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:51:20.994+08:00"
   }
 ]
