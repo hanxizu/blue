@@ -52,5 +52,50 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T18:30:04.423+08:00"
+  },
+  {
+    "name": "北京商务服务租车(西站店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T18:30:04.447+08:00"
+  },
+  {
+    "name": "北京商务服务租车(西站店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T18:30:06.876+08:00"
+  },
+  {
+    "name": "北京商务婚车租车(石景山店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T18:30:06.903+08:00"
+  },
+  {
+    "name": "北京瑞达租车(丰台店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T18:30:06.942+08:00"
+  },
+  {
+    "name": "北京商务服务租车(通州店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T18:30:10.419+08:00"
   }
 ]
