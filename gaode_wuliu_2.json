@@ -52990,5 +52990,41 @@
     "colorPixels": 88,
     "colorRatio": "3.83%",
     "timestamp": "2026-07-03T12:04:48.738+08:00"
+  },
+  {
+    "name": "青岛唯俊供应链有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:04:49.020+08:00"
+  },
+  {
+    "name": "昭津国际货运代理有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:04:49.138+08:00"
+  },
+  {
+    "name": "虎威物流",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:04:49.255+08:00"
+  },
+  {
+    "name": "青岛唯俊供应链有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:04:52.512+08:00"
   }
 ]
