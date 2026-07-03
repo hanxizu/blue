@@ -14695,5 +14695,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T12:33:46.906+08:00"
+  },
+  {
+    "name": "京东快递(珠海上冲营业部)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:47.022+08:00"
+  },
+  {
+    "name": "兔喜快递超市(龙城花园店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:47.136+08:00"
+  },
+  {
+    "name": "申通快递(昌平路店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:47.242+08:00"
+  },
+  {
+    "name": "兔喜快递",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:33:47.426+08:00"
+  },
+  {
+    "name": "德邦快递(珠海香洲区金鸡路经营分部)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:33:50.523+08:00"
   }
 ]
