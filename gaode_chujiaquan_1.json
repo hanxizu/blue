@@ -1555,5 +1555,32 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-03T21:23:10.438+08:00"
+  },
+  {
+    "name": "地铁宿舍密闭式清洁站",
+    "city": "上海市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T21:23:10.492+08:00"
+  },
+  {
+    "name": "四环恒信检测大瓦窑分室",
+    "city": "上海市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T21:23:10.531+08:00"
+  },
+  {
+    "name": "百万家政服务有限公司连连锁店",
+    "city": "上海市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T21:23:13.549+08:00"
   }
 ]
