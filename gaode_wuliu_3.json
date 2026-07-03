@@ -30679,5 +30679,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T13:01:23.865+08:00"
+  },
+  {
+    "name": "顺丰速运(五洲店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:01:24.007+08:00"
+  },
+  {
+    "name": "沈阳鸿利达物流有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T13:01:24.121+08:00"
+  },
+  {
+    "name": "辽西物流",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T13:01:24.235+08:00"
+  },
+  {
+    "name": "沈阳鸿利达物流有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T13:01:26.922+08:00"
   }
 ]
