@@ -15019,5 +15019,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:35:11.749+08:00"
+  },
+  {
+    "name": "嘉兴天天航空货运公司",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:11.911+08:00"
+  },
+  {
+    "name": "上海湘诚国际物流有限公司(嘉兴分公司)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:35:11.951+08:00"
+  },
+  {
+    "name": "中翔物流(市场路店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:12.064+08:00"
+  },
+  {
+    "name": "汇鑫物流",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:12.137+08:00"
+  },
+  {
+    "name": "中翔物流(市场路店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:14.680+08:00"
+  },
+  {
+    "name": "汇鑫物流",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:14.712+08:00"
+  },
+  {
+    "name": "辉昌物流",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:14.740+08:00"
+  },
+  {
+    "name": "上海守务国际物流有限公司嘉兴分公司",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:14.769+08:00"
   }
 ]
