@@ -16792,5 +16792,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T23:29:53.643+08:00"
+  },
+  {
+    "name": "万顺货架1号仓库",
+    "city": "长沙市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:29:53.738+08:00"
+  },
+  {
+    "name": "长沙佰超仓储货架有限公司",
+    "city": "长沙市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:29:53.770+08:00"
+  },
+  {
+    "name": "鸿鑫金属",
+    "city": "长沙市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:29:53.801+08:00"
+  },
+  {
+    "name": "大昌货架",
+    "city": "长沙市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:29:56.914+08:00"
   }
 ]
