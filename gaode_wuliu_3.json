@@ -11815,5 +11815,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:28:50.603+08:00"
+  },
+  {
+    "name": "华邦物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T12:28:50.727+08:00"
+  },
+  {
+    "name": "顺丰速运(景山店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:28:50.756+08:00"
+  },
+  {
+    "name": "顺丰速运(继红路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:28:50.788+08:00"
+  },
+  {
+    "name": "顺丰速运(景山店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:28:53.350+08:00"
+  },
+  {
+    "name": "顺丰速运(继红路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:28:53.413+08:00"
+  },
+  {
+    "name": "顺丰速运(郭溪店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:28:53.450+08:00"
+  },
+  {
+    "name": "中国邮政EMS郭溪特快揽投部",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:28:53.481+08:00"
+  },
+  {
+    "name": "顺丰速运(继红路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:28:56.030+08:00"
   }
 ]
