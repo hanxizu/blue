@@ -49993,5 +49993,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:59:19.418+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(长沙)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:59:19.836+08:00"
+  },
+  {
+    "name": "黑豹物流整车零担货物运输",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:59:19.956+08:00"
+  },
+  {
+    "name": "顺丰速运(润泽府小区店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:59:20.076+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(长沙)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:59:22.944+08:00"
   }
 ]
