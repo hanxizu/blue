@@ -15172,5 +15172,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:24:42.248+08:00"
+  },
+  {
+    "name": "超杰货架(西南门)",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:24:42.370+08:00"
+  },
+  {
+    "name": "士林塑业",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T23:24:42.406+08:00"
+  },
+  {
+    "name": "余姚市铭诚金属制品有限公司",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:24:42.440+08:00"
+  },
+  {
+    "name": "盛达机械公司",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:24:42.478+08:00"
+  },
+  {
+    "name": "宁波市新光货架有限公司(东南门)",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:24:45.493+08:00"
   }
 ]
