@@ -18673,5 +18673,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:35:41.697+08:00"
+  },
+  {
+    "name": "山东固安捷仓储设备制造有限公司",
+    "city": "济南市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:35:41.790+08:00"
+  },
+  {
+    "name": "济南优致办公家具有限公司",
+    "city": "济南市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:35:41.819+08:00"
+  },
+  {
+    "name": "众鑫货架回收",
+    "city": "济南市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:35:41.847+08:00"
+  },
+  {
+    "name": "顺发货架第二仓库",
+    "city": "济南市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:35:44.837+08:00"
   }
 ]
