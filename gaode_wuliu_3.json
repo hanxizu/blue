@@ -29050,5 +29050,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T12:58:03.976+08:00"
+  },
+  {
+    "name": "大连国际机场国内货运(张前路)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:58:04.169+08:00"
+  },
+  {
+    "name": "华伟物流(新型集团泉水居住区东)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:58:04.198+08:00"
+  },
+  {
+    "name": "龙达物流(周家街)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:58:04.231+08:00"
+  },
+  {
+    "name": "华伟物流(新型集团泉水居住区东)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:58:07.329+08:00"
   }
 ]
