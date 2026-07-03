@@ -29752,5 +29752,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:59:01.157+08:00"
+  },
+  {
+    "name": "翔运货运",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:59:01.315+08:00"
+  },
+  {
+    "name": "北京通发货运",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:59:01.347+08:00"
+  },
+  {
+    "name": "鑫林国际物流(大连)有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:59:01.459+08:00"
+  },
+  {
+    "name": "京东物流(环馨山庄店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:59:04.472+08:00"
   }
 ]
