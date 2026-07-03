@@ -43207,5 +43207,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:47:20.345+08:00"
+  },
+  {
+    "name": "菜鸟驿站",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:20.598+08:00"
+  },
+  {
+    "name": "无锡市擎天柱物流",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T11:47:20.713+08:00"
+  },
+  {
+    "name": "优能物流",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:47:20.824+08:00"
+  },
+  {
+    "name": "无锡道达运输公司(雪宏苑店)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:47:23.391+08:00"
   }
 ]
