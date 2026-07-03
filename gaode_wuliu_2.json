@@ -50281,5 +50281,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:59:46.325+08:00"
+  },
+  {
+    "name": "菜鸟速递长沙金星站",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:46.646+08:00"
+  },
+  {
+    "name": "顺丰速运(桔洲新苑店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:59:46.755+08:00"
+  },
+  {
+    "name": "长沙百弘供应链管理有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:59:46.870+08:00"
+  },
+  {
+    "name": "湖南新世卓跃供应链有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:47.007+08:00"
+  },
+  {
+    "name": "顺丰速运(桔洲新苑店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:59:49.627+08:00"
+  },
+  {
+    "name": "长沙百弘供应链管理有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:59:49.669+08:00"
+  },
+  {
+    "name": "湖南新世卓跃供应链有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:49.706+08:00"
   }
 ]
