@@ -9331,5 +9331,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:53:03.552+08:00"
+  },
+  {
+    "name": "顺丰速运(聚福豪苑店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:53:03.635+08:00"
+  },
+  {
+    "name": "德邦快递(东莞莞城区体育横路经营分部)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:03.682+08:00"
+  },
+  {
+    "name": "京广速递城区站",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:03.716+08:00"
+  },
+  {
+    "name": "德邦快递(东莞莞城区体育横路经营分部)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:06.460+08:00"
+  },
+  {
+    "name": "京广速递城区站",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:06.495+08:00"
+  },
+  {
+    "name": "财津拼多多驿站",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:53:06.531+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:53:06.570+08:00"
   }
 ]
