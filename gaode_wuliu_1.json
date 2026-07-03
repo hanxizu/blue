@@ -50821,5 +50821,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:30:45.858+08:00"
+  },
+  {
+    "name": "陕西商储物流六村堡物流园南区(西北门)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:46.124+08:00"
+  },
+  {
+    "name": "陕西商储物流六村堡物流园东区(西门)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:46.245+08:00"
+  },
+  {
+    "name": "德邦快递(西安高新区创汇路经营分部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:30:46.351+08:00"
+  },
+  {
+    "name": "陕西商储物流六村堡物流园东区(西2门)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:46.529+08:00"
+  },
+  {
+    "name": "陕西商储物流六村堡物流园东区(西2门)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:50.425+08:00"
   }
 ]
