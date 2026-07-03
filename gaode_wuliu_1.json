@@ -24667,5 +24667,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:48:13.506+08:00"
+  },
+  {
+    "name": "红旗连锁西河配送中心",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:13.623+08:00"
+  },
+  {
+    "name": "三河物流园",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:48:16.126+08:00"
+  },
+  {
+    "name": "天府新区成都片区保税物流中心(B型)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:16.156+08:00"
+  },
+  {
+    "name": "红旗连锁西河配送中心",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:16.184+08:00"
+  },
+  {
+    "name": "顺丰速运(桐梓林壹号店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T09:48:16.212+08:00"
+  },
+  {
+    "name": "红旗连锁西河配送中心",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:19.055+08:00"
   }
 ]
