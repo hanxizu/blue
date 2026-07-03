@@ -20554,5 +20554,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:41:27.061+08:00"
+  },
+  {
+    "name": "运满满",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T09:41:27.183+08:00"
+  },
+  {
+    "name": "布贺中蒙国际物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:41:27.310+08:00"
+  },
+  {
+    "name": "信丰物流(恒福路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:41:31.177+08:00"
   }
 ]
