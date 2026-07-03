@@ -26908,5 +26908,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:19:47.691+08:00"
+  },
+  {
+    "name": "顺丰速运(永庆村店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T11:19:47.887+08:00"
+  },
+  {
+    "name": "顺丰速运(上海路小区店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:19:47.919+08:00"
+  },
+  {
+    "name": "顺丰速运(八一公寓店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:47.951+08:00"
+  },
+  {
+    "name": "顺丰速运(天山路店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T11:19:47.983+08:00"
+  },
+  {
+    "name": "顺丰速运(天山路店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T11:19:50.597+08:00"
+  },
+  {
+    "name": "顺丰速运合作点驿收发(渊声巷店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:50.654+08:00"
+  },
+  {
+    "name": "顺丰速运(观澜中心店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:19:50.687+08:00"
+  },
+  {
+    "name": "顺丰速运(中央商务楼店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:50.747+08:00"
   }
 ]
