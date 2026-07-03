@@ -54961,5 +54961,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:38:24.073+08:00"
+  },
+  {
+    "name": "菜鸟驿站(重庆枣子岚垭正街139号店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:24.367+08:00"
+  },
+  {
+    "name": "中通快递(枣子岚垭正街店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:24.477+08:00"
+  },
+  {
+    "name": "恒运百货地毯公司仓库",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:38:24.588+08:00"
+  },
+  {
+    "name": "中通快递(枣子岚垭正街店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:27.221+08:00"
+  },
+  {
+    "name": "恒运百货地毯公司仓库",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:38:27.262+08:00"
+  },
+  {
+    "name": "京定鲜生农产品配送中心",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T10:38:27.297+08:00"
+  },
+  {
+    "name": "京定鲜生农产品配送中心",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T10:38:29.935+08:00"
   }
 ]
