@@ -41956,5 +41956,32 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T16:40:21.810+08:00"
+  },
+  {
+    "name": "青岛建华广告装饰工程有限公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:40:22.093+08:00"
+  },
+  {
+    "name": "然文装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:40:22.130+08:00"
+  },
+  {
+    "name": "北京丽贝亚建筑装饰工程有限公司青岛分公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:40:25.422+08:00"
   }
 ]
