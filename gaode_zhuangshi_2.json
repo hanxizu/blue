@@ -28969,5 +28969,32 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T16:17:40.939+08:00"
+  },
+  {
+    "name": "厦门忆昆仑装饰有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:17:41.131+08:00"
+  },
+  {
+    "name": "厦门市建筑装饰有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:17:41.168+08:00"
+  },
+  {
+    "name": "厦门忆昆仑装饰有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:17:44.017+08:00"
   }
 ]
