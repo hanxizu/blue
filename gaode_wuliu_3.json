@@ -10492,5 +10492,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:26:58.877+08:00"
+  },
+  {
+    "name": "韵达快运(温州分拨中心)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:01.782+08:00"
+  },
+  {
+    "name": "菜鸟驿站(文景花苑店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:01.836+08:00"
+  },
+  {
+    "name": "菜鸟驿站(时代滨江上品-北区店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:01.897+08:00"
   }
 ]
