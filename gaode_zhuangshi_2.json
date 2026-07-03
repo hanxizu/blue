@@ -44215,5 +44215,32 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T16:43:57.320+08:00"
+  },
+  {
+    "name": "艺艾家装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:43:57.562+08:00"
+  },
+  {
+    "name": "华美宜嘉装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:43:57.690+08:00"
+  },
+  {
+    "name": "艺艾家装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:44:00.970+08:00"
   }
 ]
