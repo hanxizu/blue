@@ -35386,5 +35386,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:34:10.052+08:00"
+  },
+  {
+    "name": "天津天巍国际货物运输代理有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:10.257+08:00"
+  },
+  {
+    "name": "天津祥国通达物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:34:10.390+08:00"
+  },
+  {
+    "name": "天津天巍国际货物运输代理有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:34:13.346+08:00"
   }
 ]
