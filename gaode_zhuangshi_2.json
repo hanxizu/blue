@@ -41848,5 +41848,23 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-03T16:40:07.890+08:00"
+  },
+  {
+    "name": "五金电器装饰材料",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:40:08.144+08:00"
+  },
+  {
+    "name": "海源艺家好工人装修",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T16:40:11.598+08:00"
   }
 ]
