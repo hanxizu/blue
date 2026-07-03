@@ -52900,5 +52900,41 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T10:34:02.678+08:00"
+  },
+  {
+    "name": "陕西大件汽车运输有限责任公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:34:03.008+08:00"
+  },
+  {
+    "name": "陕西昌玲华物流(新疆乌鲁木齐专线)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:34:03.081+08:00"
+  },
+  {
+    "name": "西安力通冷藏运输有限责任公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:34:03.128+08:00"
+  },
+  {
+    "name": "陕西大件汽车运输有限责任公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:34:06.060+08:00"
   }
 ]
