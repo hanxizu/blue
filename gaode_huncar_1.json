@@ -187,5 +187,77 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T18:30:18.798+08:00"
+  },
+  {
+    "name": "金喜来婚纱婚庆",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:30:18.868+08:00"
+  },
+  {
+    "name": "大喜STUDIO(中山东街店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:30:18.933+08:00"
+  },
+  {
+    "name": "北京京裕达汽车租赁",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T18:30:19.000+08:00"
+  },
+  {
+    "name": "金喜来婚纱婚庆",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:30:21.359+08:00"
+  },
+  {
+    "name": "大喜STUDIO(中山东街店)",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:30:21.389+08:00"
+  },
+  {
+    "name": "北京京裕达汽车租赁",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T18:30:21.413+08:00"
+  },
+  {
+    "name": "北京天驰婚车婚庆",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:30:21.440+08:00"
+  },
+  {
+    "name": "北京京裕达汽车租赁",
+    "city": "北京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T18:30:24.400+08:00"
   }
 ]
