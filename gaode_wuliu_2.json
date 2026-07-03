@@ -50605,5 +50605,50 @@
     "colorPixels": 305,
     "colorRatio": "13.29%",
     "timestamp": "2026-07-03T12:00:12.167+08:00"
+  },
+  {
+    "name": "中通快递",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:12.540+08:00"
+  },
+  {
+    "name": "顺丰速运(美凯龙店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:12.624+08:00"
+  },
+  {
+    "name": "极兔快递",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:12.667+08:00"
+  },
+  {
+    "name": "美团优选(岳华路店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:12.707+08:00"
+  },
+  {
+    "name": "极兔快递",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:15.464+08:00"
   }
 ]
