@@ -24082,5 +24082,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:09:35.935+08:00"
+  },
+  {
+    "name": "恩慈装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:09:36.054+08:00"
+  },
+  {
+    "name": "家园装饰有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:09:36.161+08:00"
+  },
+  {
+    "name": "上海精建装饰(无锡设计分部)",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T16:09:36.267+08:00"
+  },
+  {
+    "name": "家园装饰有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:09:39.012+08:00"
   }
 ]
