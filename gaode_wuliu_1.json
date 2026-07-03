@@ -36475,5 +36475,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:07:11.491+08:00"
+  },
+  {
+    "name": "德天物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:07:11.844+08:00"
+  },
+  {
+    "name": "传化物流信息大厅",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:07:11.878+08:00"
+  },
+  {
+    "name": "龙圣达物流(凯明)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:07:11.909+08:00"
+  },
+  {
+    "name": "龙圣达物流(凯明)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:07:14.415+08:00"
+  },
+  {
+    "name": "韵达物流部",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:07:14.452+08:00"
+  },
+  {
+    "name": "顺捷物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:07:14.489+08:00"
+  },
+  {
+    "name": "江苏快鹿汽车运输股份有限公司苏州分公司",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:07:14.517+08:00"
   }
 ]
