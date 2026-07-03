@@ -781,5 +781,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:28:32.178+08:00"
+  },
+  {
+    "name": "来翼装饰",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:28:32.219+08:00"
+  },
+  {
+    "name": "荣诺装饰",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T15:28:32.258+08:00"
+  },
+  {
+    "name": "安享居装饰(金街店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:28:32.344+08:00"
+  },
+  {
+    "name": "荣诺装饰",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T15:28:35.040+08:00"
+  },
+  {
+    "name": "安享居装饰(金街店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:28:35.155+08:00"
+  },
+  {
+    "name": "南京装修",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:28:35.197+08:00"
   }
 ]
