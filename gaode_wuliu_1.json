@@ -19330,5 +19330,77 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T09:39:46.700+08:00"
+  },
+  {
+    "name": "顺丰速运(一德路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:39:46.796+08:00"
+  },
+  {
+    "name": "298国际物流(仓库)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:39:46.904+08:00"
+  },
+  {
+    "name": "广州市兴远国际物流有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:47.006+08:00"
+  },
+  {
+    "name": "顺丰速运(一德路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:39:49.555+08:00"
+  },
+  {
+    "name": "298国际物流(仓库)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:39:49.584+08:00"
+  },
+  {
+    "name": "广州市兴远国际物流有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:49.612+08:00"
+  },
+  {
+    "name": "广州永成货运代理有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:39:49.645+08:00"
+  },
+  {
+    "name": "广州市兴远国际物流有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:52.650+08:00"
   }
 ]
