@@ -8539,5 +8539,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:23:21.004+08:00"
+  },
+  {
+    "name": "顺丰速运(叶厦路店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:23:21.111+08:00"
+  },
+  {
+    "name": "先特快递物流服务站",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:23:21.143+08:00"
+  },
+  {
+    "name": "福州市道路运输事业发展中心",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:23:21.176+08:00"
+  },
+  {
+    "name": "顺丰速运(叶厦路店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:23:24.589+08:00"
   }
 ]
