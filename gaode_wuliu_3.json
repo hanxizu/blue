@@ -16423,5 +16423,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:37:02.770+08:00"
+  },
+  {
+    "name": "顺丰速运(嘉兴秀洲转运中心)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:37:02.867+08:00"
+  },
+  {
+    "name": "安顺·大件物流公司(嘉兴店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:37:02.979+08:00"
+  },
+  {
+    "name": "宇培嘉兴南湖物流园",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:37:03.091+08:00"
+  },
+  {
+    "name": "顺丰速运(嘉兴秀洲转运中心)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:37:05.655+08:00"
+  },
+  {
+    "name": "安顺·大件物流公司(嘉兴店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:37:05.688+08:00"
+  },
+  {
+    "name": "宇培嘉兴南湖物流园",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:37:05.719+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(嘉兴)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:37:05.750+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(嘉兴)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:37:08.541+08:00"
   }
 ]
