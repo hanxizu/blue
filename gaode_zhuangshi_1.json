@@ -38815,5 +38815,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T14:53:25.818+08:00"
+  },
+  {
+    "name": "永发装饰(安仁坊店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:53:26.050+08:00"
+  },
+  {
+    "name": "迎春装饰部(水电宾馆家属院店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:53:26.088+08:00"
+  },
+  {
+    "name": "峰光无限装饰整体家装生活体验馆",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T14:53:29.314+08:00"
   }
 ]
