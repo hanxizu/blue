@@ -19303,5 +19303,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:41:52.555+08:00"
+  },
+  {
+    "name": "顺丰速运(集散中心)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:41:52.696+08:00"
+  },
+  {
+    "name": "京东物流(常州金融商务广场店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:52.752+08:00"
+  },
+  {
+    "name": "常州鸿石仓储服务有限公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:52.805+08:00"
+  },
+  {
+    "name": "常州鸿石仓储服务有限公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:41:55.820+08:00"
   }
 ]
