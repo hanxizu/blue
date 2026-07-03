@@ -26782,5 +26782,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:13:22.708+08:00"
+  },
+  {
+    "name": "鼎尚装饰建材",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:13:22.825+08:00"
+  },
+  {
+    "name": "新怡格装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:13:22.929+08:00"
+  },
+  {
+    "name": "徽宣装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:13:23.029+08:00"
+  },
+  {
+    "name": "盛彩装饰(中邦欢乐颂店)",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:13:26.015+08:00"
   }
 ]
