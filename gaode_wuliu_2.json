@@ -50029,5 +50029,68 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T11:59:22.944+08:00"
+  },
+  {
+    "name": "黑豹物流整车零担货物运输",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:59:23.204+08:00"
+  },
+  {
+    "name": "顺丰速运(润泽府小区店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:59:23.310+08:00"
+  },
+  {
+    "name": "黑豹物流整车零担货物运输",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:59:26.004+08:00"
+  },
+  {
+    "name": "顺丰速运(润泽府小区店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:59:26.036+08:00"
+  },
+  {
+    "name": "中通快递(嘉裕苑店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:26.066+08:00"
+  },
+  {
+    "name": "菜鸟速递(长沙观沙站)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:59:26.096+08:00"
+  },
+  {
+    "name": "顺丰速运(润泽府小区店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:59:29.007+08:00"
   }
 ]
