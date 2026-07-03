@@ -42964,5 +42964,41 @@
     "colorPixels": 160,
     "colorRatio": "6.97%",
     "timestamp": "2026-07-03T16:41:52.993+08:00"
+  },
+  {
+    "name": "臻品装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:41:53.276+08:00"
+  },
+  {
+    "name": "乐邦装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:41:53.311+08:00"
+  },
+  {
+    "name": "春丰装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:41:53.354+08:00"
+  },
+  {
+    "name": "臻品装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:41:56.404+08:00"
   }
 ]
