@@ -52990,5 +52990,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T15:21:10.181+08:00"
+  },
+  {
+    "name": "红阳天花装饰",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:21:10.504+08:00"
+  },
+  {
+    "name": "轩怡家装 | 顺德旗舰店",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-03T15:21:10.614+08:00"
+  },
+  {
+    "name": "红阳天花装饰",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:21:13.396+08:00"
+  },
+  {
+    "name": "轩怡家装 | 顺德旗舰店",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 463,
+    "colorRatio": "20.17%",
+    "timestamp": "2026-07-03T15:21:13.426+08:00"
+  },
+  {
+    "name": "美雅天花装饰",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:21:13.456+08:00"
   }
 ]
