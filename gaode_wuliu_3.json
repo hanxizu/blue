@@ -32083,5 +32083,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:03:19.888+08:00"
+  },
+  {
+    "name": "顺丰速运(丽湾店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:03:20.276+08:00"
+  },
+  {
+    "name": "万纬沈阳浑南冷链物流园",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:20.344+08:00"
+  },
+  {
+    "name": "沈阳鑫家顺冷链物流有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:20.390+08:00"
+  },
+  {
+    "name": "顺丰速运(丽湾店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:03:22.897+08:00"
+  },
+  {
+    "name": "万纬沈阳浑南冷链物流园",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:22.928+08:00"
+  },
+  {
+    "name": "沈阳鑫家顺冷链物流有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:22.970+08:00"
   }
 ]
