@@ -97,5 +97,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T22:47:13.291+08:00"
+  },
+  {
+    "name": "仓储货架工厂店",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:47:13.334+08:00"
+  },
+  {
+    "name": "永泰机械公司",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:47:13.362+08:00"
+  },
+  {
+    "name": "货架厂批",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:47:13.392+08:00"
+  },
+  {
+    "name": "货架厂批",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:47:15.755+08:00"
+  },
+  {
+    "name": "集团货架",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:47:15.785+08:00"
+  },
+  {
+    "name": "康顺金属",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:47:15.829+08:00"
+  },
+  {
+    "name": "工厂直销批发货架",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:47:15.854+08:00"
+  },
+  {
+    "name": "集团货架",
+    "city": "北京市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:47:18.292+08:00"
   }
 ]
