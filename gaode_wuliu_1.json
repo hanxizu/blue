@@ -38896,5 +38896,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:11:41.930+08:00"
+  },
+  {
+    "name": "中国邮政(上海路邮政支局)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:42.161+08:00"
+  },
+  {
+    "name": "菜鸟驿站(艺苑社区店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:42.211+08:00"
+  },
+  {
+    "name": "京东物流(武汉台北路站)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:42.321+08:00"
+  },
+  {
+    "name": "菜鸟驿站(艺苑社区店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:11:44.949+08:00"
   }
 ]
