@@ -19645,5 +19645,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:01:05.021+08:00"
+  },
+  {
+    "name": "宁波市大鹭人奉化区店",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T16:01:05.171+08:00"
+  },
+  {
+    "name": "宁波忆空间翻新装饰设计有限公司",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:01:05.199+08:00"
+  },
+  {
+    "name": "宁波伍石空间设计有限公司",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:01:08.271+08:00"
   }
 ]
