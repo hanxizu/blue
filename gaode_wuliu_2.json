@@ -53593,5 +53593,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:05:36.414+08:00"
+  },
+  {
+    "name": "青岛宏升达源物流有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:36.771+08:00"
+  },
+  {
+    "name": "青岛行者物流有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:05:36.883+08:00"
+  },
+  {
+    "name": "青岛盛世铭远国际物流有限公司",
+    "city": "青岛市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:05:39.613+08:00"
   }
 ]
