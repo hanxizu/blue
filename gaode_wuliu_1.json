@@ -18493,5 +18493,59 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T09:38:37.597+08:00"
+  },
+  {
+    "name": "广州市泰诚国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:38:37.692+08:00"
+  },
+  {
+    "name": "佛山好日子搬家搬厂搬运公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T09:38:37.796+08:00"
+  },
+  {
+    "name": "广州市泰诚国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:38:40.319+08:00"
+  },
+  {
+    "name": "佛山好日子搬家搬厂搬运公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T09:38:40.349+08:00"
+  },
+  {
+    "name": "上海熙浦国际货运代理有限公司广州分公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:38:40.382+08:00"
+  },
+  {
+    "name": "上海熙浦国际货运代理有限公司广州分公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:38:43.027+08:00"
   }
 ]
