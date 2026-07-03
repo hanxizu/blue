@@ -5830,5 +5830,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:37:33.919+08:00"
+  },
+  {
+    "name": "安徽联鑫装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:37:33.978+08:00"
+  },
+  {
+    "name": "中国中铁四局集团建筑工程有限公司装饰安装分公司(东至路)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:37:34.035+08:00"
+  },
+  {
+    "name": "鑫隆装饰建材(芙蓉路店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:37:34.090+08:00"
+  },
+  {
+    "name": "泰山石膏板轻钢龙骨吊顶隔墙(合肥总经销)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T15:37:37.028+08:00"
   }
 ]
