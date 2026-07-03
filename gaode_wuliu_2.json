@@ -11050,5 +11050,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:55:28.634+08:00"
+  },
+  {
+    "name": "黔汇物流-大件物流/整车运输/大票零担/专业轿车/摩托车/宠物",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T10:55:28.833+08:00"
+  },
+  {
+    "name": "利通物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:55:28.892+08:00"
+  },
+  {
+    "name": "东莞商壹国际物流(南城仓)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:55:31.972+08:00"
   }
 ]
