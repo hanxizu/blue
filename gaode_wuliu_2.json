@@ -18637,5 +18637,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:07:08.019+08:00"
+  },
+  {
+    "name": "孟元物流(张槎营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:08.312+08:00"
+  },
+  {
+    "name": "佛山市石湾水运有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:08.489+08:00"
+  },
+  {
+    "name": "兔喜快递超市(文善街店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:11.355+08:00"
   }
 ]
