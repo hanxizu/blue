@@ -9223,5 +9223,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T18:57:00.359+08:00"
+  },
+  {
+    "name": "婚车租赁",
+    "city": "南京市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:57:00.475+08:00"
+  },
+  {
+    "name": "私人订制婚车(弘阳广场店)",
+    "city": "南京市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:57:00.515+08:00"
+  },
+  {
+    "name": "南京运河租车一(江宁店)",
+    "city": "南京市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T18:57:00.560+08:00"
+  },
+  {
+    "name": "神州租车(珠江路地铁站服务点)",
+    "city": "南京市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:57:03.696+08:00"
   }
 ]
