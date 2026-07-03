@@ -51856,5 +51856,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T10:32:20.733+08:00"
+  },
+  {
+    "name": "乐驰物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:32:20.997+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西安武警路中段34号店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:32:21.113+08:00"
+  },
+  {
+    "name": "西安市高陵区韵达快递有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:32:21.225+08:00"
+  },
+  {
+    "name": "多多驿站(贰号大院店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:32:24.462+08:00"
   }
 ]
