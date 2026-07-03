@@ -45745,5 +45745,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:23:04.231+08:00"
+  },
+  {
+    "name": "菜鸟驿站(保利·梧桐语南区店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:04.619+08:00"
+  },
+  {
+    "name": "顺丰速运(菁华名门店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:23:04.697+08:00"
+  },
+  {
+    "name": "菜鸟驿站(万科·金域华府1期店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:04.738+08:00"
+  },
+  {
+    "name": "宇鑫物流",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:23:08.357+08:00"
   }
 ]
