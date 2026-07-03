@@ -37906,5 +37906,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:10:19.275+08:00"
+  },
+  {
+    "name": "武汉世通物流股份有限公司(丹水池配送中心)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:19.518+08:00"
+  },
+  {
+    "name": "运车网汽车托运·湖北鄂行通",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 18,
+    "colorRatio": "0.78%",
+    "timestamp": "2026-07-03T10:10:19.549+08:00"
+  },
+  {
+    "name": "武汉齐心物流(绿洲广场西)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:19.586+08:00"
+  },
+  {
+    "name": "运车网汽车托运·湖北鄂行通",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:10:22.379+08:00"
   }
 ]
