@@ -14623,5 +14623,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:32:24.060+08:00"
+  },
+  {
+    "name": "申通快递(皇岗村店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:24.164+08:00"
+  },
+  {
+    "name": "菜鸟驿站(福田村福新坊店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:24.191+08:00"
+  },
+  {
+    "name": "京东快递",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:24.220+08:00"
+  },
+  {
+    "name": "水围驿收发",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:32:24.247+08:00"
+  },
+  {
+    "name": "菜鸟驿站(福田村福新坊店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:32:27.252+08:00"
   }
 ]
