@@ -7900,5 +7900,68 @@
     "colorPixels": 149,
     "colorRatio": "6.49%",
     "timestamp": "2026-07-03T15:40:33.294+08:00"
+  },
+  {
+    "name": "安徽达到建筑装饰有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:40:33.425+08:00"
+  },
+  {
+    "name": "合肥原素空间装饰公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:40:33.456+08:00"
+  },
+  {
+    "name": "方林装饰集团(合肥店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T15:40:33.490+08:00"
+  },
+  {
+    "name": "合肥原素空间装饰公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:40:36.153+08:00"
+  },
+  {
+    "name": "方林装饰集团(合肥店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T15:40:36.189+08:00"
+  },
+  {
+    "name": "海狸装饰",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:40:36.219+08:00"
+  },
+  {
+    "name": "明皖装饰(百大奥莱生活广场9楼)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:40:38.905+08:00"
   }
 ]
