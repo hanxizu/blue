@@ -53377,5 +53377,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T15:21:48.904+08:00"
+  },
+  {
+    "name": "广建五金建材装饰",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:21:49.255+08:00"
+  },
+  {
+    "name": "艾特天花装饰",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:21:49.368+08:00"
+  },
+  {
+    "name": "华发装饰建材五金城",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:21:49.485+08:00"
+  },
+  {
+    "name": "大转湾嘉洲装饰市场",
+    "city": "佛山市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:21:52.531+08:00"
   }
 ]
