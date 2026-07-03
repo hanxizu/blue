@@ -1222,5 +1222,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T22:49:50.186+08:00"
+  },
+  {
+    "name": "盼畔货架有限公司",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:50.217+08:00"
+  },
+  {
+    "name": "货架批发",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:50.246+08:00"
+  },
+  {
+    "name": "上海联睿货架有限公司",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:50.275+08:00"
+  },
+  {
+    "name": "盼畔货架",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:49:53.159+08:00"
+  },
+  {
+    "name": "盼畔货架有限公司",
+    "city": "上海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:49:53.188+08:00"
   }
 ]
