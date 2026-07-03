@@ -51757,5 +51757,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:01:59.450+08:00"
+  },
+  {
+    "name": "融辉物流",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:59.892+08:00"
+  },
+  {
+    "name": "长沙市犇达物流有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:02:00.001+08:00"
+  },
+  {
+    "name": "神农物流(滩头坪新村4区店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:00.072+08:00"
+  },
+  {
+    "name": "神农物流(滩头坪新村4区店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:03.474+08:00"
   }
 ]
