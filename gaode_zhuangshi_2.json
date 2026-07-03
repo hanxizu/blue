@@ -22930,5 +22930,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T16:08:01.047+08:00"
+  },
+  {
+    "name": "云宏装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:08:01.197+08:00"
+  },
+  {
+    "name": "精寻空间设计",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:08:03.766+08:00"
+  },
+  {
+    "name": "云宏装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:08:03.802+08:00"
+  },
+  {
+    "name": "欧派高端全屋定制(滨湖红星店)",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:08:03.834+08:00"
+  },
+  {
+    "name": "明创装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:08:03.900+08:00"
+  },
+  {
+    "name": "无锡市精工建筑装饰工程有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:08:07.443+08:00"
   }
 ]
