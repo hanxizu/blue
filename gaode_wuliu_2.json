@@ -50488,5 +50488,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:00:02.467+08:00"
+  },
+  {
+    "name": "兔喜快递超市(新塘苑店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:02.867+08:00"
+  },
+  {
+    "name": "兔喜快递超市(西山汇景店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:02.924+08:00"
+  },
+  {
+    "name": "兔喜快递超市(新塘苑店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:05.603+08:00"
+  },
+  {
+    "name": "兔喜快递超市(西山汇景店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:05.641+08:00"
+  },
+  {
+    "name": "圆通快递",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:05.680+08:00"
+  },
+  {
+    "name": "顺丰速运(万达B座店店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T12:00:05.735+08:00"
+  },
+  {
+    "name": "中通快递",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:05.797+08:00"
+  },
+  {
+    "name": "圆通快递",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:08.785+08:00"
   }
 ]
