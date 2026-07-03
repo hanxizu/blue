@@ -448,5 +448,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:40:03.957+08:00"
+  },
+  {
+    "name": "丰巢快递柜(财信渝中城店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:03.997+08:00"
+  },
+  {
+    "name": "顺丰速运(江湾城店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:40:04.043+08:00"
+  },
+  {
+    "name": "天天快递渝中区营业分部",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:04.094+08:00"
+  },
+  {
+    "name": "丰巢柜",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:40:07.393+08:00"
   }
 ]
