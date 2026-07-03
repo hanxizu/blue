@@ -10960,5 +10960,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:55:20.000+08:00"
+  },
+  {
+    "name": "臻马物流(发大件小件勿扰)-东莞店",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:55:20.116+08:00"
+  },
+  {
+    "name": "东莞市勤达物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:55:20.155+08:00"
+  },
+  {
+    "name": "东莞市平安达网欧速货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:55:20.189+08:00"
+  },
+  {
+    "name": "东莞市勤达物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:55:22.942+08:00"
+  },
+  {
+    "name": "东莞市平安达网欧速货运代理有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:55:22.983+08:00"
+  },
+  {
+    "name": "白鲸运车·汽车托运(广州店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:55:23.021+08:00"
   }
 ]
