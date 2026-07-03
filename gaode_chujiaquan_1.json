@@ -10348,5 +10348,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T21:56:05.293+08:00"
+  },
+  {
+    "name": "天津犀利保洁服务有限公司",
+    "city": "天津市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T21:56:05.396+08:00"
+  },
+  {
+    "name": "怡家家政保洁",
+    "city": "天津市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T21:56:05.427+08:00"
+  },
+  {
+    "name": "智洁环卫服务有限公司",
+    "city": "天津市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T21:56:05.457+08:00"
+  },
+  {
+    "name": "全屋整装工作室",
+    "city": "天津市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T21:56:08.518+08:00"
   }
 ]
