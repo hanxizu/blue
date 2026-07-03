@@ -7468,5 +7468,68 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T09:20:21.421+08:00"
+  },
+  {
+    "name": "北京祥龙三台山物流有限公司(三台山路)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:21.513+08:00"
+  },
+  {
+    "name": "速达大件物流长途搬家摩托车托运",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:20:21.542+08:00"
+  },
+  {
+    "name": "DHL Fedex UPS EMS国际快递揽收处",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:20:24.097+08:00"
+  },
+  {
+    "name": "北京祥龙三台山物流有限公司(三台山路)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:24.122+08:00"
+  },
+  {
+    "name": "速达大件物流长途搬家摩托车托运",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:20:24.144+08:00"
+  },
+  {
+    "name": "北京铁运新世纪物流有限责任公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:20:24.170+08:00"
+  },
+  {
+    "name": "速达大件物流长途搬家摩托车托运",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:20:27.077+08:00"
   }
 ]
