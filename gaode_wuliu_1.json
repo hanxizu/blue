@@ -25162,5 +25162,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:48:55.273+08:00"
+  },
+  {
+    "name": "成都老兵搬家总部(全城可搬)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:48:55.400+08:00"
+  },
+  {
+    "name": "菜鸟驿站(成都三元社区新店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:55.458+08:00"
+  },
+  {
+    "name": "菜鸟驿站(御廷上郡店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:55.488+08:00"
+  },
+  {
+    "name": "菜鸟驿站(成都三元社区新店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:58.237+08:00"
+  },
+  {
+    "name": "菜鸟驿站(御廷上郡店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:58.267+08:00"
+  },
+  {
+    "name": "江楠物流货物运输有限公司",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:48:58.296+08:00"
   }
 ]
