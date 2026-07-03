@@ -5398,5 +5398,23 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T18:46:05.005+08:00"
+  },
+  {
+    "name": "鸿途出行",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T18:46:08.004+08:00"
+  },
+  {
+    "name": "京诚租车",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T18:46:08.058+08:00"
   }
 ]
