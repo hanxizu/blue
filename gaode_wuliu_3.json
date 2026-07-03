@@ -7702,5 +7702,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:22:13.546+08:00"
+  },
+  {
+    "name": "福建成景运输有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:13.662+08:00"
+  },
+  {
+    "name": "德邦物流(福州晋安区登云路经营分部)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:22:13.695+08:00"
+  },
+  {
+    "name": "盛辉智慧物流园",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:13.723+08:00"
+  },
+  {
+    "name": "盛辉智慧物流园",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:17.199+08:00"
   }
 ]
