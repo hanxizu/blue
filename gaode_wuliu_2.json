@@ -5632,5 +5632,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:47:04.893+08:00"
+  },
+  {
+    "name": "重庆龙吟物流",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:47:05.013+08:00"
+  },
+  {
+    "name": "力展物流(巴山营业部)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:47:05.045+08:00"
+  },
+  {
+    "name": "勤牛物流中心5区",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:47:05.079+08:00"
+  },
+  {
+    "name": "重庆千遐达通运输有限责任公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:47:08.325+08:00"
   }
 ]
