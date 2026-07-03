@@ -30859,5 +30859,59 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T13:01:39.172+08:00"
+  },
+  {
+    "name": "中国(辽宁)自由贸易试验区沈阳片区企业服务中心",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:01:39.483+08:00"
+  },
+  {
+    "name": "菜鸟驿站(万达·公园ONE店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:39.535+08:00"
+  },
+  {
+    "name": "菜鸟驿站(莫子山路店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:39.584+08:00"
+  },
+  {
+    "name": "菜鸟驿站(万达·公园ONE店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:42.073+08:00"
+  },
+  {
+    "name": "菜鸟驿站(莫子山路店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:42.127+08:00"
+  },
+  {
+    "name": "百腾供应链(沈阳公司)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:01:42.168+08:00"
   }
 ]
