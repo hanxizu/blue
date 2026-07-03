@@ -14047,5 +14047,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:32:54.336+08:00"
+  },
+  {
+    "name": "德邦快递(珠海香洲区翠珠路经营分部)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:32:54.551+08:00"
+  },
+  {
+    "name": "申通快递(北岭桂花工业村店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:54.597+08:00"
+  },
+  {
+    "name": "顺丰快递站",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:54.644+08:00"
+  },
+  {
+    "name": "申通快递(北岭桂花工业村店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:57.751+08:00"
   }
 ]
