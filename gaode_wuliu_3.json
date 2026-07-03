@@ -20599,5 +20599,23 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T12:44:35.616+08:00"
+  },
+  {
+    "name": "华粮物流集团",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:44:35.750+08:00"
+  },
+  {
+    "name": "华粮物流集团",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:44:38.722+08:00"
   }
 ]
