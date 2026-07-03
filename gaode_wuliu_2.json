@@ -51190,5 +51190,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:01:01.829+08:00"
+  },
+  {
+    "name": "茆菜鸟遍驿站(长沙振业城锦宸栋商铺店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:02.099+08:00"
+  },
+  {
+    "name": "兔喜快递超市(长沙岳麓红叶山庄店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:02.205+08:00"
+  },
+  {
+    "name": "万纬长沙开福冷链物流园",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:01:02.318+08:00"
+  },
+  {
+    "name": "万纬长沙开福物流园",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:02.427+08:00"
+  },
+  {
+    "name": "兔喜快递超市(长沙岳麓红叶山庄店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:05.163+08:00"
+  },
+  {
+    "name": "万纬长沙开福冷链物流园",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:01:05.197+08:00"
+  },
+  {
+    "name": "万纬长沙开福物流园",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:05.227+08:00"
+  },
+  {
+    "name": "德邦物流(碧云天店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:01:05.261+08:00"
   }
 ]
