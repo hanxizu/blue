@@ -3445,5 +3445,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:44:08.073+08:00"
+  },
+  {
+    "name": "壹米滴答金桥物流(南坪点部)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:08.119+08:00"
+  },
+  {
+    "name": "力展物流",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:08.147+08:00"
+  },
+  {
+    "name": "重庆实力大件吊装运输有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:44:08.180+08:00"
+  },
+  {
+    "name": "成都平安发物流",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:44:12.287+08:00"
   }
 ]
