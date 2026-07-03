@@ -12589,5 +12589,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:57:41.286+08:00"
+  },
+  {
+    "name": "和兴运输有限公司",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:57:41.410+08:00"
+  },
+  {
+    "name": "龙兴物流(寮步五金城分公司)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:57:41.447+08:00"
+  },
+  {
+    "name": "龙兴物流(龙骏物流园店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:57:41.477+08:00"
+  },
+  {
+    "name": "京东物流(环城西路辅路店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:57:44.855+08:00"
   }
 ]
