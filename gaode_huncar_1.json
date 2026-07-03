@@ -5668,5 +5668,23 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T18:46:24.627+08:00"
+  },
+  {
+    "name": "众诚租车(武汉-雄楚大道店)",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 377,
+    "colorRatio": "16.43%",
+    "timestamp": "2026-07-03T18:46:27.605+08:00"
+  },
+  {
+    "name": "T-ONE豪车租赁",
+    "city": "武汉市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 89,
+    "colorRatio": "3.88%",
+    "timestamp": "2026-07-03T18:46:27.646+08:00"
   }
 ]
