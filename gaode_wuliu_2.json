@@ -2842,5 +2842,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:43:18.738+08:00"
+  },
+  {
+    "name": "顺丰速运(11栋驿小店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:43:18.835+08:00"
+  },
+  {
+    "name": "重庆物流集团数字科技有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:43:18.874+08:00"
+  },
+  {
+    "name": "重庆诚捷梵供应链科技有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:43:18.909+08:00"
+  },
+  {
+    "name": "重庆旺沣达供应链管理有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:43:22.314+08:00"
   }
 ]
