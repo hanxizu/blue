@@ -44953,5 +44953,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:49:53.633+08:00"
+  },
+  {
+    "name": "臻马物流(发大件小件勿扰)-无锡二店",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:49:54.066+08:00"
+  },
+  {
+    "name": "一米滴答物流",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:54.152+08:00"
+  },
+  {
+    "name": "顺丰速运(苏南硕放机场快递服务中心)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T11:49:54.228+08:00"
+  },
+  {
+    "name": "一米滴答物流",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:57.354+08:00"
   }
 ]
