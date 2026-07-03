@@ -44710,5 +44710,32 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-03T10:21:27.112+08:00"
+  },
+  {
+    "name": "中国邮政(白桦林居邮政所)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:21:27.390+08:00"
+  },
+  {
+    "name": "西安市交通运输局",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:21:27.504+08:00"
+  },
+  {
+    "name": "盒马鲜生文景配送站",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:21:30.830+08:00"
   }
 ]
