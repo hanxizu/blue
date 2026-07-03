@@ -23794,5 +23794,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:55:29.633+08:00"
+  },
+  {
+    "name": "昆明静和货架设备有限公司",
+    "city": "昆明市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:55:29.770+08:00"
+  },
+  {
+    "name": "双源货架厂",
+    "city": "昆明市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:55:29.801+08:00"
+  },
+  {
+    "name": "云南雪鸽货架有限公司",
+    "city": "昆明市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:55:29.857+08:00"
+  },
+  {
+    "name": "昆明天裕金属制品有限公司",
+    "city": "昆明市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:55:29.889+08:00"
   }
 ]
