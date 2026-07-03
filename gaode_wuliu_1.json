@@ -22003,5 +22003,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:43:20.100+08:00"
+  },
+  {
+    "name": "安顺·大件物流 摩托车 电瓶车 行李托运(广州店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:43:20.229+08:00"
+  },
+  {
+    "name": "滴厘物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:20.268+08:00"
+  },
+  {
+    "name": "龙兴物流(芳信路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:20.294+08:00"
+  },
+  {
+    "name": "中亚物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:43:23.842+08:00"
   }
 ]
