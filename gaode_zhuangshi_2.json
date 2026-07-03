@@ -25144,5 +25144,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:11:12.835+08:00"
+  },
+  {
+    "name": "钉钉广告装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:11:13.065+08:00"
+  },
+  {
+    "name": "金泰国际装饰城9幢",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:11:13.179+08:00"
+  },
+  {
+    "name": "华东装饰城-南区",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:11:13.263+08:00"
+  },
+  {
+    "name": "创家门窗",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:11:16.354+08:00"
   }
 ]
