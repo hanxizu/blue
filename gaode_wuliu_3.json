@@ -10870,5 +10870,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:27:35.376+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(温州)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:27:35.513+08:00"
+  },
+  {
+    "name": "鹿富物流(永嘉分公司)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:27:35.548+08:00"
+  },
+  {
+    "name": "浙江定生物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:27:35.580+08:00"
+  },
+  {
+    "name": "浩鹏物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:38.305+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(温州)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:27:38.339+08:00"
+  },
+  {
+    "name": "鹿富物流(永嘉分公司)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:27:38.370+08:00"
+  },
+  {
+    "name": "浙江定生物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:27:38.492+08:00"
   }
 ]
