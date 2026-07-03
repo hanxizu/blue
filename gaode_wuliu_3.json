@@ -17107,5 +17107,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:37:55.264+08:00"
+  },
+  {
+    "name": "顺丰速运(中山西路店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:37:55.455+08:00"
+  },
+  {
+    "name": "嘉兴中通快运分拨中心(军民路店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:37:55.510+08:00"
+  },
+  {
+    "name": "丹鸟物流(东进路店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:37:55.551+08:00"
+  },
+  {
+    "name": "嘉兴中通快运分拨中心(军民路店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:37:58.590+08:00"
   }
 ]
