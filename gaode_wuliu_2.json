@@ -44539,5 +44539,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T11:49:13.525+08:00"
+  },
+  {
+    "name": "江苏中道国际物流有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:13.948+08:00"
+  },
+  {
+    "name": "欧西爱司物流(上海)有限公司(无锡分公司)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:14.077+08:00"
+  },
+  {
+    "name": "安能物流河埒口营业部",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:49:14.178+08:00"
+  },
+  {
+    "name": "欧西爱司物流(上海)有限公司(无锡分公司)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:16.933+08:00"
   }
 ]
