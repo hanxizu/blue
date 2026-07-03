@@ -54709,5 +54709,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T15:25:28.746+08:00"
+  },
+  {
+    "name": "上海申远建筑装饰工程有限公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:25:29.071+08:00"
+  },
+  {
+    "name": "金管家装饰(苜蓿园分店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:25:29.178+08:00"
+  },
+  {
+    "name": "金桥装饰城馨仪经营部",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:25:29.287+08:00"
+  },
+  {
+    "name": "金管家装饰(苜蓿园分店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:25:32.077+08:00"
   }
 ]
