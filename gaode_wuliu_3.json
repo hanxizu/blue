@@ -6415,5 +6415,77 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T12:20:37.443+08:00"
+  },
+  {
+    "name": "福建畅辉物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:20:37.545+08:00"
+  },
+  {
+    "name": "全国大件运输点对点直达云兔运输",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:20:37.586+08:00"
+  },
+  {
+    "name": "福州欧菲雅物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:20:37.627+08:00"
+  },
+  {
+    "name": "全国大件运输点对点直达云兔运输",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:20:40.261+08:00"
+  },
+  {
+    "name": "福州欧菲雅物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:20:40.291+08:00"
+  },
+  {
+    "name": "福建万翔现代物流有限公司福州分公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:20:40.324+08:00"
+  },
+  {
+    "name": "快顺物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:20:40.361+08:00"
+  },
+  {
+    "name": "福州欧菲雅物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:20:43.405+08:00"
   }
 ]
