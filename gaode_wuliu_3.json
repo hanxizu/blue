@@ -4849,5 +4849,77 @@
     "colorPixels": 88,
     "colorRatio": "3.83%",
     "timestamp": "2026-07-03T12:17:32.012+08:00"
+  },
+  {
+    "name": "山东盖世国际物流集团",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:17:32.141+08:00"
+  },
+  {
+    "name": "舜馨物流园",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:32.174+08:00"
+  },
+  {
+    "name": "亿通物流(南徐东路)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:17:32.207+08:00"
+  },
+  {
+    "name": "亿通物流(南徐东路)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:17:34.588+08:00"
+  },
+  {
+    "name": "次晨达物流",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:34.618+08:00"
+  },
+  {
+    "name": "平安济南历城物流园",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:17:34.720+08:00"
+  },
+  {
+    "name": "宇佳物流(黄台一部)",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:17:34.754+08:00"
+  },
+  {
+    "name": "平安济南历城物流园",
+    "city": "济南市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:17:37.591+08:00"
   }
 ]
