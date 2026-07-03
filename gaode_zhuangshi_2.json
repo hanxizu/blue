@@ -10465,5 +10465,59 @@
     "colorPixels": 18,
     "colorRatio": "0.78%",
     "timestamp": "2026-07-03T15:45:56.968+08:00"
+  },
+  {
+    "name": "全屋定制木作工厂(津南)-邦尼家居",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T15:45:57.188+08:00"
+  },
+  {
+    "name": "王斌装饰(珠江道店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:45:57.235+08:00"
+  },
+  {
+    "name": "王斌装饰(珠江道店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:45:59.801+08:00"
+  },
+  {
+    "name": "顾家家居(解放南路居然定制专业店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T15:45:59.855+08:00"
+  },
+  {
+    "name": "天津创意佳装饰有限公司",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:45:59.936+08:00"
+  },
+  {
+    "name": "欧派橱柜衣柜全屋定制(天津河东店)",
+    "city": "天津市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T15:46:03.626+08:00"
   }
 ]
