@@ -22381,5 +22381,68 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-03T16:05:36.519+08:00"
+  },
+  {
+    "name": "明途装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:05:36.635+08:00"
+  },
+  {
+    "name": "巨细装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:05:36.717+08:00"
+  },
+  {
+    "name": "宁波亿品装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:05:36.799+08:00"
+  },
+  {
+    "name": "巨细装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:05:39.360+08:00"
+  },
+  {
+    "name": "宁波亿品装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:05:39.394+08:00"
+  },
+  {
+    "name": "宁波明和装饰工程有限公司",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T16:05:39.445+08:00"
+  },
+  {
+    "name": "炫彩墙布窗帘地毯",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T16:05:41.915+08:00"
   }
 ]
