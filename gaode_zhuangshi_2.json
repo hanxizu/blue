@@ -21823,5 +21823,41 @@
     "colorPixels": 147,
     "colorRatio": "6.41%",
     "timestamp": "2026-07-03T16:04:38.829+08:00"
+  },
+  {
+    "name": "凯峰装饰建材",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:04:39.033+08:00"
+  },
+  {
+    "name": "瑞程装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:04:39.063+08:00"
+  },
+  {
+    "name": "锦月装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:04:39.094+08:00"
+  },
+  {
+    "name": "顾家家居(现代商城店)",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T16:04:42.273+08:00"
   }
 ]
