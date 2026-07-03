@@ -36196,5 +36196,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:35:14.335+08:00"
+  },
+  {
+    "name": "德邦快递(天津西青区海泰产业园经营分部)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:14.658+08:00"
+  },
+  {
+    "name": "邮政速递物流有限公司",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:14.691+08:00"
+  },
+  {
+    "name": "德邦快递(天津南开区霞光道经营分部)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:35:14.723+08:00"
+  },
+  {
+    "name": "德邦快递(天津南开区霞光道经营分部)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:35:17.298+08:00"
+  },
+  {
+    "name": "顺丰速运(文玥里小区店)",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:35:17.396+08:00"
+  },
+  {
+    "name": "开心搬家",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:35:17.482+08:00"
+  },
+  {
+    "name": "天津市汽配城物流中心",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:17.523+08:00"
+  },
+  {
+    "name": "天津市汽配城物流中心",
+    "city": "天津市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:35:20.727+08:00"
   }
 ]
