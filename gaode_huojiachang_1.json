@@ -19726,5 +19726,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:44:29.000+08:00"
+  },
+  {
+    "name": "曼禾道具",
+    "city": "嘉兴市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:44:29.127+08:00"
+  },
+  {
+    "name": "华丰金属",
+    "city": "嘉兴市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:44:29.153+08:00"
+  },
+  {
+    "name": "酷冠货架仓库",
+    "city": "嘉兴市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:44:29.180+08:00"
+  },
+  {
+    "name": "曼禾道具",
+    "city": "嘉兴市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:44:31.660+08:00"
+  },
+  {
+    "name": "华丰金属",
+    "city": "嘉兴市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:44:31.701+08:00"
+  },
+  {
+    "name": "酷冠货架仓库",
+    "city": "嘉兴市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:44:31.736+08:00"
+  },
+  {
+    "name": "浙江上虹货架有限公司(南门)",
+    "city": "嘉兴市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:44:31.776+08:00"
+  },
+  {
+    "name": "浙江上虹货架有限公司(东南门)",
+    "city": "嘉兴市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:44:31.823+08:00"
+  },
+  {
+    "name": "酷冠货架仓库",
+    "city": "嘉兴市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:44:34.311+08:00"
   }
 ]
