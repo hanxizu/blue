@@ -6487,5 +6487,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:20:43.405+08:00"
+  },
+  {
+    "name": "福建万翔现代物流有限公司福州分公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:20:43.479+08:00"
+  },
+  {
+    "name": "快顺物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:20:43.528+08:00"
+  },
+  {
+    "name": "盛发物流(化工路店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:20:43.576+08:00"
+  },
+  {
+    "name": "快顺物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:20:46.031+08:00"
+  },
+  {
+    "name": "盛发物流(化工路店)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:20:46.068+08:00"
+  },
+  {
+    "name": "福建骏通物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:20:46.100+08:00"
+  },
+  {
+    "name": "德邦快递(福州台江区和平路经营分部)",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:20:46.150+08:00"
+  },
+  {
+    "name": "天鑫物流提货点",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:20:46.196+08:00"
+  },
+  {
+    "name": "福建骏通物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:20:49.107+08:00"
   }
 ]
