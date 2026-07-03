@@ -28807,5 +28807,50 @@
     "colorPixels": 16,
     "colorRatio": "0.70%",
     "timestamp": "2026-07-03T16:17:25.700+08:00"
+  },
+  {
+    "name": "家胜园装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:17:25.910+08:00"
+  },
+  {
+    "name": "顾家家居(钟宅路红星店)",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 135,
+    "colorRatio": "5.88%",
+    "timestamp": "2026-07-03T16:17:25.945+08:00"
+  },
+  {
+    "name": "十创装饰(湖里店)",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:17:25.976+08:00"
+  },
+  {
+    "name": "家胜园装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:17:28.653+08:00"
+  },
+  {
+    "name": "顾家家居(钟宅路红星店)",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T16:17:28.707+08:00"
   }
 ]
