@@ -2806,5 +2806,41 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T10:43:15.708+08:00"
+  },
+  {
+    "name": "顺丰速运(黄桷园外包店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:43:15.751+08:00"
+  },
+  {
+    "name": "顺龙祥大型货运市场",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:43:15.779+08:00"
+  },
+  {
+    "name": "顺丰速运(11栋驿小店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:43:15.807+08:00"
+  },
+  {
+    "name": "顺龙祥大型货运市场",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:43:18.738+08:00"
   }
 ]
