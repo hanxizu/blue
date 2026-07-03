@@ -7009,5 +7009,68 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-03T15:39:16.267+08:00"
+  },
+  {
+    "name": "山水装饰集团(山水空间装饰)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T15:39:16.406+08:00"
+  },
+  {
+    "name": "安徽上亿装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:39:16.436+08:00"
+  },
+  {
+    "name": "抖佳装·装修设计全屋定制",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:39:16.464+08:00"
+  },
+  {
+    "name": "安徽上亿装饰工程有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:39:19.162+08:00"
+  },
+  {
+    "name": "抖佳装·装修设计全屋定制",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:39:19.193+08:00"
+  },
+  {
+    "name": "索菲亚衣柜橱柜全屋定制(政务红星店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T15:39:19.226+08:00"
+  },
+  {
+    "name": "志邦家居(政务红星店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 432,
+    "colorRatio": "18.82%",
+    "timestamp": "2026-07-03T15:39:21.667+08:00"
   }
 ]
