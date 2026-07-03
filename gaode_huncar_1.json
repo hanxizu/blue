@@ -6190,5 +6190,95 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T18:48:08.621+08:00"
+  },
+  {
+    "name": "汽车租赁婚庆(婚车 房车 商务车 大巴中巴 小车)",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:08.691+08:00"
+  },
+  {
+    "name": "鼎尚宏韵婚车鲜花馆",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:08.721+08:00"
+  },
+  {
+    "name": "唐老鸭婚庆车队",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:48:08.750+08:00"
+  },
+  {
+    "name": "吉喜婚庆车队",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:48:08.775+08:00"
+  },
+  {
+    "name": "汽车租赁婚庆(婚车 房车 商务车 大巴中巴 小车)",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:11.404+08:00"
+  },
+  {
+    "name": "鼎尚宏韵婚车鲜花馆",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:11.429+08:00"
+  },
+  {
+    "name": "唐老鸭婚庆车队",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:48:11.463+08:00"
+  },
+  {
+    "name": "吉喜婚庆车队",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:48:11.503+08:00"
+  },
+  {
+    "name": "雅斯顿自驾车婚车租赁(陕西总店)",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:11.531+08:00"
+  },
+  {
+    "name": "吉喜婚庆车队",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:48:14.261+08:00"
   }
 ]
