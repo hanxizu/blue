@@ -17863,5 +17863,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T11:06:07.038+08:00"
+  },
+  {
+    "name": "佛山中外运快件管理报关有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:06:07.167+08:00"
+  },
+  {
+    "name": "广州市荔湾区韵达海北公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:06:07.200+08:00"
+  },
+  {
+    "name": "安能物流(佛山平洲营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T11:06:07.273+08:00"
+  },
+  {
+    "name": "广州市荔湾区韵达海北公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:06:10.300+08:00"
   }
 ]
