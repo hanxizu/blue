@@ -18565,5 +18565,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T12:40:50.941+08:00"
+  },
+  {
+    "name": "常州嘉合营业部",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:51.160+08:00"
+  },
+  {
+    "name": "常州邮政局分销物流中心(常州邮区中心局店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:51.264+08:00"
+  },
+  {
+    "name": "绿道配送供应链",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:51.292+08:00"
+  },
+  {
+    "name": "常州邮政局分销物流中心(常州邮区中心局店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:53.930+08:00"
+  },
+  {
+    "name": "绿道配送供应链",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:53.967+08:00"
   }
 ]
