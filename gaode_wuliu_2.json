@@ -28033,5 +28033,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:21:19.938+08:00"
+  },
+  {
+    "name": "雨乐物流",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:20.095+08:00"
+  },
+  {
+    "name": "京东物流(南京玄武站)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:20.132+08:00"
+  },
+  {
+    "name": "京东物流(南京永丰站)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:20.237+08:00"
+  },
+  {
+    "name": "京东物流(尚文西苑店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:20.351+08:00"
+  },
+  {
+    "name": "京东物流(南京永丰站)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:23.182+08:00"
   }
 ]
