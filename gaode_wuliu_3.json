@@ -33847,5 +33847,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:11:03.270+08:00"
+  },
+  {
+    "name": "南昌永亿昌物流有限公司",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:03.486+08:00"
+  },
+  {
+    "name": "驿收发快递驿站(万达华府景园店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:11:03.562+08:00"
+  },
+  {
+    "name": "兔喜生活(吉水仓街店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:11:03.587+08:00"
+  },
+  {
+    "name": "恒盛银都A座快递点",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:03.616+08:00"
+  },
+  {
+    "name": "兔喜生活(吉水仓街店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:11:06.327+08:00"
+  },
+  {
+    "name": "恒盛银都A座快递点",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:06.416+08:00"
+  },
+  {
+    "name": "货拉拉(南昌红谷滩区门店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T13:11:06.443+08:00"
+  },
+  {
+    "name": "京东物流(南昌青云谱营业部)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:06.471+08:00"
+  },
+  {
+    "name": "恒盛银都A座快递点",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:09.315+08:00"
   }
 ]
