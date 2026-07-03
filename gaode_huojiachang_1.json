@@ -19411,5 +19411,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:42:49.206+08:00"
+  },
+  {
+    "name": "中力电动叉车销售(油改电授权店)",
+    "city": "珠海市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T23:42:49.317+08:00"
+  },
+  {
+    "name": "火星货架",
+    "city": "珠海市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:42:52.486+08:00"
   }
 ]
