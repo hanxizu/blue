@@ -40750,5 +40750,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:14:31.923+08:00"
+  },
+  {
+    "name": "(仅托车不运货)京吉顺通专业轿车托运平台(武汉店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:14:32.184+08:00"
+  },
+  {
+    "name": "德邦物流(武汉江汉区武汉国际广场经营分部)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:14:32.292+08:00"
+  },
+  {
+    "name": "京东物流(旌德社区店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:14:32.405+08:00"
+  },
+  {
+    "name": "联创方圆物流(文荟街店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T10:14:35.702+08:00"
   }
 ]
