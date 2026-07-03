@@ -32731,5 +32731,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:29:04.378+08:00"
+  },
+  {
+    "name": "安徽骏都物流供应链有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:29:04.671+08:00"
+  },
+  {
+    "name": "恒路物流蜀山营业部",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:29:04.770+08:00"
+  },
+  {
+    "name": "顺丰速运(医药产业园店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:29:04.814+08:00"
+  },
+  {
+    "name": "顺丰速运(医药产业园店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:29:07.632+08:00"
   }
 ]
