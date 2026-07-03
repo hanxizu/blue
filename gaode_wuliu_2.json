@@ -11104,5 +11104,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:55:35.419+08:00"
+  },
+  {
+    "name": "印象汇卸货区(东莞印象汇店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:55:35.526+08:00"
+  },
+  {
+    "name": "(仅托运轿车不做物流运输)京吉顺通专业轿车托运平台(广州店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:55:35.558+08:00"
+  },
+  {
+    "name": "众壹配送(滨河路一横街店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:55:35.589+08:00"
+  },
+  {
+    "name": "(仅托运轿车不做物流运输)京吉顺通专业轿车托运平台(广州店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:55:38.309+08:00"
+  },
+  {
+    "name": "众壹配送(滨河路一横街店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:55:38.348+08:00"
+  },
+  {
+    "name": "一汽解放(广州运力店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:55:38.384+08:00"
+  },
+  {
+    "name": "菜鸟速递(东莞莞城站)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:55:38.420+08:00"
   }
 ]
