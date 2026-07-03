@@ -39157,5 +39157,50 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-03T14:54:02.168+08:00"
+  },
+  {
+    "name": "陕西友家乐装饰有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:54:02.380+08:00"
+  },
+  {
+    "name": "帅榜家用设备装修设计(二环北路店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:54:02.414+08:00"
+  },
+  {
+    "name": "陕西友家乐装饰有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:54:05.073+08:00"
+  },
+  {
+    "name": "帅榜家用设备装修设计(二环北路店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:54:05.125+08:00"
+  },
+  {
+    "name": "西安城市人家(长安店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T14:54:05.172+08:00"
   }
 ]
