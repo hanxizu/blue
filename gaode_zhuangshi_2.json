@@ -40498,5 +40498,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:38:00.336+08:00"
+  },
+  {
+    "name": "欧派橱柜(青岛高科园装饰城店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:38:00.624+08:00"
+  },
+  {
+    "name": "青岛浩发建筑装饰工程有限公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:38:00.729+08:00"
+  },
+  {
+    "name": "索菲亚(市北居然店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T16:38:00.830+08:00"
+  },
+  {
+    "name": "卓亮装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:38:04.130+08:00"
   }
 ]
