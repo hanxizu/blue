@@ -20446,5 +20446,41 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-03T14:17:58.782+08:00"
+  },
+  {
+    "name": "老杨装饰部",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:17:59.043+08:00"
+  },
+  {
+    "name": "腾飞五金建材装饰(中房·红枫岭店)",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:17:59.167+08:00"
+  },
+  {
+    "name": "贞通装饰设计公司",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:17:59.213+08:00"
+  },
+  {
+    "name": "腾飞五金建材装饰(中房·红枫岭店)",
+    "city": "成都市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:18:02.286+08:00"
   }
 ]
