@@ -25621,5 +25621,23 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T09:49:35.083+08:00"
+  },
+  {
+    "name": "德快物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:49:35.223+08:00"
+  },
+  {
+    "name": "灯塔物流华丰食品城店",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:49:38.106+08:00"
   }
 ]
