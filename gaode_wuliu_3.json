@@ -421,5 +421,77 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T12:10:36.797+08:00"
+  },
+  {
+    "name": "交运物流(秦岭路店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:36.839+08:00"
+  },
+  {
+    "name": "顺丰速运(王府一号店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:10:36.918+08:00"
+  },
+  {
+    "name": "顺丰速运(美宜商务店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T12:10:36.949+08:00"
+  },
+  {
+    "name": "顺丰速运(美宜商务店)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T12:10:39.397+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(郑州自贸试验区)",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:10:39.434+08:00"
+  },
+  {
+    "name": "郑州领辉汽车托运",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:10:39.470+08:00"
+  },
+  {
+    "name": "郑州市二七区道路运输服务中心",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:10:39.501+08:00"
+  },
+  {
+    "name": "郑州领辉汽车托运",
+    "city": "郑州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:10:42.437+08:00"
   }
 ]
