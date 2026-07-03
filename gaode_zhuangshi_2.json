@@ -52252,5 +52252,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T17:00:02.147+08:00"
+  },
+  {
+    "name": "济南橙圆家居装饰有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T17:00:02.522+08:00"
+  },
+  {
+    "name": "洪福顺装饰公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:00:05.373+08:00"
   }
 ]
