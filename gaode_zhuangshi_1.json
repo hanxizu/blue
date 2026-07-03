@@ -35575,5 +35575,50 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T14:48:06.775+08:00"
+  },
+  {
+    "name": "西安金蚁家装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:48:07.010+08:00"
+  },
+  {
+    "name": "欧派大家居(西安京东店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T14:48:07.043+08:00"
+  },
+  {
+    "name": "西安金蚁家装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:48:09.701+08:00"
+  },
+  {
+    "name": "欧派大家居(西安京东店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T14:48:09.750+08:00"
+  },
+  {
+    "name": "金诚馨家装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:48:09.790+08:00"
   }
 ]
