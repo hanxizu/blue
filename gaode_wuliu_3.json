@@ -25729,5 +25729,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:52:25.367+08:00"
+  },
+  {
+    "name": "佛山高邦物流泉州分拨中心",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:52:25.615+08:00"
+  },
+  {
+    "name": "润辉物流河南山西专线",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:52:25.658+08:00"
+  },
+  {
+    "name": "鑫鸿顺达物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T12:52:25.694+08:00"
+  },
+  {
+    "name": "鑫鸿顺达物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T12:52:28.546+08:00"
   }
 ]
