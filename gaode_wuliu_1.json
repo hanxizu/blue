@@ -6856,5 +6856,59 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T09:19:31.934+08:00"
+  },
+  {
+    "name": "中国交通运输部大楼",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:31.979+08:00"
+  },
+  {
+    "name": "中通快递",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:34.640+08:00"
+  },
+  {
+    "name": "顺丰速运(德胜国际店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T09:19:34.666+08:00"
+  },
+  {
+    "name": "中国交通运输部大楼",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:34.701+08:00"
+  },
+  {
+    "name": "邮政天桥大院",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:34.744+08:00"
+  },
+  {
+    "name": "中国交通运输部大楼",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:19:37.876+08:00"
   }
 ]
