@@ -45484,5 +45484,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T15:07:30.779+08:00"
+  },
+  {
+    "name": "腾睿装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:07:31.079+08:00"
+  },
+  {
+    "name": "喜门装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:07:31.137+08:00"
+  },
+  {
+    "name": "卓群装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:07:31.170+08:00"
+  },
+  {
+    "name": "建固装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:07:34.211+08:00"
   }
 ]
