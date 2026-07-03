@@ -27439,5 +27439,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:55:52.709+08:00"
+  },
+  {
+    "name": "大连凯世国际物流有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:55:53.059+08:00"
+  },
+  {
+    "name": "鹏程物流(万达华府二期B区店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:55:53.097+08:00"
+  },
+  {
+    "name": "大连盛世通达物流公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T12:55:53.131+08:00"
+  },
+  {
+    "name": "鹏程物流(万达华府二期B区店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:55:55.791+08:00"
   }
 ]
