@@ -15154,5 +15154,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:01:13.678+08:00"
+  },
+  {
+    "name": "宇鑫物流(康怡医院东南国通货运中心店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:01:13.793+08:00"
+  },
+  {
+    "name": "温州黑豹物流(东莞配送中心)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:01:16.426+08:00"
+  },
+  {
+    "name": "宇鑫物流(康怡医院东南国通货运中心店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:01:16.461+08:00"
+  },
+  {
+    "name": "中纬物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:01:16.504+08:00"
+  },
+  {
+    "name": "风信物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:01:16.534+08:00"
+  },
+  {
+    "name": "宇鑫物流(康怡医院东南国通货运中心店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:01:19.128+08:00"
   }
 ]
