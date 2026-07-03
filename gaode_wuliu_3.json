@@ -9214,5 +9214,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:25:18.101+08:00"
+  },
+  {
+    "name": "温州天宏航空货运",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:18.206+08:00"
+  },
+  {
+    "name": "京东物流(南塘二组团店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:21.280+08:00"
   }
 ]
