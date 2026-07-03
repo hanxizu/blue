@@ -46411,5 +46411,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:24:07.048+08:00"
+  },
+  {
+    "name": "菜鸟驿站(贰号大院店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:24:07.303+08:00"
+  },
+  {
+    "name": "妈妈驿站(海璟时代店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:24:07.412+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西安安居乐筑凤城九路店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:24:07.525+08:00"
+  },
+  {
+    "name": "顺丰速运(开元第一城店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:24:07.706+08:00"
+  },
+  {
+    "name": "顺丰速运(开元第一城店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:24:10.157+08:00"
+  },
+  {
+    "name": "菜鸟驿站(荣华·EE康城店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:24:10.189+08:00"
+  },
+  {
+    "name": "菜鸟驿站(鼎正大都城店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:24:10.219+08:00"
+  },
+  {
+    "name": "兔喜快递超市(枫韵润园店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:24:10.252+08:00"
+  },
+  {
+    "name": "顺丰速运(开元第一城店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:24:13.662+08:00"
   }
 ]
