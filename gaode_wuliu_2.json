@@ -52045,5 +52045,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:02:23.106+08:00"
+  },
+  {
+    "name": "顺丰速运(朝阳广场店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 380,
+    "colorRatio": "16.56%",
+    "timestamp": "2026-07-03T12:02:23.422+08:00"
+  },
+  {
+    "name": "顺丰速运(晚报大道店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:02:23.479+08:00"
+  },
+  {
+    "name": "中国邮政速递物流",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:23.578+08:00"
+  },
+  {
+    "name": "顺丰速运(晚报大道店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:02:26.313+08:00"
   }
 ]
