@@ -14659,5 +14659,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T23:24:05.731+08:00"
+  },
+  {
+    "name": "宁波恒力货架制造厂",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:24:05.859+08:00"
+  },
+  {
+    "name": "宁嘉货架铭成焊接店",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:24:08.364+08:00"
+  },
+  {
+    "name": "飞歌货架陈物新仓B区",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:24:08.392+08:00"
+  },
+  {
+    "name": "宁波恒力货架制造厂",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:24:08.421+08:00"
+  },
+  {
+    "name": "宁波市新光货架有限公司",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:24:08.449+08:00"
+  },
+  {
+    "name": "荣欣焊接不锈钢货架激光焊接公司",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:24:08.480+08:00"
+  },
+  {
+    "name": "飞歌货架陈物新仓B区",
+    "city": "宁波市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:24:11.227+08:00"
   }
 ]
