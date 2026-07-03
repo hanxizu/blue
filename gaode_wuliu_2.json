@@ -19420,5 +19420,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:08:12.696+08:00"
+  },
+  {
+    "name": "佛山市勇创物流有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:12.826+08:00"
+  },
+  {
+    "name": "普洛斯顺德国通物流园(A-2库)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:12.858+08:00"
+  },
+  {
+    "name": "佛山市啟炫货运代理有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:12.890+08:00"
+  },
+  {
+    "name": "佛山市勇创物流有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:15.538+08:00"
+  },
+  {
+    "name": "普洛斯顺德国通物流园(A-2库)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:15.653+08:00"
+  },
+  {
+    "name": "佛山市啟炫货运代理有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:15.716+08:00"
   }
 ]
