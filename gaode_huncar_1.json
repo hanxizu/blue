@@ -7279,5 +7279,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T18:50:22.758+08:00"
+  },
+  {
+    "name": "众越婚车租赁",
+    "city": "重庆市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T18:50:25.491+08:00"
+  },
+  {
+    "name": "迪豪租车",
+    "city": "重庆市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:50:25.523+08:00"
+  },
+  {
+    "name": "庆通租车",
+    "city": "重庆市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T18:50:25.577+08:00"
+  },
+  {
+    "name": "金瑞达新能源货车租售(重庆刘家坝店)",
+    "city": "重庆市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T18:50:25.607+08:00"
+  },
+  {
+    "name": "庆通租车",
+    "city": "重庆市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T18:50:28.346+08:00"
   }
 ]
