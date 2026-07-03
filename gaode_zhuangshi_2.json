@@ -44386,5 +44386,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T16:44:13.324+08:00"
+  },
+  {
+    "name": "青岛顺达装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T16:44:13.580+08:00"
+  },
+  {
+    "name": "顺心装饰(红岛店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:44:16.383+08:00"
   }
 ]
