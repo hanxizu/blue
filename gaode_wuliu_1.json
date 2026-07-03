@@ -45898,5 +45898,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:23:18.457+08:00"
+  },
+  {
+    "name": "驿收发老兵驿站便利店",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:23:18.707+08:00"
+  },
+  {
+    "name": "菜鸟驿站(文景小区西区店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:18.811+08:00"
+  },
+  {
+    "name": "顺丰速运(老兵二站西门店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:23:18.922+08:00"
+  },
+  {
+    "name": "菜鸟驿站(文景小区西区店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:21.579+08:00"
   }
 ]
