@@ -41794,5 +41794,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T15:01:30.538+08:00"
+  },
+  {
+    "name": "永锋装饰材料",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:01:30.773+08:00"
+  },
+  {
+    "name": "金诺装饰设计工程有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:01:30.886+08:00"
+  },
+  {
+    "name": "永锋装饰材料",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:01:33.659+08:00"
   }
 ]
