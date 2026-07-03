@@ -48562,5 +48562,41 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-03T10:27:27.579+08:00"
+  },
+  {
+    "name": "中国联运西安集装箱中转站",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:27:27.853+08:00"
+  },
+  {
+    "name": "安顺.大件物流(小件勿扰)电动车摩托车托运行李托运(西安店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:27:27.963+08:00"
+  },
+  {
+    "name": "德邦快递(西安雁塔区朱雀大街经营分部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:27:28.069+08:00"
+  },
+  {
+    "name": "中国联运西安集装箱中转站",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:27:30.736+08:00"
   }
 ]
