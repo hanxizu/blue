@@ -9205,5 +9205,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:23:54.389+08:00"
+  },
+  {
+    "name": "升合物流公司(嘉定店)",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:23:54.507+08:00"
+  },
+  {
+    "name": "上海福运多搬家服务有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T09:23:54.545+08:00"
+  },
+  {
+    "name": "沪芳提货点",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:23:54.579+08:00"
+  },
+  {
+    "name": "上海福运多搬家服务有限公司",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T09:23:57.018+08:00"
+  },
+  {
+    "name": "沪芳提货点",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:23:57.053+08:00"
+  },
+  {
+    "name": "沪芳提货点",
+    "city": "上海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:24:00.334+08:00"
   }
 ]
