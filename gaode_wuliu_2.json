@@ -48499,5 +48499,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:56:05.919+08:00"
+  },
+  {
+    "name": "兴闽昌物流",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:56:06.280+08:00"
+  },
+  {
+    "name": "厦门力速物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:56:06.337+08:00"
+  },
+  {
+    "name": "合盈物流园",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:56:06.373+08:00"
+  },
+  {
+    "name": "厦门力速物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:56:09.244+08:00"
   }
 ]
