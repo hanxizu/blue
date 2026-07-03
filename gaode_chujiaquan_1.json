@@ -9079,5 +9079,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T21:48:47.368+08:00"
+  },
+  {
+    "name": "南京信洁达家政服务有限公司",
+    "city": "南京市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T21:48:47.456+08:00"
+  },
+  {
+    "name": "南京青欣环保科技有限公司",
+    "city": "南京市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T21:48:47.488+08:00"
+  },
+  {
+    "name": "环居检验检测中心",
+    "city": "南京市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T21:49:08.801+08:00"
   }
 ]
