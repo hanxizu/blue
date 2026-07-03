@@ -16900,5 +16900,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:04:49.080+08:00"
+  },
+  {
+    "name": "多多驿站",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:49.176+08:00"
+  },
+  {
+    "name": "菜鸟驿站(万科金融中心店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:04:49.227+08:00"
+  },
+  {
+    "name": "菜鸟驿站(莺岗小区店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:49.337+08:00"
+  },
+  {
+    "name": "菜鸟驿站(万科金融中心店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:04:52.026+08:00"
+  },
+  {
+    "name": "菜鸟驿站(莺岗小区店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:52.063+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山祖庙普君新城45号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:04:52.092+08:00"
   }
 ]
