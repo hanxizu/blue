@@ -12373,5 +12373,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T12:30:38.947+08:00"
+  },
+  {
+    "name": "鸿展国际物流",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:30:39.125+08:00"
+  },
+  {
+    "name": "珠海市图南汽车运输有限公司",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:30:39.182+08:00"
+  },
+  {
+    "name": "信丰物流(界狮北路店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:30:39.250+08:00"
+  },
+  {
+    "name": "鸿展国际物流",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:30:42.169+08:00"
   }
 ]
