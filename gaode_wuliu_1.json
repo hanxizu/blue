@@ -39400,5 +39400,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:12:26.810+08:00"
+  },
+  {
+    "name": "顺丰速运(万象城快递服务中心)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:12:27.068+08:00"
+  },
+  {
+    "name": "极兔快递",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:12:27.181+08:00"
+  },
+  {
+    "name": "京东快递(武汉吉庆营业部)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:12:27.286+08:00"
+  },
+  {
+    "name": "极兔速递(武汉江汉新世界网点)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:12:30.780+08:00"
   }
 ]
