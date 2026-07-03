@@ -18889,5 +18889,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:07:30.473+08:00"
+  },
+  {
+    "name": "极兔速递",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:07:30.707+08:00"
+  },
+  {
+    "name": "佛山湾华桥观大街2号店",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:30.740+08:00"
+  },
+  {
+    "name": "极兔快递广东佛山禅城环市公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:07:30.797+08:00"
+  },
+  {
+    "name": "申通快递(福山街店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:07:34.319+08:00"
   }
 ]
