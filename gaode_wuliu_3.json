@@ -18052,5 +18052,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:40:11.151+08:00"
+  },
+  {
+    "name": "常州客运站快件托运提货处汽车站车辆",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:11.375+08:00"
+  },
+  {
+    "name": "中铁快运(常州站营业部)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:11.407+08:00"
+  },
+  {
+    "name": "中通快递(翠园世家店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:11.440+08:00"
+  },
+  {
+    "name": "中通快递(翠园世家店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:14.036+08:00"
+  },
+  {
+    "name": "常州飞之剑新能源物流站",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:40:14.067+08:00"
+  },
+  {
+    "name": "常州泽浩物流有限公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:14.104+08:00"
+  },
+  {
+    "name": "常州名顺物流",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:40:14.145+08:00"
+  },
+  {
+    "name": "常州飞之剑新能源物流站",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:40:17.088+08:00"
   }
 ]
