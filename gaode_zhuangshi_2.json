@@ -2500,5 +2500,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T15:30:50.980+08:00"
+  },
+  {
+    "name": "OLO我乐·全屋定制(河西红星店)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T15:30:51.085+08:00"
+  },
+  {
+    "name": "大王建材信合装饰(浦口总代理)",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:30:51.186+08:00"
+  },
+  {
+    "name": "七匠门窗装饰有限公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:30:54.230+08:00"
   }
 ]
