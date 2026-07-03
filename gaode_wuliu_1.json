@@ -36043,5 +36043,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:06:39.735+08:00"
+  },
+  {
+    "name": "大田物流(长浒路店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:06:40.041+08:00"
+  },
+  {
+    "name": "苏州四季速达物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:06:40.071+08:00"
+  },
+  {
+    "name": "星之月物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:06:40.103+08:00"
+  },
+  {
+    "name": "常虹物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:06:40.135+08:00"
+  },
+  {
+    "name": "苏州四季速达物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:06:42.777+08:00"
   }
 ]
