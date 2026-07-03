@@ -37726,5 +37726,59 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T14:51:38.316+08:00"
+  },
+  {
+    "name": "友缘成鑫装饰",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:51:38.528+08:00"
+  },
+  {
+    "name": "陕西懂装修设计有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:51:38.629+08:00"
+  },
+  {
+    "name": "陕西鸿展装饰工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:51:41.230+08:00"
+  },
+  {
+    "name": "西安雅居轩装饰设计工程有限责任公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:51:41.264+08:00"
+  },
+  {
+    "name": "西安海博睿阁装饰设计工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:51:41.294+08:00"
+  },
+  {
+    "name": "陕西沐晟达装饰工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:51:41.323+08:00"
   }
 ]
