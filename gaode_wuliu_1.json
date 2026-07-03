@@ -15901,5 +15901,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:34:10.596+08:00"
+  },
+  {
+    "name": "臻马物流(发大件小件勿扰)-深圳二店",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:34:10.735+08:00"
+  },
+  {
+    "name": "深圳市云帆船务有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:34:10.838+08:00"
+  },
+  {
+    "name": "臻马物流(发大件小件勿扰)-深圳二店",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:34:13.392+08:00"
+  },
+  {
+    "name": "深圳市云帆船务有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:34:13.419+08:00"
+  },
+  {
+    "name": "信丰物流(兰天路店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:34:13.445+08:00"
+  },
+  {
+    "name": "正点国际物流(太平洋店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:34:13.472+08:00"
+  },
+  {
+    "name": "深圳市云帆船务有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:34:15.873+08:00"
   }
 ]
