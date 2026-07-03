@@ -10609,5 +10609,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:27:11.447+08:00"
+  },
+  {
+    "name": "京东物流(卡卡大厦店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:11.534+08:00"
+  },
+  {
+    "name": "宇佳物流(西经二路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:11.646+08:00"
+  },
+  {
+    "name": "华运·全国大件物流托运·温州",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:27:11.759+08:00"
+  },
+  {
+    "name": "温州东耕进口贸易仓储物流有限公司(办公楼)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:11.870+08:00"
+  },
+  {
+    "name": "宇佳物流(西经二路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:14.700+08:00"
   }
 ]
