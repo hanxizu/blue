@@ -51613,5 +51613,77 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-03T12:01:46.356+08:00"
+  },
+  {
+    "name": "湖南天下行运输有限公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:01:46.610+08:00"
+  },
+  {
+    "name": "货拉拉长沙长沙县门店",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T12:01:46.717+08:00"
+  },
+  {
+    "name": "安能物流(开福区网点)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:01:46.832+08:00"
+  },
+  {
+    "name": "货拉拉长沙长沙县门店",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T12:01:49.523+08:00"
+  },
+  {
+    "name": "安能物流(开福区网点)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:01:49.554+08:00"
+  },
+  {
+    "name": "恒邦物流园",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:49.584+08:00"
+  },
+  {
+    "name": "蚁链-恒邦物流(合峰营业部)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:49.614+08:00"
+  },
+  {
+    "name": "恒邦物流园",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:01:52.422+08:00"
   }
 ]
