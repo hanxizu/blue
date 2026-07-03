@@ -8422,5 +8422,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T15:41:23.998+08:00"
+  },
+  {
+    "name": "新悦达装饰",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:41:24.145+08:00"
+  },
+  {
+    "name": "龙发装饰(合肥公司)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:41:24.201+08:00"
+  },
+  {
+    "name": "馨硕装饰建材吊顶隔墙",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T15:41:24.233+08:00"
+  },
+  {
+    "name": "龙发装饰(合肥公司)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:41:26.978+08:00"
+  },
+  {
+    "name": "馨硕装饰建材吊顶隔墙",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T15:41:27.018+08:00"
   }
 ]
