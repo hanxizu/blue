@@ -2617,5 +2617,59 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:42:59.767+08:00"
+  },
+  {
+    "name": "京东物流(知行路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:42:59.847+08:00"
+  },
+  {
+    "name": "重庆富荣运输有限公司(长江滨江路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:42:59.895+08:00"
+  },
+  {
+    "name": "重庆市超强货运有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:42:59.968+08:00"
+  },
+  {
+    "name": "京东物流(知行路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:43:02.675+08:00"
+  },
+  {
+    "name": "重庆富荣运输有限公司(长江滨江路店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:43:02.724+08:00"
+  },
+  {
+    "name": "重庆市超强货运有限公司",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:43:02.769+08:00"
   }
 ]
