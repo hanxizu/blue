@@ -2257,5 +2257,77 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T10:42:28.893+08:00"
+  },
+  {
+    "name": "顺丰速运(光华观府国际店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:42:28.939+08:00"
+  },
+  {
+    "name": "顺丰速运(鹅岭店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:42:28.974+08:00"
+  },
+  {
+    "name": "顺丰速运(长安丽都外包店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:42:29.007+08:00"
+  },
+  {
+    "name": "顺丰速运(鹅岭店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:42:31.450+08:00"
+  },
+  {
+    "name": "顺丰速运(长安丽都外包店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:42:31.487+08:00"
+  },
+  {
+    "name": "顺丰速运(威斯丁店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:42:31.523+08:00"
+  },
+  {
+    "name": "顺丰速运(环球购物中心快递服务中心)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T10:42:31.557+08:00"
+  },
+  {
+    "name": "顺丰速运(鹅岭店)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:42:35.165+08:00"
   }
 ]
