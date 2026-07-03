@@ -19213,5 +19213,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:39:37.361+08:00"
+  },
+  {
+    "name": "广州灏维国际货运代理有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:37.452+08:00"
+  },
+  {
+    "name": "联大国际物流有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:37.572+08:00"
+  },
+  {
+    "name": "博凡货运代理有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:37.624+08:00"
+  },
+  {
+    "name": "3AD Keur khadim cargo",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:39:37.685+08:00"
+  },
+  {
+    "name": "博凡货运代理有限公司",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:40.673+08:00"
   }
 ]
