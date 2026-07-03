@@ -19861,5 +19861,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:08:51.446+08:00"
+  },
+  {
+    "name": "白鲸运车·汽车托运(佛山店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:08:51.591+08:00"
+  },
+  {
+    "name": "佛山人人搬屋搬运",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T11:08:51.627+08:00"
+  },
+  {
+    "name": "佛山人人搬屋搬运",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T11:08:54.364+08:00"
+  },
+  {
+    "name": "京东物流(佛山禅城营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:54.405+08:00"
+  },
+  {
+    "name": "京东物流(佛山禅城营业部)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:08:57.040+08:00"
   }
 ]
