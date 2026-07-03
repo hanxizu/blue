@@ -37834,5 +37834,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:32:10.079+08:00"
+  },
+  {
+    "name": "七间宅装饰",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:32:10.261+08:00"
+  },
+  {
+    "name": "名匠家装(望城旗舰店)",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T16:32:10.367+08:00"
+  },
+  {
+    "name": "北京青彦装饰有限公司",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:32:12.795+08:00"
+  },
+  {
+    "name": "万芳装饰",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:32:12.908+08:00"
+  },
+  {
+    "name": "蚂蚁装饰",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T16:32:12.965+08:00"
+  },
+  {
+    "name": "北京青彦装饰有限公司",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:32:16.184+08:00"
   }
 ]
