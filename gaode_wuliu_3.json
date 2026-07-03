@@ -36727,5 +36727,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:16:06.142+08:00"
+  },
+  {
+    "name": "老三物流",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:16:06.311+08:00"
+  },
+  {
+    "name": "正定县郡通物流有限公司",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:16:06.408+08:00"
+  },
+  {
+    "name": "北方国际农产品物流园",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:16:06.446+08:00"
+  },
+  {
+    "name": "顺丰速运(翰林店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:16:06.549+08:00"
+  },
+  {
+    "name": "老三物流",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:16:09.251+08:00"
   }
 ]
