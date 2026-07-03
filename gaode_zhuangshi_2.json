@@ -53764,5 +53764,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T17:02:22.923+08:00"
+  },
+  {
+    "name": "竞辉装饰",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:02:23.235+08:00"
+  },
+  {
+    "name": "山东时利和装饰工程有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:02:23.339+08:00"
+  },
+  {
+    "name": "济南以志盛视室内设计有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T17:02:23.378+08:00"
+  },
+  {
+    "name": "山东海创装饰工程有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:02:23.486+08:00"
+  },
+  {
+    "name": "山东海创装饰工程有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:02:26.018+08:00"
+  },
+  {
+    "name": "济南九起装饰计有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:02:26.083+08:00"
   }
 ]
