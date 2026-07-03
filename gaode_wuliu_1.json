@@ -32830,5 +32830,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:01:55.377+08:00"
+  },
+  {
+    "name": "丰巢柜寄存",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:01:55.564+08:00"
+  },
+  {
+    "name": "菜鸟驿站(胥江新村店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:01:55.593+08:00"
+  },
+  {
+    "name": "大众物流公司(苏州店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T10:01:55.626+08:00"
+  },
+  {
+    "name": "菜鸟驿站(胥江新村店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:01:58.360+08:00"
+  },
+  {
+    "name": "大众物流公司(苏州店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T10:01:58.460+08:00"
   }
 ]
