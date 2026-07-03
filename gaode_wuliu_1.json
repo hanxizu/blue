@@ -14002,5 +14002,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:31:32.405+08:00"
+  },
+  {
+    "name": "蜜罐快递柜",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:32.522+08:00"
+  },
+  {
+    "name": "深圳市外代国际货运有限公司(鹏程五路店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:31:32.551+08:00"
+  },
+  {
+    "name": "美团外卖站点",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-03T09:31:32.579+08:00"
+  },
+  {
+    "name": "旗云国际-澳洲专线坂田仓",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T09:31:36.022+08:00"
   }
 ]
