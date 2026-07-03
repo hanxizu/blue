@@ -13471,5 +13471,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:32:08.099+08:00"
+  },
+  {
+    "name": "珠海站周财行李寄存",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:32:08.281+08:00"
+  },
+  {
+    "name": "中通快递(星晴公寓店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:08.406+08:00"
+  },
+  {
+    "name": "百世快递",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:08.498+08:00"
+  },
+  {
+    "name": "中通快递(星晴公寓店)",
+    "city": "珠海市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:32:11.570+08:00"
   }
 ]
