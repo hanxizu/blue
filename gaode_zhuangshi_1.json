@@ -34954,5 +34954,32 @@
     "colorPixels": 160,
     "colorRatio": "6.97%",
     "timestamp": "2026-07-03T14:47:03.642+08:00"
+  },
+  {
+    "name": "陕西壹匠建筑装修工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:47:03.819+08:00"
+  },
+  {
+    "name": "西安盛泰佳兴装饰工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:47:03.940+08:00"
+  },
+  {
+    "name": "陕西壹匠建筑装修工程有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:47:06.809+08:00"
   }
 ]
