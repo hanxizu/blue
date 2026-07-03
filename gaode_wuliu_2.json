@@ -13939,5 +13939,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:59:32.342+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞简沙洲清水凹1巷23号店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:59:32.460+08:00"
+  },
+  {
+    "name": "万运国际物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:59:32.524+08:00"
+  },
+  {
+    "name": "汇航国际物流",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:59:32.556+08:00"
+  },
+  {
+    "name": "今朝物流山东专线",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:59:35.821+08:00"
   }
 ]
