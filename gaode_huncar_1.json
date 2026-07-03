@@ -3589,5 +3589,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T18:41:16.078+08:00"
+  },
+  {
+    "name": "杭州一路发-租车包车服务",
+    "city": "杭州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T18:41:18.896+08:00"
+  },
+  {
+    "name": "百分百新能源汽车婚车租赁",
+    "city": "杭州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T18:41:18.936+08:00"
+  },
+  {
+    "name": "启优租车",
+    "city": "杭州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:41:18.973+08:00"
+  },
+  {
+    "name": "百分百新能源汽车婚车租赁",
+    "city": "杭州市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T18:41:21.656+08:00"
   }
 ]
