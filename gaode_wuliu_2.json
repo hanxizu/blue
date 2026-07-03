@@ -24163,5 +24163,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:14:45.641+08:00"
+  },
+  {
+    "name": "信丰物流(桂城分公司)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:14:45.765+08:00"
+  },
+  {
+    "name": "凯兴物流(穗盐西路)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:14:45.835+08:00"
+  },
+  {
+    "name": "乐达物流(金利莱大楼店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:14:45.900+08:00"
+  },
+  {
+    "name": "海源物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:14:45.936+08:00"
+  },
+  {
+    "name": "佛山市陆兴运输有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:14:49.153+08:00"
   }
 ]
