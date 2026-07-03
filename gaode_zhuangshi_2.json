@@ -50695,5 +50695,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T16:55:54.224+08:00"
+  },
+  {
+    "name": "立邦官方(东建材店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 381,
+    "colorRatio": "16.60%",
+    "timestamp": "2026-07-03T16:55:54.513+08:00"
+  },
+  {
+    "name": "云山海装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:55:54.624+08:00"
+  },
+  {
+    "name": "业之峰装饰(高新茶城店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:55:54.751+08:00"
+  },
+  {
+    "name": "工方装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:55:58.021+08:00"
   }
 ]
