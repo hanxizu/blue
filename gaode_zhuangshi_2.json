@@ -43117,5 +43117,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T16:42:05.977+08:00"
+  },
+  {
+    "name": "富龙装饰",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:42:06.245+08:00"
+  },
+  {
+    "name": "顾家家居(长江东路居然店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T16:42:06.276+08:00"
+  },
+  {
+    "name": "星艺装饰(青岛一品公司)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:42:06.330+08:00"
+  },
+  {
+    "name": "顾家家居(长江东路居然店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T16:42:09.233+08:00"
+  },
+  {
+    "name": "星艺装饰(青岛一品公司)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:42:09.266+08:00"
+  },
+  {
+    "name": "顾家家居(青岛居然之家店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T16:42:09.300+08:00"
+  },
+  {
+    "name": "星艺装饰(青岛一品公司)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:42:11.797+08:00"
   }
 ]
