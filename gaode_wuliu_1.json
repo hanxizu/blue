@@ -19573,5 +19573,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:40:04.808+08:00"
+  },
+  {
+    "name": "菜鸟驿站(龙运楼店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:40:05.005+08:00"
+  },
+  {
+    "name": "菜鸟驿站(盈基大厦店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:40:05.054+08:00"
+  },
+  {
+    "name": "顺丰速运(广中路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T09:40:05.105+08:00"
+  },
+  {
+    "name": "菜鸟驿站(盈基大厦店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:40:07.761+08:00"
+  },
+  {
+    "name": "顺丰速运(广中路店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T09:40:07.813+08:00"
   }
 ]
