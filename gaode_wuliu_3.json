@@ -32731,5 +32731,86 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:04:14.984+08:00"
+  },
+  {
+    "name": "沈阳成一运输有限公司",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:15.197+08:00"
+  },
+  {
+    "name": "宏奥物流(青松西路店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:04:15.229+08:00"
+  },
+  {
+    "name": "顺丰速运(吉力湖店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:04:15.261+08:00"
+  },
+  {
+    "name": "沈阳市天意运输有限公司(文萃苑西)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:15.294+08:00"
+  },
+  {
+    "name": "宏奥物流(青松西路店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:04:17.836+08:00"
+  },
+  {
+    "name": "顺丰速运(吉力湖店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:04:17.870+08:00"
+  },
+  {
+    "name": "沈阳市天意运输有限公司(文萃苑西)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:17.912+08:00"
+  },
+  {
+    "name": "长吉物流(深得线店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:17.942+08:00"
+  },
+  {
+    "name": "沈阳市天意运输有限公司(文萃苑西)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:20.562+08:00"
   }
 ]
