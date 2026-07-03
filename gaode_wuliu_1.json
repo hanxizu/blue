@@ -28969,5 +28969,86 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T09:55:27.842+08:00"
+  },
+  {
+    "name": "京东(童装批发市场店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:55:27.970+08:00"
+  },
+  {
+    "name": "京东快递(辉腾营业厅)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:55:28.079+08:00"
+  },
+  {
+    "name": "圆通快递",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:55:28.186+08:00"
+  },
+  {
+    "name": "顺丰速运(小营公园店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:55:28.249+08:00"
+  },
+  {
+    "name": "京东快递(辉腾营业厅)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:55:30.724+08:00"
+  },
+  {
+    "name": "圆通快递",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:55:30.754+08:00"
+  },
+  {
+    "name": "顺丰速运(小营公园店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:55:30.787+08:00"
+  },
+  {
+    "name": "中国邮政速递物流(环城东路店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:55:30.824+08:00"
+  },
+  {
+    "name": "顺丰速运(小营公园店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:55:33.763+08:00"
   }
 ]
