@@ -42757,5 +42757,50 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T15:03:00.385+08:00"
+  },
+  {
+    "name": "健翔装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:03:00.600+08:00"
+  },
+  {
+    "name": "英杰装饰(爱迪花园南区店)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:03:00.713+08:00"
+  },
+  {
+    "name": "健翔装饰",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:03:03.289+08:00"
+  },
+  {
+    "name": "英杰装饰(爱迪花园南区店)",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:03:03.367+08:00"
+  },
+  {
+    "name": "致恒广告设计制作装修",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T15:03:03.430+08:00"
   }
 ]
