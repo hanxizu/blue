@@ -7900,5 +7900,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:22:32.596+08:00"
+  },
+  {
+    "name": "运满满-大件物流-全国货运",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:22:32.691+08:00"
+  },
+  {
+    "name": "佳斌物流",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:32.722+08:00"
+  },
+  {
+    "name": "福州航辰物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:32.754+08:00"
+  },
+  {
+    "name": "福州航辰物流有限公司",
+    "city": "福州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:22:36.141+08:00"
   }
 ]
