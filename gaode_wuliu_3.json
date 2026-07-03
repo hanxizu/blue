@@ -24775,5 +24775,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:51:06.885+08:00"
+  },
+  {
+    "name": "顺丰速运(温岭新车站店)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T12:51:07.061+08:00"
+  },
+  {
+    "name": "中通快运晋江市分公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:51:10.165+08:00"
   }
 ]
