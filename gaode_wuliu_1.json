@@ -50371,5 +50371,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:30:04.393+08:00"
+  },
+  {
+    "name": "京东快递(西安土门营业部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:04.644+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西安美立方1店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:04.767+08:00"
+  },
+  {
+    "name": "菜鸟驿站(RE西安陕安丰登小区R2店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:04.890+08:00"
+  },
+  {
+    "name": "陕西逢源物流配货中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:30:08.433+08:00"
   }
 ]
