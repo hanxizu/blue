@@ -23749,5 +23749,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:14:12.268+08:00"
+  },
+  {
+    "name": "黑豹物流(兴业一路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:14:12.431+08:00"
+  },
+  {
+    "name": "佳杰物流(云郭经济社综合楼店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:14:12.519+08:00"
+  },
+  {
+    "name": "佛山豪门物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:14:12.565+08:00"
+  },
+  {
+    "name": "燕文物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:14:12.620+08:00"
+  },
+  {
+    "name": "广渊物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:14:15.673+08:00"
   }
 ]
