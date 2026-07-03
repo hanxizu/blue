@@ -2275,5 +2275,23 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-04T07:59:52.846+08:00"
+  },
+  {
+    "name": "北京市盈科(深圳)律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T07:59:52.916+08:00"
+  },
+  {
+    "name": "上海市晨升律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T07:59:55.882+08:00"
   }
 ]
