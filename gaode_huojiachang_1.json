@@ -5371,5 +5371,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:00:32.605+08:00"
+  },
+  {
+    "name": "杭州柜公子展览设计有限公司",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:00:32.701+08:00"
+  },
+  {
+    "name": "杭州庆达二手旧货市场(旧货回收售卖)",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-03T23:00:32.736+08:00"
+  },
+  {
+    "name": "天鸿机械公司",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:00:32.766+08:00"
+  },
+  {
+    "name": "上海佳旗货架厂",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:00:35.750+08:00"
   }
 ]
