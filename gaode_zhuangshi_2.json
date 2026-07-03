@@ -47167,5 +47167,32 @@
     "colorPixels": 381,
     "colorRatio": "16.60%",
     "timestamp": "2026-07-03T16:50:17.734+08:00"
+  },
+  {
+    "name": "京运装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:50:18.007+08:00"
+  },
+  {
+    "name": "米兰纳衣柜全屋定制(金水店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T16:50:18.099+08:00"
+  },
+  {
+    "name": "云素装饰(世纪豪门郑州店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:50:20.933+08:00"
   }
 ]
