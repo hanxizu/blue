@@ -22885,5 +22885,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T14:23:18.924+08:00"
+  },
+  {
+    "name": "杭州尽胜装饰(碳晶板木饰面)",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:23:19.105+08:00"
+  },
+  {
+    "name": "杭州原色空间设计有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:23:19.136+08:00"
+  },
+  {
+    "name": "杭州拾栖装饰设计有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:23:19.168+08:00"
+  },
+  {
+    "name": "杭州五文门窗工程有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:23:22.418+08:00"
   }
 ]
