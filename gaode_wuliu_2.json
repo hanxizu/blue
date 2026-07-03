@@ -31264,5 +31264,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:25:57.595+08:00"
+  },
+  {
+    "name": "中国邮政(麒麟营业投递部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:25:57.768+08:00"
+  },
+  {
+    "name": "江苏诚盟物流有限公司",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:25:57.811+08:00"
+  },
+  {
+    "name": "苏果配送中心",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:25:57.920+08:00"
   }
 ]
