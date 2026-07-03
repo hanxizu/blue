@@ -15271,5 +15271,14 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:35:27.122+08:00"
+  },
+  {
+    "name": "京东快递(南湖新嘉营业部)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:35:30.282+08:00"
   }
 ]
