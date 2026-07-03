@@ -27664,5 +27664,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T14:32:18.239+08:00"
+  },
+  {
+    "name": "秦壮装饰材料(古盘大楼店)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:32:18.488+08:00"
+  },
+  {
+    "name": "苏州广富装饰工程有限公司",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:32:18.540+08:00"
+  },
+  {
+    "name": "圣都整装苏州总部店",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T14:32:22.063+08:00"
   }
 ]
