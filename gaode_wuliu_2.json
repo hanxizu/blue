@@ -51874,5 +51874,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:02:09.538+08:00"
+  },
+  {
+    "name": "金桥国际仓储物流城",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:09.860+08:00"
+  },
+  {
+    "name": "飞猫物流(滩头坪新村4区店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:09.935+08:00"
+  },
+  {
+    "name": "安能物流(高桥茶都店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:02:09.984+08:00"
+  },
+  {
+    "name": "振望物流园",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:02:10.107+08:00"
+  },
+  {
+    "name": "安能物流(高桥茶都店)",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:02:13.452+08:00"
   }
 ]
