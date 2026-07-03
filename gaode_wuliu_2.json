@@ -17719,5 +17719,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:05:52.585+08:00"
+  },
+  {
+    "name": "菜鸟驿站(兆宁路店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:52.704+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山祖庙龙湖越秀傲云店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:52.740+08:00"
+  },
+  {
+    "name": "佛山市尊运物流有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:56.750+08:00"
   }
 ]
