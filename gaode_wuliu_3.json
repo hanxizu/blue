@@ -18529,5 +18529,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T12:40:47.921+08:00"
+  },
+  {
+    "name": "常州嘉合营业部",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:48.231+08:00"
+  },
+  {
+    "name": "常州邮政局分销物流中心(常州邮区中心局店)",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:48.261+08:00"
+  },
+  {
+    "name": "常州五度鲜物流科技有限公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:40:50.826+08:00"
+  },
+  {
+    "name": "上海强焱国际物流常州分公司",
+    "city": "常州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T12:40:50.941+08:00"
   }
 ]
