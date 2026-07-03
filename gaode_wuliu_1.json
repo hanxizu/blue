@@ -44917,5 +44917,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T10:21:47.144+08:00"
+  },
+  {
+    "name": "西安市旭旺物流有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:21:47.398+08:00"
+  },
+  {
+    "name": "西安邦友仓储配送中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:21:47.513+08:00"
+  },
+  {
+    "name": "安能物流(西安市轻工网点)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:21:47.624+08:00"
+  },
+  {
+    "name": "西安邦友仓储配送中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:21:50.641+08:00"
   }
 ]
