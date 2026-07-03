@@ -25801,5 +25801,50 @@
     "colorPixels": 117,
     "colorRatio": "5.10%",
     "timestamp": "2026-07-03T09:49:50.287+08:00"
+  },
+  {
+    "name": "安顺·大件物流托运(成都总店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T09:49:50.405+08:00"
+  },
+  {
+    "name": "安顺·大件物流专线直达(成都一店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:49:50.524+08:00"
+  },
+  {
+    "name": "藏捷物流",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 117,
+    "colorRatio": "5.10%",
+    "timestamp": "2026-07-03T09:49:53.233+08:00"
+  },
+  {
+    "name": "安顺·大件物流托运(成都总店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-03T09:49:53.271+08:00"
+  },
+  {
+    "name": "安顺·大件物流专线直达(成都一店)",
+    "city": "成都市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:49:53.308+08:00"
   }
 ]
