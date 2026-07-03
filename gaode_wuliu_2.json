@@ -7513,5 +7513,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:50:48.965+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞南城簪花岭九巷十号店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:49.065+08:00"
+  },
+  {
+    "name": "自助快递柜",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:49.100+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞南城金升国际一楼2号店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:49.131+08:00"
+  },
+  {
+    "name": "自助快递柜",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:51.763+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞南城金升国际一楼2号店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:51.830+08:00"
+  },
+  {
+    "name": "中通快运(莞城网点)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:50:51.905+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞南城红山路十巷1号店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:51.939+08:00"
+  },
+  {
+    "name": "菜鸟驿站(东莞南城金升国际一楼2号店)",
+    "city": "东莞市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:50:54.734+08:00"
   }
 ]
