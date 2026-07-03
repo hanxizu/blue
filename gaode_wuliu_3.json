@@ -9232,5 +9232,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:25:21.280+08:00"
+  },
+  {
+    "name": "顺丰速运(滨江中浦路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T12:25:21.389+08:00"
+  },
+  {
+    "name": "温州旭东物流(乌仁路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:21.420+08:00"
+  },
+  {
+    "name": "温州天宏航空货运",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:21.452+08:00"
+  },
+  {
+    "name": "温州新锐国际物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:21.483+08:00"
+  },
+  {
+    "name": "温州旭东物流(乌仁路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:24.176+08:00"
+  },
+  {
+    "name": "温州天宏航空货运",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:24.211+08:00"
+  },
+  {
+    "name": "温州新锐国际物流有限公司",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:24.245+08:00"
+  },
+  {
+    "name": "征豪国际货运",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:25:24.279+08:00"
   }
 ]
