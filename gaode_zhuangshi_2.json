@@ -41866,5 +41866,41 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T16:40:11.598+08:00"
+  },
+  {
+    "name": "防水装修",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:40:11.855+08:00"
+  },
+  {
+    "name": "纳物爱格官方示范店",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T16:40:11.963+08:00"
+  },
+  {
+    "name": "五金电器装饰材料",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:40:12.057+08:00"
+  },
+  {
+    "name": "门窗玻璃",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:40:15.531+08:00"
   }
 ]
