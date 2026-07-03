@@ -34621,5 +34621,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:13:11.529+08:00"
+  },
+  {
+    "name": "宏昌物流(神州嘉园店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:13:14.455+08:00"
+  },
+  {
+    "name": "亿家物流(神州嘉园店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:13:14.495+08:00"
+  },
+  {
+    "name": "凯旋物流",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:13:14.526+08:00"
+  },
+  {
+    "name": "安能物流(栗新小区店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:13:14.560+08:00"
   }
 ]
