@@ -36439,5 +36439,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:15:41.398+08:00"
+  },
+  {
+    "name": "石家庄市交投冷链物流有限公司",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:15:44.304+08:00"
+  },
+  {
+    "name": "石家庄转运中心",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:44.332+08:00"
+  },
+  {
+    "name": "庆隆物流(乐城店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:44.360+08:00"
+  },
+  {
+    "name": "京东物流(石家庄宫家庄站)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:44.388+08:00"
+  },
+  {
+    "name": "庆隆物流(乐城店)",
+    "city": "石家庄市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:15:47.127+08:00"
   }
 ]
