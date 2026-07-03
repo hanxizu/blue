@@ -29752,5 +29752,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:56:36.404+08:00"
+  },
+  {
+    "name": "安顺大件物流全国托运(杭州店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T09:56:36.550+08:00"
+  },
+  {
+    "name": "保通物流",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:56:36.667+08:00"
+  },
+  {
+    "name": "鑫和通物流",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:56:36.793+08:00"
+  },
+  {
+    "name": "京东物流(新华路店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:56:40.106+08:00"
   }
 ]
