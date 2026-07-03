@@ -1672,5 +1672,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T15:29:44.135+08:00"
+  },
+  {
+    "name": "慕梵整装",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T15:29:44.174+08:00"
+  },
+  {
+    "name": "奥米巴装饰|高品质整装",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T15:29:44.205+08:00"
+  },
+  {
+    "name": "海兰装饰集团公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:29:44.234+08:00"
+  },
+  {
+    "name": "应天顺成家居装饰(南京)有限公司",
+    "city": "南京市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:29:47.182+08:00"
   }
 ]
