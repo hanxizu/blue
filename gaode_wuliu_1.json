@@ -33595,5 +33595,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T10:03:03.735+08:00"
+  },
+  {
+    "name": "一力苏州物流园15幢",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:03:03.927+08:00"
+  },
+  {
+    "name": "宝康物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:03:04.036+08:00"
+  },
+  {
+    "name": "传奇老兵物流搬家",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:03:04.144+08:00"
+  },
+  {
+    "name": "宝康物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:03:06.863+08:00"
   }
 ]
