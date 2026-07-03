@@ -30868,5 +30868,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:58:12.334+08:00"
+  },
+  {
+    "name": "中国邮政EMS全球邮政特快专递(保俶北路店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:58:12.513+08:00"
+  },
+  {
+    "name": "兔喜生活(杭州上城万安东苑店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:58:12.623+08:00"
+  },
+  {
+    "name": "京东物流(云厦连园店)",
+    "city": "杭州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:58:12.736+08:00"
   }
 ]
