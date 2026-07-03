@@ -21553,5 +21553,59 @@
     "colorPixels": 160,
     "colorRatio": "6.97%",
     "timestamp": "2026-07-03T14:21:08.612+08:00"
+  },
+  {
+    "name": "麦丰装饰旗舰展厅",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 433,
+    "colorRatio": "18.87%",
+    "timestamp": "2026-07-03T14:21:08.729+08:00"
+  },
+  {
+    "name": "杭州浩博建筑装饰工程有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:21:08.844+08:00"
+  },
+  {
+    "name": "麦丰装饰旗舰展厅",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 433,
+    "colorRatio": "18.87%",
+    "timestamp": "2026-07-03T14:21:11.377+08:00"
+  },
+  {
+    "name": "杭州浩博建筑装饰工程有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:21:11.447+08:00"
+  },
+  {
+    "name": "杭州蓝匠装饰有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:21:11.542+08:00"
+  },
+  {
+    "name": "杭州佳禾装饰材料商城",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:21:15.192+08:00"
   }
 ]
