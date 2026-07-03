@@ -43243,5 +43243,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T15:03:53.755+08:00"
+  },
+  {
+    "name": "南城光田装饰材料",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T15:03:53.992+08:00"
+  },
+  {
+    "name": "立邦荣顺装饰材料",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:03:54.102+08:00"
+  },
+  {
+    "name": "龙俊装饰工程油漆店",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:03:57.634+08:00"
   }
 ]
