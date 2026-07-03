@@ -21787,5 +21787,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:46:07.000+08:00"
+  },
+  {
+    "name": "中通快递",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:46:07.140+08:00"
+  },
+  {
+    "name": "菜鸟裹裹",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:46:07.223+08:00"
+  },
+  {
+    "name": "菜鸟驿站(天一·惠泽苑店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:46:07.315+08:00"
+  },
+  {
+    "name": "菜鸟驿站(滨江花园店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:46:07.425+08:00"
+  },
+  {
+    "name": "菜鸟驿站(天一·惠泽苑店)",
+    "city": "南通市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:46:10.688+08:00"
   }
 ]
