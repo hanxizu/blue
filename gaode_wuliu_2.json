@@ -33730,5 +33730,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:30:38.498+08:00"
+  },
+  {
+    "name": "安顺大件物流",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T11:30:38.820+08:00"
+  },
+  {
+    "name": "合肥派河物流园运营管理有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:30:38.869+08:00"
+  },
+  {
+    "name": "金星物流园",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:30:38.934+08:00"
+  },
+  {
+    "name": "合肥派河物流园运营管理有限公司",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:30:42.467+08:00"
   }
 ]
