@@ -32353,5 +32353,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T16:22:17.185+08:00"
+  },
+  {
+    "name": "商装空间(厦门)装饰工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:22:17.395+08:00"
+  },
+  {
+    "name": "一辰(厦门)装饰工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:22:17.428+08:00"
+  },
+  {
+    "name": "三和会装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:22:17.461+08:00"
+  },
+  {
+    "name": "一辰(厦门)装饰工程有限公司",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:22:20.184+08:00"
+  },
+  {
+    "name": "三和会装饰",
+    "city": "厦门市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:22:20.317+08:00"
   }
 ]
