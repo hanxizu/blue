@@ -3283,5 +3283,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T22:55:17.645+08:00"
+  },
+  {
+    "name": "货架厂直销",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:17.685+08:00"
+  },
+  {
+    "name": "广州盛丰货架",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T22:55:17.721+08:00"
+  },
+  {
+    "name": "广州莫凡货架有限公司西",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:17.753+08:00"
+  },
+  {
+    "name": "广州莫凡货架有限公司西",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:20.224+08:00"
+  },
+  {
+    "name": "广州莫凡货架有限公司(南门)",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:20.255+08:00"
+  },
+  {
+    "name": "广州利源货架有限公司",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:20.289+08:00"
+  },
+  {
+    "name": "华阳货架厂",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:20.319+08:00"
+  },
+  {
+    "name": "华阳货架厂",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:55:22.961+08:00"
   }
 ]
