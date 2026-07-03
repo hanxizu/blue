@@ -24640,5 +24640,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:15:25.698+08:00"
+  },
+  {
+    "name": "顺丰速运(盈翠园店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:15:25.850+08:00"
+  },
+  {
+    "name": "佛山恒聚环车队",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:15:25.915+08:00"
+  },
+  {
+    "name": "晟驰物流(佛山站)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:15:25.960+08:00"
+  },
+  {
+    "name": "佛山恒聚环车队",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:15:28.797+08:00"
   }
 ]
