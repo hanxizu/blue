@@ -9700,5 +9700,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T15:43:26.576+08:00"
+  },
+  {
+    "name": "宏发广告装饰印务",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:43:26.725+08:00"
+  },
+  {
+    "name": "梦牌板材一站式装修管家",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T15:43:26.773+08:00"
+  },
+  {
+    "name": "金阳广告装饰(北一环路辅路)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:43:26.802+08:00"
+  },
+  {
+    "name": "鲁班熊装饰(上派店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T15:43:30.186+08:00"
   }
 ]
