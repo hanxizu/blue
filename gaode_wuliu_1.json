@@ -5992,5 +5992,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:18:25.781+08:00"
+  },
+  {
+    "name": "北京中盛凯亚货运公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:18:25.834+08:00"
+  },
+  {
+    "name": "京东物流(北京吉祥里站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:25.863+08:00"
+  },
+  {
+    "name": "京东物流(北京吉祥里站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:28.395+08:00"
+  },
+  {
+    "name": "速达物流公司长途搬家摩托车托运",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:18:28.428+08:00"
+  },
+  {
+    "name": "极兔速递(朝阳门北小街店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:28.456+08:00"
+  },
+  {
+    "name": "德邦快递(菜市口店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:28.481+08:00"
+  },
+  {
+    "name": "极兔速递(朝阳门北小街店)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:31.682+08:00"
   }
 ]
