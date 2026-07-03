@@ -26548,5 +26548,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:19:17.200+08:00"
+  },
+  {
+    "name": "北京东路38号快递室",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:17.406+08:00"
+  },
+  {
+    "name": "东部战区总医院北区快递柜",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:17.446+08:00"
+  },
+  {
+    "name": "南京财经大学北苑快递站",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:17.479+08:00"
+  },
+  {
+    "name": "北京东路38号快递室",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:20.443+08:00"
   }
 ]
