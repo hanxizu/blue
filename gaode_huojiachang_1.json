@@ -2941,5 +2941,50 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T22:54:47.505+08:00"
+  },
+  {
+    "name": "泓然展示架",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:54:47.572+08:00"
+  },
+  {
+    "name": "泓然展示架",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:54:50.235+08:00"
+  },
+  {
+    "name": "创兴工程",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T22:54:50.272+08:00"
+  },
+  {
+    "name": "振业货架工厂店",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:54:50.308+08:00"
+  },
+  {
+    "name": "振业货架工厂店",
+    "city": "广州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T22:54:52.848+08:00"
   }
 ]
