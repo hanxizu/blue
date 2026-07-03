@@ -20410,5 +20410,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:41:13.843+08:00"
+  },
+  {
+    "name": "Карго575办公室",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:41:13.940+08:00"
+  },
+  {
+    "name": "安顺·大件物流(广州店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T09:41:14.042+08:00"
+  },
+  {
+    "name": "Карго575办公室",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:41:16.862+08:00"
   }
 ]
