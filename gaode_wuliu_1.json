@@ -37744,5 +37744,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:10:03.291+08:00"
+  },
+  {
+    "name": "韵达快递(泰兴里店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:03.479+08:00"
+  },
+  {
+    "name": "京东物流(武汉长江公铁隧道店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:03.512+08:00"
+  },
+  {
+    "name": "壹米滴答·大道物流(竹叶山营业部)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:10:03.618+08:00"
+  },
+  {
+    "name": "白鲸运车·汽车托运(武汉店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 98,
+    "colorRatio": "4.27%",
+    "timestamp": "2026-07-03T10:10:06.477+08:00"
   }
 ]
