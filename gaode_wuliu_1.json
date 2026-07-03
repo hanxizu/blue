@@ -35602,5 +35602,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:06:00.836+08:00"
+  },
+  {
+    "name": "京州物流",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:06:01.171+08:00"
+  },
+  {
+    "name": "赣昌物流(广东全境精品专线)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:06:01.249+08:00"
+  },
+  {
+    "name": "可通物流(金运大道店)",
+    "city": "苏州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:06:04.957+08:00"
   }
 ]
