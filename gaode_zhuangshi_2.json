@@ -38338,5 +38338,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T16:33:03.354+08:00"
+  },
+  {
+    "name": "长沙艺创装饰设计工程有限公司",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:33:03.548+08:00"
+  },
+  {
+    "name": "湖南智尚建筑装饰工程有限公司",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:33:03.662+08:00"
+  },
+  {
+    "name": "安心修·旧房改造·店铺整装·防水补漏",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T16:33:03.766+08:00"
+  },
+  {
+    "name": "长沙艺创装饰设计工程有限公司",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T16:33:06.276+08:00"
+  },
+  {
+    "name": "湖南智尚建筑装饰工程有限公司",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:33:06.309+08:00"
+  },
+  {
+    "name": "安心修·旧房改造·店铺整装·防水补漏",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-03T16:33:06.344+08:00"
+  },
+  {
+    "name": "启源世佳装饰",
+    "city": "长沙市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:33:06.374+08:00"
   }
 ]
