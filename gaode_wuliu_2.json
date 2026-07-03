@@ -25981,5 +25981,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:18:29.072+08:00"
+  },
+  {
+    "name": "美团专送站点(普华巷店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:29.225+08:00"
+  },
+  {
+    "name": "冰块运输中心(东白菜园小区店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:18:29.273+08:00"
+  },
+  {
+    "name": "快递驿站",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:29.379+08:00"
+  },
+  {
+    "name": "顺丰速运(易发大厦店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:18:29.496+08:00"
+  },
+  {
+    "name": "顺丰速运(易发大厦店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:18:31.934+08:00"
+  },
+  {
+    "name": "淮矿航运",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:31.986+08:00"
+  },
+  {
+    "name": "顺丰速运(柳叶街道店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:18:32.049+08:00"
+  },
+  {
+    "name": "顺丰速运(三条巷店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:18:32.117+08:00"
   }
 ]
