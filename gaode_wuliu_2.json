@@ -27799,5 +27799,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T11:21:00.830+08:00"
+  },
+  {
+    "name": "上海环世捷运物流有限公司(南京分公司)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:00.977+08:00"
+  },
+  {
+    "name": "中铁快运(南京站营业部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:01.014+08:00"
+  },
+  {
+    "name": "韵达快递(大树根店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:01.127+08:00"
+  },
+  {
+    "name": "中铁快运(南京站营业部)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:03.778+08:00"
+  },
+  {
+    "name": "韵达快递(大树根店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:03.808+08:00"
+  },
+  {
+    "name": "中国邮政(锁金村邮政所)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:21:03.836+08:00"
   }
 ]
