@@ -9961,5 +9961,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:26:17.058+08:00"
+  },
+  {
+    "name": "丰巢快递柜",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:17.129+08:00"
+  },
+  {
+    "name": "韵达快递站",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:17.202+08:00"
+  },
+  {
+    "name": "圆通速递三垟分部(宏兴路店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:17.233+08:00"
+  },
+  {
+    "name": "韵达快递站",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:26:20.380+08:00"
   }
 ]
