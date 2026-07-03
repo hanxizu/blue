@@ -28996,5 +28996,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:57:58.258+08:00"
+  },
+  {
+    "name": "大连口岸物流网股份有限公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:58.559+08:00"
+  },
+  {
+    "name": "好运搬家公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T12:57:58.771+08:00"
+  },
+  {
+    "name": "好运搬家公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T12:58:01.389+08:00"
+  },
+  {
+    "name": "大连国际机场国内货运(张前路)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:58:01.428+08:00"
+  },
+  {
+    "name": "华伟物流(新型集团泉水居住区东)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:58:01.464+08:00"
+  },
+  {
+    "name": "好运搬家公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T12:58:03.976+08:00"
   }
 ]
