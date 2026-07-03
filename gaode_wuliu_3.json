@@ -11518,5 +11518,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:28:26.204+08:00"
+  },
+  {
+    "name": "圆创物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:28:26.312+08:00"
+  },
+  {
+    "name": "冠航物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:28:28.854+08:00"
+  },
+  {
+    "name": "圆创物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:28:28.886+08:00"
+  },
+  {
+    "name": "春鹏物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:28:28.919+08:00"
+  },
+  {
+    "name": "同兴物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:28:28.952+08:00"
+  },
+  {
+    "name": "冠航物流",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:28:32.040+08:00"
   }
 ]
