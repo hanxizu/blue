@@ -32290,5 +32290,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:03:38.263+08:00"
+  },
+  {
+    "name": "辽西物流(长青摩配店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:03:38.456+08:00"
+  },
+  {
+    "name": "长吉物流(天坛二街店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:38.571+08:00"
+  },
+  {
+    "name": "辽西物流元科站",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:03:38.687+08:00"
+  },
+  {
+    "name": "长吉物流(天坛二街店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:03:41.856+08:00"
   }
 ]
