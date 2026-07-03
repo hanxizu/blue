@@ -20266,5 +20266,68 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T11:09:30.113+08:00"
+  },
+  {
+    "name": "中通甄选禅城区朝安南路店",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:09:30.251+08:00"
+  },
+  {
+    "name": "运满满",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T11:09:30.283+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山市乐从建发和鸣1号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:30.316+08:00"
+  },
+  {
+    "name": "速达·大件物流托运上门取件",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:09:33.033+08:00"
+  },
+  {
+    "name": "京广速递",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:33.062+08:00"
+  },
+  {
+    "name": "极兔快递(佛山桂城叠滘网点)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:09:33.092+08:00"
+  },
+  {
+    "name": "菜鸟驿站(佛山石湾绿茵鸣苑17号店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:09:33.139+08:00"
   }
 ]
