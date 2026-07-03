@@ -26125,5 +26125,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:52:56.864+08:00"
+  },
+  {
+    "name": "晋泰物流公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 101,
+    "colorRatio": "4.40%",
+    "timestamp": "2026-07-03T12:52:59.767+08:00"
+  },
+  {
+    "name": "航鹰物流(晋江西滨分拨中心)",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:52:59.804+08:00"
+  },
+  {
+    "name": "楚记物流(福建)有限公司",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:52:59.839+08:00"
+  },
+  {
+    "name": "飞祥物流",
+    "city": "泉州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:52:59.872+08:00"
   }
 ]
