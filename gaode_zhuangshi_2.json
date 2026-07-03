@@ -20896,5 +20896,32 @@
     "colorPixels": 160,
     "colorRatio": "6.97%",
     "timestamp": "2026-07-03T16:03:02.881+08:00"
+  },
+  {
+    "name": "星屿装饰(一站式装修公司)",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:03:03.028+08:00"
+  },
+  {
+    "name": "索菲亚衣柜橱柜全屋定制(第六空间店)",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T16:03:03.061+08:00"
+  },
+  {
+    "name": "阡陌装饰镇海分部",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:03:06.432+08:00"
   }
 ]
