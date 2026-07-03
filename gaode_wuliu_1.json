@@ -48265,5 +48265,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:27:02.431+08:00"
+  },
+  {
+    "name": "中铁物资西安立诚物流中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:27:02.661+08:00"
+  },
+  {
+    "name": "陕西个个鲜果业仓配中心(西安站)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:27:02.772+08:00"
+  },
+  {
+    "name": "德邦快递(西安未央区尚苑路经营分部)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:27:02.888+08:00"
+  },
+  {
+    "name": "安顺大件物流托运中心(西安店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:27:05.884+08:00"
   }
 ]
