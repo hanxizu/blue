@@ -26413,5 +26413,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T14:30:19.139+08:00"
+  },
+  {
+    "name": "立邦官方(苏州安盛福华东装饰城)",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 379,
+    "colorRatio": "16.51%",
+    "timestamp": "2026-07-03T14:30:19.402+08:00"
+  },
+  {
+    "name": "苏州泽悦建筑装饰工程有限公司",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:30:19.501+08:00"
+  },
+  {
+    "name": "锦道装饰",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:30:19.565+08:00"
+  },
+  {
+    "name": "苏州泽悦建筑装饰工程有限公司",
+    "city": "苏州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:30:22.334+08:00"
   }
 ]
