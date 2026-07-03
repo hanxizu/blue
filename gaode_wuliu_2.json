@@ -22939,5 +22939,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:13:05.402+08:00"
+  },
+  {
+    "name": "广东南储运输管理有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 101,
+    "colorRatio": "4.40%",
+    "timestamp": "2026-07-03T11:13:05.571+08:00"
+  },
+  {
+    "name": "东村物流仓储",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:13:05.600+08:00"
+  },
+  {
+    "name": "佛山市宇昌盛运输有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:13:05.670+08:00"
+  },
+  {
+    "name": "铭扬物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:13:05.771+08:00"
+  },
+  {
+    "name": "东村物流仓储",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:13:08.398+08:00"
+  },
+  {
+    "name": "佛山市宇昌盛运输有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:13:08.431+08:00"
   }
 ]
