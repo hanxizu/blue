@@ -40723,5 +40723,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:38:25.396+08:00"
+  },
+  {
+    "name": "青岛创意亦装饰装璜工程设计有限公司",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:38:25.693+08:00"
+  },
+  {
+    "name": "顾家家居(长江东路居然店)",
+    "city": "青岛市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T16:38:28.728+08:00"
   }
 ]
