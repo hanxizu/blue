@@ -38770,5 +38770,59 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T11:39:56.371+08:00"
+  },
+  {
+    "name": "大森林全球物流(宁波分公司)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:39:56.638+08:00"
+  },
+  {
+    "name": "宁波泛亚捷运国际货运代理有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:39:56.746+08:00"
+  },
+  {
+    "name": "宁波宁波协隆国际物流有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:39:56.857+08:00"
+  },
+  {
+    "name": "顺丰速运(东部银泰城店)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 305,
+    "colorRatio": "13.29%",
+    "timestamp": "2026-07-03T11:39:56.937+08:00"
+  },
+  {
+    "name": "大森林全球物流(宁波分公司)",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:39:59.559+08:00"
+  },
+  {
+    "name": "宁波泛亚捷运国际货运代理有限公司",
+    "city": "宁波市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:39:59.654+08:00"
   }
 ]
