@@ -26620,5 +26620,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:19:23.870+08:00"
+  },
+  {
+    "name": "顺丰速运(工业大学店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:19:24.019+08:00"
+  },
+  {
+    "name": "丰巢快递柜(汇杰广场店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:24.059+08:00"
+  },
+  {
+    "name": "韩家巷营业投递部",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:24.179+08:00"
+  },
+  {
+    "name": "中共南京市交通运输局委员会",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:27.667+08:00"
   }
 ]
