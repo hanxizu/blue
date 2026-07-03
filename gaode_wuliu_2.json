@@ -25162,5 +25162,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:17:22.460+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(南京)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:17:22.615+08:00"
+  },
+  {
+    "name": "菜鸟驿站(南京玄武峨嵋路2号小艾)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:17:22.681+08:00"
+  },
+  {
+    "name": "顺丰速运(台城路店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T11:17:22.714+08:00"
+  },
+  {
+    "name": "菜鸟驿站(南京玄武峨嵋路2号小艾)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:17:25.514+08:00"
   }
 ]
