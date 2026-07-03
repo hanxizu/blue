@@ -26872,5 +26872,32 @@
     "colorPixels": 146,
     "colorRatio": "6.36%",
     "timestamp": "2026-07-03T16:13:31.910+08:00"
+  },
+  {
+    "name": "无锡艺居装饰有限公司",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:13:32.123+08:00"
+  },
+  {
+    "name": "晓袁装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T16:13:32.220+08:00"
+  },
+  {
+    "name": "乔云装饰",
+    "city": "无锡市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:13:35.648+08:00"
   }
 ]
