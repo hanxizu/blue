@@ -32236,5 +32236,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:28:24.810+08:00"
+  },
+  {
+    "name": "拼多多驿站(和谐花园店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:28:25.018+08:00"
+  },
+  {
+    "name": "菜鸟速递(合肥南七站)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:28:25.063+08:00"
+  },
+  {
+    "name": "骑寄驿站(港汇广场店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:28:25.093+08:00"
+  },
+  {
+    "name": "菜鸟速递(合肥南七站)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:28:27.905+08:00"
+  },
+  {
+    "name": "骑寄驿站(港汇广场店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:28:27.972+08:00"
+  },
+  {
+    "name": "菜鸟驿站(黄山花园店)",
+    "city": "合肥市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:28:28.019+08:00"
   }
 ]
