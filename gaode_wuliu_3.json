@@ -33172,5 +33172,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T13:04:54.566+08:00"
+  },
+  {
+    "name": "韵达快递驿站",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:54.941+08:00"
+  },
+  {
+    "name": "菜鸟驿站(沈阳砂山178号店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:54.983+08:00"
+  },
+  {
+    "name": "中通快递(五爱分部)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:04:55.013+08:00"
+  },
+  {
+    "name": "顺丰速运(解放店)",
+    "city": "沈阳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T13:04:58.057+08:00"
   }
 ]
