@@ -40975,5 +40975,32 @@
     "colorPixels": 90,
     "colorRatio": "3.92%",
     "timestamp": "2026-07-03T10:14:52.571+08:00"
+  },
+  {
+    "name": "大唐物流(横堤上街)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:14:52.839+08:00"
+  },
+  {
+    "name": "正达物流(友谊南路店)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:14:52.939+08:00"
+  },
+  {
+    "name": "大唐物流(横堤上街)",
+    "city": "武汉市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:14:55.672+08:00"
   }
 ]
