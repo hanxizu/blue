@@ -50875,5 +50875,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T12:00:32.300+08:00"
+  },
+  {
+    "name": "深圳市柏威国际科技物流有限公司长沙分公司",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:00:32.749+08:00"
+  },
+  {
+    "name": "习管家综合物流配送中心",
+    "city": "长沙市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T12:00:35.864+08:00"
   }
 ]
