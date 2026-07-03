@@ -16396,5 +16396,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T19:26:52.779+08:00"
+  },
+  {
+    "name": "潘多拉租车",
+    "city": "常州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:26:52.899+08:00"
+  },
+  {
+    "name": "迈享租车",
+    "city": "常州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:26:52.926+08:00"
+  },
+  {
+    "name": "宝铺租车",
+    "city": "常州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:26:52.952+08:00"
+  },
+  {
+    "name": "怪兽超跑",
+    "city": "常州市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T19:26:56.003+08:00"
   }
 ]
