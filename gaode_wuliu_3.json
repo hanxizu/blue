@@ -28663,5 +28663,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:57:29.239+08:00"
+  },
+  {
+    "name": "顺丰速运(龙江路店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:57:29.407+08:00"
+  },
+  {
+    "name": "慧诚物流",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:29.523+08:00"
+  },
+  {
+    "name": "辽粮储运",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:32.089+08:00"
+  },
+  {
+    "name": "顺丰速运(龙江路店)",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:57:32.119+08:00"
+  },
+  {
+    "name": "慧诚物流",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:32.152+08:00"
+  },
+  {
+    "name": "嘉顺达物流有限公司大连分公司",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:32.182+08:00"
+  },
+  {
+    "name": "慧诚物流",
+    "city": "大连市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:57:34.938+08:00"
   }
 ]
