@@ -52810,5 +52810,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T17:00:53.429+08:00"
+  },
+  {
+    "name": "山东谦语空间设计事务所",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T17:00:53.789+08:00"
+  },
+  {
+    "name": "中建八局装饰工程有限公司",
+    "city": "济南市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T17:00:56.855+08:00"
   }
 ]
