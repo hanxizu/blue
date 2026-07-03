@@ -37123,5 +37123,41 @@
     "colorPixels": 160,
     "colorRatio": "6.97%",
     "timestamp": "2026-07-03T14:50:37.501+08:00"
+  },
+  {
+    "name": "京东家装自营",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:50:37.733+08:00"
+  },
+  {
+    "name": "荣鑫不锈钢装饰(常青路)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:50:37.768+08:00"
+  },
+  {
+    "name": "美巢集团陕西装饰材料有限公司",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:50:37.803+08:00"
+  },
+  {
+    "name": "京东家装自营",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:50:40.589+08:00"
   }
 ]
