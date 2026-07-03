@@ -46726,5 +46726,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T11:53:38.300+08:00"
+  },
+  {
+    "name": "顺丰宝鹭苑驿小店",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:53:38.541+08:00"
+  },
+  {
+    "name": "菜鸟驿站(厦门禾祥西路739号店)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:53:38.660+08:00"
+  },
+  {
+    "name": "深圳市冠誉全球国际物流(厦门分公司)",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:53:38.772+08:00"
+  },
+  {
+    "name": "厦门鹏园物流有限公司",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:53:38.950+08:00"
+  },
+  {
+    "name": "顺丰宝鹭苑驿小店",
+    "city": "厦门市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:53:41.418+08:00"
   }
 ]
