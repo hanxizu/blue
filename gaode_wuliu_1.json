@@ -5875,5 +5875,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:18:17.368+08:00"
+  },
+  {
+    "name": "菜鸟速递(北京龙潭站)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:17.419+08:00"
+  },
+  {
+    "name": "北京展亿翔物流有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:18:17.451+08:00"
+  },
+  {
+    "name": "北京旭龙伟业物流有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:18:17.509+08:00"
+  },
+  {
+    "name": "北京展亿翔物流有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:18:20.179+08:00"
+  },
+  {
+    "name": "北京旭龙伟业物流有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:18:20.213+08:00"
+  },
+  {
+    "name": "安顺·物流托运公司.摩托车托运",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T09:18:20.239+08:00"
+  },
+  {
+    "name": "北京鑫阳腾达物流(汉龙)",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:18:20.267+08:00"
+  },
+  {
+    "name": "北京旭龙伟业物流有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:18:22.769+08:00"
   }
 ]
