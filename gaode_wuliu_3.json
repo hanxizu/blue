@@ -33802,5 +33802,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T13:11:00.003+08:00"
+  },
+  {
+    "name": "途安物流(商圈二路店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:00.138+08:00"
+  },
+  {
+    "name": "南昌永亿昌物流有限公司",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:00.245+08:00"
+  },
+  {
+    "name": "驿收发快递驿站(万达华府景园店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T13:11:00.339+08:00"
+  },
+  {
+    "name": "兔喜生活(吉水仓街店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T13:11:00.502+08:00"
+  },
+  {
+    "name": "途安物流(商圈二路店)",
+    "city": "南昌市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T13:11:03.270+08:00"
   }
 ]
