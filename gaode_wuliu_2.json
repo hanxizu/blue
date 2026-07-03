@@ -44494,5 +44494,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:49:10.117+08:00"
+  },
+  {
+    "name": "振川物流",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:10.399+08:00"
+  },
+  {
+    "name": "宏鼎运输",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:10.497+08:00"
+  },
+  {
+    "name": "万纬旺庄物流园",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:10.609+08:00"
+  },
+  {
+    "name": "无锡中远海运物流有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:49:10.682+08:00"
+  },
+  {
+    "name": "无锡中远海运物流有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:49:13.525+08:00"
   }
 ]
