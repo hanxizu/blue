@@ -8134,5 +8134,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T23:07:27.640+08:00"
+  },
+  {
+    "name": "双鑫货架厂(陕西直销处)",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T23:07:27.760+08:00"
+  },
+  {
+    "name": "陕西省西安市莲湖区龙腾超市货架(国亨市场C区店)",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:07:27.785+08:00"
+  },
+  {
+    "name": "中天货架西北配货中心厂价直销(西北配货中心)",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:07:27.807+08:00"
+  },
+  {
+    "name": "陕西省西安市莲湖区龙腾超市货架(国亨市场C区店)",
+    "city": "西安市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:07:30.649+08:00"
   }
 ]
