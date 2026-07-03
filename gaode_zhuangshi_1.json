@@ -43477,5 +43477,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T15:04:17.349+08:00"
+  },
+  {
+    "name": "东莞市德森装饰设计工程有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:04:17.625+08:00"
+  },
+  {
+    "name": "宝仪空间设计(东莞市)有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:04:17.747+08:00"
+  },
+  {
+    "name": "东莞市积木空间设计有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:04:17.856+08:00"
+  },
+  {
+    "name": "东莞市德森装饰设计工程有限公司",
+    "city": "东莞市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:04:20.609+08:00"
   }
 ]
