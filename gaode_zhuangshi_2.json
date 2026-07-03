@@ -21283,5 +21283,41 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-03T16:03:41.306+08:00"
+  },
+  {
+    "name": "金钥匙装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:03:41.509+08:00"
+  },
+  {
+    "name": "宁波大川装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:03:41.569+08:00"
+  },
+  {
+    "name": "舒雅装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:03:41.633+08:00"
+  },
+  {
+    "name": "超飞装饰",
+    "city": "宁波市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T16:03:44.776+08:00"
   }
 ]
