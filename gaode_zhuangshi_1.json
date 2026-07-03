@@ -37843,5 +37843,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T14:51:48.494+08:00"
+  },
+  {
+    "name": "圣都整装家居体验馆(未央店)",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 160,
+    "colorRatio": "6.97%",
+    "timestamp": "2026-07-03T14:51:48.722+08:00"
+  },
+  {
+    "name": "顾家家居一体化整家旗舰店",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-03T14:51:48.787+08:00"
+  },
+  {
+    "name": "安家装饰·整装定制",
+    "city": "西安市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:51:51.602+08:00"
   }
 ]
