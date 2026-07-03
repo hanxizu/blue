@@ -44791,5 +44791,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:49:36.653+08:00"
+  },
+  {
+    "name": "上海铁路物流有限公司(无锡南门分公司)",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:36.918+08:00"
+  },
+  {
+    "name": "无锡市建军运输服务有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:37.026+08:00"
+  },
+  {
+    "name": "速运·电瓶车物流·电动车托运",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T11:49:37.143+08:00"
+  },
+  {
+    "name": "无锡市建军运输服务有限公司",
+    "city": "无锡市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:49:39.763+08:00"
   }
 ]
