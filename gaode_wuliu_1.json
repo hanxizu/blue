@@ -55051,5 +55051,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-03T10:38:33.353+08:00"
+  },
+  {
+    "name": "德邦物流",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T10:38:33.635+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(重庆)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:38:33.743+08:00"
+  },
+  {
+    "name": "重庆星邦物流有限公司(外滩)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:38:33.854+08:00"
+  },
+  {
+    "name": "车拉车汽车轿车托运·只运汽车(重庆)",
+    "city": "重庆市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:38:36.594+08:00"
   }
 ]
