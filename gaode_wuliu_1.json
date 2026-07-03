@@ -19015,5 +19015,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T09:39:22.451+08:00"
+  },
+  {
+    "name": "广州龙运国际物流",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:22.538+08:00"
+  },
+  {
+    "name": "广州市鲸禧国际物流有限公司(广州仓)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:39:22.639+08:00"
+  },
+  {
+    "name": "丰巢快递柜(朝阳社区店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:22.742+08:00"
+  },
+  {
+    "name": "韵达快递(大兴街店)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:39:22.899+08:00"
+  },
+  {
+    "name": "广州市鲸禧国际物流有限公司(广州仓)",
+    "city": "广州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T09:39:25.539+08:00"
   }
 ]
