@@ -10654,5 +10654,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:27:14.700+08:00"
+  },
+  {
+    "name": "华运·全国大件物流托运·温州",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T12:27:14.916+08:00"
+  },
+  {
+    "name": "温州东耕进口贸易仓储物流有限公司(办公楼)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:14.977+08:00"
+  },
+  {
+    "name": "温州交运物流城市配送中心",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:15.030+08:00"
+  },
+  {
+    "name": "兔喜生活(瓯鹿幸福里店)",
+    "city": "温州市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:27:18.501+08:00"
   }
 ]
