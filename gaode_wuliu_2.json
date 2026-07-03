@@ -26404,5 +26404,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:19:03.655+08:00"
+  },
+  {
+    "name": "京东物流(南京成贤站)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:03.958+08:00"
+  },
+  {
+    "name": "韵达快递(站)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:19:03.999+08:00"
+  },
+  {
+    "name": "申通快递(成贤街店)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:19:04.080+08:00"
+  },
+  {
+    "name": "中通快递(中山北路网点)",
+    "city": "南京市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:19:07.764+08:00"
   }
 ]
