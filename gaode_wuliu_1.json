@@ -45709,5 +45709,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T10:23:00.608+08:00"
+  },
+  {
+    "name": "顺丰速运(智慧国际店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:23:00.860+08:00"
+  },
+  {
+    "name": "菜鸟驿站(菁华名门店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:00.978+08:00"
+  },
+  {
+    "name": "菜鸟驿站(西安中登家园北门店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:23:01.090+08:00"
+  },
+  {
+    "name": "中通快递(凤城六路营业厅)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T10:23:04.231+08:00"
   }
 ]
