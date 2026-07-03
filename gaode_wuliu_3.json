@@ -15694,5 +15694,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T12:36:03.575+08:00"
+  },
+  {
+    "name": "极兔速递嘉兴转运中心",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:03.721+08:00"
+  },
+  {
+    "name": "顺丰速运(祥达大厦店)",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T12:36:03.788+08:00"
+  },
+  {
+    "name": "百秋新洛杰斯物流中心",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:03.822+08:00"
+  },
+  {
+    "name": "百秋新洛杰斯物流中心",
+    "city": "嘉兴市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T12:36:06.911+08:00"
   }
 ]
