@@ -48571,5 +48571,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T16:52:28.159+08:00"
+  },
+  {
+    "name": "伟奇装饰门窗",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T16:52:28.469+08:00"
+  },
+  {
+    "name": "顾家家居(商都路红星店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T16:52:28.502+08:00"
+  },
+  {
+    "name": "卫功门窗装饰",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T16:52:28.531+08:00"
+  },
+  {
+    "name": "顾家家居(商都路红星店)",
+    "city": "郑州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 147,
+    "colorRatio": "6.41%",
+    "timestamp": "2026-07-03T16:52:31.523+08:00"
   }
 ]
