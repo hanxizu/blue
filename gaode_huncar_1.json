@@ -1015,5 +1015,68 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T18:32:26.839+08:00"
+  },
+  {
+    "name": "上海腾驾汽车租赁",
+    "city": "上海市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-03T18:32:26.879+08:00"
+  },
+  {
+    "name": "博达汇租车·豪车租赁·婚车租赁",
+    "city": "上海市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:32:26.928+08:00"
+  },
+  {
+    "name": "博达汇租车·豪车租赁·婚车租赁",
+    "city": "上海市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:32:29.394+08:00"
+  },
+  {
+    "name": "紫金婚庆",
+    "city": "上海市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:32:29.420+08:00"
+  },
+  {
+    "name": "君杰婚车婚庆婚纱一站式(静安旗舰店)",
+    "city": "上海市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:32:29.460+08:00"
+  },
+  {
+    "name": "豪嫁婚车租赁",
+    "city": "上海市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:32:29.510+08:00"
+  },
+  {
+    "name": "君杰婚车婚庆婚纱一站式(静安旗舰店)",
+    "city": "上海市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:32:32.325+08:00"
   }
 ]
