@@ -5731,5 +5731,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T09:18:03.087+08:00"
+  },
+  {
+    "name": "北京凯瑞通发物流公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T09:18:03.188+08:00"
+  },
+  {
+    "name": "所托(北京)物流有限公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T09:18:03.242+08:00"
+  },
+  {
+    "name": "北京凯瑞通发物流公司",
+    "city": "北京市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T09:18:06.138+08:00"
   }
 ]
