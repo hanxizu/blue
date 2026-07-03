@@ -5038,5 +5038,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T23:00:01.971+08:00"
+  },
+  {
+    "name": "瑞祥货架有限公司",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:00:04.585+08:00"
+  },
+  {
+    "name": "金鑫金属",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:00:04.628+08:00"
+  },
+  {
+    "name": "上海佳旗货架厂",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:00:04.668+08:00"
+  },
+  {
+    "name": "杭州柜公子展览设计有限公司",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T23:00:04.703+08:00"
+  },
+  {
+    "name": "上海佳旗货架厂",
+    "city": "杭州市",
+    "keyword": "货架厂",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T23:00:07.412+08:00"
   }
 ]
