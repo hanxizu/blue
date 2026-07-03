@@ -22966,5 +22966,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T14:23:25.886+08:00"
+  },
+  {
+    "name": "杭州索图建筑装饰设计有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:23:26.062+08:00"
+  },
+  {
+    "name": "杭州琪稷装饰材料有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:23:26.184+08:00"
+  },
+  {
+    "name": "象牙塔别墅装饰",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T14:23:26.297+08:00"
+  },
+  {
+    "name": "杭州创胶装饰材料有限公司",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T14:23:26.490+08:00"
+  },
+  {
+    "name": "家和装修",
+    "city": "杭州市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T14:23:29.907+08:00"
   }
 ]
