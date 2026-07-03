@@ -4093,5 +4093,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T15:34:53.589+08:00"
+  },
+  {
+    "name": "卓力广告",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-03T15:34:53.689+08:00"
+  },
+  {
+    "name": "创艺装饰集团(西环中心店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:34:53.730+08:00"
+  },
+  {
+    "name": "安徽五行色全案装饰设计有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:34:53.759+08:00"
+  },
+  {
+    "name": "创艺装饰集团(西环中心店)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T15:34:56.507+08:00"
+  },
+  {
+    "name": "安徽五行色全案装饰设计有限公司",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T15:34:56.542+08:00"
+  },
+  {
+    "name": "东箭装饰集团(安徽总部)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T15:34:56.580+08:00"
+  },
+  {
+    "name": "东箭装饰集团(安徽总部)",
+    "city": "合肥市",
+    "keyword": "装饰",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T15:34:59.269+08:00"
   }
 ]
