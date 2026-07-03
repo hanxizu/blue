@@ -6280,5 +6280,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T18:48:14.261+08:00"
+  },
+  {
+    "name": "雅斯顿自驾车婚车租赁(陕西总店)",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:14.324+08:00"
+  },
+  {
+    "name": "超越时尚婚车租赁",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:14.363+08:00"
+  },
+  {
+    "name": "喜尚喜鲜花婚车婚庆(南新街店)",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T18:48:14.396+08:00"
+  },
+  {
+    "name": "吉喜婚庆车队",
+    "city": "西安市",
+    "keyword": "婚车租赁",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T18:48:17.265+08:00"
   }
 ]
