@@ -17053,5 +17053,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-03T11:05:00.635+08:00"
+  },
+  {
+    "name": "顺丰速运(集成广场店)",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:00.800+08:00"
+  },
+  {
+    "name": "佛山中船货运代理有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T11:05:00.832+08:00"
+  },
+  {
+    "name": "跃达物流",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-03T11:05:00.862+08:00"
+  },
+  {
+    "name": "佛山市三盛和物流有限公司",
+    "city": "佛山市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T11:05:03.841+08:00"
   }
 ]
