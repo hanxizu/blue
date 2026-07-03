@@ -47797,5 +47797,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T10:26:10.857+08:00"
+  },
+  {
+    "name": "顺丰驿站",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:11.131+08:00"
+  },
+  {
+    "name": "西安聚邦物流服务中心",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T10:26:11.239+08:00"
+  },
+  {
+    "name": "菜鸟速递(西安朱宏路站)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:26:11.346+08:00"
+  },
+  {
+    "name": "车拉车轿车汽车托运·只运汽车(西安1店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-03T10:26:14.764+08:00"
   }
 ]
