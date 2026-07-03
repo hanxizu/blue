@@ -44638,5 +44638,23 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-03T10:21:17.467+08:00"
+  },
+  {
+    "name": "壹米滴答(西安店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-03T10:21:17.778+08:00"
+  },
+  {
+    "name": "西安同辉物流有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-03T10:21:21.158+08:00"
   }
 ]
