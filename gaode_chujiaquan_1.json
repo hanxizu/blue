@@ -19897,5 +19897,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-03T22:36:13.790+08:00"
+  },
+  {
+    "name": "思怡到家",
+    "city": "石家庄市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-03T22:36:13.886+08:00"
+  },
+  {
+    "name": "京泓家政",
+    "city": "石家庄市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:36:13.917+08:00"
+  },
+  {
+    "name": "我家洁康家政(长安店)",
+    "city": "石家庄市",
+    "keyword": "除甲醛",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T22:36:13.949+08:00"
+  },
+  {
+    "name": "宏迪化玻化工地矿检测中心",
+    "city": "石家庄市",
+    "keyword": "除甲醛",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-03T22:36:16.919+08:00"
   }
 ]
