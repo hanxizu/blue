@@ -54214,5 +54214,41 @@
     "colorPixels": 313,
     "colorRatio": "13.64%",
     "timestamp": "2026-07-03T10:36:07.857+08:00"
+  },
+  {
+    "name": "顺丰速运(通济南坊店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 313,
+    "colorRatio": "13.64%",
+    "timestamp": "2026-07-03T10:36:08.203+08:00"
+  },
+  {
+    "name": "顺丰速运(回民街形象店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:36:08.276+08:00"
+  },
+  {
+    "name": "陕西交通运输实业有限公司",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:36:08.339+08:00"
+  },
+  {
+    "name": "顺丰速运(回民街形象店)",
+    "city": "西安市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T10:36:11.308+08:00"
   }
 ]
