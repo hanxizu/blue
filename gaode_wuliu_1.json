@@ -17512,5 +17512,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-03T09:36:04.598+08:00"
+  },
+  {
+    "name": "康达尔运输有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:36:04.680+08:00"
+  },
+  {
+    "name": "龙兴物流(广东省专线店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:36:04.780+08:00"
+  },
+  {
+    "name": "康达尔运输有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:36:07.299+08:00"
+  },
+  {
+    "name": "龙兴物流(广东省专线店)",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:36:07.348+08:00"
+  },
+  {
+    "name": "深圳市鑫旺搬迁有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T09:36:07.399+08:00"
+  },
+  {
+    "name": "八达盛物流",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-03T09:36:07.425+08:00"
+  },
+  {
+    "name": "深圳市鑫旺搬迁有限公司",
+    "city": "深圳市",
+    "keyword": "运输",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-03T09:36:10.049+08:00"
   }
 ]
