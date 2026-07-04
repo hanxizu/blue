@@ -34801,5 +34801,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:00:22.282+08:00"
+  },
+  {
+    "name": "福建节度律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:00:22.463+08:00"
+  },
+  {
+    "name": "福建立恩律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:00:22.493+08:00"
+  },
+  {
+    "name": "福建节度律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:00:25.208+08:00"
+  },
+  {
+    "name": "福建立恩律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:00:25.242+08:00"
+  },
+  {
+    "name": "福建沃博律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:00:25.276+08:00"
+  },
+  {
+    "name": "福建双美律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:00:25.309+08:00"
   }
 ]
