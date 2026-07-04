@@ -27574,5 +27574,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T13:47:58.939+08:00"
+  },
+  {
+    "name": "山东德孚威律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:47:59.159+08:00"
+  },
+  {
+    "name": "山东汉耀律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:47:59.194+08:00"
+  },
+  {
+    "name": "山东求新(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:47:59.232+08:00"
+  },
+  {
+    "name": "山东盛伊恒律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:48:02.180+08:00"
   }
 ]
