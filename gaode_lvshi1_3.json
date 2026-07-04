@@ -21778,5 +21778,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T13:37:32.952+08:00"
+  },
+  {
+    "name": "河南誉坤律师事务所",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-04T13:37:33.139+08:00"
+  },
+  {
+    "name": "河南省法律援助中心",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:37:33.193+08:00"
+  },
+  {
+    "name": "河南国丰律师事务所",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:37:36.177+08:00"
   }
 ]
