@@ -42181,5 +42181,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:13:15.796+08:00"
+  },
+  {
+    "name": "广东精诚粤衡律师事务所",
+    "city": "珠海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:13:16.078+08:00"
+  },
+  {
+    "name": "北京市炜衡(珠海)律师事务所",
+    "city": "珠海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T14:13:16.159+08:00"
+  },
+  {
+    "name": "广东善征律师事务所",
+    "city": "珠海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:13:16.202+08:00"
+  },
+  {
+    "name": "广东善征律师事务所",
+    "city": "珠海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:13:19.204+08:00"
   }
 ]
