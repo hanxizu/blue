@@ -15208,5 +15208,32 @@
     "colorPixels": 88,
     "colorRatio": "3.83%",
     "timestamp": "2026-07-04T08:23:01.191+08:00"
+  },
+  {
+    "name": "冠领律所资深律师团(深圳)",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T08:23:01.314+08:00"
+  },
+  {
+    "name": "广东卓田律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T08:23:01.382+08:00"
+  },
+  {
+    "name": "广东顺创律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:23:04.585+08:00"
   }
 ]
