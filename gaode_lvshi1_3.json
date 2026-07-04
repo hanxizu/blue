@@ -29878,5 +29878,77 @@
     "colorPixels": 102,
     "colorRatio": "4.44%",
     "timestamp": "2026-07-04T13:51:29.201+08:00"
+  },
+  {
+    "name": "天航律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:51:29.425+08:00"
+  },
+  {
+    "name": "山东高衡律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:51:29.475+08:00"
+  },
+  {
+    "name": "山东道致律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:51:29.533+08:00"
+  },
+  {
+    "name": "天航律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:51:32.088+08:00"
+  },
+  {
+    "name": "山东高衡律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:51:32.123+08:00"
+  },
+  {
+    "name": "山东道致律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:51:32.159+08:00"
+  },
+  {
+    "name": "山东智富律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:51:32.194+08:00"
+  },
+  {
+    "name": "北京市国达(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:51:32.227+08:00"
   }
 ]
