@@ -16315,5 +16315,59 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-04T15:06:05.413+08:00"
+  },
+  {
+    "name": "旷真律师事务所(无锡所)",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-04T15:06:05.509+08:00"
+  },
+  {
+    "name": "江苏天豪律师事务所(苏州分所)",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:06:05.539+08:00"
+  },
+  {
+    "name": "旷真律师事务所(无锡所)",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-04T15:06:07.970+08:00"
+  },
+  {
+    "name": "江苏天豪律师事务所(苏州分所)",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:06:08.012+08:00"
+  },
+  {
+    "name": "南昌市法律服务中心",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:06:08.067+08:00"
+  },
+  {
+    "name": "江苏天豪律师事务所(苏州分所)",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:06:10.529+08:00"
   }
 ]
