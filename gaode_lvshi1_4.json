@@ -1285,5 +1285,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:40:30.796+08:00"
+  },
+  {
+    "name": "嘉恒法律事务(新南街店)",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:40:30.843+08:00"
+  },
+  {
+    "name": "泉州市泉港区中全法律服务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T14:40:30.880+08:00"
+  },
+  {
+    "name": "义言法律服务",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:40:30.919+08:00"
+  },
+  {
+    "name": "联胜法律",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:40:30.953+08:00"
+  },
+  {
+    "name": "福建正成功律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:40:34.051+08:00"
   }
 ]
