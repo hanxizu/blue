@@ -45592,5 +45592,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T12:39:08.408+08:00"
+  },
+  {
+    "name": "铭盛法律",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:39:08.638+08:00"
+  },
+  {
+    "name": "法律咨询工作室",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:39:08.670+08:00"
+  },
+  {
+    "name": "和苑街道公共法律服务工作站",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:39:08.703+08:00"
+  },
+  {
+    "name": "铭盛法律",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:39:11.335+08:00"
   }
 ]
