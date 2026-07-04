@@ -3607,5 +3607,86 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:45:03.162+08:00"
+  },
+  {
+    "name": "辽宁俊衡泽律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:45:03.208+08:00"
+  },
+  {
+    "name": "辽宁同振律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:03.240+08:00"
+  },
+  {
+    "name": "金普新区明法典法律服务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:03.284+08:00"
+  },
+  {
+    "name": "大连市中山区法律援助中心",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:03.341+08:00"
+  },
+  {
+    "name": "辽宁同振律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:05.917+08:00"
+  },
+  {
+    "name": "金普新区明法典法律服务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:05.951+08:00"
+  },
+  {
+    "name": "大连市中山区法律援助中心",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:05.987+08:00"
+  },
+  {
+    "name": "辽宁当责律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:06.021+08:00"
+  },
+  {
+    "name": "金普新区明法典法律服务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:08.420+08:00"
   }
 ]
