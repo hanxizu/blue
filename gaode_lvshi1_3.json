@@ -46861,5 +46861,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:22:54.522+08:00"
+  },
+  {
+    "name": "常州市天宁区城东法律服务所",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:22:54.790+08:00"
+  },
+  {
+    "name": "金科法律",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:22:54.829+08:00"
+  },
+  {
+    "name": "江苏禾邦律师事务所",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:22:54.885+08:00"
+  },
+  {
+    "name": "江苏禾邦律师事务所",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:22:57.836+08:00"
   }
 ]
