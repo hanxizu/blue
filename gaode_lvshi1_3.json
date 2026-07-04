@@ -40543,5 +40543,59 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-04T14:10:00.073+08:00"
+  },
+  {
+    "name": "永嘉县阳光法律服务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:10:00.276+08:00"
+  },
+  {
+    "name": "浙江联冠律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T14:10:00.306+08:00"
+  },
+  {
+    "name": "永嘉县阳光法律服务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:10:02.937+08:00"
+  },
+  {
+    "name": "浙江联冠律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T14:10:02.973+08:00"
+  },
+  {
+    "name": "北京华泰(温州)律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T14:10:03.008+08:00"
+  },
+  {
+    "name": "北京华泰(温州)律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T14:10:05.500+08:00"
   }
 ]
