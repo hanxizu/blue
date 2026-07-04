@@ -23236,5 +23236,23 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-04T08:37:33.015+08:00"
+  },
+  {
+    "name": "广东信通律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:37:33.162+08:00"
+  },
+  {
+    "name": "广东周黄罗律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:37:36.696+08:00"
   }
 ]
