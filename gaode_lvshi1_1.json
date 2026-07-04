@@ -41470,5 +41470,86 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T10:50:40.251+08:00"
+  },
+  {
+    "name": "北京盈理(杭州)律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T10:50:40.417+08:00"
+  },
+  {
+    "name": "浙江华浙律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T10:50:40.440+08:00"
+  },
+  {
+    "name": "百君(杭州)律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T10:50:40.467+08:00"
+  },
+  {
+    "name": "浙江君物恒律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T10:50:40.494+08:00"
+  },
+  {
+    "name": "浙江君物恒律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T10:50:42.814+08:00"
+  },
+  {
+    "name": "浙江大才申律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T10:50:42.848+08:00"
+  },
+  {
+    "name": "浙江本邦律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T10:50:42.877+08:00"
+  },
+  {
+    "name": "浙江永大(杭州)律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T10:50:42.906+08:00"
+  },
+  {
+    "name": "浙江君物恒律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T10:50:45.973+08:00"
   }
 ]
