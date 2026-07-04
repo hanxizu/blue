@@ -38068,5 +38068,59 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-04T12:25:58.274+08:00"
+  },
+  {
+    "name": "法律援助中心",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:58.472+08:00"
+  },
+  {
+    "name": "安徽金亚太刑事辩护",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T12:26:00.828+08:00"
+  },
+  {
+    "name": "法律援助中心",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:26:00.860+08:00"
+  },
+  {
+    "name": "安徽律师事务所法律咨询工作站",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:26:00.897+08:00"
+  },
+  {
+    "name": "安徽律师法律咨询工作站",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:26:00.927+08:00"
+  },
+  {
+    "name": "安徽金亚太刑事辩护",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T12:26:03.382+08:00"
   }
 ]
