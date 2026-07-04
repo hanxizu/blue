@@ -13822,5 +13822,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T13:23:38.969+08:00"
+  },
+  {
+    "name": "山东青凯律师事务所(崂山)",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:23:39.090+08:00"
+  },
+  {
+    "name": "山东华梦(青岛)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:23:39.133+08:00"
+  },
+  {
+    "name": "青岛市城阳区人民法院立案诉服务中心",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:23:39.164+08:00"
+  },
+  {
+    "name": "山东华梦(青岛)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:23:42.061+08:00"
   }
 ]
