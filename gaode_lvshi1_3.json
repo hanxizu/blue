@@ -30769,5 +30769,68 @@
     "colorPixels": 91,
     "colorRatio": "3.97%",
     "timestamp": "2026-07-04T13:53:08.322+08:00"
+  },
+  {
+    "name": "北京市盈科(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T13:53:08.538+08:00"
+  },
+  {
+    "name": "上海拓谱(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:53:08.590+08:00"
+  },
+  {
+    "name": "北京市盈科(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T13:53:11.048+08:00"
+  },
+  {
+    "name": "上海拓谱(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:53:11.082+08:00"
+  },
+  {
+    "name": "明察律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:53:11.122+08:00"
+  },
+  {
+    "name": "山东海金沙律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:53:11.157+08:00"
+  },
+  {
+    "name": "明察律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:53:13.775+08:00"
   }
 ]
