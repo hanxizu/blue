@@ -48130,5 +48130,32 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-04T14:24:59.627+08:00"
+  },
+  {
+    "name": "睿合法律",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:24:59.864+08:00"
+  },
+  {
+    "name": "江苏云澜律师(无锡所)",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 125,
+    "colorRatio": "5.45%",
+    "timestamp": "2026-07-04T14:24:59.896+08:00"
+  },
+  {
+    "name": "睿合法律",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:25:02.559+08:00"
   }
 ]
