@@ -52864,5 +52864,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T11:12:40.451+08:00"
+  },
+  {
+    "name": "江西明略律师事务所",
+    "city": "武汉市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:12:40.711+08:00"
+  },
+  {
+    "name": "江西吉宏律师事务所",
+    "city": "武汉市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:12:40.745+08:00"
+  },
+  {
+    "name": "江西赣深(永丰)律师事务所",
+    "city": "武汉市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T11:12:40.776+08:00"
+  },
+  {
+    "name": "江西遂龙律师事务所",
+    "city": "武汉市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:12:44.596+08:00"
   }
 ]
