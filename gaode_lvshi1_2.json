@@ -40444,5 +40444,41 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-04T12:30:40.277+08:00"
+  },
+  {
+    "name": "北京九稳律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T12:30:40.477+08:00"
+  },
+  {
+    "name": "北京九稳律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T12:30:43.103+08:00"
+  },
+  {
+    "name": "天津安锴律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:30:43.138+08:00"
+  },
+  {
+    "name": "天津安锴律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:30:45.571+08:00"
   }
 ]
