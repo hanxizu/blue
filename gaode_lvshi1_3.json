@@ -3481,5 +3481,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T13:05:53.206+08:00"
+  },
+  {
+    "name": "城贡法律咨询",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:05:53.250+08:00"
+  },
+  {
+    "name": "福建旭丰律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T13:05:53.283+08:00"
+  },
+  {
+    "name": "福建邦赫律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:05:53.319+08:00"
+  },
+  {
+    "name": "信法法律事务中心(集美分部)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:05:56.503+08:00"
   }
 ]
