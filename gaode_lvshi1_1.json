@@ -4399,5 +4399,23 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-04T08:04:06.688+08:00"
+  },
+  {
+    "name": "上海市浩信律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:04:06.781+08:00"
+  },
+  {
+    "name": "上海沪师律师事务所(沪师上海总部)",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T08:04:09.757+08:00"
   }
 ]
