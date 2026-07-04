@@ -48436,5 +48436,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T12:45:45.081+08:00"
+  },
+  {
+    "name": "宁波市镇海区海雄法律服务所(工农小区店)",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:45:45.373+08:00"
+  },
+  {
+    "name": "代写诉状",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:45:45.420+08:00"
+  },
+  {
+    "name": "甬盛法律",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:45:45.451+08:00"
+  },
+  {
+    "name": "浙江泽大(宁波)律师事务所",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T12:45:48.572+08:00"
   }
 ]
