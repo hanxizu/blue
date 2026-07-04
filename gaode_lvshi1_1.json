@@ -19348,5 +19348,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T08:30:39.119+08:00"
+  },
+  {
+    "name": "北京市京都(深圳)律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T08:30:39.255+08:00"
+  },
+  {
+    "name": "北京浩天(深圳)律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:30:39.291+08:00"
+  },
+  {
+    "name": "广东康时盛律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:30:42.171+08:00"
   }
 ]
