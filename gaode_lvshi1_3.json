@@ -49696,5 +49696,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:28:32.765+08:00"
+  },
+  {
+    "name": "启东市鼎盛法律服务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:33.078+08:00"
+  },
+  {
+    "name": "江苏叠慧律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:33.114+08:00"
+  },
+  {
+    "name": "江苏凌鸿律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:28:33.162+08:00"
+  },
+  {
+    "name": "江苏叠慧律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:36.258+08:00"
   }
 ]
