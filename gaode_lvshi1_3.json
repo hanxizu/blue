@@ -52936,5 +52936,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:34:21.733+08:00"
+  },
+  {
+    "name": "福建协进律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:34:24.743+08:00"
+  },
+  {
+    "name": "华商(泉州)律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:34:24.778+08:00"
+  },
+  {
+    "name": "福建安凯律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:34:24.811+08:00"
+  },
+  {
+    "name": "汕头马小川律师",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-04T14:34:24.842+08:00"
+  },
+  {
+    "name": "北京市盈科(汕头)律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T14:34:27.181+08:00"
   }
 ]
