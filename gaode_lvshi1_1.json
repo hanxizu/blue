@@ -3427,5 +3427,59 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-04T08:02:22.328+08:00"
+  },
+  {
+    "name": "上海宏泽大律师事务所(专业律师团队)",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T08:02:22.378+08:00"
+  },
+  {
+    "name": "久胜律师·资深主任团队",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:02:22.410+08:00"
+  },
+  {
+    "name": "上海宏泽大律师事务所(专业律师团队)",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T08:02:24.986+08:00"
+  },
+  {
+    "name": "久胜律师·资深主任团队",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:02:25.053+08:00"
+  },
+  {
+    "name": "上海富誉律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T08:02:25.080+08:00"
+  },
+  {
+    "name": "上海市杰豪律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:02:27.379+08:00"
   }
 ]
