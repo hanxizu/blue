@@ -12373,5 +12373,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T08:16:21.591+08:00"
+  },
+  {
+    "name": "上海市欣隆律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:16:21.698+08:00"
+  },
+  {
+    "name": "蓝盾法律(驻上海办事处)",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:16:21.726+08:00"
+  },
+  {
+    "name": "上海春天律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:16:21.753+08:00"
+  },
+  {
+    "name": "上海商瀚律师嘉定所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:16:25.017+08:00"
   }
 ]
