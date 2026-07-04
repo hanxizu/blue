@@ -17161,5 +17161,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:28:31.783+08:00"
+  },
+  {
+    "name": "山东肇鉴律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:28:31.901+08:00"
+  },
+  {
+    "name": "山东青博(黄岛)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T13:28:34.844+08:00"
   }
 ]
