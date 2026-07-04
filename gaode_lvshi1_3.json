@@ -49372,5 +49372,77 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:28:05.295+08:00"
+  },
+  {
+    "name": "江苏众瓴律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:05.534+08:00"
+  },
+  {
+    "name": "江苏江花律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:05.570+08:00"
+  },
+  {
+    "name": "江苏平帆律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T14:28:05.611+08:00"
+  },
+  {
+    "name": "江苏平帆律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T14:28:08.097+08:00"
+  },
+  {
+    "name": "江苏通成律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:28:08.126+08:00"
+  },
+  {
+    "name": "江苏启星律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:08.157+08:00"
+  },
+  {
+    "name": "姜灶法律服务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:28:08.186+08:00"
+  },
+  {
+    "name": "姜灶法律服务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:28:10.705+08:00"
   }
 ]
