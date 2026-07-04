@@ -15757,5 +15757,32 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T08:24:26.571+08:00"
+  },
+  {
+    "name": "壹号律师事务所(深圳所)",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-04T08:24:26.693+08:00"
+  },
+  {
+    "name": "广东聚生缘律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:24:26.726+08:00"
+  },
+  {
+    "name": "广东盛放法律咨询",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:24:29.997+08:00"
   }
 ]
