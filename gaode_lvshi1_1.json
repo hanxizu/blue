@@ -31957,5 +31957,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T08:55:41.082+08:00"
+  },
+  {
+    "name": "北京策略(广州)律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T08:55:41.327+08:00"
+  },
+  {
+    "name": "广东明境律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:55:44.649+08:00"
   }
 ]
