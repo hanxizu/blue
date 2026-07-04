@@ -15694,5 +15694,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T08:24:15.918+08:00"
+  },
+  {
+    "name": "广和律师事务所(官方所)",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:24:16.035+08:00"
+  },
+  {
+    "name": "崇璟律师事务所·法律咨询(龙岗店)",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T08:24:19.424+08:00"
   }
 ]
