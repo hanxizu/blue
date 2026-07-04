@@ -20617,5 +20617,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T15:13:03.972+08:00"
+  },
+  {
+    "name": "桥西区志慧法律咨询中心",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:13:04.092+08:00"
+  },
+  {
+    "name": "河北东方光明律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:13:04.124+08:00"
+  },
+  {
+    "name": "河北圣央岚图律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:13:07.143+08:00"
   }
 ]
