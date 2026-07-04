@@ -27025,5 +27025,23 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-04T13:47:06.255+08:00"
+  },
+  {
+    "name": "山东有誉律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T13:47:06.415+08:00"
+  },
+  {
+    "name": "重庆信豪(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T13:47:10.186+08:00"
   }
 ]
