@@ -44953,5 +44953,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T12:38:00.253+08:00"
+  },
+  {
+    "name": "新来律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T12:38:00.500+08:00"
+  },
+  {
+    "name": "山东景康律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:38:00.567+08:00"
+  },
+  {
+    "name": "天津锋石律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:38:00.601+08:00"
+  },
+  {
+    "name": "重庆明觉律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:38:03.629+08:00"
   }
 ]
