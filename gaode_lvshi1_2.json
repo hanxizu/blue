@@ -11050,5 +11050,86 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T11:36:06.393+08:00"
+  },
+  {
+    "name": "重庆渝一律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:36:06.477+08:00"
+  },
+  {
+    "name": "重庆非子律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:36:06.503+08:00"
+  },
+  {
+    "name": "北京天驰君泰(重庆)律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:36:06.530+08:00"
+  },
+  {
+    "name": "重庆非子律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:36:08.870+08:00"
+  },
+  {
+    "name": "北京天驰君泰(重庆)律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:36:08.904+08:00"
+  },
+  {
+    "name": "重庆万诚律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:36:08.932+08:00"
+  },
+  {
+    "name": "上海兰迪(重庆)律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:36:08.963+08:00"
+  },
+  {
+    "name": "重庆坤典律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:36:08.989+08:00"
+  },
+  {
+    "name": "重庆非子律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:36:11.892+08:00"
   }
 ]
