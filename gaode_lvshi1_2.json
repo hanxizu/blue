@@ -10771,5 +10771,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T11:35:39.351+08:00"
+  },
+  {
+    "name": "重庆润璋律师事所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:35:41.721+08:00"
+  },
+  {
+    "name": "北京嘉潍(重庆)律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T11:35:41.748+08:00"
+  },
+  {
+    "name": "旷真律师事务所(重庆所)",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-04T11:35:41.807+08:00"
+  },
+  {
+    "name": "重庆润璋律师事所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:35:44.792+08:00"
   }
 ]
