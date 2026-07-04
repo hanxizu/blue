@@ -29842,5 +29842,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T08:51:11.040+08:00"
+  },
+  {
+    "name": "广东省法律援助局",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:51:11.230+08:00"
+  },
+  {
+    "name": "广州市荔湾区龙津法律服务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:51:11.261+08:00"
+  },
+  {
+    "name": "广东省法律援助局",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:51:13.930+08:00"
+  },
+  {
+    "name": "广州市荔湾区龙津法律服务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:51:13.974+08:00"
+  },
+  {
+    "name": "广东敬思律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:51:14.006+08:00"
+  },
+  {
+    "name": "广东三佛律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 121,
+    "colorRatio": "5.27%",
+    "timestamp": "2026-07-04T08:51:16.745+08:00"
   }
 ]
