@@ -47905,5 +47905,59 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-04T14:24:34.548+08:00"
+  },
+  {
+    "name": "钟楼区卜弋法律服务所",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:24:34.776+08:00"
+  },
+  {
+    "name": "明睿律师团队(江阴店)",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-04T14:24:34.804+08:00"
+  },
+  {
+    "name": "明睿律师团队(江阴店)",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-04T14:24:37.341+08:00"
+  },
+  {
+    "name": "江苏钟山明镜(靖江)律师事务所",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T14:24:37.381+08:00"
+  },
+  {
+    "name": "广西龙登律师事务所",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:24:37.418+08:00"
+  },
+  {
+    "name": "江苏钟山明镜(靖江)律师事务所",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T14:24:39.903+08:00"
   }
 ]
