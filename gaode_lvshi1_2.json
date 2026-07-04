@@ -37870,5 +37870,86 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-04T12:25:40.062+08:00"
+  },
+  {
+    "name": "正律法律咨询(小庙店)",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:40.260+08:00"
+  },
+  {
+    "name": "正恒法律咨询",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:40.292+08:00"
+  },
+  {
+    "name": "律卫士法律咨询(肥东店)",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:40.324+08:00"
+  },
+  {
+    "name": "正律法律咨询(小庙店)",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:42.975+08:00"
+  },
+  {
+    "name": "正恒法律咨询",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:43.008+08:00"
+  },
+  {
+    "name": "律卫士法律咨询(肥东店)",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:43.040+08:00"
+  },
+  {
+    "name": "安徽瀛师律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:43.074+08:00"
+  },
+  {
+    "name": "安徽信天律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:25:43.106+08:00"
+  },
+  {
+    "name": "安徽徽洲律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T12:25:45.690+08:00"
   }
 ]
