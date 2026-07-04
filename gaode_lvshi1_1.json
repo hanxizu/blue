@@ -17323,5 +17323,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T08:27:00.849+08:00"
+  },
+  {
+    "name": "上海市方达(深圳)律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T08:27:00.994+08:00"
+  },
+  {
+    "name": "广东德博律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:27:01.030+08:00"
+  },
+  {
+    "name": "广东君诚律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:27:01.095+08:00"
+  },
+  {
+    "name": "崇璟律师事务所·法律咨询(恒明珠店)",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T08:27:04.463+08:00"
   }
 ]
