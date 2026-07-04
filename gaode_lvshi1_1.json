@@ -30652,5 +30652,23 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T08:52:56.785+08:00"
+  },
+  {
+    "name": "广东法导(广州)律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T08:52:57.019+08:00"
+  },
+  {
+    "name": "广东金辩律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T08:53:00.508+08:00"
   }
 ]
