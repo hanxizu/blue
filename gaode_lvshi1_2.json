@@ -28429,5 +28429,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T12:08:59.887+08:00"
+  },
+  {
+    "name": "更和更法律咨询(江宁店)",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-04T12:09:00.029+08:00"
+  },
+  {
+    "name": "江苏森远律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:09:00.064+08:00"
+  },
+  {
+    "name": "江苏泰有律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:09:00.105+08:00"
+  },
+  {
+    "name": "江苏森远律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:09:02.578+08:00"
+  },
+  {
+    "name": "江苏泰有律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:09:02.607+08:00"
+  },
+  {
+    "name": "江苏任尔律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:09:02.633+08:00"
+  },
+  {
+    "name": "江苏泰有律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:09:05.241+08:00"
   }
 ]
