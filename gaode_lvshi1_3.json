@@ -53269,5 +53269,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:34:56.244+08:00"
+  },
+  {
+    "name": "北京雷石(泉州)律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:34:56.531+08:00"
+  },
+  {
+    "name": "福建泉闽律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:34:56.618+08:00"
+  },
+  {
+    "name": "律诚法务",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:34:56.662+08:00"
+  },
+  {
+    "name": "福建泉闽律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:34:59.751+08:00"
   }
 ]
