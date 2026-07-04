@@ -18889,5 +18889,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:31:16.526+08:00"
+  },
+  {
+    "name": "山东国辩律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:31:16.701+08:00"
+  },
+  {
+    "name": "青岛西海岸正道法律服务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:31:16.775+08:00"
+  },
+  {
+    "name": "昌森律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:31:16.817+08:00"
+  },
+  {
+    "name": "山东海金州律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:31:20.111+08:00"
   }
 ]
