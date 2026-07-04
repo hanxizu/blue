@@ -14839,5 +14839,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:25:01.742+08:00"
+  },
+  {
+    "name": "广东君信经纶君厚律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:25:01.826+08:00"
+  },
+  {
+    "name": "盈科律师事务所华南区总部",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T13:25:01.856+08:00"
+  },
+  {
+    "name": "盈科律师事务所华南区总部",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T13:25:04.423+08:00"
+  },
+  {
+    "name": "山东德沐德律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T13:25:04.459+08:00"
+  },
+  {
+    "name": "广东闻彰律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:25:04.504+08:00"
+  },
+  {
+    "name": "盈科律师事务所华南区总部",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T13:25:07.008+08:00"
   }
 ]
