@@ -40966,5 +40966,32 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T12:31:40.882+08:00"
+  },
+  {
+    "name": "天津行安律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:31:41.060+08:00"
+  },
+  {
+    "name": "天津观典律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:31:41.133+08:00"
+  },
+  {
+    "name": "天津景贤律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:31:43.907+08:00"
   }
 ]
