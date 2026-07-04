@@ -30886,5 +30886,32 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-04T13:53:19.528+08:00"
+  },
+  {
+    "name": "山东鲁有律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:53:19.869+08:00"
+  },
+  {
+    "name": "山东友胜律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-04T13:53:19.907+08:00"
+  },
+  {
+    "name": "济南市市中区公共法律服务中心",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:53:23.505+08:00"
   }
 ]
