@@ -8242,5 +8242,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:52:35.769+08:00"
+  },
+  {
+    "name": "北京市邦盛(沈阳)律师事务所",
+    "city": "沈阳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T14:52:35.823+08:00"
+  },
+  {
+    "name": "悦群法务工作室(海棠小区店)",
+    "city": "沈阳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:52:38.201+08:00"
+  },
+  {
+    "name": "辽宁德枫律师事务所",
+    "city": "沈阳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:52:38.234+08:00"
+  },
+  {
+    "name": "北京市邦盛(沈阳)律师事务所",
+    "city": "沈阳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T14:52:38.262+08:00"
+  },
+  {
+    "name": "辽宁君玺律师事务所",
+    "city": "沈阳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:52:38.293+08:00"
+  },
+  {
+    "name": "悦群法务工作室(海棠小区店)",
+    "city": "沈阳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:52:41.260+08:00"
   }
 ]
