@@ -40165,5 +40165,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:09:23.694+08:00"
+  },
+  {
+    "name": "浙江韬衡律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:09:23.910+08:00"
+  },
+  {
+    "name": "浙江驰明律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:09:23.943+08:00"
+  },
+  {
+    "name": "上海光盛大(温州)律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T14:09:23.974+08:00"
+  },
+  {
+    "name": "浙江驰明律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:09:26.808+08:00"
   }
 ]
