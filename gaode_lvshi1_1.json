@@ -40048,5 +40048,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-04T09:10:11.774+08:00"
+  },
+  {
+    "name": "北京市安博(广州)律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T09:10:13.401+08:00"
+  },
+  {
+    "name": "钟村街南奥居委公共法律服务律师工作站",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:10:13.880+08:00"
+  },
+  {
+    "name": "广东纬韬律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:10:14.102+08:00"
+  },
+  {
+    "name": "广东骏道律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T09:10:17.762+08:00"
   }
 ]
