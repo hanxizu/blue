@@ -28006,5 +28006,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T08:45:42.436+08:00"
+  },
+  {
+    "name": "周文斌法律咨询周文斌律师团队(南山店)",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T08:45:42.704+08:00"
+  },
+  {
+    "name": "腾讯司法调证中心",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:45:42.730+08:00"
+  },
+  {
+    "name": "艾比利律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:45:45.493+08:00"
   }
 ]
