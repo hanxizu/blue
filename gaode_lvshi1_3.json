@@ -2896,5 +2896,68 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-04T13:04:55.425+08:00"
+  },
+  {
+    "name": "广东以泰律师事务所(越秀城市广场南塔店)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:04:55.514+08:00"
+  },
+  {
+    "name": "广东广永律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:04:55.549+08:00"
+  },
+  {
+    "name": "广东以泰律师事务所(越秀城市广场南塔店)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:04:57.958+08:00"
+  },
+  {
+    "name": "广东广永律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:04:57.996+08:00"
+  },
+  {
+    "name": "广东裁成律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:04:58.030+08:00"
+  },
+  {
+    "name": "广东中粤云天律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:04:58.059+08:00"
+  },
+  {
+    "name": "广东以泰律师事务所(越秀城市广场南塔店)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:05:01.246+08:00"
   }
 ]
