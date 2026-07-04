@@ -1663,5 +1663,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T13:03:05.644+08:00"
+  },
+  {
+    "name": "北京蓝鹏(厦门)律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:03:05.681+08:00"
+  },
+  {
+    "name": "福建嘉禾嘉律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:03:05.712+08:00"
+  },
+  {
+    "name": "福建通久律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:03:05.757+08:00"
+  },
+  {
+    "name": "广东兆科律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T13:03:08.818+08:00"
   }
 ]
