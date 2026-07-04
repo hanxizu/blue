@@ -28438,5 +28438,59 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-04T13:49:10.270+08:00"
+  },
+  {
+    "name": "北京四海律师团队",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T13:49:10.448+08:00"
+  },
+  {
+    "name": "律视微言·上海沪师(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T13:49:10.477+08:00"
+  },
+  {
+    "name": "山东青博(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 98,
+    "colorRatio": "4.27%",
+    "timestamp": "2026-07-04T13:49:13.188+08:00"
+  },
+  {
+    "name": "北京市君致(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:49:13.226+08:00"
+  },
+  {
+    "name": "山东信力源律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:49:13.261+08:00"
+  },
+  {
+    "name": "山东青博(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T13:49:15.858+08:00"
   }
 ]
