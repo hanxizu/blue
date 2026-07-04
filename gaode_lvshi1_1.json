@@ -11752,5 +11752,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T08:15:23.010+08:00"
+  },
+  {
+    "name": "上海清知律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:15:23.098+08:00"
+  },
+  {
+    "name": "上海市跃平律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:15:23.204+08:00"
+  },
+  {
+    "name": "北京天驰君泰律师事务所(上海分所)",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:15:26.129+08:00"
   }
 ]
