@@ -5146,5 +5146,41 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-04T08:05:20.097+08:00"
+  },
+  {
+    "name": "北京京云(上海)律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:05:20.177+08:00"
+  },
+  {
+    "name": "上海钦合律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:05:20.228+08:00"
+  },
+  {
+    "name": "上海恒建律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:05:20.267+08:00"
+  },
+  {
+    "name": "明法律师团队",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-04T08:05:23.510+08:00"
   }
 ]
