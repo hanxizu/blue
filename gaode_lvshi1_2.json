@@ -35728,5 +35728,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T12:22:30.856+08:00"
+  },
+  {
+    "name": "安徽行君律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:22:31.053+08:00"
+  },
+  {
+    "name": "法律咨询",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:22:33.561+08:00"
+  },
+  {
+    "name": "安徽行君律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:22:33.593+08:00"
+  },
+  {
+    "name": "律科法律服务",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T12:22:33.630+08:00"
+  },
+  {
+    "name": "法律咨询",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:22:37.812+08:00"
   }
 ]
