@@ -18709,5 +18709,23 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-04T15:10:11.658+08:00"
+  },
+  {
+    "name": "河北博尚律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T15:10:11.845+08:00"
+  },
+  {
+    "name": "北京市金台(石家庄)律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T15:10:15.188+08:00"
   }
 ]
