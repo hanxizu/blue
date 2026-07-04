@@ -35944,5 +35944,32 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T14:02:00.952+08:00"
+  },
+  {
+    "name": "福建华睦律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:02:01.168+08:00"
+  },
+  {
+    "name": "星唐律师事务所(福州总部)",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T14:02:01.200+08:00"
+  },
+  {
+    "name": "执旌律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:02:04.695+08:00"
   }
 ]
