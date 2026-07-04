@@ -54187,5 +54187,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:36:11.675+08:00"
+  },
+  {
+    "name": "福建阳大律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:36:11.950+08:00"
+  },
+  {
+    "name": "元律法务",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:36:11.979+08:00"
+  },
+  {
+    "name": "君合法律咨询服务中心",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:36:12.020+08:00"
+  },
+  {
+    "name": "福建道旺律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T14:36:15.380+08:00"
   }
 ]
