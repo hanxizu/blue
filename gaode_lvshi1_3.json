@@ -49930,5 +49930,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:28:51.691+08:00"
+  },
+  {
+    "name": "律的士法律咨询(国贸中心店)",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:28:52.017+08:00"
+  },
+  {
+    "name": "和枫法律",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:52.055+08:00"
+  },
+  {
+    "name": "如皋市胜利法律服务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:52.106+08:00"
+  },
+  {
+    "name": "和枫法律",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:55.191+08:00"
   }
 ]
