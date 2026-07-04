@@ -28555,5 +28555,59 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T12:09:11.378+08:00"
+  },
+  {
+    "name": "江苏中盟律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:09:11.588+08:00"
+  },
+  {
+    "name": "南京胜律法律服务中心",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:09:11.626+08:00"
+  },
+  {
+    "name": "江苏中盟律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:09:14.250+08:00"
+  },
+  {
+    "name": "南京胜律法律服务中心",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:09:14.293+08:00"
+  },
+  {
+    "name": "江苏汪峥律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:09:14.340+08:00"
+  },
+  {
+    "name": "江苏石城律师事务所(鼓楼办公室)",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:09:14.384+08:00"
   }
 ]
