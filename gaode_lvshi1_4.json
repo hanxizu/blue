@@ -17179,5 +17179,68 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-04T15:07:16.323+08:00"
+  },
+  {
+    "name": "江西盛义(南昌)律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T15:07:16.423+08:00"
+  },
+  {
+    "name": "长沙市开福区明晟法律服务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:07:16.451+08:00"
+  },
+  {
+    "name": "江西止讼律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T15:07:18.923+08:00"
+  },
+  {
+    "name": "江西红谷律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:07:18.979+08:00"
+  },
+  {
+    "name": "江西鹏鑫律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:07:19.028+08:00"
+  },
+  {
+    "name": "湖南正龙律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:07:19.089+08:00"
+  },
+  {
+    "name": "江西止讼律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T15:07:22.310+08:00"
   }
 ]
