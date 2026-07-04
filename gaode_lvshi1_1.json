@@ -22444,5 +22444,32 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-04T08:36:14.536+08:00"
+  },
+  {
+    "name": "北京高文(深圳)律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:36:14.676+08:00"
+  },
+  {
+    "name": "广东领策律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:36:14.722+08:00"
+  },
+  {
+    "name": "北京高文(深圳)律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:36:17.581+08:00"
   }
 ]
