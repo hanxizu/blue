@@ -8575,5 +8575,23 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T10:02:52.347+08:00"
+  },
+  {
+    "name": "四川博锐律师事务所",
+    "city": "成都市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T10:02:52.488+08:00"
+  },
+  {
+    "name": "四川成韬律师事务所",
+    "city": "成都市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T10:02:55.492+08:00"
   }
 ]
