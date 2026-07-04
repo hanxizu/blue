@@ -49552,5 +49552,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:28:20.075+08:00"
+  },
+  {
+    "name": "江苏智昇律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:28:20.397+08:00"
+  },
+  {
+    "name": "江苏维业律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:28:20.442+08:00"
+  },
+  {
+    "name": "江苏商言律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:20.491+08:00"
+  },
+  {
+    "name": "江苏商言律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:23.415+08:00"
   }
 ]
