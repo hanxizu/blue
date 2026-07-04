@@ -23146,5 +23146,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:39:53.587+08:00"
+  },
+  {
+    "name": "河南承运律师经纪有限公司",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:39:53.737+08:00"
+  },
+  {
+    "name": "郑州鸿畅法律咨询服务有限公司",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:39:53.768+08:00"
+  },
+  {
+    "name": "河南和之家法律服务有限公司",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:39:53.800+08:00"
+  },
+  {
+    "name": "郑州鸿畅法律咨询服务有限公司",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:39:56.513+08:00"
+  },
+  {
+    "name": "河南和之家法律服务有限公司",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:39:56.565+08:00"
+  },
+  {
+    "name": "河南豫一律师事务所",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:39:56.613+08:00"
   }
 ]
