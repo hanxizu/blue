@@ -54331,5 +54331,32 @@
     "colorPixels": 44,
     "colorRatio": "1.92%",
     "timestamp": "2026-07-04T12:55:52.195+08:00"
+  },
+  {
+    "name": "德平法律咨询(安镇店)",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:55:52.471+08:00"
+  },
+  {
+    "name": "江苏大直(无锡)律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T12:55:52.500+08:00"
+  },
+  {
+    "name": "德平法律咨询(安镇店)",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:55:55.046+08:00"
   }
 ]
