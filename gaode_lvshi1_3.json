@@ -1510,5 +1510,50 @@
     "colorPixels": 85,
     "colorRatio": "3.70%",
     "timestamp": "2026-07-04T13:02:51.642+08:00"
+  },
+  {
+    "name": "福建友法依律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-04T13:02:51.676+08:00"
+  },
+  {
+    "name": "福建友法依律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-04T13:02:54.364+08:00"
+  },
+  {
+    "name": "盈科海丝国际法律服务中心",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:02:54.405+08:00"
+  },
+  {
+    "name": "福建璟一律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:02:54.454+08:00"
+  },
+  {
+    "name": "福建友法依律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-04T13:02:57.016+08:00"
   }
 ]
