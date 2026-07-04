@@ -23821,5 +23821,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T12:00:04.925+08:00"
+  },
+  {
+    "name": "明法法律咨询",
+    "city": "佛山市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:00:07.734+08:00"
+  },
+  {
+    "name": "法和律服务",
+    "city": "佛山市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:00:07.772+08:00"
+  },
+  {
+    "name": "广东集大成(佛山)律师事务所",
+    "city": "佛山市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T12:00:07.804+08:00"
+  },
+  {
+    "name": "广东梵君律师事务所",
+    "city": "佛山市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T12:00:10.285+08:00"
   }
 ]
