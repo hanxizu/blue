@@ -28717,5 +28717,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-04T12:09:28.070+08:00"
+  },
+  {
+    "name": "江苏惠远公盈律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:09:28.322+08:00"
+  },
+  {
+    "name": "上海中联(南京)律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T12:09:28.350+08:00"
+  },
+  {
+    "name": "北京广吉(南京)律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T12:09:28.382+08:00"
+  },
+  {
+    "name": "江苏高瞻律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 122,
+    "colorRatio": "5.32%",
+    "timestamp": "2026-07-04T12:09:31.164+08:00"
   }
 ]
