@@ -45808,5 +45808,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T12:39:24.614+08:00"
+  },
+  {
+    "name": "天津三冠律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:39:24.826+08:00"
+  },
+  {
+    "name": "北京在德律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:39:24.859+08:00"
+  },
+  {
+    "name": "北京在德律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:39:27.540+08:00"
+  },
+  {
+    "name": "天津会通律师事务所 刑事 交通事故 离婚纠纷",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T12:39:27.573+08:00"
+  },
+  {
+    "name": "北京腾宇律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:39:27.606+08:00"
+  },
+  {
+    "name": "天津会通律师事务所 刑事 交通事故 离婚纠纷",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T12:39:30.085+08:00"
   }
 ]
