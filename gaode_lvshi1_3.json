@@ -28528,5 +28528,77 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-04T13:49:19.093+08:00"
+  },
+  {
+    "name": "北京市君致(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:49:19.227+08:00"
+  },
+  {
+    "name": "山东信力源律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:49:19.258+08:00"
+  },
+  {
+    "name": "山东旭冉律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:49:19.291+08:00"
+  },
+  {
+    "name": "北京市君致(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:49:21.887+08:00"
+  },
+  {
+    "name": "山东信力源律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:49:21.918+08:00"
+  },
+  {
+    "name": "山东旭冉律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:49:21.951+08:00"
+  },
+  {
+    "name": "北京市鑫诺(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:49:21.983+08:00"
+  },
+  {
+    "name": "山东旭冉律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:49:24.596+08:00"
   }
 ]
