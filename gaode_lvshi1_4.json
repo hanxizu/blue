@@ -22876,5 +22876,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T15:15:55.269+08:00"
+  },
+  {
+    "name": "石家庄市高邑开诚法律服务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:15:55.385+08:00"
+  },
+  {
+    "name": "河北法诠律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:15:55.462+08:00"
+  },
+  {
+    "name": "石家庄典途法律咨询有限公司",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T15:15:55.503+08:00"
+  },
+  {
+    "name": "河北新雨律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:15:59.292+08:00"
   }
 ]
