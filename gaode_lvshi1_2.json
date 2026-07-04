@@ -50515,5 +50515,23 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-04T12:49:23.660+08:00"
+  },
+  {
+    "name": "江苏王牌律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-04T12:49:24.008+08:00"
+  },
+  {
+    "name": "江苏居和信律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T12:49:27.481+08:00"
   }
 ]
