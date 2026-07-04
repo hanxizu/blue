@@ -61,5 +61,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:39:00.239+08:00"
+  },
+  {
+    "name": "鉴惠法律咨询事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:39:00.276+08:00"
+  },
+  {
+    "name": "正成功律师所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:39:00.309+08:00"
+  },
+  {
+    "name": "万禾法律咨询中心",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:39:00.344+08:00"
+  },
+  {
+    "name": "诚全律师所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:39:00.379+08:00"
+  },
+  {
+    "name": "万禾法律咨询中心",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:39:02.895+08:00"
+  },
+  {
+    "name": "诚全律师所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:39:02.925+08:00"
+  },
+  {
+    "name": "福建允众律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:39:02.957+08:00"
+  },
+  {
+    "name": "富猫法务",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:39:02.987+08:00"
+  },
+  {
+    "name": "福建达业律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:39:03.019+08:00"
+  },
+  {
+    "name": "万禾法律咨询中心",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:39:06.146+08:00"
   }
 ]
