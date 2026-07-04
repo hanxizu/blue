@@ -29437,5 +29437,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T12:10:38.223+08:00"
+  },
+  {
+    "name": "陕西云德(南京)律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T12:10:38.396+08:00"
+  },
+  {
+    "name": "南京市建邺区法律援助中心接待大厅",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:10:38.437+08:00"
+  },
+  {
+    "name": "上海功承瀛泰(南京)律师事务所",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:10:38.523+08:00"
+  },
+  {
+    "name": "京师律师楼",
+    "city": "南京市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:10:42.183+08:00"
   }
 ]
