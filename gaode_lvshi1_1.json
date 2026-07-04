@@ -23407,5 +23407,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T08:37:55.675+08:00"
+  },
+  {
+    "name": "盈科律师团队法律咨询服务中心(深圳)",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T08:37:55.837+08:00"
+  },
+  {
+    "name": "广东钦典律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:37:55.879+08:00"
+  },
+  {
+    "name": "广东鼎文律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:37:59.521+08:00"
   }
 ]
