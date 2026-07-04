@@ -47365,5 +47365,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:23:40.070+08:00"
+  },
+  {
+    "name": "江苏天刚律师事务所",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T14:23:40.298+08:00"
+  },
+  {
+    "name": "众享法律服务",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:23:40.329+08:00"
+  },
+  {
+    "name": "金赋财务法律咨询",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:23:40.361+08:00"
+  },
+  {
+    "name": "江苏能英律师事务所",
+    "city": "常州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:23:43.351+08:00"
   }
 ]
