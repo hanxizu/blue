@@ -46834,5 +46834,32 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T12:41:11.793+08:00"
+  },
+  {
+    "name": "天津坚观律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T12:41:12.051+08:00"
+  },
+  {
+    "name": "天津乐米律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:41:12.115+08:00"
+  },
+  {
+    "name": "华盛法律服务中心",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:41:15.145+08:00"
   }
 ]
