@@ -36916,5 +36916,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T12:24:13.812+08:00"
+  },
+  {
+    "name": "安徽皖辉律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:24:14.041+08:00"
+  },
+  {
+    "name": "安徽皓歌法律咨询服务",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:24:14.139+08:00"
+  },
+  {
+    "name": "安徽律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:24:14.207+08:00"
+  },
+  {
+    "name": "法律服务",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:24:17.301+08:00"
   }
 ]
