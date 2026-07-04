@@ -12814,5 +12814,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T13:20:52.749+08:00"
+  },
+  {
+    "name": "湖南二十一世纪律师事务所(长沙店)",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T13:20:52.861+08:00"
+  },
+  {
+    "name": "北京盈科(杭州)律师事务所",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T13:20:52.892+08:00"
+  },
+  {
+    "name": "广东法制盛邦律师事务所广州总部",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:20:52.922+08:00"
+  },
+  {
+    "name": "湖南二十一世纪律师事务所(长沙店)",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T13:20:55.860+08:00"
   }
 ]
