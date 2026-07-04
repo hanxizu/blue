@@ -15703,5 +15703,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T15:05:08.769+08:00"
+  },
+  {
+    "name": "江西赣法律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T15:05:08.875+08:00"
+  },
+  {
+    "name": "江西赣法律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T15:05:11.282+08:00"
+  },
+  {
+    "name": "江西林涛律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:05:11.318+08:00"
+  },
+  {
+    "name": "江西锦昌律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:05:11.383+08:00"
+  },
+  {
+    "name": "江西林涛律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:05:14.388+08:00"
   }
 ]
