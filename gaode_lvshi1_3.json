@@ -40039,5 +40039,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:09:12.513+08:00"
+  },
+  {
+    "name": "浙江聚祺律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T14:09:15.068+08:00"
+  },
+  {
+    "name": "温州市法律援助中心",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:09:15.101+08:00"
+  },
+  {
+    "name": "北京庭冠法律咨询事务所(温州分所)",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:09:15.131+08:00"
+  },
+  {
+    "name": "文成县鹤城法律服务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:09:15.175+08:00"
+  },
+  {
+    "name": "浙江聚祺律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T14:09:18.079+08:00"
   }
 ]
