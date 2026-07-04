@@ -17863,5 +17863,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T15:08:10.220+08:00"
+  },
+  {
+    "name": "上海建纬律师事务所(合肥)",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T15:08:10.321+08:00"
+  },
+  {
+    "name": "上海汉盛(杭州)律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T15:08:10.352+08:00"
+  },
+  {
+    "name": "杭州市法律援助中心",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:08:10.383+08:00"
+  },
+  {
+    "name": "杭州市法律援助中心",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:08:13.155+08:00"
+  },
+  {
+    "name": "东鸿律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:08:13.219+08:00"
   }
 ]
