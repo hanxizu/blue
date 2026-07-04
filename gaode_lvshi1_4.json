@@ -20851,5 +20851,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T15:13:23.402+08:00"
+  },
+  {
+    "name": "北京市百瑞(石家庄)律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:13:23.545+08:00"
+  },
+  {
+    "name": "同舟法律服务",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:13:23.630+08:00"
+  },
+  {
+    "name": "北京中银(石家庄)律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T15:13:23.686+08:00"
+  },
+  {
+    "name": "蜗牛法律咨询",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:13:26.733+08:00"
   }
 ]
