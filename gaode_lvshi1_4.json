@@ -18979,5 +18979,77 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-04T15:10:46.266+08:00"
+  },
+  {
+    "name": "北京乾成(石家庄)律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T15:10:46.359+08:00"
+  },
+  {
+    "name": "河北中竞石成律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:10:46.395+08:00"
+  },
+  {
+    "name": "河北典民律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:10:46.442+08:00"
+  },
+  {
+    "name": "河北典民律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:10:49.203+08:00"
+  },
+  {
+    "name": "北京嘉润(石家庄)律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T15:10:49.230+08:00"
+  },
+  {
+    "name": "河北创茂律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:10:49.281+08:00"
+  },
+  {
+    "name": "河北勤邦律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:10:49.310+08:00"
+  },
+  {
+    "name": "河北创茂律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:10:52.275+08:00"
   }
 ]
