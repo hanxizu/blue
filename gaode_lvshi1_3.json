@@ -32227,5 +32227,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:55:14.801+08:00"
+  },
+  {
+    "name": "山东圆梦律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:55:15.038+08:00"
+  },
+  {
+    "name": "律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:55:15.070+08:00"
+  },
+  {
+    "name": "济南冠博法律服务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:55:15.100+08:00"
+  },
+  {
+    "name": "伟民法律咨询",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:55:15.131+08:00"
+  },
+  {
+    "name": "山东颈胜律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:55:18.334+08:00"
   }
 ]
