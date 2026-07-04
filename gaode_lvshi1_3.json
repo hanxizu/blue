@@ -37582,5 +37582,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:04:08.789+08:00"
+  },
+  {
+    "name": "福建伟峰律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:04:08.949+08:00"
+  },
+  {
+    "name": "恩德律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:04:08.981+08:00"
+  },
+  {
+    "name": "公共法律服务窗口",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:04:09.014+08:00"
+  },
+  {
+    "name": "福建伟峰律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:04:11.398+08:00"
+  },
+  {
+    "name": "恩德律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:04:11.435+08:00"
+  },
+  {
+    "name": "公共法律服务窗口",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:04:11.467+08:00"
+  },
+  {
+    "name": "福建建达(马尾)律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T14:04:11.498+08:00"
+  },
+  {
+    "name": "福建伟峰律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:04:14.513+08:00"
   }
 ]
