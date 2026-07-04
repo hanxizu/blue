@@ -28393,5 +28393,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T08:46:26.422+08:00"
+  },
+  {
+    "name": "大华律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:46:26.598+08:00"
+  },
+  {
+    "name": "深圳卓安律师事务所(刑事律师)",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T08:46:26.707+08:00"
+  },
+  {
+    "name": "深圳卓安律师事务所(刑事律师)",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T08:46:29.300+08:00"
+  },
+  {
+    "name": "广东卓建律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T08:46:29.333+08:00"
+  },
+  {
+    "name": "中国法援网络集团有限公司",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T08:46:29.363+08:00"
+  },
+  {
+    "name": "广东卓建律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T08:46:32.628+08:00"
   }
 ]
