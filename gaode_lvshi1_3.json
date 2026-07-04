@@ -19609,5 +19609,41 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-04T13:32:18.358+08:00"
+  },
+  {
+    "name": "青岛西海岸汇师法律服务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:32:18.476+08:00"
+  },
+  {
+    "name": "万利律师(万福花园三期店)",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:32:18.514+08:00"
+  },
+  {
+    "name": "莱西昌诚法律服务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:32:18.546+08:00"
+  },
+  {
+    "name": "天鼎云律法律咨询(胶南店)",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T13:32:21.576+08:00"
   }
 ]
