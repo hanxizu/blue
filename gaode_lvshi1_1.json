@@ -39472,5 +39472,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T09:09:08.816+08:00"
+  },
+  {
+    "name": "广东智谷律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T09:09:09.053+08:00"
+  },
+  {
+    "name": "广东粤高律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:09:09.085+08:00"
+  },
+  {
+    "name": "恒都律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:09:09.112+08:00"
+  },
+  {
+    "name": "广东粤高律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:09:11.568+08:00"
+  },
+  {
+    "name": "恒都律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:09:11.606+08:00"
+  },
+  {
+    "name": "科律无界·广东仁礼律师事务所·婚姻·继承·刑事法律咨询(广州)",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T09:09:11.638+08:00"
+  },
+  {
+    "name": "科律无界·广东仁礼律师事务所·婚姻·继承·刑事法律咨询(广州)",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T09:09:14.292+08:00"
   }
 ]
