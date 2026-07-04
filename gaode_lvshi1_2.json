@@ -49066,5 +49066,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T12:46:43.764+08:00"
+  },
+  {
+    "name": "金仕达法律咨询",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:46:44.072+08:00"
+  },
+  {
+    "name": "众安法律(天景佳苑店)",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:46:44.156+08:00"
+  },
+  {
+    "name": "甬企维权会客厅",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:46:44.201+08:00"
+  },
+  {
+    "name": "福建闽辰律师事务所",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:46:47.207+08:00"
   }
 ]
