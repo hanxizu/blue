@@ -14650,5 +14650,23 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-04T08:21:11.814+08:00"
+  },
+  {
+    "name": "广东双子律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T08:21:11.929+08:00"
+  },
+  {
+    "name": "诚煊城律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:21:15.291+08:00"
   }
 ]
