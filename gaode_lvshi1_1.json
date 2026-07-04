@@ -19159,5 +19159,59 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-04T08:30:19.103+08:00"
+  },
+  {
+    "name": "广东广泰(宝安)律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T08:30:19.228+08:00"
+  },
+  {
+    "name": "财捷永道·财税咨询·税务合规·公司注册",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T08:30:19.261+08:00"
+  },
+  {
+    "name": "财捷永道·财税咨询·税务合规·公司注册",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T08:30:21.751+08:00"
+  },
+  {
+    "name": "广东法迈(福田)律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:30:21.783+08:00"
+  },
+  {
+    "name": "广东广驰律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:30:21.814+08:00"
+  },
+  {
+    "name": "广东法迈(福田)律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:30:24.693+08:00"
   }
 ]
