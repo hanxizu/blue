@@ -1321,5 +1321,23 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-04T13:02:04.159+08:00"
+  },
+  {
+    "name": "法日升法律事务中心(律师服务)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T13:02:04.200+08:00"
+  },
+  {
+    "name": "信华律政法律事务中心(集美区事务所)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T13:02:08.135+08:00"
   }
 ]
