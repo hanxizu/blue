@@ -44773,5 +44773,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:18:27.392+08:00"
+  },
+  {
+    "name": "广东德纳(福田)律师事务所(皇庭办公点)",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:18:27.617+08:00"
+  },
+  {
+    "name": "浙江浙平律师事务所",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T14:18:27.647+08:00"
+  },
+  {
+    "name": "湖北维思德律师事务所(襄阳)",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T14:18:27.678+08:00"
+  },
+  {
+    "name": "广东德纳(福田)律师事务所(皇庭办公点)",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:18:30.124+08:00"
+  },
+  {
+    "name": "浙江浙平律师事务所",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T14:18:30.158+08:00"
+  },
+  {
+    "name": "湖北维思德律师事务所(襄阳)",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T14:18:30.190+08:00"
+  },
+  {
+    "name": "湖北联帮律师事务所",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:18:30.221+08:00"
+  },
+  {
+    "name": "浙江浙平律师事务所",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T14:18:33.189+08:00"
   }
 ]
