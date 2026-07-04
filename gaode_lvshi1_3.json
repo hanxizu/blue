@@ -4759,5 +4759,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T13:07:25.302+08:00"
+  },
+  {
+    "name": "福建乾晨律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:07:25.388+08:00"
+  },
+  {
+    "name": "方与圆律师事务所(翔安分所)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:07:25.420+08:00"
+  },
+  {
+    "name": "厦门市唯典法律服务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:07:25.455+08:00"
+  },
+  {
+    "name": "正帮法律",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:07:25.484+08:00"
+  },
+  {
+    "name": "福建初道律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:07:28.470+08:00"
   }
 ]
