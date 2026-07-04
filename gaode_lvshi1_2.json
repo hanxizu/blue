@@ -13255,5 +13255,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T11:39:45.966+08:00"
+  },
+  {
+    "name": "重庆恩特律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:39:46.038+08:00"
+  },
+  {
+    "name": "重庆南乡子律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:39:46.067+08:00"
+  },
+  {
+    "name": "重庆渝正律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:39:46.113+08:00"
+  },
+  {
+    "name": "重庆法天下法律咨询有限公司",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T11:39:46.141+08:00"
+  },
+  {
+    "name": "金蚂蚁法律咨询服务",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:39:49.126+08:00"
   }
 ]
