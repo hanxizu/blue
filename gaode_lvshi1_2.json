@@ -4822,5 +4822,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T11:24:37.700+08:00"
+  },
+  {
+    "name": "易诚法律事务所(三桥店)",
+    "city": "西安市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 90,
+    "colorRatio": "3.92%",
+    "timestamp": "2026-07-04T11:24:37.762+08:00"
+  },
+  {
+    "name": "华尧(西安)律师事务所",
+    "city": "西安市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:24:37.793+08:00"
+  },
+  {
+    "name": "西安法德法律服务",
+    "city": "西安市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:24:37.824+08:00"
+  },
+  {
+    "name": "致晟法律咨询",
+    "city": "西安市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:24:41.188+08:00"
   }
 ]
