@@ -51190,5 +51190,68 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-04T14:30:35.617+08:00"
+  },
+  {
+    "name": "城东立发法律服务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:30:35.865+08:00"
+  },
+  {
+    "name": "江苏李华律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T14:30:35.900+08:00"
+  },
+  {
+    "name": "纠纷找律师",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:30:38.215+08:00"
+  },
+  {
+    "name": "泰州市立权法律咨询有限公司(海安分公司)",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:30:38.256+08:00"
+  },
+  {
+    "name": "石卡律师咨询",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:30:38.287+08:00"
+  },
+  {
+    "name": "冠文律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:30:38.331+08:00"
+  },
+  {
+    "name": "纠纷找律师",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:30:41.348+08:00"
   }
 ]
