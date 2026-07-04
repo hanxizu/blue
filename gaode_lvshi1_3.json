@@ -21121,5 +21121,50 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T13:36:23.906+08:00"
+  },
+  {
+    "name": "河南中豫律师事务所",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:36:24.044+08:00"
+  },
+  {
+    "name": "河南春秋律师事务所",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:36:24.073+08:00"
+  },
+  {
+    "name": "北京高勤(郑州)律师事务所",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:36:24.108+08:00"
+  },
+  {
+    "name": "佳鑫律师团队法律咨询中心",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:36:24.159+08:00"
+  },
+  {
+    "name": "北京高勤(郑州)律师事务所",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:36:27.257+08:00"
   }
 ]
