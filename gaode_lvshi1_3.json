@@ -5029,5 +5029,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T13:07:46.365+08:00"
+  },
+  {
+    "name": "福建雍华律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:07:46.471+08:00"
+  },
+  {
+    "name": "福建同集律师事务所(翔安)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:07:46.547+08:00"
+  },
+  {
+    "name": "名扬法律服务中心",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:07:46.634+08:00"
+  },
+  {
+    "name": "厦门律文法律(厦门总部)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:07:49.960+08:00"
   }
 ]
