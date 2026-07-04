@@ -42460,5 +42460,23 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-04T12:34:09.505+08:00"
+  },
+  {
+    "name": "北京中秉律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-04T12:34:09.695+08:00"
+  },
+  {
+    "name": "北京市中业江川律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T12:34:14.159+08:00"
   }
 ]
