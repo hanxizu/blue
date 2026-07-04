@@ -11779,5 +11779,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:19:26.794+08:00"
+  },
+  {
+    "name": "金蟾法律",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:19:26.906+08:00"
+  },
+  {
+    "name": "湖南为君律师事务所",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:19:26.935+08:00"
+  },
+  {
+    "name": "维毅律师事务所",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:19:26.967+08:00"
+  },
+  {
+    "name": "法律顾问接待室",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:19:30.010+08:00"
   }
 ]
