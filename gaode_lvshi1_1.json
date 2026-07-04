@@ -30499,5 +30499,23 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T08:52:33.518+08:00"
+  },
+  {
+    "name": "广东国穗律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T08:52:33.703+08:00"
+  },
+  {
+    "name": "王律师法律服务团队",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-04T08:52:37.076+08:00"
   }
 ]
