@@ -11338,5 +11338,77 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T08:14:47.188+08:00"
+  },
+  {
+    "name": "上海问讼法律咨询中心(普陀分中心)",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:14:47.277+08:00"
+  },
+  {
+    "name": "远闻(上海)律师事务所-资深律师团队",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:14:47.354+08:00"
+  },
+  {
+    "name": "上海市申房律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:14:47.457+08:00"
+  },
+  {
+    "name": "远闻(上海)律师事务所-资深律师团队",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:14:49.900+08:00"
+  },
+  {
+    "name": "上海市申房律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:14:49.927+08:00"
+  },
+  {
+    "name": "上海旁博律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:14:49.955+08:00"
+  },
+  {
+    "name": "上海普若律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:14:49.982+08:00"
+  },
+  {
+    "name": "盈科律师事务所(上海总部)",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T08:14:52.736+08:00"
   }
 ]
