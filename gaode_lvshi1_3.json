@@ -26647,5 +26647,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T13:45:06.046+08:00"
+  },
+  {
+    "name": "北京市中伦文德律师事务所(郑州)",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:45:06.193+08:00"
+  },
+  {
+    "name": "上海汇业(郑州)律师事务所",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:45:06.226+08:00"
+  },
+  {
+    "name": "河南陆达律师事务所",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:45:06.258+08:00"
+  },
+  {
+    "name": "河南英泰律师事务所",
+    "city": "郑州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:45:09.354+08:00"
   }
 ]
