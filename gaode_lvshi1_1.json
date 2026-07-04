@@ -53251,5 +53251,59 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T11:13:12.766+08:00"
+  },
+  {
+    "name": "江西吉泰(吉安县)律师事务所",
+    "city": "武汉市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T11:13:13.001+08:00"
+  },
+  {
+    "name": "安福县铁井法律服务所",
+    "city": "武汉市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:13:13.056+08:00"
+  },
+  {
+    "name": "江西智桥律师事务所",
+    "city": "武汉市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:13:13.089+08:00"
+  },
+  {
+    "name": "吉水县新江法律服务所(滨江国际城店)",
+    "city": "武汉市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:13:13.121+08:00"
+  },
+  {
+    "name": "江西金庐律师事务所",
+    "city": "武汉市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:13:15.900+08:00"
+  },
+  {
+    "name": "江西鸿鸣律师事务所",
+    "city": "武汉市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:13:15.935+08:00"
   }
 ]
