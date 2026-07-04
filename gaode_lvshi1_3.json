@@ -13633,5 +13633,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:23:21.160+08:00"
+  },
+  {
+    "name": "上海市海华永泰(青岛)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:23:21.275+08:00"
+  },
+  {
+    "name": "青岛华盛法律咨询服务有限公司",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T13:23:21.309+08:00"
+  },
+  {
+    "name": "上海市海华永泰(青岛)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:23:24.006+08:00"
+  },
+  {
+    "name": "青岛华盛法律咨询服务有限公司",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T13:23:24.044+08:00"
+  },
+  {
+    "name": "山东华政(西海岸)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T13:23:24.090+08:00"
+  },
+  {
+    "name": "山东岛城(城阳)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T13:23:26.453+08:00"
   }
 ]
