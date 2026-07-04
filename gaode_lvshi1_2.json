@@ -37699,5 +37699,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T12:25:25.350+08:00"
+  },
+  {
+    "name": "上海小盾律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:25.545+08:00"
+  },
+  {
+    "name": "广东广信君达律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:25:25.617+08:00"
+  },
+  {
+    "name": "安徽国运律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:25.685+08:00"
+  },
+  {
+    "name": "广东广信君达律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:25:28.282+08:00"
+  },
+  {
+    "name": "安徽国运律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:28.321+08:00"
+  },
+  {
+    "name": "安信法律咨询",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:25:28.361+08:00"
   }
 ]
