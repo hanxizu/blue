@@ -30715,5 +30715,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:52:35.690+08:00"
+  },
+  {
+    "name": "北京瀛和(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T13:52:35.872+08:00"
+  },
+  {
+    "name": "泉盈法律服务工作室",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-04T13:52:35.901+08:00"
+  },
+  {
+    "name": "泉盈法律服务工作室",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-04T13:52:38.587+08:00"
+  },
+  {
+    "name": "北京市盈科(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 92,
+    "colorRatio": "4.01%",
+    "timestamp": "2026-07-04T13:52:38.625+08:00"
+  },
+  {
+    "name": "上海拓谱(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:52:38.678+08:00"
+  },
+  {
+    "name": "泉盈法律服务工作室",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 91,
+    "colorRatio": "3.97%",
+    "timestamp": "2026-07-04T13:53:08.322+08:00"
   }
 ]
