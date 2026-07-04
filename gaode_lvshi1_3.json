@@ -16468,5 +16468,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:27:35.241+08:00"
+  },
+  {
+    "name": "山东圣义(青岛)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:27:35.378+08:00"
+  },
+  {
+    "name": "正平法律(延安三路店)",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:27:35.408+08:00"
+  },
+  {
+    "name": "山东胶澳律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:27:35.442+08:00"
+  },
+  {
+    "name": "正平法律(延安三路店)",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:27:38.285+08:00"
   }
 ]
