@@ -14281,5 +14281,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T13:24:18.027+08:00"
+  },
+  {
+    "name": "福建重宇合众(福州)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:24:18.112+08:00"
+  },
+  {
+    "name": "青岛市城阳区法律援助中心(安城路)",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:24:18.148+08:00"
+  },
+  {
+    "name": "山东青凯(胶州)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:24:18.184+08:00"
+  },
+  {
+    "name": "青岛市城阳区法律援助中心(安城路)",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:24:20.820+08:00"
+  },
+  {
+    "name": "山东青凯(胶州)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:24:20.868+08:00"
+  },
+  {
+    "name": "山东云根律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:24:20.918+08:00"
+  },
+  {
+    "name": "法律咨询",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:24:20.965+08:00"
+  },
+  {
+    "name": "山东青凯(胶州)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:24:23.421+08:00"
   }
 ]
