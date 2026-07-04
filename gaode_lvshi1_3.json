@@ -36511,5 +36511,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:02:46.947+08:00"
+  },
+  {
+    "name": "鼓楼区法律援助中心",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:02:47.170+08:00"
+  },
+  {
+    "name": "河南铎钧律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:02:47.207+08:00"
+  },
+  {
+    "name": "河南辰初律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:02:47.239+08:00"
+  },
+  {
+    "name": "河南宙平律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:02:47.269+08:00"
+  },
+  {
+    "name": "河南辰初律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:02:49.914+08:00"
+  },
+  {
+    "name": "河南宙平律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:02:49.944+08:00"
+  },
+  {
+    "name": "福建世礼(福州)律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:02:49.975+08:00"
   }
 ]
