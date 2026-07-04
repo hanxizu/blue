@@ -15442,5 +15442,59 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-04T11:45:01.173+08:00"
+  },
+  {
+    "name": "佛山市法律援助服务大厅",
+    "city": "东莞市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:45:01.248+08:00"
+  },
+  {
+    "name": "广东绿儒律师事务所",
+    "city": "东莞市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:45:01.310+08:00"
+  },
+  {
+    "name": "北京德和衡(广州)律师事务所",
+    "city": "东莞市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T11:45:03.869+08:00"
+  },
+  {
+    "name": "佛山市法律援助服务大厅",
+    "city": "东莞市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:45:03.905+08:00"
+  },
+  {
+    "name": "广东绿儒律师事务所",
+    "city": "东莞市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:45:03.945+08:00"
+  },
+  {
+    "name": "广东睿敏恒律师事务所",
+    "city": "东莞市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T11:45:07.224+08:00"
   }
 ]
