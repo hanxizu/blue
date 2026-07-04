@@ -44566,5 +44566,50 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-04T12:37:21.299+08:00"
+  },
+  {
+    "name": "济南历下尧顺法律服务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:37:23.981+08:00"
+  },
+  {
+    "name": "专业离婚咨询·曹胜才律师团队",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T12:37:24.010+08:00"
+  },
+  {
+    "name": "天津洪允德律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:37:24.044+08:00"
+  },
+  {
+    "name": "北京市隆安律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:37:24.073+08:00"
+  },
+  {
+    "name": "济南历下尧顺法律服务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:37:27.262+08:00"
   }
 ]
