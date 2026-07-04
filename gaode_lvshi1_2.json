@@ -12850,5 +12850,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T11:39:08.531+08:00"
+  },
+  {
+    "name": "重庆先捷律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:39:08.622+08:00"
+  },
+  {
+    "name": "重庆长弘律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:39:08.669+08:00"
+  },
+  {
+    "name": "重庆米阳律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T11:39:08.698+08:00"
+  },
+  {
+    "name": "巴南区石卡法律咨询·刑事·民事·婚姻·交通·劳动",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T11:39:11.910+08:00"
   }
 ]
