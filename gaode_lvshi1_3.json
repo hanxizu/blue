@@ -3823,5 +3823,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:06:17.340+08:00"
+  },
+  {
+    "name": "湖里区法律援助中心",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:06:17.394+08:00"
+  },
+  {
+    "name": "福建明嘉律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:06:17.427+08:00"
+  },
+  {
+    "name": "咏德乐厦门NO.1001(三尺四知风险管理品牌店)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:06:17.460+08:00"
+  },
+  {
+    "name": "福建欧菲亚律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:06:17.498+08:00"
+  },
+  {
+    "name": "福建明嘉律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:06:20.325+08:00"
+  },
+  {
+    "name": "咏德乐厦门NO.1001(三尺四知风险管理品牌店)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:06:20.363+08:00"
   }
 ]
