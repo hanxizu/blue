@@ -36052,5 +36052,50 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T14:02:10.577+08:00"
+  },
+  {
+    "name": "上海劲力(福州)律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T14:02:10.826+08:00"
+  },
+  {
+    "name": "福建针峰律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:02:10.859+08:00"
+  },
+  {
+    "name": "福建崇拓律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:02:10.895+08:00"
+  },
+  {
+    "name": "福建针峰律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:02:13.568+08:00"
+  },
+  {
+    "name": "福建崇拓律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:02:13.598+08:00"
   }
 ]
