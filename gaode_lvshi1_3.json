@@ -17206,5 +17206,68 @@
     "colorPixels": 92,
     "colorRatio": "4.01%",
     "timestamp": "2026-07-04T13:28:38.705+08:00"
+  },
+  {
+    "name": "山东君诚仁和(青岛)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T13:28:38.848+08:00"
+  },
+  {
+    "name": "法律便民",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:28:38.889+08:00"
+  },
+  {
+    "name": "山东君诚仁和(青岛)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 82,
+    "colorRatio": "3.57%",
+    "timestamp": "2026-07-04T13:28:41.575+08:00"
+  },
+  {
+    "name": "法律便民",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:28:41.609+08:00"
+  },
+  {
+    "name": "山东相泰律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:28:41.641+08:00"
+  },
+  {
+    "name": "青岛城阳诚德法律服务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:28:41.675+08:00"
+  },
+  {
+    "name": "法律便民",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:28:44.316+08:00"
   }
 ]
