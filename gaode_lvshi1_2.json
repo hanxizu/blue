@@ -43351,5 +43351,59 @@
     "colorPixels": 123,
     "colorRatio": "5.36%",
     "timestamp": "2026-07-04T12:35:26.015+08:00"
+  },
+  {
+    "name": "天津融汇律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:35:26.203+08:00"
+  },
+  {
+    "name": "天津玺名律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:35:26.236+08:00"
+  },
+  {
+    "name": "融诺律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:35:26.261+08:00"
+  },
+  {
+    "name": "天津行通律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 121,
+    "colorRatio": "5.27%",
+    "timestamp": "2026-07-04T12:35:28.945+08:00"
+  },
+  {
+    "name": "天津卓纳律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 16,
+    "colorRatio": "0.70%",
+    "timestamp": "2026-07-04T12:35:28.974+08:00"
+  },
+  {
+    "name": "天津卓纳律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:35:31.371+08:00"
   }
 ]
