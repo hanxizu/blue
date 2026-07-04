@@ -48310,5 +48310,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T12:45:33.408+08:00"
+  },
+  {
+    "name": "法律服务",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:45:33.693+08:00"
+  },
+  {
+    "name": "北京京师(宁波)律师事务所",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T12:45:33.723+08:00"
+  },
+  {
+    "name": "中汇律师事务所",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:45:33.777+08:00"
+  },
+  {
+    "name": "广东星辰律师事务所",
+    "city": "宁波市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T12:45:36.757+08:00"
   }
 ]
