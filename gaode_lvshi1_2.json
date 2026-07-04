@@ -38698,5 +38698,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T12:26:52.002+08:00"
+  },
+  {
+    "name": "长丰县水湖镇法律服务所(杨公路)",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:26:52.160+08:00"
+  },
+  {
+    "name": "安徽惟泰律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:26:52.188+08:00"
+  },
+  {
+    "name": "安徽庐家律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T12:26:52.214+08:00"
+  },
+  {
+    "name": "安徽惟泰律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:26:54.929+08:00"
+  },
+  {
+    "name": "安徽庐家律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T12:26:54.969+08:00"
+  },
+  {
+    "name": "安徽邵阳律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:26:55.003+08:00"
   }
 ]
