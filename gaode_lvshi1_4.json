@@ -20050,5 +20050,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T15:12:11.216+08:00"
+  },
+  {
+    "name": "石家庄市行唐东兰法律服务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:12:11.312+08:00"
+  },
+  {
+    "name": "藁城区律师行业中心",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:12:11.340+08:00"
+  },
+  {
+    "name": "石家庄诚和法律服务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:12:11.369+08:00"
+  },
+  {
+    "name": "河北锦泽律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-04T15:12:14.332+08:00"
   }
 ]
