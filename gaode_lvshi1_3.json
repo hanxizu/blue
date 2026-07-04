@@ -1816,5 +1816,41 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-04T13:03:23.084+08:00"
+  },
+  {
+    "name": "上海君伦(厦门)律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:03:23.132+08:00"
+  },
+  {
+    "name": "福建厦成律师事务所(湖滨南路店)",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:03:23.194+08:00"
+  },
+  {
+    "name": "福建海广律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:03:23.226+08:00"
+  },
+  {
+    "name": "福建海广律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:03:26.939+08:00"
   }
 ]
