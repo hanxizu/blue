@@ -45511,5 +45511,41 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-04T14:19:27.148+08:00"
+  },
+  {
+    "name": "北京国樽(嘉兴)律师事务所",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T14:19:27.394+08:00"
+  },
+  {
+    "name": "斜桥法律服务所",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:19:27.453+08:00"
+  },
+  {
+    "name": "嘉善新诚法律",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:19:27.496+08:00"
+  },
+  {
+    "name": "秀洲区人民法院诉讼服务中心行政立案窗口",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:19:31.283+08:00"
   }
 ]
