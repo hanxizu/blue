@@ -12337,5 +12337,59 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T11:38:14.144+08:00"
+  },
+  {
+    "name": "重庆雾都律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-04T11:38:14.235+08:00"
+  },
+  {
+    "name": "上海市建纬(重庆)律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T11:38:14.261+08:00"
+  },
+  {
+    "name": "重庆雾都律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 126,
+    "colorRatio": "5.49%",
+    "timestamp": "2026-07-04T11:38:16.988+08:00"
+  },
+  {
+    "name": "上海市建纬(重庆)律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T11:38:17.021+08:00"
+  },
+  {
+    "name": "西部金融法律服务中心",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:38:17.053+08:00"
+  },
+  {
+    "name": "锴隆律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:38:19.496+08:00"
   }
 ]
