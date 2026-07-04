@@ -27088,5 +27088,68 @@
     "colorPixels": 88,
     "colorRatio": "3.83%",
     "timestamp": "2026-07-04T13:47:15.838+08:00"
+  },
+  {
+    "name": "北京观韬(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:47:15.998+08:00"
+  },
+  {
+    "name": "山东宇瀚律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:47:16.031+08:00"
+  },
+  {
+    "name": "山东明豪律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T13:47:18.599+08:00"
+  },
+  {
+    "name": "北京观韬(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:47:18.635+08:00"
+  },
+  {
+    "name": "山东宇瀚律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:47:18.667+08:00"
+  },
+  {
+    "name": "上海汉盛(济南)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:47:18.703+08:00"
+  },
+  {
+    "name": "山东明豪律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T13:47:22.617+08:00"
   }
 ]
