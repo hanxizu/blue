@@ -15802,5 +15802,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:26:40.632+08:00"
+  },
+  {
+    "name": "青岛合胜法律咨询服务有限公司",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:26:40.781+08:00"
+  },
+  {
+    "name": "北京市炜衡(青岛)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:26:40.859+08:00"
+  },
+  {
+    "name": "捷成律师所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:26:44.131+08:00"
   }
 ]
