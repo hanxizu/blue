@@ -44845,5 +44845,68 @@
     "colorPixels": 88,
     "colorRatio": "3.83%",
     "timestamp": "2026-07-04T14:18:33.189+08:00"
+  },
+  {
+    "name": "湖北维思德律师事务所(襄阳)",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T14:18:33.405+08:00"
+  },
+  {
+    "name": "湖北联帮律师事务所",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:18:33.439+08:00"
+  },
+  {
+    "name": "浙江钱潮律所事务所",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:18:33.473+08:00"
+  },
+  {
+    "name": "湖北联帮律师事务所",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:18:35.928+08:00"
+  },
+  {
+    "name": "浙江钱潮律所事务所",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:18:35.960+08:00"
+  },
+  {
+    "name": "天鉴法律咨询服务所",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:18:35.994+08:00"
+  },
+  {
+    "name": "信法服务部",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:18:36.022+08:00"
   }
 ]
