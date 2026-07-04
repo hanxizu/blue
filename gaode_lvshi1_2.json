@@ -13048,5 +13048,32 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T11:39:28.086+08:00"
+  },
+  {
+    "name": "重庆贯恒律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:39:28.189+08:00"
+  },
+  {
+    "name": "重庆通安律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:39:28.232+08:00"
+  },
+  {
+    "name": "惠众律盟重庆婚家师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T11:39:31.525+08:00"
   }
 ]
