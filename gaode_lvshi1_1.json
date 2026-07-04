@@ -6847,5 +6847,23 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T08:08:04.644+08:00"
+  },
+  {
+    "name": "上海伟创律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T08:08:04.743+08:00"
+  },
+  {
+    "name": "上海寅清法律咨询",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:08:08.158+08:00"
   }
 ]
