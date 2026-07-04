@@ -4462,5 +4462,23 @@
     "colorPixels": 125,
     "colorRatio": "5.45%",
     "timestamp": "2026-07-04T08:04:14.869+08:00"
+  },
+  {
+    "name": "上海利伯特律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:04:14.965+08:00"
+  },
+  {
+    "name": "众勋(上海)律师事务所",
+    "city": "上海市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 125,
+    "colorRatio": "5.45%",
+    "timestamp": "2026-07-04T08:04:18.757+08:00"
   }
 ]
