@@ -2023,5 +2023,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T13:03:43.247+08:00"
+  },
+  {
+    "name": "福建安厦律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:03:43.286+08:00"
+  },
+  {
+    "name": "律师工作室",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:03:43.319+08:00"
+  },
+  {
+    "name": "福建凌一律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:03:43.350+08:00"
+  },
+  {
+    "name": "福建凌一律师事务所",
+    "city": "厦门市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:03:46.270+08:00"
   }
 ]
