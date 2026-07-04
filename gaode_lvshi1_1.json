@@ -38428,5 +38428,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T09:07:33.069+08:00"
+  },
+  {
+    "name": "广东法盛律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:07:33.243+08:00"
+  },
+  {
+    "name": "广东明岑律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T09:07:33.303+08:00"
+  },
+  {
+    "name": "广东明岑律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T09:07:35.825+08:00"
+  },
+  {
+    "name": "广东实德律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T09:07:35.864+08:00"
+  },
+  {
+    "name": "广东嘉进律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T09:07:35.900+08:00"
+  },
+  {
+    "name": "北京观韬律师事务所(广州)",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T09:07:39.231+08:00"
   }
 ]
