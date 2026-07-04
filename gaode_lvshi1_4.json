@@ -18367,5 +18367,41 @@
     "colorPixels": 19,
     "colorRatio": "0.83%",
     "timestamp": "2026-07-04T15:08:51.025+08:00"
+  },
+  {
+    "name": "江西秦风(进贤)律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T15:08:51.169+08:00"
+  },
+  {
+    "name": "江西飞鹏律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:08:51.202+08:00"
+  },
+  {
+    "name": "南新乡便民服务中心",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:08:51.233+08:00"
+  },
+  {
+    "name": "江西秦风(安义)律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T15:08:54.308+08:00"
   }
 ]
