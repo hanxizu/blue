@@ -20734,5 +20734,41 @@
     "colorPixels": 18,
     "colorRatio": "0.78%",
     "timestamp": "2026-07-04T08:33:15.523+08:00"
+  },
+  {
+    "name": "广东君享律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 44,
+    "colorRatio": "1.92%",
+    "timestamp": "2026-07-04T08:33:15.654+08:00"
+  },
+  {
+    "name": "北京海润天睿(深圳)律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:33:15.720+08:00"
+  },
+  {
+    "name": "广东跨元律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 16,
+    "colorRatio": "0.70%",
+    "timestamp": "2026-07-04T08:33:15.753+08:00"
+  },
+  {
+    "name": "广东君享律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:33:18.608+08:00"
   }
 ]
