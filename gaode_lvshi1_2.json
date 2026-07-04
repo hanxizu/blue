@@ -45385,5 +45385,50 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-04T12:38:47.079+08:00"
+  },
+  {
+    "name": "天津东昀律师事务所(丰安路)",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:38:49.690+08:00"
+  },
+  {
+    "name": "天津和然律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T12:38:49.722+08:00"
+  },
+  {
+    "name": "天津四恒律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:38:49.754+08:00"
+  },
+  {
+    "name": "信安律师(河北店)",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:38:49.787+08:00"
+  },
+  {
+    "name": "天津和然律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 93,
+    "colorRatio": "4.05%",
+    "timestamp": "2026-07-04T12:38:52.445+08:00"
   }
 ]
