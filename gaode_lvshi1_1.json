@@ -42667,5 +42667,59 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T10:52:50.076+08:00"
+  },
+  {
+    "name": "北京德和衡(杭州)律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T10:52:50.271+08:00"
+  },
+  {
+    "name": "浙江遗嘱库(上城区)",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T10:52:50.299+08:00"
+  },
+  {
+    "name": "浙江遗嘱库(上城区)",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T10:52:52.756+08:00"
+  },
+  {
+    "name": "浙江群恒律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T10:52:52.786+08:00"
+  },
+  {
+    "name": "浙江智仁律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T10:52:52.811+08:00"
+  },
+  {
+    "name": "浙江群恒律师事务所",
+    "city": "杭州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T10:52:55.301+08:00"
   }
 ]
