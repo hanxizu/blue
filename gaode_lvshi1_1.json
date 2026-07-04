@@ -38689,5 +38689,77 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-04T09:07:58.199+08:00"
+  },
+  {
+    "name": "广东东信律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:07:58.467+08:00"
+  },
+  {
+    "name": "广东任高扬律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T09:07:58.528+08:00"
+  },
+  {
+    "name": "广东右太律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:07:58.581+08:00"
+  },
+  {
+    "name": "广东任高扬律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T09:08:01.505+08:00"
+  },
+  {
+    "name": "广东右太律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:08:01.547+08:00"
+  },
+  {
+    "name": "广东德培律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:08:01.634+08:00"
+  },
+  {
+    "name": "北京市万商天勤(广州)律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T09:08:01.669+08:00"
+  },
+  {
+    "name": "广东德培律师事务所",
+    "city": "广州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T09:08:04.137+08:00"
   }
 ]
