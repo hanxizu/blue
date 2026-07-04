@@ -54223,5 +54223,41 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-04T14:36:15.380+08:00"
+  },
+  {
+    "name": "法律咨询",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:36:15.690+08:00"
+  },
+  {
+    "name": "证凯法律服务",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:36:15.764+08:00"
+  },
+  {
+    "name": "天鼎云律师(法律咨询)",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:36:15.802+08:00"
+  },
+  {
+    "name": "证凯法律服务",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:36:18.563+08:00"
   }
 ]
