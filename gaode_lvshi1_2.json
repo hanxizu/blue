@@ -52396,5 +52396,41 @@
     "colorPixels": 82,
     "colorRatio": "3.57%",
     "timestamp": "2026-07-04T12:52:43.630+08:00"
+  },
+  {
+    "name": "安徽康盈律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T12:52:43.911+08:00"
+  },
+  {
+    "name": "安徽康盈律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 87,
+    "colorRatio": "3.79%",
+    "timestamp": "2026-07-04T12:52:46.380+08:00"
+  },
+  {
+    "name": "江苏金乐律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:52:46.415+08:00"
+  },
+  {
+    "name": "江苏巧辩律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:52:48.835+08:00"
   }
 ]
