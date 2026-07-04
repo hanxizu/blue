@@ -17242,5 +17242,68 @@
     "colorPixels": 93,
     "colorRatio": "4.05%",
     "timestamp": "2026-07-04T15:07:22.310+08:00"
+  },
+  {
+    "name": "江西红谷律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:07:22.425+08:00"
+  },
+  {
+    "name": "江西鹏鑫律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:07:22.455+08:00"
+  },
+  {
+    "name": "湖南正龙律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:07:22.483+08:00"
+  },
+  {
+    "name": "江西鹏鑫律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:07:25.235+08:00"
+  },
+  {
+    "name": "湖南正龙律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:07:25.274+08:00"
+  },
+  {
+    "name": "江西赣匠律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:07:25.309+08:00"
+  },
+  {
+    "name": "江西美好家律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T15:07:27.980+08:00"
   }
 ]
