@@ -39769,5 +39769,59 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:08:51.811+08:00"
+  },
+  {
+    "name": "浙江名隽律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:08:52.058+08:00"
+  },
+  {
+    "name": "浙江桓公律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:08:52.109+08:00"
+  },
+  {
+    "name": "律师法律咨询(鑫鸿名苑店)",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:08:52.145+08:00"
+  },
+  {
+    "name": "浙江桓公律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:08:54.748+08:00"
+  },
+  {
+    "name": "律师法律咨询(鑫鸿名苑店)",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:08:54.780+08:00"
+  },
+  {
+    "name": "浙江海昌(文成)律师事务所",
+    "city": "温州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T14:08:54.811+08:00"
   }
 ]
