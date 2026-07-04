@@ -38302,5 +38302,41 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T12:26:18.271+08:00"
+  },
+  {
+    "name": "合肥市盛邦法律咨询服务中心",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T12:26:18.477+08:00"
+  },
+  {
+    "name": "安徽持优律师事务所",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:26:18.513+08:00"
+  },
+  {
+    "name": "法律服务",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:26:18.553+08:00"
+  },
+  {
+    "name": "律科法律服务",
+    "city": "合肥市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T12:26:21.675+08:00"
   }
 ]
