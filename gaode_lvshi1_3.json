@@ -34630,5 +34630,68 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-04T14:00:05.221+08:00"
+  },
+  {
+    "name": "广东鹏正律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T14:00:05.393+08:00"
+  },
+  {
+    "name": "榕友法律咨询有限公司",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:00:05.426+08:00"
+  },
+  {
+    "name": "广东鹏正律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T14:00:07.874+08:00"
+  },
+  {
+    "name": "榕友法律咨询有限公司",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:00:07.933+08:00"
+  },
+  {
+    "name": "福建敦理律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:00:07.988+08:00"
+  },
+  {
+    "name": "福建元景律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:00:08.032+08:00"
+  },
+  {
+    "name": "广东鹏正律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 88,
+    "colorRatio": "3.83%",
+    "timestamp": "2026-07-04T14:00:10.477+08:00"
   }
 ]
