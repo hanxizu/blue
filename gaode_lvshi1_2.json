@@ -12202,5 +12202,59 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T11:37:58.309+08:00"
+  },
+  {
+    "name": "重庆派瑞律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T11:37:58.391+08:00"
+  },
+  {
+    "name": "重庆礼澜律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:37:58.421+08:00"
+  },
+  {
+    "name": "重庆礼澜律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:38:01.044+08:00"
+  },
+  {
+    "name": "重庆宽博律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T11:38:01.077+08:00"
+  },
+  {
+    "name": "重庆罗瑞尔律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:38:01.105+08:00"
+  },
+  {
+    "name": "重庆礼澜律师事务所",
+    "city": "重庆市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T11:38:04.321+08:00"
   }
 ]
