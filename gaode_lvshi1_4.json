@@ -17044,5 +17044,23 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T15:07:01.847+08:00"
+  },
+  {
+    "name": "江西添翼律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:07:02.006+08:00"
+  },
+  {
+    "name": "北京观韬(南昌)律师事务所",
+    "city": "南昌市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:07:05.101+08:00"
   }
 ]
