@@ -20302,5 +20302,68 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T15:12:36.492+08:00"
+  },
+  {
+    "name": "北京市京悦(石家庄)律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:12:36.608+08:00"
+  },
+  {
+    "name": "大众法律顾问团",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T15:12:36.640+08:00"
+  },
+  {
+    "name": "河北劲耀律师事务所(新华法院旁边)",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T15:12:36.675+08:00"
+  },
+  {
+    "name": "河北劲耀律师事务所(新华法院旁边)",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T15:12:39.021+08:00"
+  },
+  {
+    "name": "河北典途律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T15:12:39.052+08:00"
+  },
+  {
+    "name": "河北威仑律师事务所",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T15:12:39.094+08:00"
+  },
+  {
+    "name": "河北劲耀律师事务所(新华法院旁边)",
+    "city": "石家庄市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T15:12:42.082+08:00"
   }
 ]
