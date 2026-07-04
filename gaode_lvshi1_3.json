@@ -45826,5 +45826,23 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:20:03.148+08:00"
+  },
+  {
+    "name": "上海宇钧(嘉兴)律师团队",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 125,
+    "colorRatio": "5.45%",
+    "timestamp": "2026-07-04T14:20:03.364+08:00"
+  },
+  {
+    "name": "嘉兴市浙江南湖律师事务所共享法庭",
+    "city": "嘉兴市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:20:03.397+08:00"
   }
 ]
