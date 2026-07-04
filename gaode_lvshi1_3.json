@@ -29644,5 +29644,41 @@
     "colorPixels": 39,
     "colorRatio": "1.70%",
     "timestamp": "2026-07-04T13:51:10.615+08:00"
+  },
+  {
+    "name": "山东石敢当法律服务有限公司",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:51:10.827+08:00"
+  },
+  {
+    "name": "企盾律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:51:10.945+08:00"
+  },
+  {
+    "name": "山东三公法律服务有限公司",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:51:10.997+08:00"
+  },
+  {
+    "name": "北京两高(杭州)律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T13:51:14.178+08:00"
   }
 ]
