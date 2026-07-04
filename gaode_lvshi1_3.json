@@ -36250,5 +36250,41 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:02:25.882+08:00"
+  },
+  {
+    "name": "福清市法律援助中心驻福清市人民检察院法律援助工作站",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:02:26.107+08:00"
+  },
+  {
+    "name": "首邑法律咨询",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:02:26.139+08:00"
+  },
+  {
+    "name": "北京浩云律师事务所",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:02:26.173+08:00"
+  },
+  {
+    "name": "首邑法律咨询",
+    "city": "福州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:02:28.906+08:00"
   }
 ]
