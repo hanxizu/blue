@@ -17593,5 +17593,59 @@
     "colorPixels": 126,
     "colorRatio": "5.49%",
     "timestamp": "2026-07-04T13:29:17.281+08:00"
+  },
+  {
+    "name": "山东青亚律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:29:17.394+08:00"
+  },
+  {
+    "name": "品源知识产权",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:29:17.422+08:00"
+  },
+  {
+    "name": "山东青亚律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:29:20.038+08:00"
+  },
+  {
+    "name": "品源知识产权",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T13:29:20.083+08:00"
+  },
+  {
+    "name": "青岛城阳环海法律服务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:29:20.145+08:00"
+  },
+  {
+    "name": "山东文鼎(城阳)律师事务所",
+    "city": "青岛市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:29:22.955+08:00"
   }
 ]
