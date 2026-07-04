@@ -54376,5 +54376,68 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T14:36:29.925+08:00"
+  },
+  {
+    "name": "永乾律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:36:30.172+08:00"
+  },
+  {
+    "name": "福建克帕雷律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:36:30.202+08:00"
+  },
+  {
+    "name": "科律无界·福建闽曜律师事务所法律咨询(泉州)",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T14:36:30.234+08:00"
+  },
+  {
+    "name": "福建克帕雷律师事务所",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:36:32.889+08:00"
+  },
+  {
+    "name": "科律无界·福建闽曜律师事务所法律咨询(泉州)",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T14:36:32.928+08:00"
+  },
+  {
+    "name": "晋江一讼法律咨询服务",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:36:32.986+08:00"
+  },
+  {
+    "name": "科律无界·福建闽曜律师事务所法律咨询(泉州)",
+    "city": "泉州市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 39,
+    "colorRatio": "1.70%",
+    "timestamp": "2026-07-04T14:36:35.356+08:00"
   }
 ]
