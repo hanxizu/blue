@@ -51631,5 +51631,50 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:31:10.725+08:00"
+  },
+  {
+    "name": "法律咨询",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:31:10.967+08:00"
+  },
+  {
+    "name": "扶海洲律师楼",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:31:11.005+08:00"
+  },
+  {
+    "name": "南通中昊司法鉴定所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:31:11.038+08:00"
+  },
+  {
+    "name": "南通市通州区公共法律服务中心",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:31:11.074+08:00"
+  },
+  {
+    "name": "南通中昊司法鉴定所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:31:13.852+08:00"
   }
 ]
