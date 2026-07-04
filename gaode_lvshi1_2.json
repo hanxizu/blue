@@ -52801,5 +52801,77 @@
     "colorPixels": 17,
     "colorRatio": "0.74%",
     "timestamp": "2026-07-04T12:53:20.871+08:00"
+  },
+  {
+    "name": "北京德和衡(无锡)律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T12:53:21.133+08:00"
+  },
+  {
+    "name": "江苏格行律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T12:53:21.166+08:00"
+  },
+  {
+    "name": "无锡市邦盾法律服务有限公司",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:53:21.198+08:00"
+  },
+  {
+    "name": "江苏立泰律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:53:21.233+08:00"
+  },
+  {
+    "name": "无锡市邦盾法律服务有限公司",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:53:23.818+08:00"
+  },
+  {
+    "name": "江苏立泰律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:53:23.850+08:00"
+  },
+  {
+    "name": "无锡律途法律咨询",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:53:23.884+08:00"
+  },
+  {
+    "name": "江苏立泰律师事务所",
+    "city": "无锡市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:53:26.391+08:00"
   }
 ]
