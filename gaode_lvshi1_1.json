@@ -23740,5 +23740,59 @@
     "colorPixels": 87,
     "colorRatio": "3.79%",
     "timestamp": "2026-07-04T08:38:33.226+08:00"
+  },
+  {
+    "name": "广东鼎亨律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 104,
+    "colorRatio": "4.53%",
+    "timestamp": "2026-07-04T08:38:33.411+08:00"
+  },
+  {
+    "name": "广东深大地律师事务所(笋岗东路)",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:38:33.455+08:00"
+  },
+  {
+    "name": "广东深大地律师事务所(笋岗东路)",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T08:38:35.917+08:00"
+  },
+  {
+    "name": "广东泰济东律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:38:35.947+08:00"
+  },
+  {
+    "name": "广东广和(罗湖)律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T08:38:35.977+08:00"
+  },
+  {
+    "name": "广东泰济东律师事务所",
+    "city": "深圳市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T08:38:38.444+08:00"
   }
 ]
