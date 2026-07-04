@@ -33100,5 +33100,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:56:24.912+08:00"
+  },
+  {
+    "name": "济阳理想法律服务所(龙海路店)",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:56:25.107+08:00"
+  },
+  {
+    "name": "山东洞察律师事务所",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:56:25.136+08:00"
+  },
+  {
+    "name": "章丘三剑法律事务中心",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:56:25.164+08:00"
+  },
+  {
+    "name": "绪才律师",
+    "city": "济南市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:56:28.385+08:00"
   }
 ]
