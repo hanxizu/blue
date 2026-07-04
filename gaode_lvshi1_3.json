@@ -49507,5 +49507,32 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:28:14.051+08:00"
+  },
+  {
+    "name": "江苏炜道律师事务所",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:16.812+08:00"
+  },
+  {
+    "name": "云诚法律服务",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:28:16.846+08:00"
+  },
+  {
+    "name": "通州律师免费咨询",
+    "city": "南通市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:28:16.889+08:00"
   }
 ]
