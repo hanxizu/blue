@@ -41785,5 +41785,59 @@
     "colorPixels": 40,
     "colorRatio": "1.74%",
     "timestamp": "2026-07-04T12:33:00.243+08:00"
+  },
+  {
+    "name": "北京大成(天津)律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:33:00.494+08:00"
+  },
+  {
+    "name": "北京两高(天津)律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-04T12:33:00.565+08:00"
+  },
+  {
+    "name": "北京大成(天津)律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:33:03.108+08:00"
+  },
+  {
+    "name": "北京两高(天津)律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 85,
+    "colorRatio": "3.70%",
+    "timestamp": "2026-07-04T12:33:03.144+08:00"
+  },
+  {
+    "name": "专业离婚咨询·家理团队·离婚财产分割",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 123,
+    "colorRatio": "5.36%",
+    "timestamp": "2026-07-04T12:33:03.174+08:00"
+  },
+  {
+    "name": "天津君恒律师事务所",
+    "city": "天津市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T12:33:06.464+08:00"
   }
 ]
