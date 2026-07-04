@@ -12319,5 +12319,41 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T13:20:09.413+08:00"
+  },
+  {
+    "name": "湖南财瑞律师事务所",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 40,
+    "colorRatio": "1.74%",
+    "timestamp": "2026-07-04T13:20:09.559+08:00"
+  },
+  {
+    "name": "广东天地正(长沙)律师事务所",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T13:20:09.592+08:00"
+  },
+  {
+    "name": "湖南工总律师事务所",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:20:09.624+08:00"
+  },
+  {
+    "name": "宁乡市正兴法律服务所",
+    "city": "长沙市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T13:20:12.910+08:00"
   }
 ]
