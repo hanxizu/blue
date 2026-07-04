@@ -4363,5 +4363,95 @@
     "colorPixels": 0,
     "colorRatio": "0.00%",
     "timestamp": "2026-07-04T14:45:56.922+08:00"
+  },
+  {
+    "name": "北京市华泰(大连)律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 19,
+    "colorRatio": "0.83%",
+    "timestamp": "2026-07-04T14:45:56.990+08:00"
+  },
+  {
+    "name": "河南兴言律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:57.019+08:00"
+  },
+  {
+    "name": "河南腾云法律服务事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:57.048+08:00"
+  },
+  {
+    "name": "河南宙平律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:45:57.077+08:00"
+  },
+  {
+    "name": "河南兴言律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:59.699+08:00"
+  },
+  {
+    "name": "河南腾云法律服务事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:59.728+08:00"
+  },
+  {
+    "name": "河南宙平律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:45:59.754+08:00"
+  },
+  {
+    "name": "辽宁会语律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:45:59.780+08:00"
+  },
+  {
+    "name": "辽宁挚爱律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "非VIP",
+    "colorPixels": 0,
+    "colorRatio": "0.00%",
+    "timestamp": "2026-07-04T14:45:59.806+08:00"
+  },
+  {
+    "name": "河南宙平律师事务所",
+    "city": "大连市",
+    "keyword": "律师",
+    "type": "VIP",
+    "colorPixels": 17,
+    "colorRatio": "0.74%",
+    "timestamp": "2026-07-04T14:46:02.346+08:00"
   }
 ]
